@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: ea1d5438d97dbd04aa7f531307d82bba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3011202463550804768
+    second: ShieldBlockMid_Shadowless_0
+  - first:
+      213: 3614395876381534547
+    second: ShieldBlockMid_Shadowless_1
+  - first:
+      213: -4312544504154911598
+    second: ShieldBlockMid_Shadowless_2
+  - first:
+      213: 3476777773838819546
+    second: ShieldBlockMid_Shadowless_3
+  - first:
+      213: -9204679776019143283
+    second: ShieldBlockMid_Shadowless_4
+  - first:
+      213: 660989390477943877
+    second: ShieldBlockMid_Shadowless_5
+  - first:
+      213: 2901022887426022868
+    second: ShieldBlockMid_Shadowless_6
+  - first:
+      213: -8257601270566217865
+    second: ShieldBlockMid_Shadowless_7
+  - first:
+      213: -8085004141453032058
+    second: ShieldBlockMid_Shadowless_8
+  - first:
+      213: 2062740835004777641
+    second: ShieldBlockMid_Shadowless_9
+  - first:
+      213: 583454112439101768
+    second: ShieldBlockMid_Shadowless_10
+  - first:
+      213: 8759770119064343958
+    second: ShieldBlockMid_Shadowless_11
+  - first:
+      213: 4257769793229665965
+    second: ShieldBlockMid_Shadowless_12
+  - first:
+      213: 2093899073451982483
+    second: ShieldBlockMid_Shadowless_13
+  - first:
+      213: -7732605297099757919
+    second: ShieldBlockMid_Shadowless_14
+  - first:
+      213: 4227947386419838867
+    second: ShieldBlockMid_Shadowless_15
+  - first:
+      213: 2768004526422435618
+    second: ShieldBlockMid_Shadowless_16
+  - first:
+      213: 598493142417768960
+    second: ShieldBlockMid_Shadowless_17
+  - first:
+      213: -7242594985944311258
+    second: ShieldBlockMid_Shadowless_18
+  - first:
+      213: -8641963754238049905
+    second: ShieldBlockMid_Shadowless_19
+  - first:
+      213: 1261640085860951521
+    second: ShieldBlockMid_Shadowless_20
+  - first:
+      213: -5604270886446134293
+    second: ShieldBlockMid_Shadowless_21
+  - first:
+      213: -4170095839119030475
+    second: ShieldBlockMid_Shadowless_22
+  - first:
+      213: -7752821394475150000
+    second: ShieldBlockMid_Shadowless_23
+  - first:
+      213: 4469157892574363191
+    second: ShieldBlockMid_Shadowless_24
+  - first:
+      213: 70720651002808447
+    second: ShieldBlockMid_Shadowless_25
+  - first:
+      213: 6661039345177423362
+    second: ShieldBlockMid_Shadowless_26
+  - first:
+      213: -8164141918624340063
+    second: ShieldBlockMid_Shadowless_27
+  - first:
+      213: 1017451353862459428
+    second: ShieldBlockMid_Shadowless_28
+  - first:
+      213: -621160324925782099
+    second: ShieldBlockMid_Shadowless_29
+  - first:
+      213: -8907258043883405668
+    second: ShieldBlockMid_Shadowless_30
+  - first:
+      213: 2031805128775757146
+    second: ShieldBlockMid_Shadowless_31
+  - first:
+      213: 3608838286417487992
+    second: ShieldBlockMid_Shadowless_32
+  - first:
+      213: -75973281195957
+    second: ShieldBlockMid_Shadowless_33
+  - first:
+      213: 8924482715742485914
+    second: ShieldBlockMid_Shadowless_34
+  - first:
+      213: -8898521562766048426
+    second: ShieldBlockMid_Shadowless_35
+  - first:
+      213: -6907750872005641680
+    second: ShieldBlockMid_Shadowless_36
+  - first:
+      213: 573895358128575038
+    second: ShieldBlockMid_Shadowless_37
+  - first:
+      213: 5642484121944057484
+    second: ShieldBlockMid_Shadowless_38
+  - first:
+      213: -887460631673028008
+    second: ShieldBlockMid_Shadowless_39
+  - first:
+      213: 988604748113289878
+    second: ShieldBlockMid_Shadowless_40
+  - first:
+      213: -3038811245401322491
+    second: ShieldBlockMid_Shadowless_41
+  - first:
+      213: -8833301785860723819
+    second: ShieldBlockMid_Shadowless_42
+  - first:
+      213: -8098479444747991641
+    second: ShieldBlockMid_Shadowless_43
+  - first:
+      213: 3944327741065020061
+    second: ShieldBlockMid_Shadowless_44
+  - first:
+      213: 58712502598966950
+    second: ShieldBlockMid_Shadowless_45
+  - first:
+      213: -8113623822372541947
+    second: ShieldBlockMid_Shadowless_46
+  - first:
+      213: -8547701263170226434
+    second: ShieldBlockMid_Shadowless_47
+  - first:
+      213: 4372049153801068145
+    second: ShieldBlockMid_Shadowless_48
+  - first:
+      213: -5597848466051533700
+    second: ShieldBlockMid_Shadowless_49
+  - first:
+      213: -3878474660651678041
+    second: ShieldBlockMid_Shadowless_50
+  - first:
+      213: -6603570024061344404
+    second: ShieldBlockMid_Shadowless_51
+  - first:
+      213: -6904188485771268335
+    second: ShieldBlockMid_Shadowless_52
+  - first:
+      213: 2948792061009219794
+    second: ShieldBlockMid_Shadowless_53
+  - first:
+      213: 3308199743926466852
+    second: ShieldBlockMid_Shadowless_54
+  - first:
+      213: -6712260372689419634
+    second: ShieldBlockMid_Shadowless_55
+  - first:
+      213: 8260535737577226220
+    second: ShieldBlockMid_Shadowless_56
+  - first:
+      213: 5397770456724478788
+    second: ShieldBlockMid_Shadowless_57
+  - first:
+      213: -3815348814489813038
+    second: ShieldBlockMid_Shadowless_58
+  - first:
+      213: 7993407741304257657
+    second: ShieldBlockMid_Shadowless_59
+  - first:
+      213: -5047322813442815293
+    second: ShieldBlockMid_Shadowless_60
+  - first:
+      213: 5555442503273336508
+    second: ShieldBlockMid_Shadowless_61
+  - first:
+      213: 8114566921029378340
+    second: ShieldBlockMid_Shadowless_62
+  - first:
+      213: 6720793240317891483
+    second: ShieldBlockMid_Shadowless_63
+  - first:
+      213: -5366446454899963592
+    second: ShieldBlockMid_Shadowless_64
+  - first:
+      213: 1912182689432981168
+    second: ShieldBlockMid_Shadowless_65
+  - first:
+      213: 8158032045066822409
+    second: ShieldBlockMid_Shadowless_66
+  - first:
+      213: 6683495762491572934
+    second: ShieldBlockMid_Shadowless_67
+  - first:
+      213: -4661870353972434594
+    second: ShieldBlockMid_Shadowless_68
+  - first:
+      213: 5435704247453587097
+    second: ShieldBlockMid_Shadowless_69
+  - first:
+      213: 5838743185461968542
+    second: ShieldBlockMid_Shadowless_70
+  - first:
+      213: 8486050248038940426
+    second: ShieldBlockMid_Shadowless_71
+  - first:
+      213: 2524065957268422653
+    second: ShieldBlockMid_Shadowless_72
+  - first:
+      213: 913162177655150917
+    second: ShieldBlockMid_Shadowless_73
+  - first:
+      213: 5634581140982827609
+    second: ShieldBlockMid_Shadowless_74
+  - first:
+      213: -6019943657285059364
+    second: ShieldBlockMid_Shadowless_75
+  - first:
+      213: 3665625647168152901
+    second: ShieldBlockMid_Shadowless_76
+  - first:
+      213: 9092548124696499421
+    second: ShieldBlockMid_Shadowless_77
+  - first:
+      213: 5264608743430751212
+    second: ShieldBlockMid_Shadowless_78
+  - first:
+      213: 5572294638316172636
+    second: ShieldBlockMid_Shadowless_79
+  - first:
+      213: 29197812574884982
+    second: ShieldBlockMid_Shadowless_80
+  - first:
+      213: 6237932954266190184
+    second: ShieldBlockMid_Shadowless_81
+  - first:
+      213: -8457048126980775436
+    second: ShieldBlockMid_Shadowless_82
+  - first:
+      213: -3600057512590307277
+    second: ShieldBlockMid_Shadowless_83
+  - first:
+      213: 9037355139120129536
+    second: ShieldBlockMid_Shadowless_84
+  - first:
+      213: 7079169277147233374
+    second: ShieldBlockMid_Shadowless_85
+  - first:
+      213: -6165714950474840863
+    second: ShieldBlockMid_Shadowless_86
+  - first:
+      213: 6446274336402767298
+    second: ShieldBlockMid_Shadowless_87
+  - first:
+      213: -4180395844930037629
+    second: ShieldBlockMid_Shadowless_88
+  - first:
+      213: -1909178959207154254
+    second: ShieldBlockMid_Shadowless_89
+  - first:
+      213: 8628661039717803771
+    second: ShieldBlockMid_Shadowless_90
+  - first:
+      213: 2742308590218356465
+    second: ShieldBlockMid_Shadowless_91
+  - first:
+      213: 88961126976266879
+    second: ShieldBlockMid_Shadowless_92
+  - first:
+      213: -3648685722917858584
+    second: ShieldBlockMid_Shadowless_93
+  - first:
+      213: 8202314885409437257
+    second: ShieldBlockMid_Shadowless_94
+  - first:
+      213: -8612296239574997040
+    second: ShieldBlockMid_Shadowless_95
+  - first:
+      213: 862263984677676966
+    second: ShieldBlockMid_Shadowless_96
+  - first:
+      213: 8510632745944702566
+    second: ShieldBlockMid_Shadowless_97
+  - first:
+      213: -5426171662481326113
+    second: ShieldBlockMid_Shadowless_98
+  - first:
+      213: 1816595679269527414
+    second: ShieldBlockMid_Shadowless_99
+  - first:
+      213: -5257498942355867634
+    second: ShieldBlockMid_Shadowless_100
+  - first:
+      213: -229453392371148437
+    second: ShieldBlockMid_Shadowless_101
+  - first:
+      213: -8054922320375344675
+    second: ShieldBlockMid_Shadowless_102
+  - first:
+      213: 402822411506736978
+    second: ShieldBlockMid_Shadowless_103
+  - first:
+      213: 7807124050713942515
+    second: ShieldBlockMid_Shadowless_104
+  - first:
+      213: 8036099022991100407
+    second: ShieldBlockMid_Shadowless_105
+  - first:
+      213: -5657486514965287660
+    second: ShieldBlockMid_Shadowless_106
+  - first:
+      213: 6989281093058299969
+    second: ShieldBlockMid_Shadowless_107
+  - first:
+      213: 5976049856602409443
+    second: ShieldBlockMid_Shadowless_108
+  - first:
+      213: 5056960668530700977
+    second: ShieldBlockMid_Shadowless_109
+  - first:
+      213: 3328539498057831629
+    second: ShieldBlockMid_Shadowless_110
+  - first:
+      213: 7942107767035080113
+    second: ShieldBlockMid_Shadowless_111
+  - first:
+      213: 8773275730228475659
+    second: ShieldBlockMid_Shadowless_112
+  - first:
+      213: 8771357443376823662
+    second: ShieldBlockMid_Shadowless_113
+  - first:
+      213: 3752993942584556348
+    second: ShieldBlockMid_Shadowless_114
+  - first:
+      213: -2177978368496861760
+    second: ShieldBlockMid_Shadowless_115
+  - first:
+      213: -4494457164904392558
+    second: ShieldBlockMid_Shadowless_116
+  - first:
+      213: -1420055636336326452
+    second: ShieldBlockMid_Shadowless_117
+  - first:
+      213: -9120503670671132586
+    second: ShieldBlockMid_Shadowless_118
+  - first:
+      213: 2587425234054479347
+    second: ShieldBlockMid_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 461
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231ab2cfa0f9c920800000000000000
+      internalID: 3011202463550804768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ab5156e9e82230800000000000000
+      internalID: 3614395876381534547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 461
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c88cf4f93c624c0800000000000000
+      internalID: -4312544504154911598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e2ace6feff3030800000000000000
+      internalID: 3476777773838819546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85282f1388624080800000000000000
+      internalID: -9204679776019143283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5446dbb395e4c2900800000000000000
+      internalID: 660989390477943877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 461
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd5e4222f0824820800000000000000
+      internalID: 2901022887426022868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 461
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7771613256b176d80800000000000000
+      internalID: -8257601270566217865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685412dc19b4ccf80800000000000000
+      internalID: -8085004141453032058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4072e4cd350ac10800000000000000
+      internalID: 2062740835004777641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8496caa8c68d81800800000000000000
+      internalID: 583454112439101768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69559e41384f09970800000000000000
+      internalID: 8759770119064343958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b7dc7113a61b30800000000000000
+      internalID: 4257769793229665965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eff940d160f0d10800000000000000
+      internalID: 2093899073451982483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 462
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a01e837440b490800000000000000
+      internalID: -7732605297099757919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 400
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f78905fbfacaa30800000000000000
+      internalID: 4227947386419838867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 400
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2272516837de96620800000000000000
+      internalID: 2768004526422435618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 400
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002815297564e4800800000000000000
+      internalID: 598493142417768960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a93c2bb322d7b90800000000000000
+      internalID: -7242594985944311258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8107daa0c3911880800000000000000
+      internalID: -8641963754238049905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a22049fe328110800000000000000
+      internalID: 1261640085860951521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb805c4251a932b0800000000000000
+      internalID: -5604270886446134293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537c9fdade7d026c0800000000000000
+      internalID: -4170095839119030475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05592479402786490800000000000000
+      internalID: -7752821394475150000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e3708bc63a50e30800000000000000
+      internalID: 4469157892574363191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f788e41be004bf000800000000000000
+      internalID: 70720651002808447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e63342ef3c07c50800000000000000
+      internalID: 6661039345177423362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a725843e2423be80800000000000000
+      internalID: -8164141918624340063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 401
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420563b9d96be1e00800000000000000
+      internalID: 1017451353862459428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 400
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78b3cb9f13167f0800000000000000
+      internalID: -621160324925782099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 339
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb6937000136480800000000000000
+      internalID: -8907258043883405668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dee79effb623c10800000000000000
+      internalID: 2031805128775757146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8786eb11d4b251230800000000000000
+      internalID: 3608838286417487992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48df8717eabffff0800000000000000
+      internalID: -75973281195957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db1fbfeb12adb70800000000000000
+      internalID: 8924482715742485914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6530d29f8c9128480800000000000000
+      internalID: -8898521562766048426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a75354e2db220a0800000000000000
+      internalID: -6907750872005641680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32df7f99c2e6f700800000000000000
+      internalID: 573895358128575038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e14be9612e4e40800000000000000
+      internalID: 5642484121944057484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524cf8e14b1fa3f0800000000000000
+      internalID: -887460631673028008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ae82d7ca38bd00800000000000000
+      internalID: 988604748113289878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c446ac549f3d5d0800000000000000
+      internalID: -3038811245401322491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ba2fb93dec96580800000000000000
+      internalID: -8833301785860723819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54ef24adb6c9f80800000000000000
+      internalID: -8098479444747991641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 339
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9246ebbe211db630800000000000000
+      internalID: 3944327741065020061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae1945c5b690d000800000000000000
+      internalID: 58712502598966950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a66521f1e966f80800000000000000
+      internalID: -8113623822372541947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6b4922df6706980800000000000000
+      internalID: -8547701263170226434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e1cd09a83acac30800000000000000
+      internalID: 4372049153801068145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7478829a727052b0800000000000000
+      internalID: -5597848466051533700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6c08d58d3ec2ac0800000000000000
+      internalID: -3878474660651678041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e762ec086b54a0800000000000000
+      internalID: -6603570024061344404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe243f6256f20a0800000000000000
+      internalID: -6904188485771268335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d052f091c63ce820800000000000000
+      internalID: 2948792061009219794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42976c6b32619ed20800000000000000
+      internalID: 3308199743926466852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e828aed01c249d2a0800000000000000
+      internalID: -6712260372689419634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb5b4bc7153a270800000000000000
+      internalID: 8260535737577226220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b192cb1abb8ea40800000000000000
+      internalID: 5397770456724478788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df7022c7782d0bc0800000000000000
+      internalID: -3815348814489813038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 276
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3c456df94eee60800000000000000
+      internalID: 7993407741304257657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca040e94ae44f9b0800000000000000
+      internalID: -5047322813442815293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec6b1d585e81d40800000000000000
+      internalID: 5555442503273336508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42167123f9bbc9070800000000000000
+      internalID: 8114566921029378340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b939ef108dd054d50800000000000000
+      internalID: 6720793240317891483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8398885c16d8685b0800000000000000
+      internalID: -5366446454899963592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0becd4d5600798a10800000000000000
+      internalID: 1912182689432981168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90326700ce6273170800000000000000
+      internalID: 8158032045066822409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 215
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2832d3cfb80cc50800000000000000
+      internalID: 6683495762491572934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e596c8adc95bd4fb0800000000000000
+      internalID: -4661870353972434594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9969d85a6308f6b40800000000000000
+      internalID: 5435704247453587097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e71300ef1670150800000000000000
+      internalID: 5838743185461968542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff9745db184c570800000000000000
+      internalID: 8486050248038940426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfff3a47d98470320800000000000000
+      internalID: 2524065957268422653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549157599243cac00800000000000000
+      internalID: 913162177655150917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a8566c1bd023e40800000000000000
+      internalID: 5634581140982827609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc78a3832dd47ca0800000000000000
+      internalID: -6019943657285059364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545e403da1beed230800000000000000
+      internalID: 3665625647168152901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4dda358583f2e70800000000000000
+      internalID: 9092548124696499421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce30b9152c5af0940800000000000000
+      internalID: 5264608743430751212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5536a44374c45d40800000000000000
+      internalID: 5572294638316172636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6749ebe714bb76000800000000000000
+      internalID: 29197812574884982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614dbfc8f6919650800000000000000
+      internalID: 6237932954266190184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1adee298782aa80800000000000000
+      internalID: -8457048126980775436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330141724c60a0ec0800000000000000
+      internalID: -3600057512590307277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066e48fd922b6d70800000000000000
+      internalID: 9037355139120129536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c383553f24e3260800000000000000
+      internalID: 7079169277147233374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4c1ae7beafe6aa0800000000000000
+      internalID: -6165714950474840863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf00aea54c57950800000000000000
+      internalID: 6446274336402767298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3881d62b0204cf5c0800000000000000
+      internalID: -4180395844930037629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 148
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdbec31adb3185e0800000000000000
+      internalID: -1909178959207154254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e1afbf792fb770800000000000000
+      internalID: 8628661039717803771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a7782223ae0620800000000000000
+      internalID: 2742308590218356465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f722d347cad0c3100800000000000000
+      internalID: 88961126976266879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21174aaa34d5dc0800000000000000
+      internalID: -3648685722917858584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9467ab83ee974d170800000000000000
+      internalID: 8202314885409437257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d723b3333afa7880800000000000000
+      internalID: -8612296239574997040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7635d868067fb00800000000000000
+      internalID: 862263984677676966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 81
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e57d32467db1670800000000000000
+      internalID: 8510632745944702566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf728f3f9d52b4b0800000000000000
+      internalID: -5426171662481326113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f9e534528d53910800000000000000
+      internalID: 1816595679269527414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f2ed319c9907b0800000000000000
+      internalID: -5257498942355867634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b699537fa51d0dcf0800000000000000
+      internalID: -229453392371148437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd199a093da273090800000000000000
+      internalID: -8054922320375344675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fdc6959dc179500800000000000000
+      internalID: 402822411506736978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 81
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99630d5f9785c60800000000000000
+      internalID: 7807124050713942515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98f3dfb75f58f60800000000000000
+      internalID: 8036099022991100407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d6ee14df19c71b0800000000000000
+      internalID: -5657486514965287660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14808139f1aeef060800000000000000
+      internalID: 6989281093058299969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98fce9ea13fe250800000000000000
+      internalID: 5976049856602409443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2f4e26feeed2640800000000000000
+      internalID: 5056960668530700977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41892c909513e20800000000000000
+      internalID: 3328539498057831629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2ffd5fe8083e60800000000000000
+      internalID: 7942107767035080113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f2d83bcfe0c970800000000000000
+      internalID: 8773275730228475659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d34724f1f1ab970800000000000000
+      internalID: 8771357443376823662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf1f74b10551430800000000000000
+      internalID: 3752993942584556348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd7249963446c1e0800000000000000
+      internalID: -2177978368496861760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2981aab650b70a1c0800000000000000
+      internalID: -4494457164904392558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 17
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c1ea2ce2fa4ce0800000000000000
+      internalID: -1420055636336326452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583009eb367d6180800000000000000
+      internalID: -9120503670671132586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockMid_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 18
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf2b6aa8168e320800000000000000
+      internalID: 2587425234054479347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShieldBlockMid_Shadowless_0: 3011202463550804768
+      ShieldBlockMid_Shadowless_1: 3614395876381534547
+      ShieldBlockMid_Shadowless_10: 583454112439101768
+      ShieldBlockMid_Shadowless_100: -5257498942355867634
+      ShieldBlockMid_Shadowless_101: -229453392371148437
+      ShieldBlockMid_Shadowless_102: -8054922320375344675
+      ShieldBlockMid_Shadowless_103: 402822411506736978
+      ShieldBlockMid_Shadowless_104: 7807124050713942515
+      ShieldBlockMid_Shadowless_105: 8036099022991100407
+      ShieldBlockMid_Shadowless_106: -5657486514965287660
+      ShieldBlockMid_Shadowless_107: 6989281093058299969
+      ShieldBlockMid_Shadowless_108: 5976049856602409443
+      ShieldBlockMid_Shadowless_109: 5056960668530700977
+      ShieldBlockMid_Shadowless_11: 8759770119064343958
+      ShieldBlockMid_Shadowless_110: 3328539498057831629
+      ShieldBlockMid_Shadowless_111: 7942107767035080113
+      ShieldBlockMid_Shadowless_112: 8773275730228475659
+      ShieldBlockMid_Shadowless_113: 8771357443376823662
+      ShieldBlockMid_Shadowless_114: 3752993942584556348
+      ShieldBlockMid_Shadowless_115: -2177978368496861760
+      ShieldBlockMid_Shadowless_116: -4494457164904392558
+      ShieldBlockMid_Shadowless_117: -1420055636336326452
+      ShieldBlockMid_Shadowless_118: -9120503670671132586
+      ShieldBlockMid_Shadowless_119: 2587425234054479347
+      ShieldBlockMid_Shadowless_12: 4257769793229665965
+      ShieldBlockMid_Shadowless_13: 2093899073451982483
+      ShieldBlockMid_Shadowless_14: -7732605297099757919
+      ShieldBlockMid_Shadowless_15: 4227947386419838867
+      ShieldBlockMid_Shadowless_16: 2768004526422435618
+      ShieldBlockMid_Shadowless_17: 598493142417768960
+      ShieldBlockMid_Shadowless_18: -7242594985944311258
+      ShieldBlockMid_Shadowless_19: -8641963754238049905
+      ShieldBlockMid_Shadowless_2: -4312544504154911598
+      ShieldBlockMid_Shadowless_20: 1261640085860951521
+      ShieldBlockMid_Shadowless_21: -5604270886446134293
+      ShieldBlockMid_Shadowless_22: -4170095839119030475
+      ShieldBlockMid_Shadowless_23: -7752821394475150000
+      ShieldBlockMid_Shadowless_24: 4469157892574363191
+      ShieldBlockMid_Shadowless_25: 70720651002808447
+      ShieldBlockMid_Shadowless_26: 6661039345177423362
+      ShieldBlockMid_Shadowless_27: -8164141918624340063
+      ShieldBlockMid_Shadowless_28: 1017451353862459428
+      ShieldBlockMid_Shadowless_29: -621160324925782099
+      ShieldBlockMid_Shadowless_3: 3476777773838819546
+      ShieldBlockMid_Shadowless_30: -8907258043883405668
+      ShieldBlockMid_Shadowless_31: 2031805128775757146
+      ShieldBlockMid_Shadowless_32: 3608838286417487992
+      ShieldBlockMid_Shadowless_33: -75973281195957
+      ShieldBlockMid_Shadowless_34: 8924482715742485914
+      ShieldBlockMid_Shadowless_35: -8898521562766048426
+      ShieldBlockMid_Shadowless_36: -6907750872005641680
+      ShieldBlockMid_Shadowless_37: 573895358128575038
+      ShieldBlockMid_Shadowless_38: 5642484121944057484
+      ShieldBlockMid_Shadowless_39: -887460631673028008
+      ShieldBlockMid_Shadowless_4: -9204679776019143283
+      ShieldBlockMid_Shadowless_40: 988604748113289878
+      ShieldBlockMid_Shadowless_41: -3038811245401322491
+      ShieldBlockMid_Shadowless_42: -8833301785860723819
+      ShieldBlockMid_Shadowless_43: -8098479444747991641
+      ShieldBlockMid_Shadowless_44: 3944327741065020061
+      ShieldBlockMid_Shadowless_45: 58712502598966950
+      ShieldBlockMid_Shadowless_46: -8113623822372541947
+      ShieldBlockMid_Shadowless_47: -8547701263170226434
+      ShieldBlockMid_Shadowless_48: 4372049153801068145
+      ShieldBlockMid_Shadowless_49: -5597848466051533700
+      ShieldBlockMid_Shadowless_5: 660989390477943877
+      ShieldBlockMid_Shadowless_50: -3878474660651678041
+      ShieldBlockMid_Shadowless_51: -6603570024061344404
+      ShieldBlockMid_Shadowless_52: -6904188485771268335
+      ShieldBlockMid_Shadowless_53: 2948792061009219794
+      ShieldBlockMid_Shadowless_54: 3308199743926466852
+      ShieldBlockMid_Shadowless_55: -6712260372689419634
+      ShieldBlockMid_Shadowless_56: 8260535737577226220
+      ShieldBlockMid_Shadowless_57: 5397770456724478788
+      ShieldBlockMid_Shadowless_58: -3815348814489813038
+      ShieldBlockMid_Shadowless_59: 7993407741304257657
+      ShieldBlockMid_Shadowless_6: 2901022887426022868
+      ShieldBlockMid_Shadowless_60: -5047322813442815293
+      ShieldBlockMid_Shadowless_61: 5555442503273336508
+      ShieldBlockMid_Shadowless_62: 8114566921029378340
+      ShieldBlockMid_Shadowless_63: 6720793240317891483
+      ShieldBlockMid_Shadowless_64: -5366446454899963592
+      ShieldBlockMid_Shadowless_65: 1912182689432981168
+      ShieldBlockMid_Shadowless_66: 8158032045066822409
+      ShieldBlockMid_Shadowless_67: 6683495762491572934
+      ShieldBlockMid_Shadowless_68: -4661870353972434594
+      ShieldBlockMid_Shadowless_69: 5435704247453587097
+      ShieldBlockMid_Shadowless_7: -8257601270566217865
+      ShieldBlockMid_Shadowless_70: 5838743185461968542
+      ShieldBlockMid_Shadowless_71: 8486050248038940426
+      ShieldBlockMid_Shadowless_72: 2524065957268422653
+      ShieldBlockMid_Shadowless_73: 913162177655150917
+      ShieldBlockMid_Shadowless_74: 5634581140982827609
+      ShieldBlockMid_Shadowless_75: -6019943657285059364
+      ShieldBlockMid_Shadowless_76: 3665625647168152901
+      ShieldBlockMid_Shadowless_77: 9092548124696499421
+      ShieldBlockMid_Shadowless_78: 5264608743430751212
+      ShieldBlockMid_Shadowless_79: 5572294638316172636
+      ShieldBlockMid_Shadowless_8: -8085004141453032058
+      ShieldBlockMid_Shadowless_80: 29197812574884982
+      ShieldBlockMid_Shadowless_81: 6237932954266190184
+      ShieldBlockMid_Shadowless_82: -8457048126980775436
+      ShieldBlockMid_Shadowless_83: -3600057512590307277
+      ShieldBlockMid_Shadowless_84: 9037355139120129536
+      ShieldBlockMid_Shadowless_85: 7079169277147233374
+      ShieldBlockMid_Shadowless_86: -6165714950474840863
+      ShieldBlockMid_Shadowless_87: 6446274336402767298
+      ShieldBlockMid_Shadowless_88: -4180395844930037629
+      ShieldBlockMid_Shadowless_89: -1909178959207154254
+      ShieldBlockMid_Shadowless_9: 2062740835004777641
+      ShieldBlockMid_Shadowless_90: 8628661039717803771
+      ShieldBlockMid_Shadowless_91: 2742308590218356465
+      ShieldBlockMid_Shadowless_92: 88961126976266879
+      ShieldBlockMid_Shadowless_93: -3648685722917858584
+      ShieldBlockMid_Shadowless_94: 8202314885409437257
+      ShieldBlockMid_Shadowless_95: -8612296239574997040
+      ShieldBlockMid_Shadowless_96: 862263984677676966
+      ShieldBlockMid_Shadowless_97: 8510632745944702566
+      ShieldBlockMid_Shadowless_98: -5426171662481326113
+      ShieldBlockMid_Shadowless_99: 1816595679269527414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

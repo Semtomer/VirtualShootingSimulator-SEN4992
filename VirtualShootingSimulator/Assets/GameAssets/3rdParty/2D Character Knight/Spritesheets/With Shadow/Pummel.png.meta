@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 36c694a399e15ba4dae33cdb947190f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2291267915092477254
+    second: Pummel_0
+  - first:
+      213: 9109640600835825056
+    second: Pummel_1
+  - first:
+      213: 4693322203136038508
+    second: Pummel_2
+  - first:
+      213: 3268797375613049768
+    second: Pummel_3
+  - first:
+      213: -7229126247182160258
+    second: Pummel_4
+  - first:
+      213: -7331365620431326314
+    second: Pummel_5
+  - first:
+      213: 485061242434207745
+    second: Pummel_6
+  - first:
+      213: -3162779782586593272
+    second: Pummel_7
+  - first:
+      213: 370491036377249368
+    second: Pummel_8
+  - first:
+      213: 4427958956967719536
+    second: Pummel_9
+  - first:
+      213: -3462677963843742419
+    second: Pummel_10
+  - first:
+      213: 7331300090280494772
+    second: Pummel_11
+  - first:
+      213: 3810249077530231347
+    second: Pummel_12
+  - first:
+      213: -2638062429481978098
+    second: Pummel_13
+  - first:
+      213: -8447666036516259896
+    second: Pummel_14
+  - first:
+      213: 4763598112992063475
+    second: Pummel_15
+  - first:
+      213: -4527557868624242956
+    second: Pummel_16
+  - first:
+      213: 1912996435409651412
+    second: Pummel_17
+  - first:
+      213: 4660847561695977279
+    second: Pummel_18
+  - first:
+      213: -2094224620713409833
+    second: Pummel_19
+  - first:
+      213: -6318038248491999530
+    second: Pummel_20
+  - first:
+      213: 6675106464631549468
+    second: Pummel_21
+  - first:
+      213: 6904970472716134619
+    second: Pummel_22
+  - first:
+      213: -3212030938138981342
+    second: Pummel_23
+  - first:
+      213: -4210475433166450974
+    second: Pummel_24
+  - first:
+      213: 8302725757798653412
+    second: Pummel_25
+  - first:
+      213: -482457950841080853
+    second: Pummel_26
+  - first:
+      213: -7375015973890634341
+    second: Pummel_27
+  - first:
+      213: -5888668085796355745
+    second: Pummel_28
+  - first:
+      213: 1526578293820480144
+    second: Pummel_29
+  - first:
+      213: -8626919614025682638
+    second: Pummel_30
+  - first:
+      213: -2807805086945755737
+    second: Pummel_31
+  - first:
+      213: 3777971157494156725
+    second: Pummel_32
+  - first:
+      213: 2855460596220367417
+    second: Pummel_33
+  - first:
+      213: 5584492147677542888
+    second: Pummel_34
+  - first:
+      213: 8185693935320157070
+    second: Pummel_35
+  - first:
+      213: -4771803404259643985
+    second: Pummel_36
+  - first:
+      213: -3826066345742014235
+    second: Pummel_37
+  - first:
+      213: 194526266625818777
+    second: Pummel_38
+  - first:
+      213: 7788414072275110409
+    second: Pummel_39
+  - first:
+      213: -7431988789908450778
+    second: Pummel_40
+  - first:
+      213: -3216303264178715632
+    second: Pummel_41
+  - first:
+      213: 321367826339689959
+    second: Pummel_42
+  - first:
+      213: -2737436056429069515
+    second: Pummel_43
+  - first:
+      213: -908305261521165071
+    second: Pummel_44
+  - first:
+      213: -7875221821245369808
+    second: Pummel_45
+  - first:
+      213: -5071253021518569115
+    second: Pummel_46
+  - first:
+      213: -6336947831663099600
+    second: Pummel_47
+  - first:
+      213: -7663600070543829234
+    second: Pummel_48
+  - first:
+      213: -3100776039732880229
+    second: Pummel_49
+  - first:
+      213: 859626121170232957
+    second: Pummel_50
+  - first:
+      213: -4608107917547954173
+    second: Pummel_51
+  - first:
+      213: -4407130877769925272
+    second: Pummel_52
+  - first:
+      213: 2739912759195042914
+    second: Pummel_53
+  - first:
+      213: 1401842046281521899
+    second: Pummel_54
+  - first:
+      213: 4387716999760352004
+    second: Pummel_55
+  - first:
+      213: -2694756937922467477
+    second: Pummel_56
+  - first:
+      213: 9004380553934232005
+    second: Pummel_57
+  - first:
+      213: 4614348701054297233
+    second: Pummel_58
+  - first:
+      213: -2763266829438885420
+    second: Pummel_59
+  - first:
+      213: 9075213790065596693
+    second: Pummel_60
+  - first:
+      213: -4224218046638773264
+    second: Pummel_61
+  - first:
+      213: -1207855231801253792
+    second: Pummel_62
+  - first:
+      213: -75432776525521881
+    second: Pummel_63
+  - first:
+      213: 1490494709543589659
+    second: Pummel_64
+  - first:
+      213: 4919458531683121061
+    second: Pummel_65
+  - first:
+      213: 500834425519293559
+    second: Pummel_66
+  - first:
+      213: 1475428403357108199
+    second: Pummel_67
+  - first:
+      213: 6969093421592182017
+    second: Pummel_68
+  - first:
+      213: 245117681902610812
+    second: Pummel_69
+  - first:
+      213: -5132268246045004847
+    second: Pummel_70
+  - first:
+      213: -6994323874372548851
+    second: Pummel_71
+  - first:
+      213: 4227531533077571848
+    second: Pummel_72
+  - first:
+      213: 91418160789941752
+    second: Pummel_73
+  - first:
+      213: -2448246887225215161
+    second: Pummel_74
+  - first:
+      213: -4532288815484264742
+    second: Pummel_75
+  - first:
+      213: -4754241683208872732
+    second: Pummel_76
+  - first:
+      213: 7340607046141294645
+    second: Pummel_77
+  - first:
+      213: 3766936863761810385
+    second: Pummel_78
+  - first:
+      213: -3892498042580191160
+    second: Pummel_79
+  - first:
+      213: -8906215109841519596
+    second: Pummel_80
+  - first:
+      213: -6603101724776229738
+    second: Pummel_81
+  - first:
+      213: -788127221679612561
+    second: Pummel_82
+  - first:
+      213: 5991566645805149453
+    second: Pummel_83
+  - first:
+      213: 3081915977462946091
+    second: Pummel_84
+  - first:
+      213: 4226728389395109850
+    second: Pummel_85
+  - first:
+      213: -520082190998389713
+    second: Pummel_86
+  - first:
+      213: 2565641369516580445
+    second: Pummel_87
+  - first:
+      213: -2090045689687419671
+    second: Pummel_88
+  - first:
+      213: -2282669292189734386
+    second: Pummel_89
+  - first:
+      213: -7401009683009868846
+    second: Pummel_90
+  - first:
+      213: 5939028553751070958
+    second: Pummel_91
+  - first:
+      213: -5214036139563529053
+    second: Pummel_92
+  - first:
+      213: 1515835179854752892
+    second: Pummel_93
+  - first:
+      213: 3987198585759305325
+    second: Pummel_94
+  - first:
+      213: -5825459512002504361
+    second: Pummel_95
+  - first:
+      213: -7231302001785777878
+    second: Pummel_96
+  - first:
+      213: 1254344798305027629
+    second: Pummel_97
+  - first:
+      213: -8363763359127842807
+    second: Pummel_98
+  - first:
+      213: 3682369804232984402
+    second: Pummel_99
+  - first:
+      213: 5184083111309718186
+    second: Pummel_100
+  - first:
+      213: 1225849805043348714
+    second: Pummel_101
+  - first:
+      213: 6604851886510269455
+    second: Pummel_102
+  - first:
+      213: 3473619809390893862
+    second: Pummel_103
+  - first:
+      213: 3082506741972769343
+    second: Pummel_104
+  - first:
+      213: 5979796226545909907
+    second: Pummel_105
+  - first:
+      213: 6658240802865846567
+    second: Pummel_106
+  - first:
+      213: 4842885191163234425
+    second: Pummel_107
+  - first:
+      213: -6119802390681667359
+    second: Pummel_108
+  - first:
+      213: -1551397459251765696
+    second: Pummel_109
+  - first:
+      213: 5826218485001470206
+    second: Pummel_110
+  - first:
+      213: -8533041130276877489
+    second: Pummel_111
+  - first:
+      213: 1992846050602206676
+    second: Pummel_112
+  - first:
+      213: 1675378801999685935
+    second: Pummel_113
+  - first:
+      213: -6798328669750505493
+    second: Pummel_114
+  - first:
+      213: -308701895415781549
+    second: Pummel_115
+  - first:
+      213: -6209472535194409294
+    second: Pummel_116
+  - first:
+      213: -5503251460317329016
+    second: Pummel_117
+  - first:
+      213: -8421444806342449765
+    second: Pummel_118
+  - first:
+      213: -1765849885995566814
+    second: Pummel_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pummel_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645465477083ccf10800000000000000
+      internalID: 2291267915092477254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 466
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad9b4c8cd1fb6e70800000000000000
+      internalID: 9109640600835825056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 465
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66906e6da7022140800000000000000
+      internalID: 4693322203136038508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 465
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab1520f4e91d5d20800000000000000
+      internalID: 3268797375613049768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 465
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2140dafbfcab90800000000000000
+      internalID: -7229126247182160258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 465
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693fdabbfc1c14a90800000000000000
+      internalID: -7331365620431326314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 466
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c99941a84bb600800000000000000
+      internalID: 485061242434207745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 468
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800932c7b8c8b14d0800000000000000
+      internalID: -3162779782586593272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 469
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8567bb772af342500800000000000000
+      internalID: 370491036377249368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 468
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072f1160635437d30800000000000000
+      internalID: 4427958956967719536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 465
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255589ecb812ffc0800000000000000
+      internalID: -3462677963843742419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 465
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b645f6d6920eb560800000000000000
+      internalID: 7331300090280494772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 466
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33203f33959b0e430800000000000000
+      internalID: 3810249077530231347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 467
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073c6b8238b36bd0800000000000000
+      internalID: -2638062429481978098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 467
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7f0585f7cd3ca80800000000000000
+      internalID: -8447666036516259896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 398
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffec91ce33bb1240800000000000000
+      internalID: 4763598112992063475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 396
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f690a44b12ea21c0800000000000000
+      internalID: -4527557868624242956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 396
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64e2d5f145c8a10800000000000000
+      internalID: 1912996435409651412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 397
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5223c928aea040800000000000000
+      internalID: 4660847561695977279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 402
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2008a9dc1dfe2e0800000000000000
+      internalID: -2094224620713409833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 401
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9d49ffa1d158a0800000000000000
+      internalID: -6318038248491999530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 400
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ee64e96fdb2ac50800000000000000
+      internalID: 6675106464631549468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 399
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86ec29f0263df50800000000000000
+      internalID: 6904970472716134619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 401
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c49ac31e29c63d0800000000000000
+      internalID: -3212030938138981342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_24
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 401
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeca9ec6e26195c0800000000000000
+      internalID: -4210475433166450974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_25
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 401
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed13154615393370800000000000000
+      internalID: 8302725757798653412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 401
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3fd05cc07fd49f0800000000000000
+      internalID: -482457950841080853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 401
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dca67db0ea6a990800000000000000
+      internalID: -7375015973890634341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 402
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51cde1539f374ea0800000000000000
+      internalID: -5888668085796355745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 401
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09addfcbede7f2510800000000000000
+      internalID: 1526578293820480144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23136248156074880800000000000000
+      internalID: -8626919614025682638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 332
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad301a562ca809d0800000000000000
+      internalID: -2807805086945755737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 331
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd4c1e40cc0e6430800000000000000
+      internalID: 3777971157494156725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 331
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93217db8842a0a720800000000000000
+      internalID: 2855460596220367417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 336
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e93749350a108d40800000000000000
+      internalID: 5584492147677542888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 337
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bc3d6b34d699170800000000000000
+      internalID: 8185693935320157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 338
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadaa1ff51627cdb0800000000000000
+      internalID: -4771803404259643985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 334
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e868fe0ee417eac0800000000000000
+      internalID: -3826066345742014235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 334
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99007bddb9813b200800000000000000
+      internalID: 194526266625818777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 334
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a8c9d7551061c60800000000000000
+      internalID: 7788414072275110409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 334
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62252da62954cd890800000000000000
+      internalID: -7431988789908450778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_41
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c2b0d8356d53d0800000000000000
+      internalID: -3216303264178715632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_42
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 337
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5773bd55ab57400800000000000000
+      internalID: 321367826339689959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 337
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bf235096ca20ad0800000000000000
+      internalID: -2737436056429069515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 338
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a9635d2d0563f0800000000000000
+      internalID: -908305261521165071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 273
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032d3417a7795b290800000000000000
+      internalID: -7875221821245369808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 273
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561624ede3a4f99b0800000000000000
+      internalID: -5071253021518569115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 270
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0310a8d8583ae08a0800000000000000
+      internalID: -6336947831663099600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 269
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07939ed65c65a590800000000000000
+      internalID: -7663600070543829234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 272
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cdda7de94d7f4d0800000000000000
+      internalID: -3100776039732880229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 273
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76aff717610eeb00800000000000000
+      internalID: 859626121170232957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 272
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a3e78346bc00c0800000000000000
+      internalID: -4608107917547954173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 270
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3edf01d9b6d2c0800000000000000
+      internalID: -4407130877769925272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 271
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26481674320260620800000000000000
+      internalID: 2739912759195042914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_54
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 271
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea11dfe9e7547310800000000000000
+      internalID: 1401842046281521899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_55
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 271
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40398a93d5d44ec30800000000000000
+      internalID: 4387716999760352004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 272
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ac17a7dc4a9ad0800000000000000
+      internalID: -2694756937922467477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_57
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 273
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c95fa3186cf5fc70800000000000000
+      internalID: 9004380553934232005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 273
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194602c12b5790040800000000000000
+      internalID: 4614348701054297233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_59
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 273
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1eca38577e6a9d0800000000000000
+      internalID: -2763266829438885420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51916990cd2a1fd70800000000000000
+      internalID: 9075213790065596693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 211
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb2d4441109065c0800000000000000
+      internalID: -4224218046638773264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 210
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a360f016dc3fe0800000000000000
+      internalID: -1207855231801253792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c56c61a4204fef0800000000000000
+      internalID: -75432776525521881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 207
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d1f59a0d4fa410800000000000000
+      internalID: 1490494709543589659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 208
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7bc3c587d654440800000000000000
+      internalID: 4919458531683121061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 208
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7744d58a14253f600800000000000000
+      internalID: 500834425519293559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74f91d056c97410800000000000000
+      internalID: 1475428403357108199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_68
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 209
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d73880b8137b060800000000000000
+      internalID: 6969093421592182017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 208
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e8f5ab35d66300800000000000000
+      internalID: 245117681902610812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db687ed83586c8b0800000000000000
+      internalID: -5132268246045004847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_71
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 208
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078df76e7b2fee90800000000000000
+      internalID: -6994323874372548851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_72
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 211
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e9d9e7853baa30800000000000000
+      internalID: 4227531533077571848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_73
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 212
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd67e73558c44100800000000000000
+      internalID: 91418160789941752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_74
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 213
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7473c7c6d64160ed0800000000000000
+      internalID: -2448246887225215161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade959dd5531a11c0800000000000000
+      internalID: -4532288815484264742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 149
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdaffc06a850eb0800000000000000
+      internalID: -4754241683208872732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_77
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 149
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5383bfc57331fd560800000000000000
+      internalID: 7340607046141294645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 149
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3c8d79e19d64430800000000000000
+      internalID: 3766936863761810385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_79
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 147
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ba1357a11bf9c0800000000000000
+      internalID: -3892498042580191160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cfda47b84c66480800000000000000
+      internalID: -8906215109841519596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_81
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 146
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69491fe47f11d54a0800000000000000
+      internalID: -6603101724776229738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_82
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 146
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d98f1b7720015f0800000000000000
+      internalID: -788127221679612561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 146
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6b43ae12562350800000000000000
+      internalID: 5991566645805149453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_84
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 146
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b299748b04a25ca20800000000000000
+      internalID: 3081915977462946091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 141
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad754f3731b58aa30800000000000000
+      internalID: 4226728389395109850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_86
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 143
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cb887b00c48c8f0800000000000000
+      internalID: -520082190998389713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_87
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 147
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e15137b3dfa9320800000000000000
+      internalID: 2565641369516580445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_88
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e458ddc48aaef2e0800000000000000
+      internalID: -2090045689687419671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 150
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa6537f545250e0800000000000000
+      internalID: -2282669292189734386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db68f0d7e45a4990800000000000000
+      internalID: -7401009683009868846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee80c39d00bab6250800000000000000
+      internalID: 5939028553751070958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac444791c504a7b0800000000000000
+      internalID: -5214036139563529053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_93
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 82
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c68499014590510800000000000000
+      internalID: 1515835179854752892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_94
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 82
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e8f191dff555730800000000000000
+      internalID: 3987198585759305325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 75
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599bad307fc72fa0800000000000000
+      internalID: -5825459512002504361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 75
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21dcf7742145ab90800000000000000
+      internalID: -7231302001785777878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 83
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2684d0c2f3586110800000000000000
+      internalID: 1254344798305027629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_98
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 83
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d1c9b981fdeb80800000000000000
+      internalID: -8363763359127842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 82
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578ee0b3d76a1330800000000000000
+      internalID: 3682369804232984402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_100
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 81
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b7bf8f1091f740800000000000000
+      internalID: 5184083111309718186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_101
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 82
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4379127e7130110800000000000000
+      internalID: 1225849805043348714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 84
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f046389fbc529ab50800000000000000
+      internalID: 6604851886510269455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_103
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b118700d6c43030800000000000000
+      internalID: 3473619809390893862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_104
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 84
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a980dcc8347ca20800000000000000
+      internalID: 3082506741972769343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3908d785cf08cf250800000000000000
+      internalID: 5979796226545909907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 17
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72994dbbbb2d66c50800000000000000
+      internalID: 6658240802865846567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c8433c62653340800000000000000
+      internalID: 4842885191163234425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 15
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e835d75628121ba0800000000000000
+      internalID: -6119802390681667359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 15
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04edadffa34587ae0800000000000000
+      internalID: -1551397459251765696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_110
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 18
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c35ee7d2ead050800000000000000
+      internalID: 5826218485001470206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b8c005d4c849980800000000000000
+      internalID: -8533041130276877489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_112
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 18
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54f2aace208ab10800000000000000
+      internalID: 1992846050602206676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_113
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 19
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292965d424204710800000000000000
+      internalID: 1675378801999685935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 19
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befca2d081c77a1a0800000000000000
+      internalID: -6798328669750505493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_115
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 19
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a04ef24547bbf0800000000000000
+      internalID: -308701895415781549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_116
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 19
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66131e0a583d9a0800000000000000
+      internalID: -6209472535194409294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_117
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889c22e44f580a3b0800000000000000
+      internalID: -5503251460317329016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95666e3194012b80800000000000000
+      internalID: -8421444806342449765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummel_119
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 19
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f19272e07e77e0800000000000000
+      internalID: -1765849885995566814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pummel_0: 2291267915092477254
+      Pummel_1: 9109640600835825056
+      Pummel_10: -3462677963843742419
+      Pummel_100: 5184083111309718186
+      Pummel_101: 1225849805043348714
+      Pummel_102: 6604851886510269455
+      Pummel_103: 3473619809390893862
+      Pummel_104: 3082506741972769343
+      Pummel_105: 5979796226545909907
+      Pummel_106: 6658240802865846567
+      Pummel_107: 4842885191163234425
+      Pummel_108: -6119802390681667359
+      Pummel_109: -1551397459251765696
+      Pummel_11: 7331300090280494772
+      Pummel_110: 5826218485001470206
+      Pummel_111: -8533041130276877489
+      Pummel_112: 1992846050602206676
+      Pummel_113: 1675378801999685935
+      Pummel_114: -6798328669750505493
+      Pummel_115: -308701895415781549
+      Pummel_116: -6209472535194409294
+      Pummel_117: -5503251460317329016
+      Pummel_118: -8421444806342449765
+      Pummel_119: -1765849885995566814
+      Pummel_12: 3810249077530231347
+      Pummel_13: -2638062429481978098
+      Pummel_14: -8447666036516259896
+      Pummel_15: 4763598112992063475
+      Pummel_16: -4527557868624242956
+      Pummel_17: 1912996435409651412
+      Pummel_18: 4660847561695977279
+      Pummel_19: -2094224620713409833
+      Pummel_2: 4693322203136038508
+      Pummel_20: -6318038248491999530
+      Pummel_21: 6675106464631549468
+      Pummel_22: 6904970472716134619
+      Pummel_23: -3212030938138981342
+      Pummel_24: -4210475433166450974
+      Pummel_25: 8302725757798653412
+      Pummel_26: -482457950841080853
+      Pummel_27: -7375015973890634341
+      Pummel_28: -5888668085796355745
+      Pummel_29: 1526578293820480144
+      Pummel_3: 3268797375613049768
+      Pummel_30: -8626919614025682638
+      Pummel_31: -2807805086945755737
+      Pummel_32: 3777971157494156725
+      Pummel_33: 2855460596220367417
+      Pummel_34: 5584492147677542888
+      Pummel_35: 8185693935320157070
+      Pummel_36: -4771803404259643985
+      Pummel_37: -3826066345742014235
+      Pummel_38: 194526266625818777
+      Pummel_39: 7788414072275110409
+      Pummel_4: -7229126247182160258
+      Pummel_40: -7431988789908450778
+      Pummel_41: -3216303264178715632
+      Pummel_42: 321367826339689959
+      Pummel_43: -2737436056429069515
+      Pummel_44: -908305261521165071
+      Pummel_45: -7875221821245369808
+      Pummel_46: -5071253021518569115
+      Pummel_47: -6336947831663099600
+      Pummel_48: -7663600070543829234
+      Pummel_49: -3100776039732880229
+      Pummel_5: -7331365620431326314
+      Pummel_50: 859626121170232957
+      Pummel_51: -4608107917547954173
+      Pummel_52: -4407130877769925272
+      Pummel_53: 2739912759195042914
+      Pummel_54: 1401842046281521899
+      Pummel_55: 4387716999760352004
+      Pummel_56: -2694756937922467477
+      Pummel_57: 9004380553934232005
+      Pummel_58: 4614348701054297233
+      Pummel_59: -2763266829438885420
+      Pummel_6: 485061242434207745
+      Pummel_60: 9075213790065596693
+      Pummel_61: -4224218046638773264
+      Pummel_62: -1207855231801253792
+      Pummel_63: -75432776525521881
+      Pummel_64: 1490494709543589659
+      Pummel_65: 4919458531683121061
+      Pummel_66: 500834425519293559
+      Pummel_67: 1475428403357108199
+      Pummel_68: 6969093421592182017
+      Pummel_69: 245117681902610812
+      Pummel_7: -3162779782586593272
+      Pummel_70: -5132268246045004847
+      Pummel_71: -6994323874372548851
+      Pummel_72: 4227531533077571848
+      Pummel_73: 91418160789941752
+      Pummel_74: -2448246887225215161
+      Pummel_75: -4532288815484264742
+      Pummel_76: -4754241683208872732
+      Pummel_77: 7340607046141294645
+      Pummel_78: 3766936863761810385
+      Pummel_79: -3892498042580191160
+      Pummel_8: 370491036377249368
+      Pummel_80: -8906215109841519596
+      Pummel_81: -6603101724776229738
+      Pummel_82: -788127221679612561
+      Pummel_83: 5991566645805149453
+      Pummel_84: 3081915977462946091
+      Pummel_85: 4226728389395109850
+      Pummel_86: -520082190998389713
+      Pummel_87: 2565641369516580445
+      Pummel_88: -2090045689687419671
+      Pummel_89: -2282669292189734386
+      Pummel_9: 4427958956967719536
+      Pummel_90: -7401009683009868846
+      Pummel_91: 5939028553751070958
+      Pummel_92: -5214036139563529053
+      Pummel_93: 1515835179854752892
+      Pummel_94: 3987198585759305325
+      Pummel_95: -5825459512002504361
+      Pummel_96: -7231302001785777878
+      Pummel_97: 1254344798305027629
+      Pummel_98: -8363763359127842807
+      Pummel_99: 3682369804232984402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

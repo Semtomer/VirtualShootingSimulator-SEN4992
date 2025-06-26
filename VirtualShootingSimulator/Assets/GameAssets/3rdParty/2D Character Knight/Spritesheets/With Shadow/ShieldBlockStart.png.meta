@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 185e2bbc050eef9479437ae147ee568a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7932981732523690953
+    second: ShieldBlockStart_0
+  - first:
+      213: -6896643129533351261
+    second: ShieldBlockStart_1
+  - first:
+      213: 5124843297250379590
+    second: ShieldBlockStart_2
+  - first:
+      213: 1945757938931619663
+    second: ShieldBlockStart_3
+  - first:
+      213: 4563209314645627898
+    second: ShieldBlockStart_4
+  - first:
+      213: -2478596953446941406
+    second: ShieldBlockStart_5
+  - first:
+      213: 89652089459932438
+    second: ShieldBlockStart_6
+  - first:
+      213: 903581017089331073
+    second: ShieldBlockStart_7
+  - first:
+      213: 4971285646392573818
+    second: ShieldBlockStart_8
+  - first:
+      213: -1574565327592779991
+    second: ShieldBlockStart_9
+  - first:
+      213: -7282298871349513696
+    second: ShieldBlockStart_10
+  - first:
+      213: -2556561442867693879
+    second: ShieldBlockStart_11
+  - first:
+      213: 5671583438246184787
+    second: ShieldBlockStart_12
+  - first:
+      213: 1891469976812564033
+    second: ShieldBlockStart_13
+  - first:
+      213: 2825872865319708887
+    second: ShieldBlockStart_14
+  - first:
+      213: 4664904369417614930
+    second: ShieldBlockStart_15
+  - first:
+      213: 3551552948437029761
+    second: ShieldBlockStart_16
+  - first:
+      213: 5693873520027707177
+    second: ShieldBlockStart_17
+  - first:
+      213: 2117164408069697231
+    second: ShieldBlockStart_18
+  - first:
+      213: 6516447699441941380
+    second: ShieldBlockStart_19
+  - first:
+      213: 5935902065443266632
+    second: ShieldBlockStart_20
+  - first:
+      213: -7010081599223867118
+    second: ShieldBlockStart_21
+  - first:
+      213: 1438519804507720374
+    second: ShieldBlockStart_22
+  - first:
+      213: 1916636382242731497
+    second: ShieldBlockStart_23
+  - first:
+      213: 1726864592430838965
+    second: ShieldBlockStart_24
+  - first:
+      213: -9212873815954195791
+    second: ShieldBlockStart_25
+  - first:
+      213: -7588248768532165982
+    second: ShieldBlockStart_26
+  - first:
+      213: 5071992437780872398
+    second: ShieldBlockStart_27
+  - first:
+      213: -7894717937564544155
+    second: ShieldBlockStart_28
+  - first:
+      213: -1489651603167403150
+    second: ShieldBlockStart_29
+  - first:
+      213: 4119963773571810758
+    second: ShieldBlockStart_30
+  - first:
+      213: 8775086853837628048
+    second: ShieldBlockStart_31
+  - first:
+      213: 689398939905144831
+    second: ShieldBlockStart_32
+  - first:
+      213: 6621529813506389767
+    second: ShieldBlockStart_33
+  - first:
+      213: 2822181214004840653
+    second: ShieldBlockStart_34
+  - first:
+      213: -4110348251823919476
+    second: ShieldBlockStart_35
+  - first:
+      213: 3240144978016126876
+    second: ShieldBlockStart_36
+  - first:
+      213: 6487583714969380378
+    second: ShieldBlockStart_37
+  - first:
+      213: -3590639931690595824
+    second: ShieldBlockStart_38
+  - first:
+      213: -4824150878702394939
+    second: ShieldBlockStart_39
+  - first:
+      213: -2387976605916939499
+    second: ShieldBlockStart_40
+  - first:
+      213: 7520313407091297529
+    second: ShieldBlockStart_41
+  - first:
+      213: 3740762148929289764
+    second: ShieldBlockStart_42
+  - first:
+      213: 5304778375647411953
+    second: ShieldBlockStart_43
+  - first:
+      213: -540855577219297983
+    second: ShieldBlockStart_44
+  - first:
+      213: 8226517164383665584
+    second: ShieldBlockStart_45
+  - first:
+      213: 5831967179808945351
+    second: ShieldBlockStart_46
+  - first:
+      213: -4366534385775287916
+    second: ShieldBlockStart_47
+  - first:
+      213: 1191467533883118532
+    second: ShieldBlockStart_48
+  - first:
+      213: 1861567755424451774
+    second: ShieldBlockStart_49
+  - first:
+      213: -2563034502971375894
+    second: ShieldBlockStart_50
+  - first:
+      213: 8215330765430182551
+    second: ShieldBlockStart_51
+  - first:
+      213: -1327614851867989397
+    second: ShieldBlockStart_52
+  - first:
+      213: 4389786102898036365
+    second: ShieldBlockStart_53
+  - first:
+      213: -7114981731552076484
+    second: ShieldBlockStart_54
+  - first:
+      213: -7621680711010731388
+    second: ShieldBlockStart_55
+  - first:
+      213: -1274425281616505652
+    second: ShieldBlockStart_56
+  - first:
+      213: 6730433289415632133
+    second: ShieldBlockStart_57
+  - first:
+      213: 5651254842834887577
+    second: ShieldBlockStart_58
+  - first:
+      213: 6960836081481374371
+    second: ShieldBlockStart_59
+  - first:
+      213: 6695785550101578535
+    second: ShieldBlockStart_60
+  - first:
+      213: -7828597967009817961
+    second: ShieldBlockStart_61
+  - first:
+      213: 8251557615977098659
+    second: ShieldBlockStart_62
+  - first:
+      213: -6790087136998791062
+    second: ShieldBlockStart_63
+  - first:
+      213: -6402286230141943722
+    second: ShieldBlockStart_64
+  - first:
+      213: -6708150106853025206
+    second: ShieldBlockStart_65
+  - first:
+      213: 1236502227579001242
+    second: ShieldBlockStart_66
+  - first:
+      213: -1191695397841018501
+    second: ShieldBlockStart_67
+  - first:
+      213: -9064028134237430363
+    second: ShieldBlockStart_68
+  - first:
+      213: 6085871530033639738
+    second: ShieldBlockStart_69
+  - first:
+      213: 8989796261515750787
+    second: ShieldBlockStart_70
+  - first:
+      213: 2851260758377465063
+    second: ShieldBlockStart_71
+  - first:
+      213: -7670850759050437056
+    second: ShieldBlockStart_72
+  - first:
+      213: 2476309072401897766
+    second: ShieldBlockStart_73
+  - first:
+      213: 1412699230844498066
+    second: ShieldBlockStart_74
+  - first:
+      213: 5309544618288017803
+    second: ShieldBlockStart_75
+  - first:
+      213: -970242632071206820
+    second: ShieldBlockStart_76
+  - first:
+      213: -2980280461347580641
+    second: ShieldBlockStart_77
+  - first:
+      213: 7191108646768939102
+    second: ShieldBlockStart_78
+  - first:
+      213: 4408268278404871688
+    second: ShieldBlockStart_79
+  - first:
+      213: 1978426839168509651
+    second: ShieldBlockStart_80
+  - first:
+      213: -134070096685437739
+    second: ShieldBlockStart_81
+  - first:
+      213: 3543791632960735826
+    second: ShieldBlockStart_82
+  - first:
+      213: 6253648722458993359
+    second: ShieldBlockStart_83
+  - first:
+      213: -8100302078614620002
+    second: ShieldBlockStart_84
+  - first:
+      213: 7334313610558043243
+    second: ShieldBlockStart_85
+  - first:
+      213: 1698390837819717717
+    second: ShieldBlockStart_86
+  - first:
+      213: 7087884513093649817
+    second: ShieldBlockStart_87
+  - first:
+      213: -6461613413560906388
+    second: ShieldBlockStart_88
+  - first:
+      213: -7219776684362022917
+    second: ShieldBlockStart_89
+  - first:
+      213: -4678661264361069481
+    second: ShieldBlockStart_90
+  - first:
+      213: 4948611551194790415
+    second: ShieldBlockStart_91
+  - first:
+      213: -8858480231179359302
+    second: ShieldBlockStart_92
+  - first:
+      213: -8197750548101303956
+    second: ShieldBlockStart_93
+  - first:
+      213: -9201006384673513165
+    second: ShieldBlockStart_94
+  - first:
+      213: -3533022547037858627
+    second: ShieldBlockStart_95
+  - first:
+      213: -8255425232099020194
+    second: ShieldBlockStart_96
+  - first:
+      213: 1559253378712697177
+    second: ShieldBlockStart_97
+  - first:
+      213: 5292089837302899768
+    second: ShieldBlockStart_98
+  - first:
+      213: -3557584576881198190
+    second: ShieldBlockStart_99
+  - first:
+      213: -2837268534052739105
+    second: ShieldBlockStart_100
+  - first:
+      213: -84735933958128895
+    second: ShieldBlockStart_101
+  - first:
+      213: -9080657894502165661
+    second: ShieldBlockStart_102
+  - first:
+      213: 2974708742832594910
+    second: ShieldBlockStart_103
+  - first:
+      213: -1408370885319240178
+    second: ShieldBlockStart_104
+  - first:
+      213: 3557720384318039332
+    second: ShieldBlockStart_105
+  - first:
+      213: 754666609629771352
+    second: ShieldBlockStart_106
+  - first:
+      213: -1905632267357802961
+    second: ShieldBlockStart_107
+  - first:
+      213: 4037987798534659733
+    second: ShieldBlockStart_108
+  - first:
+      213: 1793927908844918597
+    second: ShieldBlockStart_109
+  - first:
+      213: 1508605242581158046
+    second: ShieldBlockStart_110
+  - first:
+      213: 3222877964001283062
+    second: ShieldBlockStart_111
+  - first:
+      213: -4222581023838666250
+    second: ShieldBlockStart_112
+  - first:
+      213: 1385717978002396448
+    second: ShieldBlockStart_113
+  - first:
+      213: 4628744685493472294
+    second: ShieldBlockStart_114
+  - first:
+      213: -5046731090886336941
+    second: ShieldBlockStart_115
+  - first:
+      213: -1457342100800405905
+    second: ShieldBlockStart_116
+  - first:
+      213: -5341927829675777022
+    second: ShieldBlockStart_117
+  - first:
+      213: 3041347282207160339
+    second: ShieldBlockStart_118
+  - first:
+      213: 8328061163557019094
+    second: ShieldBlockStart_119
+  - first:
+      213: 4185420007655759004
+    second: ShieldBlockStart_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldBlockStart_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734334f152368e190800000000000000
+      internalID: -7932981732523690953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 466
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aab6891d933a40a0800000000000000
+      internalID: -6896643129533351261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 466
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647862683d91f1740800000000000000
+      internalID: 5124843297250379590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 466
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475ae05988b00b10800000000000000
+      internalID: 1945757938931619663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 467
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d43bd1b6c35f30800000000000000
+      internalID: 4563209314645627898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 467
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dfd68f3314a9dd0800000000000000
+      internalID: -2478596953446941406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 465
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d71a1b9128e3100800000000000000
+      internalID: 89652089459932438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 463
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f456dc52a2a8c00800000000000000
+      internalID: 903581017089331073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 463
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3a36d4fd8df440800000000000000
+      internalID: 4971285646392573818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 461
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f8f2d4d25062ae0800000000000000
+      internalID: -1574565327592779991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 461
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fbf082c310fa90800000000000000
+      internalID: -7282298871349513696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 461
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c63967b9e4458cd0800000000000000
+      internalID: -2556561442867693879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 460
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35707a6761385be40800000000000000
+      internalID: 5671583438246184787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 460
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eaa372ce9df3a10800000000000000
+      internalID: 1891469976812564033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 460
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ebcd1664873720800000000000000
+      internalID: 2825872865319708887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 399
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256fd4aeec11db040800000000000000
+      internalID: 4664904369417614930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 398
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839494f696a94130800000000000000
+      internalID: 3551552948437029761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 398
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927214d8cc3b40f40800000000000000
+      internalID: 5693873520027707177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 398
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce281adfcda16d10800000000000000
+      internalID: 2117164408069697231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 396
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bf5a238a21f6a50800000000000000
+      internalID: 6516447699441941380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 396
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e0409a7f806250800000000000000
+      internalID: 5935902065443266632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 394
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21952cf2def27be90800000000000000
+      internalID: -7010081599223867118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 394
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0c0ef326a6f310800000000000000
+      internalID: 1438519804507720374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 394
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5fa2782a2499a10800000000000000
+      internalID: 1916636382242731497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_24
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 395
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43a0f823e07f710800000000000000
+      internalID: 1726864592430838965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_25
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 395
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba7d87831c452080800000000000000
+      internalID: -9212873815954195791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 395
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa485403ff11b690800000000000000
+      internalID: -7588248768532165982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 395
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7565ef36536640800000000000000
+      internalID: 5071992437780872398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 396
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639f812dd3507290800000000000000
+      internalID: -7894717937564544155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_29
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 397
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273ad1a62c1b35be0800000000000000
+      internalID: -1489651603167403150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5c93b393d0d2930800000000000000
+      internalID: 4119963773571810758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 335
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092213c400f57c970800000000000000
+      internalID: 8775086853837628048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 335
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7b399eeac319900800000000000000
+      internalID: 689398939905144831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 335
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f4b3784664eb50800000000000000
+      internalID: 6621529813506389767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 333
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc80a809cd66a2720800000000000000
+      internalID: 2822181214004840653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 331
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e23e2ea0c15f6c0800000000000000
+      internalID: -4110348251823919476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 332
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ca63c0be47fc20800000000000000
+      internalID: 3240144978016126876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 333
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16eb5d1407880a50800000000000000
+      internalID: 6487583714969380378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 333
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01acf33910c7b2ec0800000000000000
+      internalID: -3590639931690595824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_39
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 332
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c12e04d55c2d0db0800000000000000
+      internalID: -4824150878702394939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_40
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 332
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bb060dde33cded0800000000000000
+      internalID: -2387976605916939499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 332
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc84d03358d5860800000000000000
+      internalID: 7520313407091297529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_42
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 333
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3824ea5bd9e330800000000000000
+      internalID: 3740762148929289764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 333
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe33a4a3db5e9940800000000000000
+      internalID: 5304778375647411953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 332
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d0e05d7be7e78f0800000000000000
+      internalID: -540855577219297983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 273
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfdb966c57a2270800000000000000
+      internalID: 8226517164383665584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 273
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4bf3e304f4fe050800000000000000
+      internalID: 5831967179808945351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 273
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e55c6c14f663c0800000000000000
+      internalID: -4366534385775287916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3938ec861f88010800000000000000
+      internalID: 1191467533883118532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 272
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4563b20e95d910800000000000000
+      internalID: 1861567755424451774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 271
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3257f2b54e6cd0800000000000000
+      internalID: -2563034502971375894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 270
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ddc1fdc7b20270800000000000000
+      internalID: 8215330765430182551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 271
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a20e3835d539de0800000000000000
+      internalID: -1327614851867989397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_53
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 271
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e0f27d337abec30800000000000000
+      internalID: 4389786102898036365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_54
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd17bdfc1824d90800000000000000
+      internalID: -7114981731552076484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_55
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a32c456c95a3690800000000000000
+      internalID: -7621680711010731388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_56
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 271
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4987465f4505ee0800000000000000
+      internalID: -1274425281616505652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_57
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 271
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052518da6d476d50800000000000000
+      internalID: 6730433289415632133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_58
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 271
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932162865a4d6e40800000000000000
+      internalID: 5651254842834887577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_59
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 271
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5b68398bd99060800000000000000
+      internalID: 6960836081481374371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 212
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238ff56b753cec50800000000000000
+      internalID: 6695785550101578535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad80f60ab3b5390800000000000000
+      internalID: -7828597967009817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adebffdeeb638270800000000000000
+      internalID: 8251557615977098659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 212
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ec3d69b3c4c1a0800000000000000
+      internalID: -6790087136998791062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 211
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c30e28928627a0800000000000000
+      internalID: -6402286230141943722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 211
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ad605e40dd7e2a0800000000000000
+      internalID: -6708150106853025206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 212
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9953d68930f82110800000000000000
+      internalID: 1236502227579001242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 213
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e73b795f367fe0800000000000000
+      internalID: -1191695397841018501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 214
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad91a86f6a163280800000000000000
+      internalID: -9064028134237430363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 214
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31715889eb557450800000000000000
+      internalID: 6085871530033639738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 214
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de7c2e11c22cc70800000000000000
+      internalID: 8989796261515750787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_71
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 214
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e489199d86b19720800000000000000
+      internalID: 2851260758377465063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_72
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 214
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e53c560e9ab8590800000000000000
+      internalID: -7670850759050437056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_73
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 214
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62997963bfd9d5220800000000000000
+      internalID: 2476309072401897766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_74
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 214
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29034f4377aea9310800000000000000
+      internalID: 1412699230844498066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f42cf2ba4fa940800000000000000
+      internalID: 5309544618288017803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58a47977710982f0800000000000000
+      internalID: -970242632071206820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15175ae5bae3a6d0800000000000000
+      internalID: -2980280461347580641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5017efc633fbc360800000000000000
+      internalID: 7191108646768939102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 149
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806f1f8a4a05d2d30800000000000000
+      internalID: 4408268278404871688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 149
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ecb26ab8c47b10800000000000000
+      internalID: 1978426839168509651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 149
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcef0815ffa32ef0800000000000000
+      internalID: -134070096685437739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_82
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 149
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a40a0e6b31e2130800000000000000
+      internalID: 3543791632960735826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_83
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 149
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26e3c316c69c650800000000000000
+      internalID: 6253648722458993359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_84
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 148
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9831de3d22f59f80800000000000000
+      internalID: -8100302078614620002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 148
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ff94be57b8c560800000000000000
+      internalID: 7334313610558043243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_86
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 149
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b502f775e19710800000000000000
+      internalID: 1698390837819717717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_87
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 149
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99580f359693d5260800000000000000
+      internalID: 7087884513093649817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_88
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 149
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8dc0e5dcb356a0800000000000000
+      internalID: -6461613413560906388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_89
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 149
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff34fa8b533ecb90800000000000000
+      internalID: -7219776684362022917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e0616e5e021fb0800000000000000
+      internalID: -4678661264361069481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3c58acfffca440800000000000000
+      internalID: 4948611551194790415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbebbaf92b501580800000000000000
+      internalID: -8858480231179359302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 84
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61782f5f4dbb3e80800000000000000
+      internalID: -8197750548101303956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312f6131757f4080800000000000000
+      internalID: -9201006384673513165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 84
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4dc5456be28fec0800000000000000
+      internalID: -3533022547037858627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 83
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f0f29d76de6d80800000000000000
+      internalID: -8255425232099020194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_97
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 83
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597ff8cfa493a510800000000000000
+      internalID: 1559253378712697177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 82
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e4e71ba7417940800000000000000
+      internalID: 5292089837302899768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_99
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 82
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b769c1dabe0aec0800000000000000
+      internalID: -3557584576881198190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_100
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 82
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a46ffc4fff98d0800000000000000
+      internalID: -2837268534052739105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_101
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 83
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf6b4fd15f2def0800000000000000
+      internalID: -84735933958128895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_102
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 83
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3631a5f91c50bf180800000000000000
+      internalID: -9080657894502165661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_103
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 84
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf19c647d9484920800000000000000
+      internalID: 2974708742832594910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_104
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 84
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065b844426747ce0800000000000000
+      internalID: -1408370885319240178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425617507df8f5130800000000000000
+      internalID: 3557720384318039332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 18
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856b4d6784d197a00800000000000000
+      internalID: 754666609629771352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ead9f9c85dd85e0800000000000000
+      internalID: -1905632267357802961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e15033280d90830800000000000000
+      internalID: 4037987798534659733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_109
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5475c5fadef45e810800000000000000
+      internalID: 1793927908844918597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_110
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 18
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e988756a974afe410800000000000000
+      internalID: 1508605242581158046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_111
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 18
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb0bb6ce66f9bc20800000000000000
+      internalID: 3222877964001283062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_112
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18ac65ee06665c0800000000000000
+      internalID: -4222581023838666250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_113
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 18
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02594bdb82f0b3310800000000000000
+      internalID: 1385717978002396448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_114
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc0de64ca9c3040800000000000000
+      internalID: 4628744685493472294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_115
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 19
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35edcc2cfc866f9b0800000000000000
+      internalID: -5046731090886336941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_116
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 19
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ef195a41b76cbe0800000000000000
+      internalID: -1457342100800405905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_117
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 19
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e66011f8add5b0800000000000000
+      internalID: -5341927829675777022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_118
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 19
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318be8a4d39053a20800000000000000
+      internalID: 3041347282207160339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_119
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 19
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddda891187339370800000000000000
+      internalID: 8328061163557019094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldBlockStart_120
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 18
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c52285259951a30800000000000000
+      internalID: 4185420007655759004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShieldBlockStart_0: -7932981732523690953
+      ShieldBlockStart_1: -6896643129533351261
+      ShieldBlockStart_10: -7282298871349513696
+      ShieldBlockStart_100: -2837268534052739105
+      ShieldBlockStart_101: -84735933958128895
+      ShieldBlockStart_102: -9080657894502165661
+      ShieldBlockStart_103: 2974708742832594910
+      ShieldBlockStart_104: -1408370885319240178
+      ShieldBlockStart_105: 3557720384318039332
+      ShieldBlockStart_106: 754666609629771352
+      ShieldBlockStart_107: -1905632267357802961
+      ShieldBlockStart_108: 4037987798534659733
+      ShieldBlockStart_109: 1793927908844918597
+      ShieldBlockStart_11: -2556561442867693879
+      ShieldBlockStart_110: 1508605242581158046
+      ShieldBlockStart_111: 3222877964001283062
+      ShieldBlockStart_112: -4222581023838666250
+      ShieldBlockStart_113: 1385717978002396448
+      ShieldBlockStart_114: 4628744685493472294
+      ShieldBlockStart_115: -5046731090886336941
+      ShieldBlockStart_116: -1457342100800405905
+      ShieldBlockStart_117: -5341927829675777022
+      ShieldBlockStart_118: 3041347282207160339
+      ShieldBlockStart_119: 8328061163557019094
+      ShieldBlockStart_12: 5671583438246184787
+      ShieldBlockStart_120: 4185420007655759004
+      ShieldBlockStart_13: 1891469976812564033
+      ShieldBlockStart_14: 2825872865319708887
+      ShieldBlockStart_15: 4664904369417614930
+      ShieldBlockStart_16: 3551552948437029761
+      ShieldBlockStart_17: 5693873520027707177
+      ShieldBlockStart_18: 2117164408069697231
+      ShieldBlockStart_19: 6516447699441941380
+      ShieldBlockStart_2: 5124843297250379590
+      ShieldBlockStart_20: 5935902065443266632
+      ShieldBlockStart_21: -7010081599223867118
+      ShieldBlockStart_22: 1438519804507720374
+      ShieldBlockStart_23: 1916636382242731497
+      ShieldBlockStart_24: 1726864592430838965
+      ShieldBlockStart_25: -9212873815954195791
+      ShieldBlockStart_26: -7588248768532165982
+      ShieldBlockStart_27: 5071992437780872398
+      ShieldBlockStart_28: -7894717937564544155
+      ShieldBlockStart_29: -1489651603167403150
+      ShieldBlockStart_3: 1945757938931619663
+      ShieldBlockStart_30: 4119963773571810758
+      ShieldBlockStart_31: 8775086853837628048
+      ShieldBlockStart_32: 689398939905144831
+      ShieldBlockStart_33: 6621529813506389767
+      ShieldBlockStart_34: 2822181214004840653
+      ShieldBlockStart_35: -4110348251823919476
+      ShieldBlockStart_36: 3240144978016126876
+      ShieldBlockStart_37: 6487583714969380378
+      ShieldBlockStart_38: -3590639931690595824
+      ShieldBlockStart_39: -4824150878702394939
+      ShieldBlockStart_4: 4563209314645627898
+      ShieldBlockStart_40: -2387976605916939499
+      ShieldBlockStart_41: 7520313407091297529
+      ShieldBlockStart_42: 3740762148929289764
+      ShieldBlockStart_43: 5304778375647411953
+      ShieldBlockStart_44: -540855577219297983
+      ShieldBlockStart_45: 8226517164383665584
+      ShieldBlockStart_46: 5831967179808945351
+      ShieldBlockStart_47: -4366534385775287916
+      ShieldBlockStart_48: 1191467533883118532
+      ShieldBlockStart_49: 1861567755424451774
+      ShieldBlockStart_5: -2478596953446941406
+      ShieldBlockStart_50: -2563034502971375894
+      ShieldBlockStart_51: 8215330765430182551
+      ShieldBlockStart_52: -1327614851867989397
+      ShieldBlockStart_53: 4389786102898036365
+      ShieldBlockStart_54: -7114981731552076484
+      ShieldBlockStart_55: -7621680711010731388
+      ShieldBlockStart_56: -1274425281616505652
+      ShieldBlockStart_57: 6730433289415632133
+      ShieldBlockStart_58: 5651254842834887577
+      ShieldBlockStart_59: 6960836081481374371
+      ShieldBlockStart_6: 89652089459932438
+      ShieldBlockStart_60: 6695785550101578535
+      ShieldBlockStart_61: -7828597967009817961
+      ShieldBlockStart_62: 8251557615977098659
+      ShieldBlockStart_63: -6790087136998791062
+      ShieldBlockStart_64: -6402286230141943722
+      ShieldBlockStart_65: -6708150106853025206
+      ShieldBlockStart_66: 1236502227579001242
+      ShieldBlockStart_67: -1191695397841018501
+      ShieldBlockStart_68: -9064028134237430363
+      ShieldBlockStart_69: 6085871530033639738
+      ShieldBlockStart_7: 903581017089331073
+      ShieldBlockStart_70: 8989796261515750787
+      ShieldBlockStart_71: 2851260758377465063
+      ShieldBlockStart_72: -7670850759050437056
+      ShieldBlockStart_73: 2476309072401897766
+      ShieldBlockStart_74: 1412699230844498066
+      ShieldBlockStart_75: 5309544618288017803
+      ShieldBlockStart_76: -970242632071206820
+      ShieldBlockStart_77: -2980280461347580641
+      ShieldBlockStart_78: 7191108646768939102
+      ShieldBlockStart_79: 4408268278404871688
+      ShieldBlockStart_8: 4971285646392573818
+      ShieldBlockStart_80: 1978426839168509651
+      ShieldBlockStart_81: -134070096685437739
+      ShieldBlockStart_82: 3543791632960735826
+      ShieldBlockStart_83: 6253648722458993359
+      ShieldBlockStart_84: -8100302078614620002
+      ShieldBlockStart_85: 7334313610558043243
+      ShieldBlockStart_86: 1698390837819717717
+      ShieldBlockStart_87: 7087884513093649817
+      ShieldBlockStart_88: -6461613413560906388
+      ShieldBlockStart_89: -7219776684362022917
+      ShieldBlockStart_9: -1574565327592779991
+      ShieldBlockStart_90: -4678661264361069481
+      ShieldBlockStart_91: 4948611551194790415
+      ShieldBlockStart_92: -8858480231179359302
+      ShieldBlockStart_93: -8197750548101303956
+      ShieldBlockStart_94: -9201006384673513165
+      ShieldBlockStart_95: -3533022547037858627
+      ShieldBlockStart_96: -8255425232099020194
+      ShieldBlockStart_97: 1559253378712697177
+      ShieldBlockStart_98: 5292089837302899768
+      ShieldBlockStart_99: -3557584576881198190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

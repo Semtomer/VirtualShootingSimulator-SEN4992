@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 12d37c87c18afa543b58991091fb09c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6758535904981911189
+    second: RunBackwards_Shadowless_0
+  - first:
+      213: 4428161112673446583
+    second: RunBackwards_Shadowless_1
+  - first:
+      213: 3989498720743038410
+    second: RunBackwards_Shadowless_2
+  - first:
+      213: -4015161149641082484
+    second: RunBackwards_Shadowless_3
+  - first:
+      213: 5724480085985212115
+    second: RunBackwards_Shadowless_4
+  - first:
+      213: 8835844896556613374
+    second: RunBackwards_Shadowless_5
+  - first:
+      213: -223246629683073180
+    second: RunBackwards_Shadowless_6
+  - first:
+      213: -1063801686820148509
+    second: RunBackwards_Shadowless_7
+  - first:
+      213: 5743794710152601304
+    second: RunBackwards_Shadowless_8
+  - first:
+      213: -5958498278970366277
+    second: RunBackwards_Shadowless_9
+  - first:
+      213: -3082206346667281613
+    second: RunBackwards_Shadowless_10
+  - first:
+      213: 7718969089913237706
+    second: RunBackwards_Shadowless_11
+  - first:
+      213: 4967438016520787953
+    second: RunBackwards_Shadowless_12
+  - first:
+      213: 8507764793141858597
+    second: RunBackwards_Shadowless_13
+  - first:
+      213: -1406379042904185019
+    second: RunBackwards_Shadowless_14
+  - first:
+      213: 5886631495780361213
+    second: RunBackwards_Shadowless_15
+  - first:
+      213: -2770362577837237930
+    second: RunBackwards_Shadowless_16
+  - first:
+      213: 6681311124538652788
+    second: RunBackwards_Shadowless_17
+  - first:
+      213: -2979526617641489764
+    second: RunBackwards_Shadowless_18
+  - first:
+      213: -5725305871695310662
+    second: RunBackwards_Shadowless_19
+  - first:
+      213: -3354663871306753124
+    second: RunBackwards_Shadowless_20
+  - first:
+      213: -7443163304181086152
+    second: RunBackwards_Shadowless_21
+  - first:
+      213: -1797263159553240381
+    second: RunBackwards_Shadowless_22
+  - first:
+      213: 7329605566203561243
+    second: RunBackwards_Shadowless_23
+  - first:
+      213: 4758371758534548924
+    second: RunBackwards_Shadowless_24
+  - first:
+      213: 2818281531925954756
+    second: RunBackwards_Shadowless_25
+  - first:
+      213: 4213848220080167396
+    second: RunBackwards_Shadowless_26
+  - first:
+      213: 4496048452319486978
+    second: RunBackwards_Shadowless_27
+  - first:
+      213: -9053445071874011849
+    second: RunBackwards_Shadowless_28
+  - first:
+      213: -6093037084929194702
+    second: RunBackwards_Shadowless_29
+  - first:
+      213: -1154197634599498101
+    second: RunBackwards_Shadowless_30
+  - first:
+      213: 147523302979392388
+    second: RunBackwards_Shadowless_31
+  - first:
+      213: 3959788088677195811
+    second: RunBackwards_Shadowless_32
+  - first:
+      213: 3435950740097745233
+    second: RunBackwards_Shadowless_33
+  - first:
+      213: 5322784613440380962
+    second: RunBackwards_Shadowless_34
+  - first:
+      213: -6910440039858841336
+    second: RunBackwards_Shadowless_35
+  - first:
+      213: 8595441063579446163
+    second: RunBackwards_Shadowless_36
+  - first:
+      213: -6940177680847362577
+    second: RunBackwards_Shadowless_37
+  - first:
+      213: -6995261233186801166
+    second: RunBackwards_Shadowless_38
+  - first:
+      213: 9214420685534080686
+    second: RunBackwards_Shadowless_39
+  - first:
+      213: 6855741611561644521
+    second: RunBackwards_Shadowless_40
+  - first:
+      213: 2959679276710874347
+    second: RunBackwards_Shadowless_41
+  - first:
+      213: 8721623335847411926
+    second: RunBackwards_Shadowless_42
+  - first:
+      213: 1246587138008203926
+    second: RunBackwards_Shadowless_43
+  - first:
+      213: 1042753197343836020
+    second: RunBackwards_Shadowless_44
+  - first:
+      213: -4211886235109341990
+    second: RunBackwards_Shadowless_45
+  - first:
+      213: 6576882839801482139
+    second: RunBackwards_Shadowless_46
+  - first:
+      213: 6312082637804136591
+    second: RunBackwards_Shadowless_47
+  - first:
+      213: 4128585539351677298
+    second: RunBackwards_Shadowless_48
+  - first:
+      213: -5030761861526617954
+    second: RunBackwards_Shadowless_49
+  - first:
+      213: 3769409713989886132
+    second: RunBackwards_Shadowless_50
+  - first:
+      213: 8689067647735027487
+    second: RunBackwards_Shadowless_51
+  - first:
+      213: 8401402129693063850
+    second: RunBackwards_Shadowless_52
+  - first:
+      213: 4389303491715518631
+    second: RunBackwards_Shadowless_53
+  - first:
+      213: -7116210090188451784
+    second: RunBackwards_Shadowless_54
+  - first:
+      213: -243847955899283601
+    second: RunBackwards_Shadowless_55
+  - first:
+      213: 1723574637128892938
+    second: RunBackwards_Shadowless_56
+  - first:
+      213: 5084383965877397232
+    second: RunBackwards_Shadowless_57
+  - first:
+      213: 2376105898522042977
+    second: RunBackwards_Shadowless_58
+  - first:
+      213: 7651191609765209773
+    second: RunBackwards_Shadowless_59
+  - first:
+      213: -4623527506299330265
+    second: RunBackwards_Shadowless_60
+  - first:
+      213: 2836078409787743112
+    second: RunBackwards_Shadowless_61
+  - first:
+      213: -880956639684919546
+    second: RunBackwards_Shadowless_62
+  - first:
+      213: 3555335962113984637
+    second: RunBackwards_Shadowless_63
+  - first:
+      213: 1297849172280242407
+    second: RunBackwards_Shadowless_64
+  - first:
+      213: -6280163891541404875
+    second: RunBackwards_Shadowless_65
+  - first:
+      213: -6813582566843379136
+    second: RunBackwards_Shadowless_66
+  - first:
+      213: 9067882236316812115
+    second: RunBackwards_Shadowless_67
+  - first:
+      213: -3945291866367693652
+    second: RunBackwards_Shadowless_68
+  - first:
+      213: -4999264498804309946
+    second: RunBackwards_Shadowless_69
+  - first:
+      213: 5965099703323398068
+    second: RunBackwards_Shadowless_70
+  - first:
+      213: -3063571031571504345
+    second: RunBackwards_Shadowless_71
+  - first:
+      213: -4463449680504055055
+    second: RunBackwards_Shadowless_72
+  - first:
+      213: 8716099794315502547
+    second: RunBackwards_Shadowless_73
+  - first:
+      213: 6508267028638336981
+    second: RunBackwards_Shadowless_74
+  - first:
+      213: -4526067256769608487
+    second: RunBackwards_Shadowless_75
+  - first:
+      213: -7020961777686012560
+    second: RunBackwards_Shadowless_76
+  - first:
+      213: -6899448034007271577
+    second: RunBackwards_Shadowless_77
+  - first:
+      213: -2814578852937976913
+    second: RunBackwards_Shadowless_78
+  - first:
+      213: -8373505134407429496
+    second: RunBackwards_Shadowless_79
+  - first:
+      213: -5810883160047232962
+    second: RunBackwards_Shadowless_80
+  - first:
+      213: 8951600584449382916
+    second: RunBackwards_Shadowless_81
+  - first:
+      213: -3965541446832728305
+    second: RunBackwards_Shadowless_82
+  - first:
+      213: -7059239338940818630
+    second: RunBackwards_Shadowless_83
+  - first:
+      213: -3507319833377303061
+    second: RunBackwards_Shadowless_84
+  - first:
+      213: -5292101179375930311
+    second: RunBackwards_Shadowless_85
+  - first:
+      213: -7905786306721018168
+    second: RunBackwards_Shadowless_86
+  - first:
+      213: -8493475580030532308
+    second: RunBackwards_Shadowless_87
+  - first:
+      213: -3832839859374839599
+    second: RunBackwards_Shadowless_88
+  - first:
+      213: -1116305206878742427
+    second: RunBackwards_Shadowless_89
+  - first:
+      213: -7473404192811257849
+    second: RunBackwards_Shadowless_90
+  - first:
+      213: 1386106438460034416
+    second: RunBackwards_Shadowless_91
+  - first:
+      213: -9055833420785180774
+    second: RunBackwards_Shadowless_92
+  - first:
+      213: 6165273454531686638
+    second: RunBackwards_Shadowless_93
+  - first:
+      213: -5632380758520316772
+    second: RunBackwards_Shadowless_94
+  - first:
+      213: -7883950255839290705
+    second: RunBackwards_Shadowless_95
+  - first:
+      213: 5280380388829623468
+    second: RunBackwards_Shadowless_96
+  - first:
+      213: -8719479487383707168
+    second: RunBackwards_Shadowless_97
+  - first:
+      213: 1987422278356710647
+    second: RunBackwards_Shadowless_98
+  - first:
+      213: 116538015592949586
+    second: RunBackwards_Shadowless_99
+  - first:
+      213: 511069431902045986
+    second: RunBackwards_Shadowless_100
+  - first:
+      213: 2437087118157653984
+    second: RunBackwards_Shadowless_101
+  - first:
+      213: 5933274858938087148
+    second: RunBackwards_Shadowless_102
+  - first:
+      213: 2375985407489930115
+    second: RunBackwards_Shadowless_103
+  - first:
+      213: -1591427517197133056
+    second: RunBackwards_Shadowless_104
+  - first:
+      213: 1591944717087402913
+    second: RunBackwards_Shadowless_105
+  - first:
+      213: 6458330263537144084
+    second: RunBackwards_Shadowless_106
+  - first:
+      213: -883728932258449688
+    second: RunBackwards_Shadowless_107
+  - first:
+      213: -4988589966472627010
+    second: RunBackwards_Shadowless_108
+  - first:
+      213: -2218401212905695570
+    second: RunBackwards_Shadowless_109
+  - first:
+      213: -2085757124089914728
+    second: RunBackwards_Shadowless_110
+  - first:
+      213: -638821914416674343
+    second: RunBackwards_Shadowless_111
+  - first:
+      213: 7695514306183080056
+    second: RunBackwards_Shadowless_112
+  - first:
+      213: 8553380861961907295
+    second: RunBackwards_Shadowless_113
+  - first:
+      213: 2553836858992785339
+    second: RunBackwards_Shadowless_114
+  - first:
+      213: -3824968153304891374
+    second: RunBackwards_Shadowless_115
+  - first:
+      213: -1165727811366097555
+    second: RunBackwards_Shadowless_116
+  - first:
+      213: 7026315818747732805
+    second: RunBackwards_Shadowless_117
+  - first:
+      213: -331835515235265093
+    second: RunBackwards_Shadowless_118
+  - first:
+      213: -1883853329562770294
+    second: RunBackwards_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 470
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5968b2ae8942bcd50800000000000000
+      internalID: 6758535904981911189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 470
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6911121df37d30800000000000000
+      internalID: 4428161112673446583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 470
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd93c103fb8d5730800000000000000
+      internalID: 3989498720743038410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 470
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b1b725384748c0800000000000000
+      internalID: -4015161149641082484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 470
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d632f00f40717f40800000000000000
+      internalID: 5724480085985212115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 471
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe74bd7e1a3f9a70800000000000000
+      internalID: 8835844896556613374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 471
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fef648f5ed6ecf0800000000000000
+      internalID: -223246629683073180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 471
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaaf99800e9c31f0800000000000000
+      internalID: -1063801686820148509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 471
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded9616bde06bf40800000000000000
+      internalID: 5743794710152601304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 471
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e13f72692f4da0800000000000000
+      internalID: -5958498278970366277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 471
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333317e68adc935d0800000000000000
+      internalID: -3082206346667281613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 470
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0bf7c8d794f1b60800000000000000
+      internalID: 7718969089913237706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 470
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71e72be82efe440800000000000000
+      internalID: 4967438016520787953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 470
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5219bc7d007a11670800000000000000
+      internalID: 8507764793141858597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 470
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547642836b98b7ce0800000000000000
+      internalID: -1406379042904185019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df36d9d182481b150800000000000000
+      internalID: 5886631495780361213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d9f8d9e1bd89d0800000000000000
+      internalID: -2770362577837237930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478fdf39119c8bc50800000000000000
+      internalID: 6681311124538652788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a68a4d35896a6d0800000000000000
+      internalID: -2979526617641489764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 405
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab09427c4a0ab80b0800000000000000
+      internalID: -5725305871695310662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 406
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b9ce99bf6d171d0800000000000000
+      internalID: -3354663871306753124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8384011196294b890800000000000000
+      internalID: -7443163304181086152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 407
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2deeebda6de07e0800000000000000
+      internalID: -1797263159553240381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 406
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b150a45bd6df7b560800000000000000
+      internalID: 7329605566203561243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 405
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdd3b847e1290240800000000000000
+      internalID: 4758371758534548924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 405
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c08d731f1c8c1720800000000000000
+      internalID: 2818281531925954756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 405
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e95a4751a89a7a30800000000000000
+      internalID: 4213848220080167396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 406
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a27d0f3c256e30800000000000000
+      internalID: 4496048452319486978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 407
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4071aca3bb5280800000000000000
+      internalID: -9053445071874011849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 406
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358385bd0f217ba0800000000000000
+      internalID: -6093037084929194702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 342
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec915dd577bffe0800000000000000
+      internalID: -1154197634599498101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483dd2699ab1c0200800000000000000
+      internalID: 147523302979392388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 340
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206d6b694ef3f630800000000000000
+      internalID: 3959788088677195811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 340
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15144416ef2feaf20800000000000000
+      internalID: 3435950740097745233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 341
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220670497645ed940800000000000000
+      internalID: 5322784613440380962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 342
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d396956f2910a0800000000000000
+      internalID: -6910440039858841336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 342
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b65725b14294770800000000000000
+      internalID: 8595441063579446163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 342
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5affe7b298faf90800000000000000
+      internalID: -6940177680847362577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 341
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f6dc88f6dbee90800000000000000
+      internalID: -6995261233186801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae254c1bc230ef70800000000000000
+      internalID: 9214420685534080686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fef42cac742f50800000000000000
+      internalID: 6855741611561644521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccf610f94e21920800000000000000
+      internalID: 2959679276710874347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d041fdf63e690970800000000000000
+      internalID: 8721623335847411926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cc86b564cc4110800000000000000
+      internalID: 1246587138008203926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 342
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477051c128a987e00800000000000000
+      internalID: 1042753197343836020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 279
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad443f1e8cf5c85c0800000000000000
+      internalID: -4211886235109341990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 278
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcab3d818c54b50800000000000000
+      internalID: 6576882839801482139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 278
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e93b57b5099750800000000000000
+      internalID: 6312082637804136591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 278
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790fd18caeab4930800000000000000
+      internalID: 4128585539351677298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 279
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908f16bdb42f2ab0800000000000000
+      internalID: -5030761861526617954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 279
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b02647e922af4430800000000000000
+      internalID: 3769409713989886132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 279
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d59c2df4c59870800000000000000
+      internalID: 8689067647735027487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 278
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab09379b6c79470800000000000000
+      internalID: 8401402129693063850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 277
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d51b2540f9ec30800000000000000
+      internalID: 4389303491715518631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 277
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830544350a42e3d90800000000000000
+      internalID: -7116210090188451784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 276
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f670b69739dad9cf0800000000000000
+      internalID: -243847955899283601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 276
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02c0f5200e5be710800000000000000
+      internalID: 1723574637128892938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 277
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f660db574c5f8640800000000000000
+      internalID: 5084383965877397232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 277
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ed1eb9bf99f020800000000000000
+      internalID: 2376105898522042977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 278
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da621883b3e7e2a60800000000000000
+      internalID: 7651191609765209773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 215
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e7c1ca3ee5dfb0800000000000000
+      internalID: -4623527506299330265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 215
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b9d8a9946cb5720800000000000000
+      internalID: 2836078409787743112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 215
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ffe0d8a9636c3f0800000000000000
+      internalID: -880956639684919546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 215
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c9f67837175130800000000000000
+      internalID: 3555335962113984637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07cc522f2e20210800000000000000
+      internalID: 1297849172280242407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 215
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339071e63068d8a0800000000000000
+      internalID: -6280163891541404875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 215
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042918f51ca4171a0800000000000000
+      internalID: -6813582566843379136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 214
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530db8a9d697dd70800000000000000
+      internalID: 9067882236316812115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 214
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac6ae953f18f39c0800000000000000
+      internalID: -3945291866367693652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 214
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6404c82fc6b0f9ab0800000000000000
+      internalID: -4999264498804309946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 215
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0162639a48c250800000000000000
+      internalID: 5965099703323398068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 215
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723e007d0620c75d0800000000000000
+      internalID: -3063571031571504345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 215
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa99b8f924ae02c0800000000000000
+      internalID: -4463449680504055055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 215
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e703459ec5f870800000000000000
+      internalID: 8716099794315502547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 215
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d700695162025a50800000000000000
+      internalID: 6508267028638336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d488b26fcd2031c0800000000000000
+      internalID: -4526067256769608487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1e6b3678809e90800000000000000
+      internalID: -7020961777686012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767bab2619c3040a0800000000000000
+      internalID: -6899448034007271577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa33e4e027b90f8d0800000000000000
+      internalID: -2814578852937976913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825cbae1755bcb80800000000000000
+      internalID: -8373505134407429496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38d516ad889b5fa0800000000000000
+      internalID: -5810883160047232962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 151
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ad84fcd497a3c70800000000000000
+      internalID: 8951600584449382916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 151
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07527f701197f8c0800000000000000
+      internalID: -3965541446832728305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 150
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b18f1093b880e90800000000000000
+      internalID: -7059239338940818630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 150
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51dd1b13f735fc0800000000000000
+      internalID: -3507319833377303061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 150
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9343fdf140eae86b0800000000000000
+      internalID: -5292101179375930311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 150
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0fbd9d31094290800000000000000
+      internalID: -7905786306721018168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 150
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2543d7d5fc112a80800000000000000
+      internalID: -8493475580030532308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 151
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8210584740fcac0800000000000000
+      internalID: -3832839859374839599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 151
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d21b24561280f0800000000000000
+      internalID: -1116305206878742427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 87
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700f1908b72294890800000000000000
+      internalID: -7473404192811257849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 85
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dca4d36707c3310800000000000000
+      internalID: 1386106438460034416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 84
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1df0db77335280800000000000000
+      internalID: -9055833420785180774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 85
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0b188ba837f8550800000000000000
+      internalID: 6165273454531686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 86
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb6a0ba83c5d1b0800000000000000
+      internalID: -5632380758520316772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 86
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa59d56305969290800000000000000
+      internalID: -7883950255839290705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 87
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f02bacfda74940800000000000000
+      internalID: 5280380388829623468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 86
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e16030aa9f2ef680800000000000000
+      internalID: -8719479487383707168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 84
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43628480eb49b10800000000000000
+      internalID: 1987422278356710647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 84
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572f3e25b60e9100800000000000000
+      internalID: 116538015592949586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 83
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270518c0fea71700800000000000000
+      internalID: 511069431902045986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 84
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7a77c52d542d120800000000000000
+      internalID: 2437087118157653984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 85
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b2c16c0a375250800000000000000
+      internalID: 5933274858938087148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 86
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f2fcb32239f020800000000000000
+      internalID: 2375985407489930115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 87
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bdea7da1d1ae9e0800000000000000
+      internalID: -1591427517197133056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abed042949b71610800000000000000
+      internalID: 1591944717087402913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 22
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115940382990a950800000000000000
+      internalID: 6458330263537144084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6fff2e73d5cb3f0800000000000000
+      internalID: -883728932258449688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc325e2bd7f4cab0800000000000000
+      internalID: -4988589966472627010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d577b9d7a631e0800000000000000
+      internalID: -2218401212905695570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a51ea42f6ed03e0800000000000000
+      internalID: -2085757124089914728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 23
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9857c7ad27227f0800000000000000
+      internalID: -638821914416674343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 22
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878aaf72d75fbca60800000000000000
+      internalID: 7695514306183080056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 21
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c2dd18396b3b670800000000000000
+      internalID: 8553380861961907295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 20
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7709aa71d017320800000000000000
+      internalID: 2553836858992785339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 19
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108419eabbfaeac0800000000000000
+      internalID: -3824968153304891374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 20
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6deaba5bb082dfe0800000000000000
+      internalID: -1165727811366097555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 21
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543aa28920d728160800000000000000
+      internalID: 7026315818747732805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 21
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51b866b55156bf0800000000000000
+      internalID: -331835515235265093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunBackwards_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 22
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84697ab0653bd5e0800000000000000
+      internalID: -1883853329562770294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RunBackwards_Shadowless_0: 6758535904981911189
+      RunBackwards_Shadowless_1: 4428161112673446583
+      RunBackwards_Shadowless_10: -3082206346667281613
+      RunBackwards_Shadowless_100: 511069431902045986
+      RunBackwards_Shadowless_101: 2437087118157653984
+      RunBackwards_Shadowless_102: 5933274858938087148
+      RunBackwards_Shadowless_103: 2375985407489930115
+      RunBackwards_Shadowless_104: -1591427517197133056
+      RunBackwards_Shadowless_105: 1591944717087402913
+      RunBackwards_Shadowless_106: 6458330263537144084
+      RunBackwards_Shadowless_107: -883728932258449688
+      RunBackwards_Shadowless_108: -4988589966472627010
+      RunBackwards_Shadowless_109: -2218401212905695570
+      RunBackwards_Shadowless_11: 7718969089913237706
+      RunBackwards_Shadowless_110: -2085757124089914728
+      RunBackwards_Shadowless_111: -638821914416674343
+      RunBackwards_Shadowless_112: 7695514306183080056
+      RunBackwards_Shadowless_113: 8553380861961907295
+      RunBackwards_Shadowless_114: 2553836858992785339
+      RunBackwards_Shadowless_115: -3824968153304891374
+      RunBackwards_Shadowless_116: -1165727811366097555
+      RunBackwards_Shadowless_117: 7026315818747732805
+      RunBackwards_Shadowless_118: -331835515235265093
+      RunBackwards_Shadowless_119: -1883853329562770294
+      RunBackwards_Shadowless_12: 4967438016520787953
+      RunBackwards_Shadowless_13: 8507764793141858597
+      RunBackwards_Shadowless_14: -1406379042904185019
+      RunBackwards_Shadowless_15: 5886631495780361213
+      RunBackwards_Shadowless_16: -2770362577837237930
+      RunBackwards_Shadowless_17: 6681311124538652788
+      RunBackwards_Shadowless_18: -2979526617641489764
+      RunBackwards_Shadowless_19: -5725305871695310662
+      RunBackwards_Shadowless_2: 3989498720743038410
+      RunBackwards_Shadowless_20: -3354663871306753124
+      RunBackwards_Shadowless_21: -7443163304181086152
+      RunBackwards_Shadowless_22: -1797263159553240381
+      RunBackwards_Shadowless_23: 7329605566203561243
+      RunBackwards_Shadowless_24: 4758371758534548924
+      RunBackwards_Shadowless_25: 2818281531925954756
+      RunBackwards_Shadowless_26: 4213848220080167396
+      RunBackwards_Shadowless_27: 4496048452319486978
+      RunBackwards_Shadowless_28: -9053445071874011849
+      RunBackwards_Shadowless_29: -6093037084929194702
+      RunBackwards_Shadowless_3: -4015161149641082484
+      RunBackwards_Shadowless_30: -1154197634599498101
+      RunBackwards_Shadowless_31: 147523302979392388
+      RunBackwards_Shadowless_32: 3959788088677195811
+      RunBackwards_Shadowless_33: 3435950740097745233
+      RunBackwards_Shadowless_34: 5322784613440380962
+      RunBackwards_Shadowless_35: -6910440039858841336
+      RunBackwards_Shadowless_36: 8595441063579446163
+      RunBackwards_Shadowless_37: -6940177680847362577
+      RunBackwards_Shadowless_38: -6995261233186801166
+      RunBackwards_Shadowless_39: 9214420685534080686
+      RunBackwards_Shadowless_4: 5724480085985212115
+      RunBackwards_Shadowless_40: 6855741611561644521
+      RunBackwards_Shadowless_41: 2959679276710874347
+      RunBackwards_Shadowless_42: 8721623335847411926
+      RunBackwards_Shadowless_43: 1246587138008203926
+      RunBackwards_Shadowless_44: 1042753197343836020
+      RunBackwards_Shadowless_45: -4211886235109341990
+      RunBackwards_Shadowless_46: 6576882839801482139
+      RunBackwards_Shadowless_47: 6312082637804136591
+      RunBackwards_Shadowless_48: 4128585539351677298
+      RunBackwards_Shadowless_49: -5030761861526617954
+      RunBackwards_Shadowless_5: 8835844896556613374
+      RunBackwards_Shadowless_50: 3769409713989886132
+      RunBackwards_Shadowless_51: 8689067647735027487
+      RunBackwards_Shadowless_52: 8401402129693063850
+      RunBackwards_Shadowless_53: 4389303491715518631
+      RunBackwards_Shadowless_54: -7116210090188451784
+      RunBackwards_Shadowless_55: -243847955899283601
+      RunBackwards_Shadowless_56: 1723574637128892938
+      RunBackwards_Shadowless_57: 5084383965877397232
+      RunBackwards_Shadowless_58: 2376105898522042977
+      RunBackwards_Shadowless_59: 7651191609765209773
+      RunBackwards_Shadowless_6: -223246629683073180
+      RunBackwards_Shadowless_60: -4623527506299330265
+      RunBackwards_Shadowless_61: 2836078409787743112
+      RunBackwards_Shadowless_62: -880956639684919546
+      RunBackwards_Shadowless_63: 3555335962113984637
+      RunBackwards_Shadowless_64: 1297849172280242407
+      RunBackwards_Shadowless_65: -6280163891541404875
+      RunBackwards_Shadowless_66: -6813582566843379136
+      RunBackwards_Shadowless_67: 9067882236316812115
+      RunBackwards_Shadowless_68: -3945291866367693652
+      RunBackwards_Shadowless_69: -4999264498804309946
+      RunBackwards_Shadowless_7: -1063801686820148509
+      RunBackwards_Shadowless_70: 5965099703323398068
+      RunBackwards_Shadowless_71: -3063571031571504345
+      RunBackwards_Shadowless_72: -4463449680504055055
+      RunBackwards_Shadowless_73: 8716099794315502547
+      RunBackwards_Shadowless_74: 6508267028638336981
+      RunBackwards_Shadowless_75: -4526067256769608487
+      RunBackwards_Shadowless_76: -7020961777686012560
+      RunBackwards_Shadowless_77: -6899448034007271577
+      RunBackwards_Shadowless_78: -2814578852937976913
+      RunBackwards_Shadowless_79: -8373505134407429496
+      RunBackwards_Shadowless_8: 5743794710152601304
+      RunBackwards_Shadowless_80: -5810883160047232962
+      RunBackwards_Shadowless_81: 8951600584449382916
+      RunBackwards_Shadowless_82: -3965541446832728305
+      RunBackwards_Shadowless_83: -7059239338940818630
+      RunBackwards_Shadowless_84: -3507319833377303061
+      RunBackwards_Shadowless_85: -5292101179375930311
+      RunBackwards_Shadowless_86: -7905786306721018168
+      RunBackwards_Shadowless_87: -8493475580030532308
+      RunBackwards_Shadowless_88: -3832839859374839599
+      RunBackwards_Shadowless_89: -1116305206878742427
+      RunBackwards_Shadowless_9: -5958498278970366277
+      RunBackwards_Shadowless_90: -7473404192811257849
+      RunBackwards_Shadowless_91: 1386106438460034416
+      RunBackwards_Shadowless_92: -9055833420785180774
+      RunBackwards_Shadowless_93: 6165273454531686638
+      RunBackwards_Shadowless_94: -5632380758520316772
+      RunBackwards_Shadowless_95: -7883950255839290705
+      RunBackwards_Shadowless_96: 5280380388829623468
+      RunBackwards_Shadowless_97: -8719479487383707168
+      RunBackwards_Shadowless_98: 1987422278356710647
+      RunBackwards_Shadowless_99: 116538015592949586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

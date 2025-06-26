@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53a922d00d317234ba07da5998cb27f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285671
+  packageName: 2D TopDown GrassLand - The Jungle
+  packageVersion: 1.0.0
+  assetPath: Assets/2D TopDown The Jungle/DemoScene/URP_Renderer.asset
+  uploadId: 676268

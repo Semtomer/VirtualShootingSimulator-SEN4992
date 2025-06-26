@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 4673769de568b88478eef96f19189c39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7495646871793159791
+    second: Walk_Shadowless_0
+  - first:
+      213: -2342889333193752685
+    second: Walk_Shadowless_1
+  - first:
+      213: -8049820246237083598
+    second: Walk_Shadowless_2
+  - first:
+      213: -2455365340814142317
+    second: Walk_Shadowless_3
+  - first:
+      213: 104372063282466197
+    second: Walk_Shadowless_4
+  - first:
+      213: -9061349637229286506
+    second: Walk_Shadowless_5
+  - first:
+      213: -8311645584866289624
+    second: Walk_Shadowless_6
+  - first:
+      213: -1426622382383199507
+    second: Walk_Shadowless_7
+  - first:
+      213: -6360697847287294736
+    second: Walk_Shadowless_8
+  - first:
+      213: -8109027375060164525
+    second: Walk_Shadowless_9
+  - first:
+      213: 4434495991943961091
+    second: Walk_Shadowless_10
+  - first:
+      213: -8330916716213022441
+    second: Walk_Shadowless_11
+  - first:
+      213: 3893468593540102447
+    second: Walk_Shadowless_12
+  - first:
+      213: 2329900487953334856
+    second: Walk_Shadowless_13
+  - first:
+      213: -2805226362820684370
+    second: Walk_Shadowless_14
+  - first:
+      213: -8892318283538252122
+    second: Walk_Shadowless_15
+  - first:
+      213: -8666872181517210800
+    second: Walk_Shadowless_16
+  - first:
+      213: -3269179219063144302
+    second: Walk_Shadowless_17
+  - first:
+      213: -6572698570802113163
+    second: Walk_Shadowless_18
+  - first:
+      213: 3963315319282433216
+    second: Walk_Shadowless_19
+  - first:
+      213: 8421618727642445982
+    second: Walk_Shadowless_20
+  - first:
+      213: -3643129819113897160
+    second: Walk_Shadowless_21
+  - first:
+      213: -4756940377977071885
+    second: Walk_Shadowless_22
+  - first:
+      213: 6535820555338053593
+    second: Walk_Shadowless_23
+  - first:
+      213: -6653514157278956032
+    second: Walk_Shadowless_24
+  - first:
+      213: -990229451557367974
+    second: Walk_Shadowless_25
+  - first:
+      213: -1415377889873198703
+    second: Walk_Shadowless_26
+  - first:
+      213: 8366109490925981891
+    second: Walk_Shadowless_27
+  - first:
+      213: -6179253244642265887
+    second: Walk_Shadowless_28
+  - first:
+      213: 5020158936580264607
+    second: Walk_Shadowless_29
+  - first:
+      213: -635722383817999479
+    second: Walk_Shadowless_30
+  - first:
+      213: -6776117047722849203
+    second: Walk_Shadowless_31
+  - first:
+      213: -3753817823111859967
+    second: Walk_Shadowless_32
+  - first:
+      213: -7063465310487670171
+    second: Walk_Shadowless_33
+  - first:
+      213: 1503340759829881286
+    second: Walk_Shadowless_34
+  - first:
+      213: 7392471285112641806
+    second: Walk_Shadowless_35
+  - first:
+      213: 6648684972131812967
+    second: Walk_Shadowless_36
+  - first:
+      213: -5582235768668735896
+    second: Walk_Shadowless_37
+  - first:
+      213: 6968562816632093832
+    second: Walk_Shadowless_38
+  - first:
+      213: -3679999801188974481
+    second: Walk_Shadowless_39
+  - first:
+      213: 7422984632954945437
+    second: Walk_Shadowless_40
+  - first:
+      213: 1286125413409062843
+    second: Walk_Shadowless_41
+  - first:
+      213: -2260733679719253595
+    second: Walk_Shadowless_42
+  - first:
+      213: -2753834485628162790
+    second: Walk_Shadowless_43
+  - first:
+      213: -6102639839341042267
+    second: Walk_Shadowless_44
+  - first:
+      213: -8082286439575959725
+    second: Walk_Shadowless_45
+  - first:
+      213: 1176948694582000179
+    second: Walk_Shadowless_46
+  - first:
+      213: 1763995319576515869
+    second: Walk_Shadowless_47
+  - first:
+      213: -5886098857968715904
+    second: Walk_Shadowless_48
+  - first:
+      213: -8117628655923676819
+    second: Walk_Shadowless_49
+  - first:
+      213: 8342121800111431760
+    second: Walk_Shadowless_50
+  - first:
+      213: -6644621860962980012
+    second: Walk_Shadowless_51
+  - first:
+      213: -7682054339484035930
+    second: Walk_Shadowless_52
+  - first:
+      213: 8703893157889031951
+    second: Walk_Shadowless_53
+  - first:
+      213: 460876173529573748
+    second: Walk_Shadowless_54
+  - first:
+      213: 1005595247412540862
+    second: Walk_Shadowless_55
+  - first:
+      213: -129066581492677426
+    second: Walk_Shadowless_56
+  - first:
+      213: 2047557047491098775
+    second: Walk_Shadowless_57
+  - first:
+      213: 5543557121026257000
+    second: Walk_Shadowless_58
+  - first:
+      213: 2365567473186580763
+    second: Walk_Shadowless_59
+  - first:
+      213: -6280864826870277636
+    second: Walk_Shadowless_60
+  - first:
+      213: -3522368200125337700
+    second: Walk_Shadowless_61
+  - first:
+      213: -3219423210317219216
+    second: Walk_Shadowless_62
+  - first:
+      213: -39197121821425472
+    second: Walk_Shadowless_63
+  - first:
+      213: -3605895019566306318
+    second: Walk_Shadowless_64
+  - first:
+      213: 1160391814245233212
+    second: Walk_Shadowless_65
+  - first:
+      213: -383932123487717005
+    second: Walk_Shadowless_66
+  - first:
+      213: 7912599389267493313
+    second: Walk_Shadowless_67
+  - first:
+      213: -148516740286029519
+    second: Walk_Shadowless_68
+  - first:
+      213: -168254972430075796
+    second: Walk_Shadowless_69
+  - first:
+      213: -1834156379536073790
+    second: Walk_Shadowless_70
+  - first:
+      213: -6628084550959554120
+    second: Walk_Shadowless_71
+  - first:
+      213: -9098504267655066275
+    second: Walk_Shadowless_72
+  - first:
+      213: 5787683690735191684
+    second: Walk_Shadowless_73
+  - first:
+      213: 9205911561856424466
+    second: Walk_Shadowless_74
+  - first:
+      213: 7278835982414250290
+    second: Walk_Shadowless_75
+  - first:
+      213: -2345541079110640561
+    second: Walk_Shadowless_76
+  - first:
+      213: 1823388555976386978
+    second: Walk_Shadowless_77
+  - first:
+      213: -8675606390112390365
+    second: Walk_Shadowless_78
+  - first:
+      213: -9166248013449358487
+    second: Walk_Shadowless_79
+  - first:
+      213: 5686190395891190639
+    second: Walk_Shadowless_80
+  - first:
+      213: 902227147012964393
+    second: Walk_Shadowless_81
+  - first:
+      213: 8764711407004683875
+    second: Walk_Shadowless_82
+  - first:
+      213: -4643158241115764208
+    second: Walk_Shadowless_83
+  - first:
+      213: -4345215440863637193
+    second: Walk_Shadowless_84
+  - first:
+      213: 8799124960161673114
+    second: Walk_Shadowless_85
+  - first:
+      213: -8661997404650851015
+    second: Walk_Shadowless_86
+  - first:
+      213: -1849557602274005931
+    second: Walk_Shadowless_87
+  - first:
+      213: 2018237081213441771
+    second: Walk_Shadowless_88
+  - first:
+      213: 8120294913383958610
+    second: Walk_Shadowless_89
+  - first:
+      213: 7265270007070734507
+    second: Walk_Shadowless_90
+  - first:
+      213: 6241658744584036263
+    second: Walk_Shadowless_91
+  - first:
+      213: -8068101968696361947
+    second: Walk_Shadowless_92
+  - first:
+      213: -3078663968559387743
+    second: Walk_Shadowless_93
+  - first:
+      213: -7464338717195527762
+    second: Walk_Shadowless_94
+  - first:
+      213: -4514176664703527332
+    second: Walk_Shadowless_95
+  - first:
+      213: 7976141352164547946
+    second: Walk_Shadowless_96
+  - first:
+      213: 654198255027154455
+    second: Walk_Shadowless_97
+  - first:
+      213: 2223973577851132268
+    second: Walk_Shadowless_98
+  - first:
+      213: -7255714110124308809
+    second: Walk_Shadowless_99
+  - first:
+      213: -3817700782590251206
+    second: Walk_Shadowless_100
+  - first:
+      213: 3677682919806502504
+    second: Walk_Shadowless_101
+  - first:
+      213: -2596219393252287267
+    second: Walk_Shadowless_102
+  - first:
+      213: 8485012853047557372
+    second: Walk_Shadowless_103
+  - first:
+      213: 2203100778260078029
+    second: Walk_Shadowless_104
+  - first:
+      213: -4799992819489765909
+    second: Walk_Shadowless_105
+  - first:
+      213: -1219130735652709376
+    second: Walk_Shadowless_106
+  - first:
+      213: 1962975925723238615
+    second: Walk_Shadowless_107
+  - first:
+      213: -7043682117568973446
+    second: Walk_Shadowless_108
+  - first:
+      213: -3503690831822439518
+    second: Walk_Shadowless_109
+  - first:
+      213: -3107148474771401051
+    second: Walk_Shadowless_110
+  - first:
+      213: 1102175471909583653
+    second: Walk_Shadowless_111
+  - first:
+      213: 8403431017152010222
+    second: Walk_Shadowless_112
+  - first:
+      213: 6153774271243552984
+    second: Walk_Shadowless_113
+  - first:
+      213: 4351021348840269396
+    second: Walk_Shadowless_114
+  - first:
+      213: -3159423276836445883
+    second: Walk_Shadowless_115
+  - first:
+      213: -3447473116579592378
+    second: Walk_Shadowless_116
+  - first:
+      213: 4433082786620198514
+    second: Walk_Shadowless_117
+  - first:
+      213: -8798368266525770330
+    second: Walk_Shadowless_118
+  - first:
+      213: 8488853418284749821
+    second: Walk_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 468
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191300d32ec1af790800000000000000
+      internalID: -7495646871793159791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 469
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f3fea80926c7fd0800000000000000
+      internalID: -2342889333193752685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 468
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388a45c22b494090800000000000000
+      internalID: -8049820246237083598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 469
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39497fa4b3accedd0800000000000000
+      internalID: -2455365340814142317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 469
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d0d6ca6ddc27100800000000000000
+      internalID: 104372063282466197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 468
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b6557938e9f3280800000000000000
+      internalID: -9061349637229286506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 469
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828d917a06a17ac80800000000000000
+      internalID: -8311645584866289624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 469
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea8d65708e933ce0800000000000000
+      internalID: -1426622382383199507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 470
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f459d022034ab7a0800000000000000
+      internalID: -6360697847287294736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ee9bd092f67f80800000000000000
+      internalID: -8109027375060164525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 467
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a96b51c9e7a8d30800000000000000
+      internalID: 4434495991943961091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 467
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71152ccb263a26c80800000000000000
+      internalID: -8330916716213022441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 467
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f81eae01680630800000000000000
+      internalID: 3893468593540102447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 467
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c7724628755020800000000000000
+      internalID: 2329900487953334856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 467
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea513895c75d119d0800000000000000
+      internalID: -2805226362820684370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 405
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aebdf772a3289480800000000000000
+      internalID: -8892318283538252122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 404
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba3f28ba519b780800000000000000
+      internalID: -8666872181517210800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 403
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29007a432da81a2d0800000000000000
+      internalID: -3269179219063144302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 403
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755f97397519c4a0800000000000000
+      internalID: -6572698570802113163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 403
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc71bac846800730800000000000000
+      internalID: 3963315319282433216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 403
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98b7e6fc999fd470800000000000000
+      internalID: 8421618727642445982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833451d4bb0017dc0800000000000000
+      internalID: -3643129819113897160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 405
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6d6f8fde3fbfdb0800000000000000
+      internalID: -4756940377977071885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 405
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fe94ba26e3ba50800000000000000
+      internalID: 6535820555338053593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 405
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fa533028f9a3a0800000000000000
+      internalID: -6653514157278956032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 404
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f0bcd6f8ff142f0800000000000000
+      internalID: -990229451557367974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 403
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918a23ee419b5ce0800000000000000
+      internalID: -1415377889873198703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 403
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0daa6a1446a1470800000000000000
+      internalID: 8366109490925981891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 403
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4faefb9e1ee3aa0800000000000000
+      internalID: -6179253244642265887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 404
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929ed274ff2ba540800000000000000
+      internalID: 5020158936580264607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 342
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b73c03cd57d27f0800000000000000
+      internalID: -635722383817999479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc20e427566f1a0800000000000000
+      internalID: -6776117047722849203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10133e51492c7ebc0800000000000000
+      internalID: -3753817823111859967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562961559b789fd90800000000000000
+      internalID: -7063465310487670171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a60eb470fcd410800000000000000
+      internalID: 1503340759829881286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e091a618775579660800000000000000
+      internalID: 7392471285112641806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766056381cfd44c50800000000000000
+      internalID: 6648684972131812967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8663504f42ae782b0800000000000000
+      internalID: -5582235768668735896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 341
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cf950f5fe45b060800000000000000
+      internalID: 6968562816632093832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 342
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f608f94ada30eecc0800000000000000
+      internalID: -3679999801188974481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 342
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f767ce13db30760800000000000000
+      internalID: 7422984632954945437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 342
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf79d2df3c39d110800000000000000
+      internalID: 1286125413409062843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 343
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9729832b240a0e0800000000000000
+      internalID: -2260733679719253595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 342
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da9e1302a68c9d0800000000000000
+      internalID: -2753834485628162790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 342
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52ee736611f4ba0800000000000000
+      internalID: -6102639839341042267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 278
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3574e141e43f5df80800000000000000
+      internalID: -8082286439575959725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 279
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7b6b1a9c555010800000000000000
+      internalID: 1176948694582000179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 279
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155fc8a568fa7810800000000000000
+      internalID: 1763995319576515869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 279
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08731f94640605ea0800000000000000
+      internalID: -5886098857968715904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 279
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6933291fb3685f80800000000000000
+      internalID: -8117628655923676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 279
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502fa8249b25c370800000000000000
+      internalID: 8342121800111431760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 278
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa1864f9f89c3a0800000000000000
+      internalID: -6644621860962980012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 278
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45ecd874cd36590800000000000000
+      internalID: -7682054339484035930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 278
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fbdee36b07ac870800000000000000
+      internalID: 8703893157889031951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 278
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479eba0207c556600800000000000000
+      internalID: 460876173529573748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 278
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb578d5bc8794fd00800000000000000
+      internalID: 1005595247412540862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 278
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec441c1c0a6753ef0800000000000000
+      internalID: -129066581492677426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 278
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798fd0949426a6c10800000000000000
+      internalID: 2047557047491098775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 277
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607bde94dbaeec40800000000000000
+      internalID: 5543557121026257000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 277
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192183651f24d020800000000000000
+      internalID: 2365567473186580763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d628a7b2e5d8a0800000000000000
+      internalID: -6280864826870277636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 215
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa567c8c80e1fc0800000000000000
+      internalID: -3522368200125337700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af46fb5af4253d0800000000000000
+      internalID: -3219423210317219216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0cd95ec6eb47ff0800000000000000
+      internalID: -39197121821425472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 215
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb6665a59945fdc0800000000000000
+      internalID: -3605895019566306318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 215
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32bb50053a8a1010800000000000000
+      internalID: 1160391814245233212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 215
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37937a194cffbaaf0800000000000000
+      internalID: -383932123487717005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10347c8333fcd60800000000000000
+      internalID: 7912599389267493313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 215
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316d04cfcc50fdf0800000000000000
+      internalID: -148516740286029519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 214
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68bc987efc3aadf0800000000000000
+      internalID: -168254972430075796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 213
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb5c379d74cb86e0800000000000000
+      internalID: -1834156379536073790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 213
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b12dcec7305404a0800000000000000
+      internalID: -6628084550959554120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 212
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d4b03139e9bb180800000000000000
+      internalID: -9098504267655066275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 212
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c79af6abf15050800000000000000
+      internalID: 5787683690735191684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 212
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1d1e5ac7f1cf70800000000000000
+      internalID: 9205911561856424466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310226d2ce930560800000000000000
+      internalID: 7278835982414250290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 150
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c1685d0d6f27fd0800000000000000
+      internalID: -2345541079110640561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a92c7e1b3afd4910800000000000000
+      internalID: 1823388555976386978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 150
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fd3a14fd0a9780800000000000000
+      internalID: -8675606390112390365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 149
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96398332ff1fac080800000000000000
+      internalID: -9166248013449358487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 149
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0550d90869ee40800000000000000
+      internalID: 5686190395891190639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 149
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9200c6c5fca558c00800000000000000
+      internalID: 902227147012964393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 150
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e0455569282a970800000000000000
+      internalID: 8764711407004683875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 151
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a0e522e20309fb0800000000000000
+      internalID: -4643158241115764208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d7c61491b2b3c0800000000000000
+      internalID: -4345215440863637193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 149
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa5b01885cc1a70800000000000000
+      internalID: 8799124960161673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 149
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9353e62f0476ac780800000000000000
+      internalID: -8661997404650851015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 149
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca5dcf82d0556e0800000000000000
+      internalID: -1849557602274005931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 148
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be69f3aaee7320c10800000000000000
+      internalID: 2018237081213441771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 149
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25889a7533511b070800000000000000
+      internalID: 8120294913383958610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 86
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba830c0149c63d460800000000000000
+      internalID: 7265270007070734507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5428fe83de9650800000000000000
+      internalID: 6241658744584036263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 85
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c39309108580090800000000000000
+      internalID: -8068101968696361947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 85
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab293b9e636645d0800000000000000
+      internalID: -3078663968559387743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea99d560c77596890800000000000000
+      internalID: -7464338717195527762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 85
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561df69d3c6a51c0800000000000000
+      internalID: -4514176664703527332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 85
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d5216ec42f0be60800000000000000
+      internalID: 7976141352164547946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee29bc8dd241900800000000000000
+      internalID: 654198255027154455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 86
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69dba99f242dde10800000000000000
+      internalID: 2223973577851132268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 86
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6404295768e4b90800000000000000
+      internalID: -7255714110124308809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 86
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f2af28d5dc40bc0800000000000000
+      internalID: -3817700782590251206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 86
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866869f5121c90330800000000000000
+      internalID: 3677682919806502504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 86
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc973a973068fbd0800000000000000
+      internalID: -2596219393252287267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 86
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf58cfb32d0c570800000000000000
+      internalID: 8485012853047557372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 86
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd149c3c7cf29e10800000000000000
+      internalID: 2203100778260078029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be503ed46fff26db0800000000000000
+      internalID: -4799992819489765909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd8ae1e07c41fe0800000000000000
+      internalID: -1219130735652709376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d090634434ed3b10800000000000000
+      internalID: 1962975925723238615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 22
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75b78fde60df3e90800000000000000
+      internalID: -7043682117568973446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3e6670c3606fc0800000000000000
+      internalID: -3503690831822439518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 22
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69ad0bce031e4d0800000000000000
+      internalID: -3107148474771401051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 22
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb15b80c6bb4f00800000000000000
+      internalID: 1102175471909583653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 22
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee758df9cfbfe9470800000000000000
+      internalID: 8403431017152010222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 22
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d809697819966550800000000000000
+      internalID: 6153774271243552984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 21
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456e3c33ddee16c30800000000000000
+      internalID: 4351021348840269396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 21
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412011e4497724d0800000000000000
+      internalID: -3159423276836445883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 21
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6478099477d1820d0800000000000000
+      internalID: -3447473116579592378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 21
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e45649e49758d30800000000000000
+      internalID: 4433082786620198514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 21
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad79a66daae5e580800000000000000
+      internalID: -8798368266525770330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 21
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3193345377ec570800000000000000
+      internalID: 8488853418284749821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walk_Shadowless_0: -7495646871793159791
+      Walk_Shadowless_1: -2342889333193752685
+      Walk_Shadowless_10: 4434495991943961091
+      Walk_Shadowless_100: -3817700782590251206
+      Walk_Shadowless_101: 3677682919806502504
+      Walk_Shadowless_102: -2596219393252287267
+      Walk_Shadowless_103: 8485012853047557372
+      Walk_Shadowless_104: 2203100778260078029
+      Walk_Shadowless_105: -4799992819489765909
+      Walk_Shadowless_106: -1219130735652709376
+      Walk_Shadowless_107: 1962975925723238615
+      Walk_Shadowless_108: -7043682117568973446
+      Walk_Shadowless_109: -3503690831822439518
+      Walk_Shadowless_11: -8330916716213022441
+      Walk_Shadowless_110: -3107148474771401051
+      Walk_Shadowless_111: 1102175471909583653
+      Walk_Shadowless_112: 8403431017152010222
+      Walk_Shadowless_113: 6153774271243552984
+      Walk_Shadowless_114: 4351021348840269396
+      Walk_Shadowless_115: -3159423276836445883
+      Walk_Shadowless_116: -3447473116579592378
+      Walk_Shadowless_117: 4433082786620198514
+      Walk_Shadowless_118: -8798368266525770330
+      Walk_Shadowless_119: 8488853418284749821
+      Walk_Shadowless_12: 3893468593540102447
+      Walk_Shadowless_13: 2329900487953334856
+      Walk_Shadowless_14: -2805226362820684370
+      Walk_Shadowless_15: -8892318283538252122
+      Walk_Shadowless_16: -8666872181517210800
+      Walk_Shadowless_17: -3269179219063144302
+      Walk_Shadowless_18: -6572698570802113163
+      Walk_Shadowless_19: 3963315319282433216
+      Walk_Shadowless_2: -8049820246237083598
+      Walk_Shadowless_20: 8421618727642445982
+      Walk_Shadowless_21: -3643129819113897160
+      Walk_Shadowless_22: -4756940377977071885
+      Walk_Shadowless_23: 6535820555338053593
+      Walk_Shadowless_24: -6653514157278956032
+      Walk_Shadowless_25: -990229451557367974
+      Walk_Shadowless_26: -1415377889873198703
+      Walk_Shadowless_27: 8366109490925981891
+      Walk_Shadowless_28: -6179253244642265887
+      Walk_Shadowless_29: 5020158936580264607
+      Walk_Shadowless_3: -2455365340814142317
+      Walk_Shadowless_30: -635722383817999479
+      Walk_Shadowless_31: -6776117047722849203
+      Walk_Shadowless_32: -3753817823111859967
+      Walk_Shadowless_33: -7063465310487670171
+      Walk_Shadowless_34: 1503340759829881286
+      Walk_Shadowless_35: 7392471285112641806
+      Walk_Shadowless_36: 6648684972131812967
+      Walk_Shadowless_37: -5582235768668735896
+      Walk_Shadowless_38: 6968562816632093832
+      Walk_Shadowless_39: -3679999801188974481
+      Walk_Shadowless_4: 104372063282466197
+      Walk_Shadowless_40: 7422984632954945437
+      Walk_Shadowless_41: 1286125413409062843
+      Walk_Shadowless_42: -2260733679719253595
+      Walk_Shadowless_43: -2753834485628162790
+      Walk_Shadowless_44: -6102639839341042267
+      Walk_Shadowless_45: -8082286439575959725
+      Walk_Shadowless_46: 1176948694582000179
+      Walk_Shadowless_47: 1763995319576515869
+      Walk_Shadowless_48: -5886098857968715904
+      Walk_Shadowless_49: -8117628655923676819
+      Walk_Shadowless_5: -9061349637229286506
+      Walk_Shadowless_50: 8342121800111431760
+      Walk_Shadowless_51: -6644621860962980012
+      Walk_Shadowless_52: -7682054339484035930
+      Walk_Shadowless_53: 8703893157889031951
+      Walk_Shadowless_54: 460876173529573748
+      Walk_Shadowless_55: 1005595247412540862
+      Walk_Shadowless_56: -129066581492677426
+      Walk_Shadowless_57: 2047557047491098775
+      Walk_Shadowless_58: 5543557121026257000
+      Walk_Shadowless_59: 2365567473186580763
+      Walk_Shadowless_6: -8311645584866289624
+      Walk_Shadowless_60: -6280864826870277636
+      Walk_Shadowless_61: -3522368200125337700
+      Walk_Shadowless_62: -3219423210317219216
+      Walk_Shadowless_63: -39197121821425472
+      Walk_Shadowless_64: -3605895019566306318
+      Walk_Shadowless_65: 1160391814245233212
+      Walk_Shadowless_66: -383932123487717005
+      Walk_Shadowless_67: 7912599389267493313
+      Walk_Shadowless_68: -148516740286029519
+      Walk_Shadowless_69: -168254972430075796
+      Walk_Shadowless_7: -1426622382383199507
+      Walk_Shadowless_70: -1834156379536073790
+      Walk_Shadowless_71: -6628084550959554120
+      Walk_Shadowless_72: -9098504267655066275
+      Walk_Shadowless_73: 5787683690735191684
+      Walk_Shadowless_74: 9205911561856424466
+      Walk_Shadowless_75: 7278835982414250290
+      Walk_Shadowless_76: -2345541079110640561
+      Walk_Shadowless_77: 1823388555976386978
+      Walk_Shadowless_78: -8675606390112390365
+      Walk_Shadowless_79: -9166248013449358487
+      Walk_Shadowless_8: -6360697847287294736
+      Walk_Shadowless_80: 5686190395891190639
+      Walk_Shadowless_81: 902227147012964393
+      Walk_Shadowless_82: 8764711407004683875
+      Walk_Shadowless_83: -4643158241115764208
+      Walk_Shadowless_84: -4345215440863637193
+      Walk_Shadowless_85: 8799124960161673114
+      Walk_Shadowless_86: -8661997404650851015
+      Walk_Shadowless_87: -1849557602274005931
+      Walk_Shadowless_88: 2018237081213441771
+      Walk_Shadowless_89: 8120294913383958610
+      Walk_Shadowless_9: -8109027375060164525
+      Walk_Shadowless_90: 7265270007070734507
+      Walk_Shadowless_91: 6241658744584036263
+      Walk_Shadowless_92: -8068101968696361947
+      Walk_Shadowless_93: -3078663968559387743
+      Walk_Shadowless_94: -7464338717195527762
+      Walk_Shadowless_95: -4514176664703527332
+      Walk_Shadowless_96: 7976141352164547946
+      Walk_Shadowless_97: 654198255027154455
+      Walk_Shadowless_98: 2223973577851132268
+      Walk_Shadowless_99: -7255714110124308809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

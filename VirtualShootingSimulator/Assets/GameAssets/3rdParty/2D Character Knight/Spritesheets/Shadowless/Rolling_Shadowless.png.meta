@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 691c1ac8b49da8440be15e2f63fef8e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4611218175750003610
+    second: Rolling_Shadowless_0
+  - first:
+      213: 3617406895616988184
+    second: Rolling_Shadowless_1
+  - first:
+      213: 908602759994518160
+    second: Rolling_Shadowless_2
+  - first:
+      213: -420631117937872763
+    second: Rolling_Shadowless_3
+  - first:
+      213: -4443485448963836883
+    second: Rolling_Shadowless_4
+  - first:
+      213: -7667735097947075028
+    second: Rolling_Shadowless_5
+  - first:
+      213: -6529383312676285512
+    second: Rolling_Shadowless_6
+  - first:
+      213: -9118127706142578246
+    second: Rolling_Shadowless_7
+  - first:
+      213: 8477722164166723334
+    second: Rolling_Shadowless_8
+  - first:
+      213: 6317921517726686690
+    second: Rolling_Shadowless_9
+  - first:
+      213: -7113664760998053551
+    second: Rolling_Shadowless_10
+  - first:
+      213: 4751841974551447447
+    second: Rolling_Shadowless_11
+  - first:
+      213: -6237616743557369635
+    second: Rolling_Shadowless_12
+  - first:
+      213: 7046661517614518498
+    second: Rolling_Shadowless_13
+  - first:
+      213: 4558176207394594500
+    second: Rolling_Shadowless_14
+  - first:
+      213: 1634081295653702139
+    second: Rolling_Shadowless_15
+  - first:
+      213: -5097972839004429458
+    second: Rolling_Shadowless_16
+  - first:
+      213: -6497664308191971469
+    second: Rolling_Shadowless_17
+  - first:
+      213: 4049711115587384309
+    second: Rolling_Shadowless_18
+  - first:
+      213: -6401331860600228839
+    second: Rolling_Shadowless_19
+  - first:
+      213: 8474961670225476243
+    second: Rolling_Shadowless_20
+  - first:
+      213: 3595048623209166881
+    second: Rolling_Shadowless_21
+  - first:
+      213: -3786586044262731118
+    second: Rolling_Shadowless_22
+  - first:
+      213: 7891367075483557275
+    second: Rolling_Shadowless_23
+  - first:
+      213: -8653741740531321575
+    second: Rolling_Shadowless_24
+  - first:
+      213: -7821889318702970019
+    second: Rolling_Shadowless_25
+  - first:
+      213: -5758555319771070803
+    second: Rolling_Shadowless_26
+  - first:
+      213: 3606604653234149493
+    second: Rolling_Shadowless_27
+  - first:
+      213: -8971061945907672244
+    second: Rolling_Shadowless_28
+  - first:
+      213: -770231257155139740
+    second: Rolling_Shadowless_29
+  - first:
+      213: 7842900957694153692
+    second: Rolling_Shadowless_30
+  - first:
+      213: -2050432934646391116
+    second: Rolling_Shadowless_31
+  - first:
+      213: 6212585557944796604
+    second: Rolling_Shadowless_32
+  - first:
+      213: 1255902795347580305
+    second: Rolling_Shadowless_33
+  - first:
+      213: -2493339871370107992
+    second: Rolling_Shadowless_34
+  - first:
+      213: -643332451785911476
+    second: Rolling_Shadowless_35
+  - first:
+      213: -585166472256381929
+    second: Rolling_Shadowless_36
+  - first:
+      213: 7105608665910810805
+    second: Rolling_Shadowless_37
+  - first:
+      213: 8315061135128572942
+    second: Rolling_Shadowless_38
+  - first:
+      213: -8175004434437349671
+    second: Rolling_Shadowless_39
+  - first:
+      213: 2113777998104787632
+    second: Rolling_Shadowless_40
+  - first:
+      213: -7379441934066538985
+    second: Rolling_Shadowless_41
+  - first:
+      213: 6412267425458911733
+    second: Rolling_Shadowless_42
+  - first:
+      213: 1791490074253248894
+    second: Rolling_Shadowless_43
+  - first:
+      213: 1860709327621610172
+    second: Rolling_Shadowless_44
+  - first:
+      213: 6149833679961559728
+    second: Rolling_Shadowless_45
+  - first:
+      213: -7807451793365507897
+    second: Rolling_Shadowless_46
+  - first:
+      213: -1782295096961995891
+    second: Rolling_Shadowless_47
+  - first:
+      213: 1855391637376095795
+    second: Rolling_Shadowless_48
+  - first:
+      213: 7921100434069082243
+    second: Rolling_Shadowless_49
+  - first:
+      213: 7240789003743147281
+    second: Rolling_Shadowless_50
+  - first:
+      213: -3442366117689832390
+    second: Rolling_Shadowless_51
+  - first:
+      213: -4582847005613516021
+    second: Rolling_Shadowless_52
+  - first:
+      213: -7696177332440991320
+    second: Rolling_Shadowless_53
+  - first:
+      213: 490583194478486953
+    second: Rolling_Shadowless_54
+  - first:
+      213: -6526797080305252399
+    second: Rolling_Shadowless_55
+  - first:
+      213: 4937260926509617607
+    second: Rolling_Shadowless_56
+  - first:
+      213: -4122325128525455300
+    second: Rolling_Shadowless_57
+  - first:
+      213: 5722719474621083531
+    second: Rolling_Shadowless_58
+  - first:
+      213: 5136385805340688258
+    second: Rolling_Shadowless_59
+  - first:
+      213: 7770449686574337725
+    second: Rolling_Shadowless_60
+  - first:
+      213: 2125284230568591579
+    second: Rolling_Shadowless_61
+  - first:
+      213: 175323932635739439
+    second: Rolling_Shadowless_62
+  - first:
+      213: 3187871652647165488
+    second: Rolling_Shadowless_63
+  - first:
+      213: -8176764254082632280
+    second: Rolling_Shadowless_64
+  - first:
+      213: -536412347827940781
+    second: Rolling_Shadowless_65
+  - first:
+      213: -2987794079214210049
+    second: Rolling_Shadowless_66
+  - first:
+      213: -5330480303968528881
+    second: Rolling_Shadowless_67
+  - first:
+      213: -4024296897120639199
+    second: Rolling_Shadowless_68
+  - first:
+      213: -6370858654022774366
+    second: Rolling_Shadowless_69
+  - first:
+      213: -8578775155787570908
+    second: Rolling_Shadowless_70
+  - first:
+      213: -8492757170818828677
+    second: Rolling_Shadowless_71
+  - first:
+      213: 2890040540754712591
+    second: Rolling_Shadowless_72
+  - first:
+      213: 7094395086855957441
+    second: Rolling_Shadowless_73
+  - first:
+      213: 7960192269426415565
+    second: Rolling_Shadowless_74
+  - first:
+      213: 411383374882119460
+    second: Rolling_Shadowless_75
+  - first:
+      213: 5352092147240984504
+    second: Rolling_Shadowless_76
+  - first:
+      213: -8023114229305156410
+    second: Rolling_Shadowless_77
+  - first:
+      213: -3220608326759387907
+    second: Rolling_Shadowless_78
+  - first:
+      213: -4940813706683294684
+    second: Rolling_Shadowless_79
+  - first:
+      213: -3438128114726136353
+    second: Rolling_Shadowless_80
+  - first:
+      213: -4183148074215080610
+    second: Rolling_Shadowless_81
+  - first:
+      213: 4481470581680167845
+    second: Rolling_Shadowless_82
+  - first:
+      213: 1395384951009310805
+    second: Rolling_Shadowless_83
+  - first:
+      213: -405762050658963358
+    second: Rolling_Shadowless_84
+  - first:
+      213: -2754531104710906915
+    second: Rolling_Shadowless_85
+  - first:
+      213: 3995293565724437245
+    second: Rolling_Shadowless_86
+  - first:
+      213: -7038959773790258208
+    second: Rolling_Shadowless_87
+  - first:
+      213: 8602588785112269232
+    second: Rolling_Shadowless_88
+  - first:
+      213: -8606442218907769427
+    second: Rolling_Shadowless_89
+  - first:
+      213: 108421272907076556
+    second: Rolling_Shadowless_90
+  - first:
+      213: 5749642263579165945
+    second: Rolling_Shadowless_91
+  - first:
+      213: -4173181156942669007
+    second: Rolling_Shadowless_92
+  - first:
+      213: 4743415160546892330
+    second: Rolling_Shadowless_93
+  - first:
+      213: 4311451829500393323
+    second: Rolling_Shadowless_94
+  - first:
+      213: 788055620985569466
+    second: Rolling_Shadowless_95
+  - first:
+      213: -4342589448556398814
+    second: Rolling_Shadowless_96
+  - first:
+      213: -2690832556475468779
+    second: Rolling_Shadowless_97
+  - first:
+      213: 1627821822241012535
+    second: Rolling_Shadowless_98
+  - first:
+      213: 1075712508092586847
+    second: Rolling_Shadowless_99
+  - first:
+      213: 8086321172222652041
+    second: Rolling_Shadowless_100
+  - first:
+      213: -5920649230279044411
+    second: Rolling_Shadowless_101
+  - first:
+      213: 7205242508649228150
+    second: Rolling_Shadowless_102
+  - first:
+      213: -3316911423290908263
+    second: Rolling_Shadowless_103
+  - first:
+      213: 4845977982826663131
+    second: Rolling_Shadowless_104
+  - first:
+      213: 6797732086476763462
+    second: Rolling_Shadowless_105
+  - first:
+      213: -7636007618659794655
+    second: Rolling_Shadowless_106
+  - first:
+      213: -379657130802101266
+    second: Rolling_Shadowless_107
+  - first:
+      213: 5625952024127843504
+    second: Rolling_Shadowless_108
+  - first:
+      213: 7252773095977501752
+    second: Rolling_Shadowless_109
+  - first:
+      213: -5417419979427720147
+    second: Rolling_Shadowless_110
+  - first:
+      213: -140166243162848253
+    second: Rolling_Shadowless_111
+  - first:
+      213: -5731806419301933008
+    second: Rolling_Shadowless_112
+  - first:
+      213: 6378039979592901079
+    second: Rolling_Shadowless_113
+  - first:
+      213: -6846178542102656654
+    second: Rolling_Shadowless_114
+  - first:
+      213: 5700285672286066510
+    second: Rolling_Shadowless_115
+  - first:
+      213: -6927450897850114482
+    second: Rolling_Shadowless_116
+  - first:
+      213: -4952047752355988617
+    second: Rolling_Shadowless_117
+  - first:
+      213: -2396070107972296140
+    second: Rolling_Shadowless_118
+  - first:
+      213: 1015178840857903582
+    second: Rolling_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rolling_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 471
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664a89c1089a100c0800000000000000
+      internalID: -4611218175750003610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 471
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8149c4dd76c933230800000000000000
+      internalID: 3617406895616988184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 471
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa96f65610c9c00800000000000000
+      internalID: 908602759994518160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 471
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58076d11a3e992af0800000000000000
+      internalID: -420631117937872763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 472
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24b4e9d6819552c0800000000000000
+      internalID: -4443485448963836883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 472
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec117cd8bb69590800000000000000
+      internalID: -7667735097947075028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 471
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31195a878f265a0800000000000000
+      internalID: -6529383312676285512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab969b24927e57180800000000000000
+      internalID: -9118127706142578246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 472
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6070d93346be6a570800000000000000
+      internalID: 8477722164166723334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 470
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed55e68524cda750800000000000000
+      internalID: 6317921517726686690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 468
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593f75f69f274d90800000000000000
+      internalID: -7113664760998053551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7970ee9791fe1f140800000000000000
+      internalID: 4751841974551447447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 467
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0fb3bbe988f69a0800000000000000
+      internalID: -6237616743557369635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 469
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e014d1c055cac160800000000000000
+      internalID: 7046661517614518498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 471
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce54614c15e14f30800000000000000
+      internalID: 4558176207394594500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 408
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf98c89d74c6da610800000000000000
+      internalID: 1634081295653702139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 407
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632d8096bc5049b0800000000000000
+      internalID: -5097972839004429458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 404
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bb70ecb8a3d5a0800000000000000
+      internalID: -6497664308191971469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 403
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f37987adc6733830800000000000000
+      internalID: 4049711115587384309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 401
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9147887a696e927a0800000000000000
+      internalID: -6401331860600228839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 399
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a37de9cbc1d9570800000000000000
+      internalID: 8474961670225476243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 401
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b3a8ecad24e130800000000000000
+      internalID: 3595048623209166881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 403
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292b4401e08537bc0800000000000000
+      internalID: -3786586044262731118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 403
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d196e7b84c38d60800000000000000
+      internalID: 7891367075483557275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 401
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915f8a98cbbb7e780800000000000000
+      internalID: -8653741740531321575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 398
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b89465b11137390800000000000000
+      internalID: -7821889318702970019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 400
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefb9162708510b0800000000000000
+      internalID: -5758555319771070803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 403
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578da41d2db3d0230800000000000000
+      internalID: 3606604653234149493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 405
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0620e0b2608380800000000000000
+      internalID: -8971061945907672244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 407
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678d52a0c69f45f0800000000000000
+      internalID: -770231257155139740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 345
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd35ee71ed497dc60800000000000000
+      internalID: 7842900957694153692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 342
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bed3ae0c166b83e0800000000000000
+      internalID: -2050432934646391116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 338
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5850636a9873650800000000000000
+      internalID: 6212585557944796604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 335
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195dc1530fcdd6110800000000000000
+      internalID: 1255902795347580305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 333
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3aaa6e890e56dd0800000000000000
+      internalID: -2493339871370107992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 331
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d1da2b8c6217f0800000000000000
+      internalID: -643332451785911476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 334
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c90be913211e7f0800000000000000
+      internalID: -585166472256381929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 335
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b81d8c3f613c9260800000000000000
+      internalID: 7105608665910810805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 335
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04befc1c08056370800000000000000
+      internalID: 8315061135128572942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 335
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de5e18a7cc8c8e80800000000000000
+      internalID: -8175004434437349671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 334
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7217d3e5a55d10800000000000000
+      internalID: 2113777998104787632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 334
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a75fa8a4f69990800000000000000
+      internalID: -7379441934066538985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 336
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97943ff33fcf850800000000000000
+      internalID: 6412267425458911733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 340
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c0861bb6acd810800000000000000
+      internalID: 1791490074253248894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 343
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5427664192d910800000000000000
+      internalID: 1860709327621610172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 280
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b297d11629985550800000000000000
+      internalID: 6149833679961559728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 276
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06677a5fb56a390800000000000000
+      internalID: -7807451793365507897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 271
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be8a46d040447e0800000000000000
+      internalID: -1782295096961995891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 268
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33658092ddcafb910800000000000000
+      internalID: 1855391637376095795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 269
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38051e280e66ded60800000000000000
+      internalID: 7921100434069082243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 269
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153aad4c337c7460800000000000000
+      internalID: 7240789003743147281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 270
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc14021424a30d0800000000000000
+      internalID: -3442366117689832390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 270
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b917aede47660c0800000000000000
+      internalID: -4582847005613516021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f0730e7fa13590800000000000000
+      internalID: -7696177332440991320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 270
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5aaafe0d6eec600800000000000000
+      internalID: 490583194478486953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 271
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7495bc2a82c65a0800000000000000
+      internalID: -6526797080305252399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 268
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1950867aca48440800000000000000
+      internalID: 4937260926509617607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 270
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e299f22f8ac6c0800000000000000
+      internalID: -4122325128525455300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 276
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8feff9ba0f2b6f40800000000000000
+      internalID: 5722719474621083531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 279
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb0bc1dab184740800000000000000
+      internalID: 5136385805340688258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 215
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe0f4102de26db60800000000000000
+      internalID: 7770449686574337725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0c7c95fb68e7d10800000000000000
+      internalID: 2125284230568591579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b0651030ee6200800000000000000
+      internalID: 175323932635739439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e5295c0689d3c20800000000000000
+      internalID: 3187871652647165488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 205
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5fa47bb3c468e80800000000000000
+      internalID: -8176764254082632280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 208
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352159acfc74e88f0800000000000000
+      internalID: -536412347827940781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3fb6e6d193986d0800000000000000
+      internalID: -2987794079214210049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f065db7d7645606b0800000000000000
+      internalID: -5330480303968528881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 202
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ea603b43d628c0800000000000000
+      internalID: -4024296897120639199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 210
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1dfb4fec92697a0800000000000000
+      internalID: -6370858654022774366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 206
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421e557b27112f880800000000000000
+      internalID: -8578775155787570908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 208
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7631b5895aa32a80800000000000000
+      internalID: -8492757170818828677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 211
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08992a4f8c7b1820800000000000000
+      internalID: 2890040540754712591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb63586eba547260800000000000000
+      internalID: 7094395086855957441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 215
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d8f2b1b8487e60800000000000000
+      internalID: 7960192269426415565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 150
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9956fff685b500800000000000000
+      internalID: 411383374882119460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd4798373764a40800000000000000
+      internalID: 5352092147240984504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 148
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc52e1ed1c28a090800000000000000
+      internalID: -8023114229305156410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 148
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc67d25ac91e43d0800000000000000
+      internalID: -3220608326759387907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd2cf7c14be6bb0800000000000000
+      internalID: -4940813706683294684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 149
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5177512b05940d0800000000000000
+      internalID: -3438128114726136353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dfc816df872f5c0800000000000000
+      internalID: -4183148074215080610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 150
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd86c00c1613e30800000000000000
+      internalID: 4481470581680167845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 146
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f5d948376d5310800000000000000
+      internalID: 1395384951009310805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 150
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260732390917e5af0800000000000000
+      internalID: -405762050658963358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 145
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb21fced80f5c9d0800000000000000
+      internalID: -2754531104710906915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 147
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa86e7452227730800000000000000
+      internalID: 3995293565724437245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 151
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb7f63167905e90800000000000000
+      internalID: -7038959773790258208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 153
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1406debe8826770800000000000000
+      internalID: 8602588785112269232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 151
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5e31a9666cf8880800000000000000
+      internalID: -8606442218907769427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d8b1c290318100800000000000000
+      internalID: 108421272907076556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f485320d25dacf40800000000000000
+      internalID: 5749642263579165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b141529d1e516c0800000000000000
+      internalID: -4173181156942669007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 84
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9992f4fef3d140800000000000000
+      internalID: 4743415160546892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67349b889a55db30800000000000000
+      internalID: 4311451829500393323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 87
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04818796cbfea00800000000000000
+      internalID: 788055620985569466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 91
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227bf6197e50cb3c0800000000000000
+      internalID: -4342589448556398814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 89
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143939eb0e38aad0800000000000000
+      internalID: -2690832556475468779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 91
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bfd40a25f279610800000000000000
+      internalID: 1627821822241012535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 91
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b9d45a3d2bdee00800000000000000
+      internalID: 1075712508092586847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 87
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e2d025342683070800000000000000
+      internalID: 8086321172222652041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 86
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2178dd4e0a5dda0800000000000000
+      internalID: -5920649230279044411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 89
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677e498f2e92ef360800000000000000
+      internalID: 7205242508649228150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 87
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9916f4f52a6f7f1d0800000000000000
+      internalID: -3316911423290908263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 87
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc4fbfdc4f504340800000000000000
+      internalID: 4845977982826663131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f8b41155665e50800000000000000
+      internalID: 6797732086476763462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214b933783770690800000000000000
+      internalID: -7636007618659794655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 22
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c81ed9df2bbaf0800000000000000
+      internalID: -379657130802101266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 22
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca781fe85631e40800000000000000
+      internalID: 5625952024127843504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834cf3634b607a460800000000000000
+      internalID: 7252773095977501752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 24
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245b1f3b3571d4b0800000000000000
+      internalID: -5417419979427720147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 28
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30407c26b870e0ef0800000000000000
+      internalID: -140166243162848253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 25
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03064381e688470b0800000000000000
+      internalID: -5731806419301933008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1efd2b199538850800000000000000
+      internalID: 6378039979592901079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 26
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279c11973ec7df0a0800000000000000
+      internalID: -6846178542102656654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 26
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471cd61e9b7b1f40800000000000000
+      internalID: 5700285672286066510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 25
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4edea29c10ccdf90800000000000000
+      internalID: -6927450897850114482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 21
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbc0a6ecac64bb0800000000000000
+      internalID: -4952047752355988617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 22
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43221658ee27fbed0800000000000000
+      internalID: -2396070107972296140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 23
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed104d0f6c3a61e00800000000000000
+      internalID: 1015178840857903582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rolling_Shadowless_0: -4611218175750003610
+      Rolling_Shadowless_1: 3617406895616988184
+      Rolling_Shadowless_10: -7113664760998053551
+      Rolling_Shadowless_100: 8086321172222652041
+      Rolling_Shadowless_101: -5920649230279044411
+      Rolling_Shadowless_102: 7205242508649228150
+      Rolling_Shadowless_103: -3316911423290908263
+      Rolling_Shadowless_104: 4845977982826663131
+      Rolling_Shadowless_105: 6797732086476763462
+      Rolling_Shadowless_106: -7636007618659794655
+      Rolling_Shadowless_107: -379657130802101266
+      Rolling_Shadowless_108: 5625952024127843504
+      Rolling_Shadowless_109: 7252773095977501752
+      Rolling_Shadowless_11: 4751841974551447447
+      Rolling_Shadowless_110: -5417419979427720147
+      Rolling_Shadowless_111: -140166243162848253
+      Rolling_Shadowless_112: -5731806419301933008
+      Rolling_Shadowless_113: 6378039979592901079
+      Rolling_Shadowless_114: -6846178542102656654
+      Rolling_Shadowless_115: 5700285672286066510
+      Rolling_Shadowless_116: -6927450897850114482
+      Rolling_Shadowless_117: -4952047752355988617
+      Rolling_Shadowless_118: -2396070107972296140
+      Rolling_Shadowless_119: 1015178840857903582
+      Rolling_Shadowless_12: -6237616743557369635
+      Rolling_Shadowless_13: 7046661517614518498
+      Rolling_Shadowless_14: 4558176207394594500
+      Rolling_Shadowless_15: 1634081295653702139
+      Rolling_Shadowless_16: -5097972839004429458
+      Rolling_Shadowless_17: -6497664308191971469
+      Rolling_Shadowless_18: 4049711115587384309
+      Rolling_Shadowless_19: -6401331860600228839
+      Rolling_Shadowless_2: 908602759994518160
+      Rolling_Shadowless_20: 8474961670225476243
+      Rolling_Shadowless_21: 3595048623209166881
+      Rolling_Shadowless_22: -3786586044262731118
+      Rolling_Shadowless_23: 7891367075483557275
+      Rolling_Shadowless_24: -8653741740531321575
+      Rolling_Shadowless_25: -7821889318702970019
+      Rolling_Shadowless_26: -5758555319771070803
+      Rolling_Shadowless_27: 3606604653234149493
+      Rolling_Shadowless_28: -8971061945907672244
+      Rolling_Shadowless_29: -770231257155139740
+      Rolling_Shadowless_3: -420631117937872763
+      Rolling_Shadowless_30: 7842900957694153692
+      Rolling_Shadowless_31: -2050432934646391116
+      Rolling_Shadowless_32: 6212585557944796604
+      Rolling_Shadowless_33: 1255902795347580305
+      Rolling_Shadowless_34: -2493339871370107992
+      Rolling_Shadowless_35: -643332451785911476
+      Rolling_Shadowless_36: -585166472256381929
+      Rolling_Shadowless_37: 7105608665910810805
+      Rolling_Shadowless_38: 8315061135128572942
+      Rolling_Shadowless_39: -8175004434437349671
+      Rolling_Shadowless_4: -4443485448963836883
+      Rolling_Shadowless_40: 2113777998104787632
+      Rolling_Shadowless_41: -7379441934066538985
+      Rolling_Shadowless_42: 6412267425458911733
+      Rolling_Shadowless_43: 1791490074253248894
+      Rolling_Shadowless_44: 1860709327621610172
+      Rolling_Shadowless_45: 6149833679961559728
+      Rolling_Shadowless_46: -7807451793365507897
+      Rolling_Shadowless_47: -1782295096961995891
+      Rolling_Shadowless_48: 1855391637376095795
+      Rolling_Shadowless_49: 7921100434069082243
+      Rolling_Shadowless_5: -7667735097947075028
+      Rolling_Shadowless_50: 7240789003743147281
+      Rolling_Shadowless_51: -3442366117689832390
+      Rolling_Shadowless_52: -4582847005613516021
+      Rolling_Shadowless_53: -7696177332440991320
+      Rolling_Shadowless_54: 490583194478486953
+      Rolling_Shadowless_55: -6526797080305252399
+      Rolling_Shadowless_56: 4937260926509617607
+      Rolling_Shadowless_57: -4122325128525455300
+      Rolling_Shadowless_58: 5722719474621083531
+      Rolling_Shadowless_59: 5136385805340688258
+      Rolling_Shadowless_6: -6529383312676285512
+      Rolling_Shadowless_60: 7770449686574337725
+      Rolling_Shadowless_61: 2125284230568591579
+      Rolling_Shadowless_62: 175323932635739439
+      Rolling_Shadowless_63: 3187871652647165488
+      Rolling_Shadowless_64: -8176764254082632280
+      Rolling_Shadowless_65: -536412347827940781
+      Rolling_Shadowless_66: -2987794079214210049
+      Rolling_Shadowless_67: -5330480303968528881
+      Rolling_Shadowless_68: -4024296897120639199
+      Rolling_Shadowless_69: -6370858654022774366
+      Rolling_Shadowless_7: -9118127706142578246
+      Rolling_Shadowless_70: -8578775155787570908
+      Rolling_Shadowless_71: -8492757170818828677
+      Rolling_Shadowless_72: 2890040540754712591
+      Rolling_Shadowless_73: 7094395086855957441
+      Rolling_Shadowless_74: 7960192269426415565
+      Rolling_Shadowless_75: 411383374882119460
+      Rolling_Shadowless_76: 5352092147240984504
+      Rolling_Shadowless_77: -8023114229305156410
+      Rolling_Shadowless_78: -3220608326759387907
+      Rolling_Shadowless_79: -4940813706683294684
+      Rolling_Shadowless_8: 8477722164166723334
+      Rolling_Shadowless_80: -3438128114726136353
+      Rolling_Shadowless_81: -4183148074215080610
+      Rolling_Shadowless_82: 4481470581680167845
+      Rolling_Shadowless_83: 1395384951009310805
+      Rolling_Shadowless_84: -405762050658963358
+      Rolling_Shadowless_85: -2754531104710906915
+      Rolling_Shadowless_86: 3995293565724437245
+      Rolling_Shadowless_87: -7038959773790258208
+      Rolling_Shadowless_88: 8602588785112269232
+      Rolling_Shadowless_89: -8606442218907769427
+      Rolling_Shadowless_9: 6317921517726686690
+      Rolling_Shadowless_90: 108421272907076556
+      Rolling_Shadowless_91: 5749642263579165945
+      Rolling_Shadowless_92: -4173181156942669007
+      Rolling_Shadowless_93: 4743415160546892330
+      Rolling_Shadowless_94: 4311451829500393323
+      Rolling_Shadowless_95: 788055620985569466
+      Rolling_Shadowless_96: -4342589448556398814
+      Rolling_Shadowless_97: -2690832556475468779
+      Rolling_Shadowless_98: 1627821822241012535
+      Rolling_Shadowless_99: 1075712508092586847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa3757ae89446b340b28a4e1e7538356
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19553
+  packageName: 2D Fantasy Forest Tileset
+  packageVersion: 1.0.3
+  assetPath: Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/PlayerMovement.cs
+  uploadId: 70383

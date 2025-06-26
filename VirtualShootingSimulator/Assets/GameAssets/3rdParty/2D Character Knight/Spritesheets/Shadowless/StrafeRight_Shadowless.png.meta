@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 3dd2b65138eba544b9f4e1d98b11f9ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5863731510822845907
+    second: StrafeRight_Shadowless_0
+  - first:
+      213: -7603637824349719470
+    second: StrafeRight_Shadowless_1
+  - first:
+      213: -8447138135282246392
+    second: StrafeRight_Shadowless_2
+  - first:
+      213: 3784877605004407225
+    second: StrafeRight_Shadowless_3
+  - first:
+      213: -9210933112047012257
+    second: StrafeRight_Shadowless_4
+  - first:
+      213: 327517537677745563
+    second: StrafeRight_Shadowless_5
+  - first:
+      213: -6965607921615425294
+    second: StrafeRight_Shadowless_6
+  - first:
+      213: -3698976185636976594
+    second: StrafeRight_Shadowless_7
+  - first:
+      213: 5971567205608798241
+    second: StrafeRight_Shadowless_8
+  - first:
+      213: 7845638006133292512
+    second: StrafeRight_Shadowless_9
+  - first:
+      213: 6856034541615046613
+    second: StrafeRight_Shadowless_10
+  - first:
+      213: 6945309225657644469
+    second: StrafeRight_Shadowless_11
+  - first:
+      213: 5439190517242926363
+    second: StrafeRight_Shadowless_12
+  - first:
+      213: -8558420130247774397
+    second: StrafeRight_Shadowless_13
+  - first:
+      213: 5186691360039323307
+    second: StrafeRight_Shadowless_14
+  - first:
+      213: -2118304268596761505
+    second: StrafeRight_Shadowless_15
+  - first:
+      213: 8466955615944884933
+    second: StrafeRight_Shadowless_16
+  - first:
+      213: -652262427199559702
+    second: StrafeRight_Shadowless_17
+  - first:
+      213: -1031134129112509974
+    second: StrafeRight_Shadowless_18
+  - first:
+      213: 7159403192469357413
+    second: StrafeRight_Shadowless_19
+  - first:
+      213: -5527358064415358679
+    second: StrafeRight_Shadowless_20
+  - first:
+      213: 4301534223535747444
+    second: StrafeRight_Shadowless_21
+  - first:
+      213: -5201250929588059062
+    second: StrafeRight_Shadowless_22
+  - first:
+      213: 2587500401660037445
+    second: StrafeRight_Shadowless_23
+  - first:
+      213: 465148472601860538
+    second: StrafeRight_Shadowless_24
+  - first:
+      213: 841922701251805828
+    second: StrafeRight_Shadowless_25
+  - first:
+      213: 1504191467101716433
+    second: StrafeRight_Shadowless_26
+  - first:
+      213: 87518900069774320
+    second: StrafeRight_Shadowless_27
+  - first:
+      213: -8270654187641549695
+    second: StrafeRight_Shadowless_28
+  - first:
+      213: -8703343454814340802
+    second: StrafeRight_Shadowless_29
+  - first:
+      213: -1453703686106161636
+    second: StrafeRight_Shadowless_30
+  - first:
+      213: 5823155566415654980
+    second: StrafeRight_Shadowless_31
+  - first:
+      213: 4532302537352924607
+    second: StrafeRight_Shadowless_32
+  - first:
+      213: -7289819979095328671
+    second: StrafeRight_Shadowless_33
+  - first:
+      213: 8008566804081360083
+    second: StrafeRight_Shadowless_34
+  - first:
+      213: -8307878982337281044
+    second: StrafeRight_Shadowless_35
+  - first:
+      213: 3906801296427701587
+    second: StrafeRight_Shadowless_36
+  - first:
+      213: 4285426350257018973
+    second: StrafeRight_Shadowless_37
+  - first:
+      213: -8695147915568973676
+    second: StrafeRight_Shadowless_38
+  - first:
+      213: -2667456879635947373
+    second: StrafeRight_Shadowless_39
+  - first:
+      213: -7640737380792273886
+    second: StrafeRight_Shadowless_40
+  - first:
+      213: 914360908383736529
+    second: StrafeRight_Shadowless_41
+  - first:
+      213: 1141066979530955466
+    second: StrafeRight_Shadowless_42
+  - first:
+      213: -8330596494676203932
+    second: StrafeRight_Shadowless_43
+  - first:
+      213: -6558740098836589120
+    second: StrafeRight_Shadowless_44
+  - first:
+      213: 4978103723891248609
+    second: StrafeRight_Shadowless_45
+  - first:
+      213: 8892174143865989991
+    second: StrafeRight_Shadowless_46
+  - first:
+      213: 4742326643592078406
+    second: StrafeRight_Shadowless_47
+  - first:
+      213: -6530731089700498180
+    second: StrafeRight_Shadowless_48
+  - first:
+      213: 7179567134185128352
+    second: StrafeRight_Shadowless_49
+  - first:
+      213: 4506145251336797746
+    second: StrafeRight_Shadowless_50
+  - first:
+      213: -6413980465169555350
+    second: StrafeRight_Shadowless_51
+  - first:
+      213: -914255504221548109
+    second: StrafeRight_Shadowless_52
+  - first:
+      213: 5770932646723655404
+    second: StrafeRight_Shadowless_53
+  - first:
+      213: -7163952617233972524
+    second: StrafeRight_Shadowless_54
+  - first:
+      213: -5783825772185475084
+    second: StrafeRight_Shadowless_55
+  - first:
+      213: -7776364197618044650
+    second: StrafeRight_Shadowless_56
+  - first:
+      213: 130049735215011898
+    second: StrafeRight_Shadowless_57
+  - first:
+      213: -7444010335909239420
+    second: StrafeRight_Shadowless_58
+  - first:
+      213: 2761445404790381270
+    second: StrafeRight_Shadowless_59
+  - first:
+      213: 4539564436229517297
+    second: StrafeRight_Shadowless_60
+  - first:
+      213: -6987430513961860762
+    second: StrafeRight_Shadowless_61
+  - first:
+      213: -8056830665181042329
+    second: StrafeRight_Shadowless_62
+  - first:
+      213: 1071132908383525375
+    second: StrafeRight_Shadowless_63
+  - first:
+      213: 6083322379146715596
+    second: StrafeRight_Shadowless_64
+  - first:
+      213: 1623214462859313749
+    second: StrafeRight_Shadowless_65
+  - first:
+      213: -36951551062284959
+    second: StrafeRight_Shadowless_66
+  - first:
+      213: -8437498154017570263
+    second: StrafeRight_Shadowless_67
+  - first:
+      213: -508629760261900463
+    second: StrafeRight_Shadowless_68
+  - first:
+      213: 659212046882447150
+    second: StrafeRight_Shadowless_69
+  - first:
+      213: 7731239482706107900
+    second: StrafeRight_Shadowless_70
+  - first:
+      213: -5272883110556531349
+    second: StrafeRight_Shadowless_71
+  - first:
+      213: -4566370011103632557
+    second: StrafeRight_Shadowless_72
+  - first:
+      213: -5509648426716821727
+    second: StrafeRight_Shadowless_73
+  - first:
+      213: 6153724580966915897
+    second: StrafeRight_Shadowless_74
+  - first:
+      213: -6893776610352763063
+    second: StrafeRight_Shadowless_75
+  - first:
+      213: -8927454569170410075
+    second: StrafeRight_Shadowless_76
+  - first:
+      213: -9175385869939863957
+    second: StrafeRight_Shadowless_77
+  - first:
+      213: 5726897427488068551
+    second: StrafeRight_Shadowless_78
+  - first:
+      213: 8960836065898725661
+    second: StrafeRight_Shadowless_79
+  - first:
+      213: 6142351032311992400
+    second: StrafeRight_Shadowless_80
+  - first:
+      213: -8493163568343486442
+    second: StrafeRight_Shadowless_81
+  - first:
+      213: 8288244762094845721
+    second: StrafeRight_Shadowless_82
+  - first:
+      213: 2473133562121986700
+    second: StrafeRight_Shadowless_83
+  - first:
+      213: -687504760712329801
+    second: StrafeRight_Shadowless_84
+  - first:
+      213: 8319338503283012014
+    second: StrafeRight_Shadowless_85
+  - first:
+      213: -3873578503315032115
+    second: StrafeRight_Shadowless_86
+  - first:
+      213: -6028220160846062629
+    second: StrafeRight_Shadowless_87
+  - first:
+      213: -88108386311651675
+    second: StrafeRight_Shadowless_88
+  - first:
+      213: -4162466387687306521
+    second: StrafeRight_Shadowless_89
+  - first:
+      213: -1755159766969494188
+    second: StrafeRight_Shadowless_90
+  - first:
+      213: -3708880766053485272
+    second: StrafeRight_Shadowless_91
+  - first:
+      213: -6402203872715896358
+    second: StrafeRight_Shadowless_92
+  - first:
+      213: -5028259228095369641
+    second: StrafeRight_Shadowless_93
+  - first:
+      213: -7057140962020556671
+    second: StrafeRight_Shadowless_94
+  - first:
+      213: 3340126071188717648
+    second: StrafeRight_Shadowless_95
+  - first:
+      213: -2975208092496285456
+    second: StrafeRight_Shadowless_96
+  - first:
+      213: -6138478355437307388
+    second: StrafeRight_Shadowless_97
+  - first:
+      213: -4166814574321198728
+    second: StrafeRight_Shadowless_98
+  - first:
+      213: 3711054832283416063
+    second: StrafeRight_Shadowless_99
+  - first:
+      213: 3823968000005256634
+    second: StrafeRight_Shadowless_100
+  - first:
+      213: 5131573542215007106
+    second: StrafeRight_Shadowless_101
+  - first:
+      213: 4042610799639987951
+    second: StrafeRight_Shadowless_102
+  - first:
+      213: -7216682585650677443
+    second: StrafeRight_Shadowless_103
+  - first:
+      213: -2381790967671854402
+    second: StrafeRight_Shadowless_104
+  - first:
+      213: -5705118940863069842
+    second: StrafeRight_Shadowless_105
+  - first:
+      213: -5657598251097050761
+    second: StrafeRight_Shadowless_106
+  - first:
+      213: -4348186852794004413
+    second: StrafeRight_Shadowless_107
+  - first:
+      213: -3462799632409696845
+    second: StrafeRight_Shadowless_108
+  - first:
+      213: 2463930622184475079
+    second: StrafeRight_Shadowless_109
+  - first:
+      213: -7772563640354522749
+    second: StrafeRight_Shadowless_110
+  - first:
+      213: 2087860909068545533
+    second: StrafeRight_Shadowless_111
+  - first:
+      213: 129706615159284905
+    second: StrafeRight_Shadowless_112
+  - first:
+      213: -3965933161577391564
+    second: StrafeRight_Shadowless_113
+  - first:
+      213: -4114411086329816318
+    second: StrafeRight_Shadowless_114
+  - first:
+      213: 6864968214979019772
+    second: StrafeRight_Shadowless_115
+  - first:
+      213: 7908648852665213979
+    second: StrafeRight_Shadowless_116
+  - first:
+      213: -5152844541095190995
+    second: StrafeRight_Shadowless_117
+  - first:
+      213: -4683558496875195322
+    second: StrafeRight_Shadowless_118
+  - first:
+      213: 2217961201576779248
+    second: StrafeRight_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 471
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c32f1247df9ea0800000000000000
+      internalID: -5863731510822845907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 471
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25439ee3fa37a7690800000000000000
+      internalID: -7603637824349719470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 470
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d98ddee9cb5ca80800000000000000
+      internalID: -8447138135282246392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 469
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b17e9ce026968430800000000000000
+      internalID: 3784877605004407225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 469
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56fd8ed2213c2080800000000000000
+      internalID: -9210933112047012257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 469
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1efa17739b8400800000000000000
+      internalID: 327517537677745563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 470
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0377b2080355f90800000000000000
+      internalID: -6965607921615425294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 470
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288a76d1c89aacc0800000000000000
+      internalID: -3698976185636976594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 471
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283faa1cb44fd250800000000000000
+      internalID: 5971567205608798241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 471
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf0e7d23e41ec60800000000000000
+      internalID: 7845638006133292512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 470
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfd5cc3717852f50800000000000000
+      internalID: 6856034541615046613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 470
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5319261f1b26060800000000000000
+      internalID: 6945309225657644469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 470
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1510f515f2eb7b40800000000000000
+      internalID: 5439190517242926363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 470
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f670a6c326a3980800000000000000
+      internalID: -8558420130247774397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 471
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba64bbacf44daf740800000000000000
+      internalID: 5186691360039323307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 406
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca810bd754a92e0800000000000000
+      internalID: -2118304268596761505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 406
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c469d54ba08570800000000000000
+      internalID: 8466955615944884933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 407
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7af6e37c2b2f6f0800000000000000
+      internalID: -652262427199559702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 405
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1977609fca0b1f0800000000000000
+      internalID: -1031134129112509974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5630fea754f4b5360800000000000000
+      internalID: 7159403192469357413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 405
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c1282021ea43b0800000000000000
+      internalID: -5527358064415358679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 405
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b807f59e12bb30800000000000000
+      internalID: 4301534223535747444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 406
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44cb3246d171d7b0800000000000000
+      internalID: -5201250929588059062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 406
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5498029f7e5a8e320800000000000000
+      internalID: 2587500401660037445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 408
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9df35421a847600800000000000000
+      internalID: 465148472601860538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 407
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48283707c3c1fab00800000000000000
+      internalID: 841922701251805828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 407
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df75c67b26ffd410800000000000000
+      internalID: 1504191467101716433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 407
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3bac5d9fde63100800000000000000
+      internalID: 87518900069774320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 407
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c478d06dbb83d80800000000000000
+      internalID: -8270654187641549695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 407
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f1997d33873780800000000000000
+      internalID: -8703343454814340802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 342
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e57f4133863dbe0800000000000000
+      internalID: -1453703686106161636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 343
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4403b00a22100d050800000000000000
+      internalID: 5823155566415654980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 343
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdc5810529f5ee30800000000000000
+      internalID: 4532302537352924607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 343
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683a752a5b55da90800000000000000
+      internalID: -7289819979095328671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 343
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc314db315242f60800000000000000
+      internalID: 8008566804081360083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 342
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34ad4251c74bc80800000000000000
+      internalID: -8307878982337281044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 342
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355db99741fb73630800000000000000
+      internalID: 3906801296427701587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 342
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d581b267f84e87b30800000000000000
+      internalID: 4285426350257018973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 342
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49878072a01a45780800000000000000
+      internalID: -8695147915568973676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 342
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a0abc91a4bfad0800000000000000
+      internalID: -2667456879635947373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 342
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f3d3a5d5a6f590800000000000000
+      internalID: -7640737380792273886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 342
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d257b4d66670bc00800000000000000
+      internalID: 914360908383736529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 342
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acadedb4f52e5df00800000000000000
+      internalID: 1141066979530955466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 342
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e5bf10a6c36c80800000000000000
+      internalID: -8330596494676203932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 342
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c51cba31acaaf4a0800000000000000
+      internalID: -6558740098836589120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed469536f6c51540800000000000000
+      internalID: 4978103723891248609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 279
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bab066549576b70800000000000000
+      internalID: 8892174143865989991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 278
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442d28d4f020d140800000000000000
+      internalID: 4742326643592078406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 277
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45dcadcae2e55a0800000000000000
+      internalID: -6530731089700498180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 276
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a18c220542f2a360800000000000000
+      internalID: 7179567134185128352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 277
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3e344b3b098e30800000000000000
+      internalID: 4506145251336797746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 278
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a602649efb6fcf6a0800000000000000
+      internalID: -6413980465169555350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 279
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1ddec7679ef43f0800000000000000
+      internalID: -914255504221548109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 278
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61bae9aa8761050800000000000000
+      internalID: 5770932646723655404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 277
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20a060d07849c90800000000000000
+      internalID: -7163952617233972524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 276
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7a22eaa19bbbfa0800000000000000
+      internalID: -5783825772185475084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 276
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61139e496fdc41490800000000000000
+      internalID: -7776364197618044650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 277
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38df9e8b870ec100800000000000000
+      internalID: 130049735215011898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 277
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4852bcf1a0091b890800000000000000
+      internalID: -7444010335909239420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 279
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5a2307ff925620800000000000000
+      internalID: 2761445404790381270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe4789dc5cffe30800000000000000
+      internalID: 4539564436229517297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610492f7f8a70f90800000000000000
+      internalID: -6987430513961860762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 213
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e86a6233603090800000000000000
+      internalID: -8056830665181042329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 211
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff95e6f74bd6dde00800000000000000
+      internalID: 1071132908383525375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 211
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16937197d4c6450800000000000000
+      internalID: 6083322379146715596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 211
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552810d24f0d68610800000000000000
+      internalID: 1623214462859313749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 212
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165680592c8bc7ff0800000000000000
+      internalID: -36951551062284959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 214
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c4c8f12cf7ea80800000000000000
+      internalID: -8437498154017570263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 215
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b5698debf0f8f0800000000000000
+      internalID: -508629760261900463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 213
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f161e2dddf52900800000000000000
+      internalID: 659212046882447150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 212
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1c200951ea4b60800000000000000
+      internalID: 7731239482706107900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 212
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650f157fb4f2d6b0800000000000000
+      internalID: -5272883110556531349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 213
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353eb272baef0a0c0800000000000000
+      internalID: -4566370011103632557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 214
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127014082fbc983b0800000000000000
+      internalID: -5509648426716821727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 216
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5f1e07eb666550800000000000000
+      internalID: 6153724580966915897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 151
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe60b92b26450a0800000000000000
+      internalID: -6893776610352763063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 150
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5e8287e5f4b1480800000000000000
+      internalID: -8927454569170410075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e88112a2b7aa080800000000000000
+      internalID: -9175385869939863957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3568e2ed60a7f40800000000000000
+      internalID: 5726897427488068551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d110766ece84b5c70800000000000000
+      internalID: 8960836065898725661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 148
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050d5b668b30e3550800000000000000
+      internalID: 6142351032311992400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 149
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610f899bbb8322a80800000000000000
+      internalID: -8493163568343486442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 149
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fb728b2b2c50370800000000000000
+      internalID: 8288244762094845721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 151
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a06c1fd5525220800000000000000
+      internalID: 2473133562121986700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 151
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b50a5c001e7576f0800000000000000
+      internalID: -687504760712329801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 150
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f96e7a4a347370800000000000000
+      internalID: 8319338503283012014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77154dfd84e3ac0800000000000000
+      internalID: -3873578503315032115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 151
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1cecd3b5775ca0800000000000000
+      internalID: -6028220160846062629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 152
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae3924b3e9f6cef0800000000000000
+      internalID: -88108386311651675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 151
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea0564cfd2fb36c0800000000000000
+      internalID: -4162466387687306521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d9bdbd7b64a7e0800000000000000
+      internalID: -1755159766969494188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8257a110898678cc0800000000000000
+      internalID: -3708880766053485272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad983238f7dc627a0800000000000000
+      internalID: -6402203872715896358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eabc67fd8083ab0800000000000000
+      internalID: -5028259228095369641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18008e47fafff0e90800000000000000
+      internalID: -7057140962020556671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050893a07f28a5e20800000000000000
+      internalID: 3340126071188717648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 87
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f034e1d000f5b6d0800000000000000
+      internalID: -2975208092496285456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 86
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a3cb2757ebfcaa0800000000000000
+      internalID: -6138478355437307388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 87
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8791aaca8308c26c0800000000000000
+      internalID: -4166814574321198728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 87
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ff3c35b0508330800000000000000
+      internalID: 3711054832283416063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 87
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab536c0c2a6711530800000000000000
+      internalID: 3823968000005256634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 88
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb48ac2f2073740800000000000000
+      internalID: 5131573542215007106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 88
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe603b58a1d3a1830800000000000000
+      internalID: 4042610799639987951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 87
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d393b898c6139db90800000000000000
+      internalID: -7216682585650677443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 87
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba6fa2fbbd22fed0800000000000000
+      internalID: -2381790967671854402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e610180ec8853d0b0800000000000000
+      internalID: -5705118940863069842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7713d79ad5c2c71b0800000000000000
+      internalID: -5657598251097050761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 23
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c8036581328a3c0800000000000000
+      internalID: -4348186852794004413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5edddb41aa1ffc0800000000000000
+      internalID: -3462799632409696845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 23
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9438ea8d3a13220800000000000000
+      internalID: 2463930622184475079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893d86cc8e422490800000000000000
+      internalID: -7772563640354522749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd64715f6299fc10800000000000000
+      internalID: 2087860909068545533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 23
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a46691ba7fccc100800000000000000
+      internalID: 129706615159284905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 23
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43adc3d4dcc26f8c0800000000000000
+      internalID: -3965933161577391564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 22
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bd1638aeca6e6c0800000000000000
+      internalID: -4114411086329816318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 22
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf30c282834454f50800000000000000
+      internalID: 6864968214979019772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 22
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14296cca3a21cd60800000000000000
+      internalID: 7908648852665213979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 22
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ed539d03b6d78b0800000000000000
+      internalID: -5152844541095190995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 22
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644ddf49c58a00fb0800000000000000
+      internalID: -4683558496875195322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeRight_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 23
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd159926f7c7ce10800000000000000
+      internalID: 2217961201576779248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StrafeRight_Shadowless_0: -5863731510822845907
+      StrafeRight_Shadowless_1: -7603637824349719470
+      StrafeRight_Shadowless_10: 6856034541615046613
+      StrafeRight_Shadowless_100: 3823968000005256634
+      StrafeRight_Shadowless_101: 5131573542215007106
+      StrafeRight_Shadowless_102: 4042610799639987951
+      StrafeRight_Shadowless_103: -7216682585650677443
+      StrafeRight_Shadowless_104: -2381790967671854402
+      StrafeRight_Shadowless_105: -5705118940863069842
+      StrafeRight_Shadowless_106: -5657598251097050761
+      StrafeRight_Shadowless_107: -4348186852794004413
+      StrafeRight_Shadowless_108: -3462799632409696845
+      StrafeRight_Shadowless_109: 2463930622184475079
+      StrafeRight_Shadowless_11: 6945309225657644469
+      StrafeRight_Shadowless_110: -7772563640354522749
+      StrafeRight_Shadowless_111: 2087860909068545533
+      StrafeRight_Shadowless_112: 129706615159284905
+      StrafeRight_Shadowless_113: -3965933161577391564
+      StrafeRight_Shadowless_114: -4114411086329816318
+      StrafeRight_Shadowless_115: 6864968214979019772
+      StrafeRight_Shadowless_116: 7908648852665213979
+      StrafeRight_Shadowless_117: -5152844541095190995
+      StrafeRight_Shadowless_118: -4683558496875195322
+      StrafeRight_Shadowless_119: 2217961201576779248
+      StrafeRight_Shadowless_12: 5439190517242926363
+      StrafeRight_Shadowless_13: -8558420130247774397
+      StrafeRight_Shadowless_14: 5186691360039323307
+      StrafeRight_Shadowless_15: -2118304268596761505
+      StrafeRight_Shadowless_16: 8466955615944884933
+      StrafeRight_Shadowless_17: -652262427199559702
+      StrafeRight_Shadowless_18: -1031134129112509974
+      StrafeRight_Shadowless_19: 7159403192469357413
+      StrafeRight_Shadowless_2: -8447138135282246392
+      StrafeRight_Shadowless_20: -5527358064415358679
+      StrafeRight_Shadowless_21: 4301534223535747444
+      StrafeRight_Shadowless_22: -5201250929588059062
+      StrafeRight_Shadowless_23: 2587500401660037445
+      StrafeRight_Shadowless_24: 465148472601860538
+      StrafeRight_Shadowless_25: 841922701251805828
+      StrafeRight_Shadowless_26: 1504191467101716433
+      StrafeRight_Shadowless_27: 87518900069774320
+      StrafeRight_Shadowless_28: -8270654187641549695
+      StrafeRight_Shadowless_29: -8703343454814340802
+      StrafeRight_Shadowless_3: 3784877605004407225
+      StrafeRight_Shadowless_30: -1453703686106161636
+      StrafeRight_Shadowless_31: 5823155566415654980
+      StrafeRight_Shadowless_32: 4532302537352924607
+      StrafeRight_Shadowless_33: -7289819979095328671
+      StrafeRight_Shadowless_34: 8008566804081360083
+      StrafeRight_Shadowless_35: -8307878982337281044
+      StrafeRight_Shadowless_36: 3906801296427701587
+      StrafeRight_Shadowless_37: 4285426350257018973
+      StrafeRight_Shadowless_38: -8695147915568973676
+      StrafeRight_Shadowless_39: -2667456879635947373
+      StrafeRight_Shadowless_4: -9210933112047012257
+      StrafeRight_Shadowless_40: -7640737380792273886
+      StrafeRight_Shadowless_41: 914360908383736529
+      StrafeRight_Shadowless_42: 1141066979530955466
+      StrafeRight_Shadowless_43: -8330596494676203932
+      StrafeRight_Shadowless_44: -6558740098836589120
+      StrafeRight_Shadowless_45: 4978103723891248609
+      StrafeRight_Shadowless_46: 8892174143865989991
+      StrafeRight_Shadowless_47: 4742326643592078406
+      StrafeRight_Shadowless_48: -6530731089700498180
+      StrafeRight_Shadowless_49: 7179567134185128352
+      StrafeRight_Shadowless_5: 327517537677745563
+      StrafeRight_Shadowless_50: 4506145251336797746
+      StrafeRight_Shadowless_51: -6413980465169555350
+      StrafeRight_Shadowless_52: -914255504221548109
+      StrafeRight_Shadowless_53: 5770932646723655404
+      StrafeRight_Shadowless_54: -7163952617233972524
+      StrafeRight_Shadowless_55: -5783825772185475084
+      StrafeRight_Shadowless_56: -7776364197618044650
+      StrafeRight_Shadowless_57: 130049735215011898
+      StrafeRight_Shadowless_58: -7444010335909239420
+      StrafeRight_Shadowless_59: 2761445404790381270
+      StrafeRight_Shadowless_6: -6965607921615425294
+      StrafeRight_Shadowless_60: 4539564436229517297
+      StrafeRight_Shadowless_61: -6987430513961860762
+      StrafeRight_Shadowless_62: -8056830665181042329
+      StrafeRight_Shadowless_63: 1071132908383525375
+      StrafeRight_Shadowless_64: 6083322379146715596
+      StrafeRight_Shadowless_65: 1623214462859313749
+      StrafeRight_Shadowless_66: -36951551062284959
+      StrafeRight_Shadowless_67: -8437498154017570263
+      StrafeRight_Shadowless_68: -508629760261900463
+      StrafeRight_Shadowless_69: 659212046882447150
+      StrafeRight_Shadowless_7: -3698976185636976594
+      StrafeRight_Shadowless_70: 7731239482706107900
+      StrafeRight_Shadowless_71: -5272883110556531349
+      StrafeRight_Shadowless_72: -4566370011103632557
+      StrafeRight_Shadowless_73: -5509648426716821727
+      StrafeRight_Shadowless_74: 6153724580966915897
+      StrafeRight_Shadowless_75: -6893776610352763063
+      StrafeRight_Shadowless_76: -8927454569170410075
+      StrafeRight_Shadowless_77: -9175385869939863957
+      StrafeRight_Shadowless_78: 5726897427488068551
+      StrafeRight_Shadowless_79: 8960836065898725661
+      StrafeRight_Shadowless_8: 5971567205608798241
+      StrafeRight_Shadowless_80: 6142351032311992400
+      StrafeRight_Shadowless_81: -8493163568343486442
+      StrafeRight_Shadowless_82: 8288244762094845721
+      StrafeRight_Shadowless_83: 2473133562121986700
+      StrafeRight_Shadowless_84: -687504760712329801
+      StrafeRight_Shadowless_85: 8319338503283012014
+      StrafeRight_Shadowless_86: -3873578503315032115
+      StrafeRight_Shadowless_87: -6028220160846062629
+      StrafeRight_Shadowless_88: -88108386311651675
+      StrafeRight_Shadowless_89: -4162466387687306521
+      StrafeRight_Shadowless_9: 7845638006133292512
+      StrafeRight_Shadowless_90: -1755159766969494188
+      StrafeRight_Shadowless_91: -3708880766053485272
+      StrafeRight_Shadowless_92: -6402203872715896358
+      StrafeRight_Shadowless_93: -5028259228095369641
+      StrafeRight_Shadowless_94: -7057140962020556671
+      StrafeRight_Shadowless_95: 3340126071188717648
+      StrafeRight_Shadowless_96: -2975208092496285456
+      StrafeRight_Shadowless_97: -6138478355437307388
+      StrafeRight_Shadowless_98: -4166814574321198728
+      StrafeRight_Shadowless_99: 3711054832283416063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

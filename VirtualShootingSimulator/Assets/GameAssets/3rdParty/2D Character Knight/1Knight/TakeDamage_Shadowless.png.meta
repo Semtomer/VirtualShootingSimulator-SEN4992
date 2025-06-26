@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: a8d49b5e4aba4864f9701ae283105c68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8980957781847217470
+    second: TakeDamage_Shadowless_0
+  - first:
+      213: 1927824605699809048
+    second: TakeDamage_Shadowless_1
+  - first:
+      213: -6406224620492713541
+    second: TakeDamage_Shadowless_2
+  - first:
+      213: 6697173256523875099
+    second: TakeDamage_Shadowless_3
+  - first:
+      213: -5161973880631101206
+    second: TakeDamage_Shadowless_4
+  - first:
+      213: -678510911848374022
+    second: TakeDamage_Shadowless_5
+  - first:
+      213: 3360925903455224975
+    second: TakeDamage_Shadowless_6
+  - first:
+      213: 3858315494716785817
+    second: TakeDamage_Shadowless_7
+  - first:
+      213: 493049620336857658
+    second: TakeDamage_Shadowless_8
+  - first:
+      213: -332457708307248839
+    second: TakeDamage_Shadowless_9
+  - first:
+      213: 5228775440499907298
+    second: TakeDamage_Shadowless_10
+  - first:
+      213: 6179146545634201444
+    second: TakeDamage_Shadowless_11
+  - first:
+      213: 4862267449835941985
+    second: TakeDamage_Shadowless_12
+  - first:
+      213: 911648679175519685
+    second: TakeDamage_Shadowless_13
+  - first:
+      213: 5471885583728758371
+    second: TakeDamage_Shadowless_14
+  - first:
+      213: -1343169279719595128
+    second: TakeDamage_Shadowless_15
+  - first:
+      213: 2613499153394881972
+    second: TakeDamage_Shadowless_16
+  - first:
+      213: -6642503705989433383
+    second: TakeDamage_Shadowless_17
+  - first:
+      213: 7306235875240381763
+    second: TakeDamage_Shadowless_18
+  - first:
+      213: -8805229085897708646
+    second: TakeDamage_Shadowless_19
+  - first:
+      213: 4183348280662606481
+    second: TakeDamage_Shadowless_20
+  - first:
+      213: 5578481512230555944
+    second: TakeDamage_Shadowless_21
+  - first:
+      213: -5292965137829406212
+    second: TakeDamage_Shadowless_22
+  - first:
+      213: 6092624311714231046
+    second: TakeDamage_Shadowless_23
+  - first:
+      213: -7829466287502939909
+    second: TakeDamage_Shadowless_24
+  - first:
+      213: -1251203350607058540
+    second: TakeDamage_Shadowless_25
+  - first:
+      213: -5347861099415392327
+    second: TakeDamage_Shadowless_26
+  - first:
+      213: 7303329483408556213
+    second: TakeDamage_Shadowless_27
+  - first:
+      213: 4821923163508091299
+    second: TakeDamage_Shadowless_28
+  - first:
+      213: 6696089068008690783
+    second: TakeDamage_Shadowless_29
+  - first:
+      213: -3843061638092828197
+    second: TakeDamage_Shadowless_30
+  - first:
+      213: -8469426889932211024
+    second: TakeDamage_Shadowless_31
+  - first:
+      213: 2556819683623415318
+    second: TakeDamage_Shadowless_32
+  - first:
+      213: -7221598667851445867
+    second: TakeDamage_Shadowless_33
+  - first:
+      213: 4891784246984442120
+    second: TakeDamage_Shadowless_34
+  - first:
+      213: -2201853017129820235
+    second: TakeDamage_Shadowless_35
+  - first:
+      213: -187601234215134760
+    second: TakeDamage_Shadowless_36
+  - first:
+      213: -5110599912510894590
+    second: TakeDamage_Shadowless_37
+  - first:
+      213: 4592620792290439846
+    second: TakeDamage_Shadowless_38
+  - first:
+      213: -7528566833642225669
+    second: TakeDamage_Shadowless_39
+  - first:
+      213: -1956408570674377661
+    second: TakeDamage_Shadowless_40
+  - first:
+      213: -7502564478577631561
+    second: TakeDamage_Shadowless_41
+  - first:
+      213: -1645871440321509765
+    second: TakeDamage_Shadowless_42
+  - first:
+      213: -4392183844294580869
+    second: TakeDamage_Shadowless_43
+  - first:
+      213: 5352596298435931956
+    second: TakeDamage_Shadowless_44
+  - first:
+      213: -8517218088520589412
+    second: TakeDamage_Shadowless_45
+  - first:
+      213: -4108578719945158579
+    second: TakeDamage_Shadowless_46
+  - first:
+      213: -7892527354704751147
+    second: TakeDamage_Shadowless_47
+  - first:
+      213: 3522566484244499069
+    second: TakeDamage_Shadowless_48
+  - first:
+      213: -6563077002912714133
+    second: TakeDamage_Shadowless_49
+  - first:
+      213: -8974165112598248967
+    second: TakeDamage_Shadowless_50
+  - first:
+      213: -5334405778418137562
+    second: TakeDamage_Shadowless_51
+  - first:
+      213: 5679904323066379041
+    second: TakeDamage_Shadowless_52
+  - first:
+      213: 6280651578895747865
+    second: TakeDamage_Shadowless_53
+  - first:
+      213: -7851429204743961496
+    second: TakeDamage_Shadowless_54
+  - first:
+      213: 3801480887719687218
+    second: TakeDamage_Shadowless_55
+  - first:
+      213: -4279133318382558010
+    second: TakeDamage_Shadowless_56
+  - first:
+      213: -8454914235695109306
+    second: TakeDamage_Shadowless_57
+  - first:
+      213: 1467243391210735823
+    second: TakeDamage_Shadowless_58
+  - first:
+      213: 1905539253180857337
+    second: TakeDamage_Shadowless_59
+  - first:
+      213: 1351536461407043150
+    second: TakeDamage_Shadowless_60
+  - first:
+      213: 7400747877957235897
+    second: TakeDamage_Shadowless_61
+  - first:
+      213: 2505264700318907491
+    second: TakeDamage_Shadowless_62
+  - first:
+      213: 1761842411692752100
+    second: TakeDamage_Shadowless_63
+  - first:
+      213: 6233287537016640805
+    second: TakeDamage_Shadowless_64
+  - first:
+      213: 5959124825304211663
+    second: TakeDamage_Shadowless_65
+  - first:
+      213: -7527099483300328980
+    second: TakeDamage_Shadowless_66
+  - first:
+      213: -8571648662976549947
+    second: TakeDamage_Shadowless_67
+  - first:
+      213: -8847684589122308487
+    second: TakeDamage_Shadowless_68
+  - first:
+      213: 1556596050833140580
+    second: TakeDamage_Shadowless_69
+  - first:
+      213: -6492768850838990301
+    second: TakeDamage_Shadowless_70
+  - first:
+      213: 167177650659868683
+    second: TakeDamage_Shadowless_71
+  - first:
+      213: -6965062824772493193
+    second: TakeDamage_Shadowless_72
+  - first:
+      213: 3976965041443618452
+    second: TakeDamage_Shadowless_73
+  - first:
+      213: 6312286090972601482
+    second: TakeDamage_Shadowless_74
+  - first:
+      213: -8682170254157274595
+    second: TakeDamage_Shadowless_75
+  - first:
+      213: -816228494689869080
+    second: TakeDamage_Shadowless_76
+  - first:
+      213: -1850281470220121726
+    second: TakeDamage_Shadowless_77
+  - first:
+      213: -1597577636285713523
+    second: TakeDamage_Shadowless_78
+  - first:
+      213: 3988070712868572198
+    second: TakeDamage_Shadowless_79
+  - first:
+      213: 1542255084374751733
+    second: TakeDamage_Shadowless_80
+  - first:
+      213: 2598201915633125359
+    second: TakeDamage_Shadowless_81
+  - first:
+      213: 4879561353819364915
+    second: TakeDamage_Shadowless_82
+  - first:
+      213: 8573412012293007958
+    second: TakeDamage_Shadowless_83
+  - first:
+      213: -6908243576580603878
+    second: TakeDamage_Shadowless_84
+  - first:
+      213: 7955076068661235302
+    second: TakeDamage_Shadowless_85
+  - first:
+      213: 6081136523518746185
+    second: TakeDamage_Shadowless_86
+  - first:
+      213: 1281144513859046799
+    second: TakeDamage_Shadowless_87
+  - first:
+      213: -84634323694942482
+    second: TakeDamage_Shadowless_88
+  - first:
+      213: -9206284576830881147
+    second: TakeDamage_Shadowless_89
+  - first:
+      213: -2069196409245207278
+    second: TakeDamage_Shadowless_90
+  - first:
+      213: 1984639637767967770
+    second: TakeDamage_Shadowless_91
+  - first:
+      213: -326558232488867790
+    second: TakeDamage_Shadowless_92
+  - first:
+      213: 925250993901181385
+    second: TakeDamage_Shadowless_93
+  - first:
+      213: 8011231561301455286
+    second: TakeDamage_Shadowless_94
+  - first:
+      213: 6953203465359859348
+    second: TakeDamage_Shadowless_95
+  - first:
+      213: 8533415374668460769
+    second: TakeDamage_Shadowless_96
+  - first:
+      213: -7960426230562963671
+    second: TakeDamage_Shadowless_97
+  - first:
+      213: 7246770689312311197
+    second: TakeDamage_Shadowless_98
+  - first:
+      213: 6799753287437307433
+    second: TakeDamage_Shadowless_99
+  - first:
+      213: -3358953559085522069
+    second: TakeDamage_Shadowless_100
+  - first:
+      213: 2257573427123979525
+    second: TakeDamage_Shadowless_101
+  - first:
+      213: 3006756829401039994
+    second: TakeDamage_Shadowless_102
+  - first:
+      213: 7559155373578988738
+    second: TakeDamage_Shadowless_103
+  - first:
+      213: -3118039335604535854
+    second: TakeDamage_Shadowless_104
+  - first:
+      213: -8421405185999446539
+    second: TakeDamage_Shadowless_105
+  - first:
+      213: -733915457270173513
+    second: TakeDamage_Shadowless_106
+  - first:
+      213: -3418274797679023147
+    second: TakeDamage_Shadowless_107
+  - first:
+      213: -7037821640269654622
+    second: TakeDamage_Shadowless_108
+  - first:
+      213: 4745758670326855648
+    second: TakeDamage_Shadowless_109
+  - first:
+      213: -5299184576560420745
+    second: TakeDamage_Shadowless_110
+  - first:
+      213: 713883714170696653
+    second: TakeDamage_Shadowless_111
+  - first:
+      213: 8264263951197370005
+    second: TakeDamage_Shadowless_112
+  - first:
+      213: -6522483704599837642
+    second: TakeDamage_Shadowless_113
+  - first:
+      213: -2501668096123291644
+    second: TakeDamage_Shadowless_114
+  - first:
+      213: 3573921026567042935
+    second: TakeDamage_Shadowless_115
+  - first:
+      213: -1847850093911233099
+    second: TakeDamage_Shadowless_116
+  - first:
+      213: -8254938731227992465
+    second: TakeDamage_Shadowless_117
+  - first:
+      213: -6900338926575210096
+    second: TakeDamage_Shadowless_118
+  - first:
+      213: 601828809969379501
+    second: TakeDamage_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3598c9f485c2ac70800000000000000
+      internalID: 8980957781847217470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 469
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9efbc34201ca10800000000000000
+      internalID: 1927824605699809048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 469
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19b2836a48817a0800000000000000
+      internalID: -6406224620492713541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b130a5af79321fc50800000000000000
+      internalID: 6697173256523875099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 469
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87329da1cfc58b0800000000000000
+      internalID: -5161973880631101206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 469
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af02d0babe17596f0800000000000000
+      internalID: -678510911848374022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848bdf5d4864ae20800000000000000
+      internalID: 3360925903455224975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 469
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994cafd008d7b8530800000000000000
+      internalID: 3858315494716785817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 469
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32d1d4740aa7d600800000000000000
+      internalID: 493049620336857658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 469
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398189c97fd26bf0800000000000000
+      internalID: -332457708307248839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 469
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea98455f87509840800000000000000
+      internalID: 5228775440499907298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fcb937b0db0c550800000000000000
+      internalID: 6179146545634201444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1607a66fb7e3a7340800000000000000
+      internalID: 4862267449835941985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 469
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf532c4a3d6ac00800000000000000
+      internalID: 911648679175519685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ecbb572fa00fb40800000000000000
+      internalID: 5471885583728758371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a81118aa1c5de0800000000000000
+      internalID: -1343169279719595128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 404
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d2e212a3054420800000000000000
+      internalID: 2613499153394881972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7b849a21611d3a0800000000000000
+      internalID: -6642503705989433383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d0be481d6f46560800000000000000
+      internalID: 7306235875240381763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 404
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b21296cca8dc580800000000000000
+      internalID: -8805229085897708646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 405
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c2a0d81d3e0a30800000000000000
+      internalID: 4183348280662606481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 405
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821169a116fba6d40800000000000000
+      internalID: 5578481512230555944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 405
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d62f104c9b86b0800000000000000
+      internalID: -5292965137829406212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 405
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b2a908895d8450800000000000000
+      internalID: 6092624311714231046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 405
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8ad70d4e5285390800000000000000
+      internalID: -7829466287502939909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 404
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499a9498e25d2aee0800000000000000
+      internalID: -1251203350607058540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 404
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf273d0aa498c5b0800000000000000
+      internalID: -5347861099415392327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 404
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b044307873aa5560800000000000000
+      internalID: 7303329483408556213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a02fc199eae240800000000000000
+      internalID: 4821923163508091299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d80ba7894dec50800000000000000
+      internalID: 6696089068008690783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 339
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1db833dc3baaac0800000000000000
+      internalID: -3843061638092828197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 339
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf276dd1d867a80800000000000000
+      internalID: -8469426889932211024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea915a4f5ab7320800000000000000
+      internalID: 2556819683623415318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 339
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c744f54ab7cb90800000000000000
+      internalID: -7221598667851445867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 339
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8010c57dadb13e340800000000000000
+      internalID: 4891784246984442120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfda5ac8527171e0800000000000000
+      internalID: -2201853017129820235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99e23eba1856df0800000000000000
+      internalID: -187601234215134760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 339
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e45a9e4708319b0800000000000000
+      internalID: -5110599912510894590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 339
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a27b8027444cbf30800000000000000
+      internalID: 4592620792290439846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 339
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffb7f45a58258790800000000000000
+      internalID: -7528566833642225669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 339
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c8c6d35c079d4e0800000000000000
+      internalID: -1956408570674377661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 339
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9ae56b5981e790800000000000000
+      internalID: -7502564478577631561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b760dad25a0b829e0800000000000000
+      internalID: -1645871440321509765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ac9c7014db03c0800000000000000
+      internalID: -4392183844294580869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f285269fd384a40800000000000000
+      internalID: 5352596298435931956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd23f4643ccc980800000000000000
+      internalID: -8517218088520589412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 276
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4090f12c656bf6c0800000000000000
+      internalID: -4108578719945158579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 276
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d515c2ff2c187290800000000000000
+      internalID: -7892527354704751147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 276
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0717dd8ba2e030800000000000000
+      internalID: 3522566484244499069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 276
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623adf0d344be4a0800000000000000
+      internalID: -6563077002912714133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c0e3906c557380800000000000000
+      internalID: -8974165112598248967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 276
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268899153268f5b0800000000000000
+      internalID: -5334405778418137562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 276
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb39e63e213de40800000000000000
+      internalID: 5679904323066379041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 276
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bc31ea55b592750800000000000000
+      internalID: 6280651578895747865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 276
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864cb18acbe1a0390800000000000000
+      internalID: -7851429204743961496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 276
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f7fce9b291c430800000000000000
+      internalID: 3801480887719687218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 276
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e4433be67d94c0800000000000000
+      internalID: -4279133318382558010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 276
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64beff67c4c1aaa80800000000000000
+      internalID: -8454914235695109306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 276
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c72c2712bc5410800000000000000
+      internalID: 1467243391210735823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 276
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb7863dad5d17a10800000000000000
+      internalID: 1905539253180857337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb72b304f91c210800000000000000
+      internalID: 1351536461407043150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4fdd1fbfcb4b660800000000000000
+      internalID: 7400747877957235897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c75d2b8fc74c220800000000000000
+      internalID: 2505264700318907491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf92bb652537810800000000000000
+      internalID: 1761842411692752100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251fb25df5118650800000000000000
+      internalID: 6233287537016640805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02870b47013b250800000000000000
+      internalID: 5959124825304211663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 215
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce98bd476ee5a8790800000000000000
+      internalID: -7527099483300328980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba4df94f26b0980800000000000000
+      internalID: -8571648662976549947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 215
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976baa44eb5b63580800000000000000
+      internalID: -8847684589122308487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b6fac6cd32a9510800000000000000
+      internalID: 1556596050833140580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 214
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322550d512d05e5a0800000000000000
+      internalID: -6492768850838990301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 214
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0047f1003fe15200800000000000000
+      internalID: 167177650659868683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 214
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770282b6340275f90800000000000000
+      internalID: -6965062824772493193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 214
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb46362a4013730800000000000000
+      internalID: 3976965041443618452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 214
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9f0d71ceb99750800000000000000
+      internalID: 6312286090972601482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122e79672cb28780800000000000000
+      internalID: -8682170254157274595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26576328c2ca4f0800000000000000
+      internalID: -816228494689869080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ca095eca7256e0800000000000000
+      internalID: -1850281470220121726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f418aa9344d9e0800000000000000
+      internalID: -1597577636285713523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8ba30f29785730800000000000000
+      internalID: 3988070712868572198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97239f3d0376510800000000000000
+      internalID: 1542255084374751733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 149
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe74d0c50eaae0420800000000000000
+      internalID: 2598201915633125359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e9022c23fa7b340800000000000000
+      internalID: 4879561353819364915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 149
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aaac12dc0eaf670800000000000000
+      internalID: 8573412012293007958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 149
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a100a0c811df020a0800000000000000
+      internalID: -6908243576580603878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 149
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e83c1698b166e60800000000000000
+      internalID: 7955076068661235302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 149
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e1dfae279846450800000000000000
+      internalID: 6081136523518746185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 149
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d4286c52a87c110800000000000000
+      internalID: 1281144513859046799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68b50f78153def0800000000000000
+      internalID: -84634323694942482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58286d054f4bc3080800000000000000
+      internalID: -9206284576830881147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215fc6034dcb843e0800000000000000
+      internalID: -2069196409245207278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14d1584c3bda8b10800000000000000
+      internalID: 1984639637767967770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238850a8405d77bf0800000000000000
+      internalID: -326558232488867790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99e8370e627dc00800000000000000
+      internalID: 925250993901181385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b175c0e8ac9d2f60800000000000000
+      internalID: 8011231561301455286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 84
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e1acb46bdbe7060800000000000000
+      internalID: 6953203465359859348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e278ff3218cc6670800000000000000
+      internalID: 8533415374668460769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 84
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb79af482e68190800000000000000
+      internalID: -7960426230562963671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 84
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974c210c83b19460800000000000000
+      internalID: 7246770689312311197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 84
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ecef996939d5e50800000000000000
+      internalID: 6799753287437307433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 84
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b636ca5d8899261d0800000000000000
+      internalID: -3358953559085522069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 84
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50506122213845f10800000000000000
+      internalID: 2257573427123979525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74cd66e7652ab920800000000000000
+      internalID: 3006756829401039994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc292c13c387e860800000000000000
+      internalID: 7559155373578988738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 84
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb89d8ebf7ab4d0800000000000000
+      internalID: -3118039335604535854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdded21a98212b80800000000000000
+      internalID: -8421405185999446539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03e32b7cb90d5f0800000000000000
+      internalID: -733915457270173513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbebabae29df80d0800000000000000
+      internalID: -3418274797679023147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59b239182a45e90800000000000000
+      internalID: -7037821640269654622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 19
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7ff86dd525cd140800000000000000
+      internalID: 4745758670326855648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 19
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77823e234b38576b0800000000000000
+      internalID: -5299184576560420745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3b41aa47938e900800000000000000
+      internalID: 713883714170696653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 19
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967f25174090b270800000000000000
+      internalID: 8264263951197370005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 19
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6348d06d0ab7b75a0800000000000000
+      internalID: -6522483704599837642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 19
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b4a8fe1a484dd0800000000000000
+      internalID: -2501668096123291644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 19
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f3dbfc3e199130800000000000000
+      internalID: 3573921026567042935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 19
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdaf32412e1b56e0800000000000000
+      internalID: -1847850093911233099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 19
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eaa82e5f0907d80800000000000000
+      internalID: -8254938731227992465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0913fab4e421d30a0800000000000000
+      internalID: -6900338926575210096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeDamage_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da822d13d102a5800800000000000000
+      internalID: 601828809969379501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TakeDamage_Shadowless_0: 8980957781847217470
+      TakeDamage_Shadowless_1: 1927824605699809048
+      TakeDamage_Shadowless_10: 5228775440499907298
+      TakeDamage_Shadowless_100: -3358953559085522069
+      TakeDamage_Shadowless_101: 2257573427123979525
+      TakeDamage_Shadowless_102: 3006756829401039994
+      TakeDamage_Shadowless_103: 7559155373578988738
+      TakeDamage_Shadowless_104: -3118039335604535854
+      TakeDamage_Shadowless_105: -8421405185999446539
+      TakeDamage_Shadowless_106: -733915457270173513
+      TakeDamage_Shadowless_107: -3418274797679023147
+      TakeDamage_Shadowless_108: -7037821640269654622
+      TakeDamage_Shadowless_109: 4745758670326855648
+      TakeDamage_Shadowless_11: 6179146545634201444
+      TakeDamage_Shadowless_110: -5299184576560420745
+      TakeDamage_Shadowless_111: 713883714170696653
+      TakeDamage_Shadowless_112: 8264263951197370005
+      TakeDamage_Shadowless_113: -6522483704599837642
+      TakeDamage_Shadowless_114: -2501668096123291644
+      TakeDamage_Shadowless_115: 3573921026567042935
+      TakeDamage_Shadowless_116: -1847850093911233099
+      TakeDamage_Shadowless_117: -8254938731227992465
+      TakeDamage_Shadowless_118: -6900338926575210096
+      TakeDamage_Shadowless_119: 601828809969379501
+      TakeDamage_Shadowless_12: 4862267449835941985
+      TakeDamage_Shadowless_13: 911648679175519685
+      TakeDamage_Shadowless_14: 5471885583728758371
+      TakeDamage_Shadowless_15: -1343169279719595128
+      TakeDamage_Shadowless_16: 2613499153394881972
+      TakeDamage_Shadowless_17: -6642503705989433383
+      TakeDamage_Shadowless_18: 7306235875240381763
+      TakeDamage_Shadowless_19: -8805229085897708646
+      TakeDamage_Shadowless_2: -6406224620492713541
+      TakeDamage_Shadowless_20: 4183348280662606481
+      TakeDamage_Shadowless_21: 5578481512230555944
+      TakeDamage_Shadowless_22: -5292965137829406212
+      TakeDamage_Shadowless_23: 6092624311714231046
+      TakeDamage_Shadowless_24: -7829466287502939909
+      TakeDamage_Shadowless_25: -1251203350607058540
+      TakeDamage_Shadowless_26: -5347861099415392327
+      TakeDamage_Shadowless_27: 7303329483408556213
+      TakeDamage_Shadowless_28: 4821923163508091299
+      TakeDamage_Shadowless_29: 6696089068008690783
+      TakeDamage_Shadowless_3: 6697173256523875099
+      TakeDamage_Shadowless_30: -3843061638092828197
+      TakeDamage_Shadowless_31: -8469426889932211024
+      TakeDamage_Shadowless_32: 2556819683623415318
+      TakeDamage_Shadowless_33: -7221598667851445867
+      TakeDamage_Shadowless_34: 4891784246984442120
+      TakeDamage_Shadowless_35: -2201853017129820235
+      TakeDamage_Shadowless_36: -187601234215134760
+      TakeDamage_Shadowless_37: -5110599912510894590
+      TakeDamage_Shadowless_38: 4592620792290439846
+      TakeDamage_Shadowless_39: -7528566833642225669
+      TakeDamage_Shadowless_4: -5161973880631101206
+      TakeDamage_Shadowless_40: -1956408570674377661
+      TakeDamage_Shadowless_41: -7502564478577631561
+      TakeDamage_Shadowless_42: -1645871440321509765
+      TakeDamage_Shadowless_43: -4392183844294580869
+      TakeDamage_Shadowless_44: 5352596298435931956
+      TakeDamage_Shadowless_45: -8517218088520589412
+      TakeDamage_Shadowless_46: -4108578719945158579
+      TakeDamage_Shadowless_47: -7892527354704751147
+      TakeDamage_Shadowless_48: 3522566484244499069
+      TakeDamage_Shadowless_49: -6563077002912714133
+      TakeDamage_Shadowless_5: -678510911848374022
+      TakeDamage_Shadowless_50: -8974165112598248967
+      TakeDamage_Shadowless_51: -5334405778418137562
+      TakeDamage_Shadowless_52: 5679904323066379041
+      TakeDamage_Shadowless_53: 6280651578895747865
+      TakeDamage_Shadowless_54: -7851429204743961496
+      TakeDamage_Shadowless_55: 3801480887719687218
+      TakeDamage_Shadowless_56: -4279133318382558010
+      TakeDamage_Shadowless_57: -8454914235695109306
+      TakeDamage_Shadowless_58: 1467243391210735823
+      TakeDamage_Shadowless_59: 1905539253180857337
+      TakeDamage_Shadowless_6: 3360925903455224975
+      TakeDamage_Shadowless_60: 1351536461407043150
+      TakeDamage_Shadowless_61: 7400747877957235897
+      TakeDamage_Shadowless_62: 2505264700318907491
+      TakeDamage_Shadowless_63: 1761842411692752100
+      TakeDamage_Shadowless_64: 6233287537016640805
+      TakeDamage_Shadowless_65: 5959124825304211663
+      TakeDamage_Shadowless_66: -7527099483300328980
+      TakeDamage_Shadowless_67: -8571648662976549947
+      TakeDamage_Shadowless_68: -8847684589122308487
+      TakeDamage_Shadowless_69: 1556596050833140580
+      TakeDamage_Shadowless_7: 3858315494716785817
+      TakeDamage_Shadowless_70: -6492768850838990301
+      TakeDamage_Shadowless_71: 167177650659868683
+      TakeDamage_Shadowless_72: -6965062824772493193
+      TakeDamage_Shadowless_73: 3976965041443618452
+      TakeDamage_Shadowless_74: 6312286090972601482
+      TakeDamage_Shadowless_75: -8682170254157274595
+      TakeDamage_Shadowless_76: -816228494689869080
+      TakeDamage_Shadowless_77: -1850281470220121726
+      TakeDamage_Shadowless_78: -1597577636285713523
+      TakeDamage_Shadowless_79: 3988070712868572198
+      TakeDamage_Shadowless_8: 493049620336857658
+      TakeDamage_Shadowless_80: 1542255084374751733
+      TakeDamage_Shadowless_81: 2598201915633125359
+      TakeDamage_Shadowless_82: 4879561353819364915
+      TakeDamage_Shadowless_83: 8573412012293007958
+      TakeDamage_Shadowless_84: -6908243576580603878
+      TakeDamage_Shadowless_85: 7955076068661235302
+      TakeDamage_Shadowless_86: 6081136523518746185
+      TakeDamage_Shadowless_87: 1281144513859046799
+      TakeDamage_Shadowless_88: -84634323694942482
+      TakeDamage_Shadowless_89: -9206284576830881147
+      TakeDamage_Shadowless_9: -332457708307248839
+      TakeDamage_Shadowless_90: -2069196409245207278
+      TakeDamage_Shadowless_91: 1984639637767967770
+      TakeDamage_Shadowless_92: -326558232488867790
+      TakeDamage_Shadowless_93: 925250993901181385
+      TakeDamage_Shadowless_94: 8011231561301455286
+      TakeDamage_Shadowless_95: 6953203465359859348
+      TakeDamage_Shadowless_96: 8533415374668460769
+      TakeDamage_Shadowless_97: -7960426230562963671
+      TakeDamage_Shadowless_98: 7246770689312311197
+      TakeDamage_Shadowless_99: 6799753287437307433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

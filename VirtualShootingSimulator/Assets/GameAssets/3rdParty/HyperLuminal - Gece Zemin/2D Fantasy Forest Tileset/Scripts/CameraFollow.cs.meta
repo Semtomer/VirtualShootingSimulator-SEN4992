@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb7c4907b5f183e40b156b1c165e10c2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19553
+  packageName: 2D Fantasy Forest Tileset
+  packageVersion: 1.0.3
+  assetPath: Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CameraFollow.cs
+  uploadId: 70383

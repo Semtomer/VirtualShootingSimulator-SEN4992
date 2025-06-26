@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 6f13331509d26644b870b0bc4340560b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6819895557834854516
+    second: Die_Shadowless_0
+  - first:
+      213: -132764919369504965
+    second: Die_Shadowless_1
+  - first:
+      213: -982624590159659813
+    second: Die_Shadowless_2
+  - first:
+      213: 2480806408807051887
+    second: Die_Shadowless_3
+  - first:
+      213: 8342523982614606342
+    second: Die_Shadowless_4
+  - first:
+      213: -64875212805216957
+    second: Die_Shadowless_5
+  - first:
+      213: -2796924388953992699
+    second: Die_Shadowless_6
+  - first:
+      213: -1016935318125837123
+    second: Die_Shadowless_7
+  - first:
+      213: 4270292805479157294
+    second: Die_Shadowless_8
+  - first:
+      213: 4502750343227470702
+    second: Die_Shadowless_9
+  - first:
+      213: 8282240178142313598
+    second: Die_Shadowless_10
+  - first:
+      213: -5659656661747231981
+    second: Die_Shadowless_11
+  - first:
+      213: 2108045963035431010
+    second: Die_Shadowless_12
+  - first:
+      213: -3593673385321418033
+    second: Die_Shadowless_13
+  - first:
+      213: -310888026523142658
+    second: Die_Shadowless_14
+  - first:
+      213: 7679201942175893038
+    second: Die_Shadowless_15
+  - first:
+      213: -3236450710207432624
+    second: Die_Shadowless_16
+  - first:
+      213: 6535371649899412498
+    second: Die_Shadowless_17
+  - first:
+      213: -7752575203780814080
+    second: Die_Shadowless_18
+  - first:
+      213: -7243701919614590769
+    second: Die_Shadowless_19
+  - first:
+      213: -2056446926110180168
+    second: Die_Shadowless_20
+  - first:
+      213: -5162053388348536203
+    second: Die_Shadowless_21
+  - first:
+      213: 379797349209472122
+    second: Die_Shadowless_22
+  - first:
+      213: 1020997055880136246
+    second: Die_Shadowless_23
+  - first:
+      213: -1888766563631742155
+    second: Die_Shadowless_24
+  - first:
+      213: -3927562696062398798
+    second: Die_Shadowless_25
+  - first:
+      213: 2115407579319208025
+    second: Die_Shadowless_26
+  - first:
+      213: -8518245961167983373
+    second: Die_Shadowless_27
+  - first:
+      213: 3559137557028146433
+    second: Die_Shadowless_28
+  - first:
+      213: -4656474492271345421
+    second: Die_Shadowless_29
+  - first:
+      213: -5347705322396883882
+    second: Die_Shadowless_30
+  - first:
+      213: -959281668825822332
+    second: Die_Shadowless_31
+  - first:
+      213: 5690365678189185792
+    second: Die_Shadowless_32
+  - first:
+      213: 8469901180946801487
+    second: Die_Shadowless_33
+  - first:
+      213: 5944877340931480719
+    second: Die_Shadowless_34
+  - first:
+      213: -5176865013967036227
+    second: Die_Shadowless_35
+  - first:
+      213: 8549603553568633267
+    second: Die_Shadowless_36
+  - first:
+      213: -1479534773147583560
+    second: Die_Shadowless_37
+  - first:
+      213: 2380789631478646883
+    second: Die_Shadowless_38
+  - first:
+      213: -1238116891636438304
+    second: Die_Shadowless_39
+  - first:
+      213: -9030403277344924641
+    second: Die_Shadowless_40
+  - first:
+      213: -2293286668476666034
+    second: Die_Shadowless_41
+  - first:
+      213: -1338345760701342040
+    second: Die_Shadowless_42
+  - first:
+      213: 3429726303869411794
+    second: Die_Shadowless_43
+  - first:
+      213: 948927341327245702
+    second: Die_Shadowless_44
+  - first:
+      213: 3052840659903699858
+    second: Die_Shadowless_45
+  - first:
+      213: -8298214323120697996
+    second: Die_Shadowless_46
+  - first:
+      213: -3295676864519890756
+    second: Die_Shadowless_47
+  - first:
+      213: -7305958702693296396
+    second: Die_Shadowless_48
+  - first:
+      213: 4681069068797031344
+    second: Die_Shadowless_49
+  - first:
+      213: 2385985453230814409
+    second: Die_Shadowless_50
+  - first:
+      213: -69131172072333450
+    second: Die_Shadowless_51
+  - first:
+      213: -6003910354739747980
+    second: Die_Shadowless_52
+  - first:
+      213: -2321141117664360688
+    second: Die_Shadowless_53
+  - first:
+      213: -2653098219106200041
+    second: Die_Shadowless_54
+  - first:
+      213: -6616328881042527835
+    second: Die_Shadowless_55
+  - first:
+      213: -4737740929450609805
+    second: Die_Shadowless_56
+  - first:
+      213: -1496385292694402964
+    second: Die_Shadowless_57
+  - first:
+      213: -1448093705804521261
+    second: Die_Shadowless_58
+  - first:
+      213: -2277806079494312977
+    second: Die_Shadowless_59
+  - first:
+      213: 8952294587264729160
+    second: Die_Shadowless_60
+  - first:
+      213: 495781653421778386
+    second: Die_Shadowless_61
+  - first:
+      213: -8399651754818794596
+    second: Die_Shadowless_62
+  - first:
+      213: -3795021263922856688
+    second: Die_Shadowless_63
+  - first:
+      213: -7985229867312928211
+    second: Die_Shadowless_64
+  - first:
+      213: -6078903851678712524
+    second: Die_Shadowless_65
+  - first:
+      213: 8043674124929113657
+    second: Die_Shadowless_66
+  - first:
+      213: -4895416019269220509
+    second: Die_Shadowless_67
+  - first:
+      213: 7948270734338426153
+    second: Die_Shadowless_68
+  - first:
+      213: -6030935638618299110
+    second: Die_Shadowless_69
+  - first:
+      213: 4746341820878682711
+    second: Die_Shadowless_70
+  - first:
+      213: 482198184875156093
+    second: Die_Shadowless_71
+  - first:
+      213: 2572447527454464313
+    second: Die_Shadowless_72
+  - first:
+      213: 6586536280011941153
+    second: Die_Shadowless_73
+  - first:
+      213: 2586663399191643529
+    second: Die_Shadowless_74
+  - first:
+      213: -3382173394669668851
+    second: Die_Shadowless_75
+  - first:
+      213: 3625558813164427454
+    second: Die_Shadowless_76
+  - first:
+      213: -5926340139531558650
+    second: Die_Shadowless_77
+  - first:
+      213: 8476888539918605416
+    second: Die_Shadowless_78
+  - first:
+      213: -4707423932661177373
+    second: Die_Shadowless_79
+  - first:
+      213: 2316126991313508420
+    second: Die_Shadowless_80
+  - first:
+      213: -252121576474026623
+    second: Die_Shadowless_81
+  - first:
+      213: -8108296795094336621
+    second: Die_Shadowless_82
+  - first:
+      213: -3431900731306982326
+    second: Die_Shadowless_83
+  - first:
+      213: -5677002958052520188
+    second: Die_Shadowless_84
+  - first:
+      213: -1472292684179230336
+    second: Die_Shadowless_85
+  - first:
+      213: 675645456620630567
+    second: Die_Shadowless_86
+  - first:
+      213: -2937523807667287267
+    second: Die_Shadowless_87
+  - first:
+      213: -7653542367478909861
+    second: Die_Shadowless_88
+  - first:
+      213: -4853339872572703080
+    second: Die_Shadowless_89
+  - first:
+      213: 4862800450771862950
+    second: Die_Shadowless_90
+  - first:
+      213: -7987564255029045421
+    second: Die_Shadowless_91
+  - first:
+      213: 9068012015248240179
+    second: Die_Shadowless_92
+  - first:
+      213: -4938340298163175472
+    second: Die_Shadowless_93
+  - first:
+      213: -6085373213626690059
+    second: Die_Shadowless_94
+  - first:
+      213: -2056634051098893903
+    second: Die_Shadowless_95
+  - first:
+      213: 4125694476617927187
+    second: Die_Shadowless_96
+  - first:
+      213: 1046606607046515914
+    second: Die_Shadowless_97
+  - first:
+      213: 5559056237120289050
+    second: Die_Shadowless_98
+  - first:
+      213: 164705091337315665
+    second: Die_Shadowless_99
+  - first:
+      213: 8385770047855710364
+    second: Die_Shadowless_100
+  - first:
+      213: 2800464699969950904
+    second: Die_Shadowless_101
+  - first:
+      213: -792925076391396734
+    second: Die_Shadowless_102
+  - first:
+      213: -8165037557024258028
+    second: Die_Shadowless_103
+  - first:
+      213: -5810216287283897624
+    second: Die_Shadowless_104
+  - first:
+      213: -1924694544165790889
+    second: Die_Shadowless_105
+  - first:
+      213: -3048533393905622324
+    second: Die_Shadowless_106
+  - first:
+      213: 7803159150918140074
+    second: Die_Shadowless_107
+  - first:
+      213: -7282058081417371132
+    second: Die_Shadowless_108
+  - first:
+      213: -728342776643067705
+    second: Die_Shadowless_109
+  - first:
+      213: 2362619699581313292
+    second: Die_Shadowless_110
+  - first:
+      213: -3354092172404766477
+    second: Die_Shadowless_111
+  - first:
+      213: -4486113239762499464
+    second: Die_Shadowless_112
+  - first:
+      213: -5590534522921826325
+    second: Die_Shadowless_113
+  - first:
+      213: -1699387017953612196
+    second: Die_Shadowless_114
+  - first:
+      213: 1863056195993591282
+    second: Die_Shadowless_115
+  - first:
+      213: -4181062681978316997
+    second: Die_Shadowless_116
+  - first:
+      213: -5488171164996348219
+    second: Die_Shadowless_117
+  - first:
+      213: 7011670810934325260
+    second: Die_Shadowless_118
+  - first:
+      213: -3896299050827158233
+    second: Die_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Die_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f2dfd9f1dda51a0800000000000000
+      internalID: -6819895557834854516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 466
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37e85e5203582ef0800000000000000
+      internalID: -132764919369504965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 469
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc38f334240d52f0800000000000000
+      internalID: -982624590159659813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 469
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f471f8489d6220800000000000000
+      internalID: 2480806408807051887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 469
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602bbe19c5996c370800000000000000
+      internalID: 8342523982614606342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 469
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34564027654891ff0800000000000000
+      internalID: -64875212805216957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 469
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50255c446145f29d0800000000000000
+      internalID: -2796924388953992699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 469
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48f8357be13e1f0800000000000000
+      internalID: -1016935318125837123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 469
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecd7d7ea0234b30800000000000000
+      internalID: 4270292805479157294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 469
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637750a49bfc7e30800000000000000
+      internalID: 4502750343227470702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 468
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf3a29f8d60f270800000000000000
+      internalID: 8282240178142313598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 466
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31312e5904cd471b0800000000000000
+      internalID: -5659656661747231981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 472
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2605cec62a8414d10800000000000000
+      internalID: 2108045963035431010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 469
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2342d9815b02ec0800000000000000
+      internalID: -3593673385321418033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 466
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57a2eacf08fabf0800000000000000
+      internalID: -310888026523142658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2642e1fa71029a60800000000000000
+      internalID: 7679201942175893038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 397
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058760df931d513d0800000000000000
+      internalID: -3236450710207432624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 399
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cb963c3ed42ba50800000000000000
+      internalID: 6535371649899412498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 399
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b94245de1596490800000000000000
+      internalID: -7752575203780814080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 401
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ae8e9b73397b90800000000000000
+      internalID: -7243701919614590769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 404
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc32cd8a680673e0800000000000000
+      internalID: -2056446926110180168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 403
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a42e30bc3bc58b0800000000000000
+      internalID: -5162053388348536203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 397
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf3464daf454500800000000000000
+      internalID: 379797349209472122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 396
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6368470b96f4b2e00800000000000000
+      internalID: 1020997055880136246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 396
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533481741d0c9c5e0800000000000000
+      internalID: -1888766563631742155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 395
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be002c798e7e79c0800000000000000
+      internalID: -3927562696062398798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 393
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588d784cff6b5d10800000000000000
+      internalID: 2115407579319208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 400
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2d2f0e6c19c980800000000000000
+      internalID: -8518245961167983373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 397
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0a6140c8946130800000000000000
+      internalID: 3559137557028146433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 393
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0cf7ece11e06fb0800000000000000
+      internalID: -4656474492271345421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546117b75229c5b0800000000000000
+      internalID: -5347705322396883882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 334
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc71a9762ffa2f0800000000000000
+      internalID: -959281668825822332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 333
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8a8a7f6d38fe40800000000000000
+      internalID: 5690365678189185792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 335
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43eef4af322b8570800000000000000
+      internalID: 8469901180946801487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 334
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c5d7bb172708250800000000000000
+      internalID: 5944877340931480719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 336
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e850b2b41828b0800000000000000
+      internalID: -5176865013967036227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 337
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b130ec522b46a670800000000000000
+      internalID: 8549603553568633267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 330
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb33b576f2a77be0800000000000000
+      internalID: -1479534773147583560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 329
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368c73d4e834a0120800000000000000
+      internalID: 2380789631478646883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 328
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea69933f3351dee0800000000000000
+      internalID: -1238116891636438304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 328
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c155b70109da280800000000000000
+      internalID: -9030403277344924641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 328
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2f45eceb9c20e0800000000000000
+      internalID: -2293286668476666034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 334
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1fba1f9d3d6de0800000000000000
+      internalID: -1338345760701342040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 334
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d123f2e6e5d89f20800000000000000
+      internalID: 3429726303869411794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 330
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816779a3644b2d00800000000000000
+      internalID: 948927341327245702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 276
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bdd61d76edd5a20800000000000000
+      internalID: 3052840659903699858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0558f902d6dc80800000000000000
+      internalID: -8298214323120697996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 272
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb891db5a576342d0800000000000000
+      internalID: -3295676864519890756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6da4eb4450c9a90800000000000000
+      internalID: -7305958702693296396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 275
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b337b6448f76f040800000000000000
+      internalID: 4681069068797031344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 274
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c47213d029bc1120800000000000000
+      internalID: 2385985453230814409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 273
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd8b5b0956a0ff0800000000000000
+      internalID: -69131172072333450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 271
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a27aa753ddaca0800000000000000
+      internalID: -6003910354739747980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 270
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01700109376a9cfd0800000000000000
+      internalID: -2321141117664360688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 270
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71614f7f93d4e2bd0800000000000000
+      internalID: -2653098219106200041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 268
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96d4000f31e24a0800000000000000
+      internalID: -6616328881042527835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 272
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373744ee9b9204eb0800000000000000
+      internalID: -4737740929450609805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 270
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c4d52185cb3be0800000000000000
+      internalID: -1496385292694402964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 271
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ea08627657ebe0800000000000000
+      internalID: -1448093705804521261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 271
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2484607b9360e0800000000000000
+      internalID: -2277806079494312977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 214
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840019eee70fc3c70800000000000000
+      internalID: 8952294587264729160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d56c5a79ce51e600800000000000000
+      internalID: 495781653421778386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 213
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0a057b317e6b80800000000000000
+      internalID: -8399651754818794596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 213
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df2d07440655bc0800000000000000
+      internalID: -3795021263922856688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 213
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a29f44eb3ce2190800000000000000
+      internalID: -7985229867312928211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 214
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbfe0872563aba0800000000000000
+      internalID: -6078903851678712524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 214
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9669dffed0af60800000000000000
+      internalID: 8043674124929113657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 214
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36783b7411dff0cb0800000000000000
+      internalID: -4895416019269220509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 213
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92500e20f1eed4e60800000000000000
+      internalID: 7948270734338426153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 214
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a9ec6dffcd4ca0800000000000000
+      internalID: -6030935638618299110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 213
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75afd082db46ed140800000000000000
+      internalID: 4746341820878682711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 212
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7262d0c1bc11b600800000000000000
+      internalID: 482198184875156093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 209
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395145956b23b320800000000000000
+      internalID: 2572447527454464313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 208
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125a55689d3186b50800000000000000
+      internalID: 6586536280011941153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 208
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985825628aca5e320800000000000000
+      internalID: 2586663399191643529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ffe1973b1011d0800000000000000
+      internalID: -3382173394669668851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 151
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d3f21882905230800000000000000
+      internalID: 3625558813164427454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 151
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601251dca0961cda0800000000000000
+      internalID: -5926340139531558650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 151
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c9d6ee635f3a570800000000000000
+      internalID: 8476888539918605416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 151
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ee8ecfdedbaeb0800000000000000
+      internalID: -4707423932661177373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 152
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489feb2a39842020800000000000000
+      internalID: 2316126991313508420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 152
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ddd0213c8408cf0800000000000000
+      internalID: -252121576474026623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 151
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb6f2460b897f80800000000000000
+      internalID: -8108296795094336621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 151
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444b06c7707f50d0800000000000000
+      internalID: -3431900731306982326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f007043eb3731b0800000000000000
+      internalID: -5677002958052520188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813712ba9d519be0800000000000000
+      internalID: -1472292684179230336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bafb86ff506900800000000000000
+      internalID: 675645456620630567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 147
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0dbc19a1db37d0800000000000000
+      internalID: -2937523807667287267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 146
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54740954c729c590800000000000000
+      internalID: -7653542367478909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 144
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7019991975acb0800000000000000
+      internalID: -4853339872572703080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5cdd9ee332c7340800000000000000
+      internalID: 4862800450771862950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d26641a8762190800000000000000
+      internalID: -7987564255029045421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e68db22ec08dd70800000000000000
+      internalID: 9068012015248240179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 85
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbcfbc9ad777bb0800000000000000
+      internalID: -4938340298163175472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 86
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59a1ccd496c8ba0800000000000000
+      internalID: -6085373213626690059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1274f1a3e5573e0800000000000000
+      internalID: -2056634051098893903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 87
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4a928449614930800000000000000
+      internalID: 4125694476617927187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 87
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc9598f92b468e00800000000000000
+      internalID: 1046606607046515914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 87
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1979fbc13cb52d40800000000000000
+      internalID: 5559056237120289050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 86
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ebdd6866294200800000000000000
+      internalID: 164705091337315665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 86
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dc86cd6d306470800000000000000
+      internalID: 8385770047855710364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 84
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4dabf9ecf3dd620800000000000000
+      internalID: 2800464699969950904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 83
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af03818d6fef4f0800000000000000
+      internalID: -792925076391396734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 83
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41888d32a95ffae80800000000000000
+      internalID: -8165037557024258028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 79
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea11401217fd5fa0800000000000000
+      internalID: -5810216287283897624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b9dd1728c1a45e0800000000000000
+      internalID: -1924694544165790889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e652b70f61b5d0800000000000000
+      internalID: -3048533393905622324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa08054a7e36a4c60800000000000000
+      internalID: 7803159150918140074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ea57c1cee0fa90800000000000000
+      internalID: -7282058081417371132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e7738a1864e5f0800000000000000
+      internalID: -728342776643067705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0162ec5916b9c020800000000000000
+      internalID: 2362619699581313292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f845ef90fed371d0800000000000000
+      internalID: -3354092172404766477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 21
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87887c1e6cf1eb1c0800000000000000
+      internalID: -4486113239762499464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 21
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7cfa8a87e6a62b0800000000000000
+      internalID: -5590534522921826325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 21
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee6fac2809a68e0800000000000000
+      internalID: -1699387017953612196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 21
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd9c64db7ead910800000000000000
+      internalID: 1863056195993591282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b375a0994a1e9f5c0800000000000000
+      internalID: -4181062681978316997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 21
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d9db276916d3b0800000000000000
+      internalID: -5488171164996348219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 20
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0037bff3757e4160800000000000000
+      internalID: 7011670810934325260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 16
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d61c028a09de9c0800000000000000
+      internalID: -3896299050827158233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Die_Shadowless_0: -6819895557834854516
+      Die_Shadowless_1: -132764919369504965
+      Die_Shadowless_10: 8282240178142313598
+      Die_Shadowless_100: 8385770047855710364
+      Die_Shadowless_101: 2800464699969950904
+      Die_Shadowless_102: -792925076391396734
+      Die_Shadowless_103: -8165037557024258028
+      Die_Shadowless_104: -5810216287283897624
+      Die_Shadowless_105: -1924694544165790889
+      Die_Shadowless_106: -3048533393905622324
+      Die_Shadowless_107: 7803159150918140074
+      Die_Shadowless_108: -7282058081417371132
+      Die_Shadowless_109: -728342776643067705
+      Die_Shadowless_11: -5659656661747231981
+      Die_Shadowless_110: 2362619699581313292
+      Die_Shadowless_111: -3354092172404766477
+      Die_Shadowless_112: -4486113239762499464
+      Die_Shadowless_113: -5590534522921826325
+      Die_Shadowless_114: -1699387017953612196
+      Die_Shadowless_115: 1863056195993591282
+      Die_Shadowless_116: -4181062681978316997
+      Die_Shadowless_117: -5488171164996348219
+      Die_Shadowless_118: 7011670810934325260
+      Die_Shadowless_119: -3896299050827158233
+      Die_Shadowless_12: 2108045963035431010
+      Die_Shadowless_13: -3593673385321418033
+      Die_Shadowless_14: -310888026523142658
+      Die_Shadowless_15: 7679201942175893038
+      Die_Shadowless_16: -3236450710207432624
+      Die_Shadowless_17: 6535371649899412498
+      Die_Shadowless_18: -7752575203780814080
+      Die_Shadowless_19: -7243701919614590769
+      Die_Shadowless_2: -982624590159659813
+      Die_Shadowless_20: -2056446926110180168
+      Die_Shadowless_21: -5162053388348536203
+      Die_Shadowless_22: 379797349209472122
+      Die_Shadowless_23: 1020997055880136246
+      Die_Shadowless_24: -1888766563631742155
+      Die_Shadowless_25: -3927562696062398798
+      Die_Shadowless_26: 2115407579319208025
+      Die_Shadowless_27: -8518245961167983373
+      Die_Shadowless_28: 3559137557028146433
+      Die_Shadowless_29: -4656474492271345421
+      Die_Shadowless_3: 2480806408807051887
+      Die_Shadowless_30: -5347705322396883882
+      Die_Shadowless_31: -959281668825822332
+      Die_Shadowless_32: 5690365678189185792
+      Die_Shadowless_33: 8469901180946801487
+      Die_Shadowless_34: 5944877340931480719
+      Die_Shadowless_35: -5176865013967036227
+      Die_Shadowless_36: 8549603553568633267
+      Die_Shadowless_37: -1479534773147583560
+      Die_Shadowless_38: 2380789631478646883
+      Die_Shadowless_39: -1238116891636438304
+      Die_Shadowless_4: 8342523982614606342
+      Die_Shadowless_40: -9030403277344924641
+      Die_Shadowless_41: -2293286668476666034
+      Die_Shadowless_42: -1338345760701342040
+      Die_Shadowless_43: 3429726303869411794
+      Die_Shadowless_44: 948927341327245702
+      Die_Shadowless_45: 3052840659903699858
+      Die_Shadowless_46: -8298214323120697996
+      Die_Shadowless_47: -3295676864519890756
+      Die_Shadowless_48: -7305958702693296396
+      Die_Shadowless_49: 4681069068797031344
+      Die_Shadowless_5: -64875212805216957
+      Die_Shadowless_50: 2385985453230814409
+      Die_Shadowless_51: -69131172072333450
+      Die_Shadowless_52: -6003910354739747980
+      Die_Shadowless_53: -2321141117664360688
+      Die_Shadowless_54: -2653098219106200041
+      Die_Shadowless_55: -6616328881042527835
+      Die_Shadowless_56: -4737740929450609805
+      Die_Shadowless_57: -1496385292694402964
+      Die_Shadowless_58: -1448093705804521261
+      Die_Shadowless_59: -2277806079494312977
+      Die_Shadowless_6: -2796924388953992699
+      Die_Shadowless_60: 8952294587264729160
+      Die_Shadowless_61: 495781653421778386
+      Die_Shadowless_62: -8399651754818794596
+      Die_Shadowless_63: -3795021263922856688
+      Die_Shadowless_64: -7985229867312928211
+      Die_Shadowless_65: -6078903851678712524
+      Die_Shadowless_66: 8043674124929113657
+      Die_Shadowless_67: -4895416019269220509
+      Die_Shadowless_68: 7948270734338426153
+      Die_Shadowless_69: -6030935638618299110
+      Die_Shadowless_7: -1016935318125837123
+      Die_Shadowless_70: 4746341820878682711
+      Die_Shadowless_71: 482198184875156093
+      Die_Shadowless_72: 2572447527454464313
+      Die_Shadowless_73: 6586536280011941153
+      Die_Shadowless_74: 2586663399191643529
+      Die_Shadowless_75: -3382173394669668851
+      Die_Shadowless_76: 3625558813164427454
+      Die_Shadowless_77: -5926340139531558650
+      Die_Shadowless_78: 8476888539918605416
+      Die_Shadowless_79: -4707423932661177373
+      Die_Shadowless_8: 4270292805479157294
+      Die_Shadowless_80: 2316126991313508420
+      Die_Shadowless_81: -252121576474026623
+      Die_Shadowless_82: -8108296795094336621
+      Die_Shadowless_83: -3431900731306982326
+      Die_Shadowless_84: -5677002958052520188
+      Die_Shadowless_85: -1472292684179230336
+      Die_Shadowless_86: 675645456620630567
+      Die_Shadowless_87: -2937523807667287267
+      Die_Shadowless_88: -7653542367478909861
+      Die_Shadowless_89: -4853339872572703080
+      Die_Shadowless_9: 4502750343227470702
+      Die_Shadowless_90: 4862800450771862950
+      Die_Shadowless_91: -7987564255029045421
+      Die_Shadowless_92: 9068012015248240179
+      Die_Shadowless_93: -4938340298163175472
+      Die_Shadowless_94: -6085373213626690059
+      Die_Shadowless_95: -2056634051098893903
+      Die_Shadowless_96: 4125694476617927187
+      Die_Shadowless_97: 1046606607046515914
+      Die_Shadowless_98: 5559056237120289050
+      Die_Shadowless_99: 164705091337315665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: 229966696aaf7e247bc790b3f31d9184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8471284121543850762
+    second: FrontFlip_0
+  - first:
+      213: -5316296518032136385
+    second: FrontFlip_1
+  - first:
+      213: -385859983790490490
+    second: FrontFlip_2
+  - first:
+      213: 5848231405602646409
+    second: FrontFlip_3
+  - first:
+      213: 4260660784292922535
+    second: FrontFlip_4
+  - first:
+      213: -4067617094869684252
+    second: FrontFlip_5
+  - first:
+      213: -9198654894410529515
+    second: FrontFlip_6
+  - first:
+      213: -8549989934755969481
+    second: FrontFlip_7
+  - first:
+      213: -566877665638674353
+    second: FrontFlip_8
+  - first:
+      213: 7014268490095524985
+    second: FrontFlip_9
+  - first:
+      213: -8480898039182459878
+    second: FrontFlip_10
+  - first:
+      213: -3851762255885414818
+    second: FrontFlip_11
+  - first:
+      213: 5422826462559046205
+    second: FrontFlip_12
+  - first:
+      213: -2242777676625595096
+    second: FrontFlip_13
+  - first:
+      213: -3331938669276885945
+    second: FrontFlip_14
+  - first:
+      213: 7237448509450102117
+    second: FrontFlip_15
+  - first:
+      213: -3707188490791940320
+    second: FrontFlip_16
+  - first:
+      213: 5825818756069483423
+    second: FrontFlip_17
+  - first:
+      213: 4144434420276566953
+    second: FrontFlip_18
+  - first:
+      213: -2149456471656855637
+    second: FrontFlip_19
+  - first:
+      213: 1665259483841183356
+    second: FrontFlip_20
+  - first:
+      213: 2804313555213681207
+    second: FrontFlip_21
+  - first:
+      213: 8138788823310068840
+    second: FrontFlip_22
+  - first:
+      213: 4681631548427416750
+    second: FrontFlip_23
+  - first:
+      213: -2558248264026084765
+    second: FrontFlip_24
+  - first:
+      213: 4291701860122353579
+    second: FrontFlip_25
+  - first:
+      213: 583006570643463935
+    second: FrontFlip_26
+  - first:
+      213: 2018337778823504441
+    second: FrontFlip_27
+  - first:
+      213: -7007534182395671052
+    second: FrontFlip_28
+  - first:
+      213: 5695828639685915575
+    second: FrontFlip_29
+  - first:
+      213: -3169513459309141769
+    second: FrontFlip_30
+  - first:
+      213: 2791702588756010868
+    second: FrontFlip_31
+  - first:
+      213: 2001104043973050295
+    second: FrontFlip_32
+  - first:
+      213: -7143570763526410885
+    second: FrontFlip_33
+  - first:
+      213: 7856914609759768753
+    second: FrontFlip_34
+  - first:
+      213: 1571079743567900566
+    second: FrontFlip_35
+  - first:
+      213: -8722830611207508695
+    second: FrontFlip_36
+  - first:
+      213: -6704464433858326296
+    second: FrontFlip_37
+  - first:
+      213: 5445540589099479114
+    second: FrontFlip_38
+  - first:
+      213: 6708102373977185367
+    second: FrontFlip_39
+  - first:
+      213: 6657998614444716155
+    second: FrontFlip_40
+  - first:
+      213: -143942187550692339
+    second: FrontFlip_41
+  - first:
+      213: 2693483827348621106
+    second: FrontFlip_42
+  - first:
+      213: 4619362680465195817
+    second: FrontFlip_43
+  - first:
+      213: -329478465826468827
+    second: FrontFlip_44
+  - first:
+      213: 52656138729852430
+    second: FrontFlip_45
+  - first:
+      213: 6455100081879470250
+    second: FrontFlip_46
+  - first:
+      213: -469844595864163748
+    second: FrontFlip_47
+  - first:
+      213: -9086213654017193879
+    second: FrontFlip_48
+  - first:
+      213: 6977771950772832440
+    second: FrontFlip_49
+  - first:
+      213: 7152266260163078671
+    second: FrontFlip_50
+  - first:
+      213: -8598655348793664572
+    second: FrontFlip_51
+  - first:
+      213: 8259219027327372289
+    second: FrontFlip_52
+  - first:
+      213: 2507962644148269132
+    second: FrontFlip_53
+  - first:
+      213: 6376414920106497707
+    second: FrontFlip_54
+  - first:
+      213: 3540893772401148924
+    second: FrontFlip_55
+  - first:
+      213: -8809388267655585208
+    second: FrontFlip_56
+  - first:
+      213: 1237556570403875395
+    second: FrontFlip_57
+  - first:
+      213: -8229739002690307305
+    second: FrontFlip_58
+  - first:
+      213: 2927578968051552221
+    second: FrontFlip_59
+  - first:
+      213: -7703022991412341479
+    second: FrontFlip_60
+  - first:
+      213: -7882371742943897534
+    second: FrontFlip_61
+  - first:
+      213: 1704259240206542013
+    second: FrontFlip_62
+  - first:
+      213: -4111404011956239674
+    second: FrontFlip_63
+  - first:
+      213: -7290756208105662424
+    second: FrontFlip_64
+  - first:
+      213: -1479542565904593517
+    second: FrontFlip_65
+  - first:
+      213: -674463298412030946
+    second: FrontFlip_66
+  - first:
+      213: 2418566535777294526
+    second: FrontFlip_67
+  - first:
+      213: 8914524840214752001
+    second: FrontFlip_68
+  - first:
+      213: -960423970686826624
+    second: FrontFlip_69
+  - first:
+      213: -4791339422848454740
+    second: FrontFlip_70
+  - first:
+      213: 2129986597073992070
+    second: FrontFlip_71
+  - first:
+      213: -6768690448498037785
+    second: FrontFlip_72
+  - first:
+      213: -1489195149142115857
+    second: FrontFlip_73
+  - first:
+      213: 3126649166805688892
+    second: FrontFlip_74
+  - first:
+      213: -4153556266484425927
+    second: FrontFlip_75
+  - first:
+      213: 4277994523508794934
+    second: FrontFlip_76
+  - first:
+      213: 7755029585818364014
+    second: FrontFlip_77
+  - first:
+      213: -5295899943271993904
+    second: FrontFlip_78
+  - first:
+      213: -1411415145976605679
+    second: FrontFlip_79
+  - first:
+      213: 8941816266380989210
+    second: FrontFlip_80
+  - first:
+      213: 8636550818501036123
+    second: FrontFlip_81
+  - first:
+      213: -7341455802168632598
+    second: FrontFlip_82
+  - first:
+      213: 171314440648288719
+    second: FrontFlip_83
+  - first:
+      213: 8541252791202725516
+    second: FrontFlip_84
+  - first:
+      213: 2556949607041598
+    second: FrontFlip_85
+  - first:
+      213: -3694430771162732576
+    second: FrontFlip_86
+  - first:
+      213: -5183711401660050290
+    second: FrontFlip_87
+  - first:
+      213: -6938881785930110019
+    second: FrontFlip_88
+  - first:
+      213: 2041652667173910201
+    second: FrontFlip_89
+  - first:
+      213: 5993441149198090852
+    second: FrontFlip_90
+  - first:
+      213: -3268193024106727685
+    second: FrontFlip_91
+  - first:
+      213: 7589594593510289783
+    second: FrontFlip_92
+  - first:
+      213: 4652973950750381450
+    second: FrontFlip_93
+  - first:
+      213: -6080379704228924034
+    second: FrontFlip_94
+  - first:
+      213: 3035154701404100132
+    second: FrontFlip_95
+  - first:
+      213: -7771654513468391031
+    second: FrontFlip_96
+  - first:
+      213: 6230380236652385340
+    second: FrontFlip_97
+  - first:
+      213: -1823831532096127241
+    second: FrontFlip_98
+  - first:
+      213: -8880060096560483758
+    second: FrontFlip_99
+  - first:
+      213: 3121923651100160190
+    second: FrontFlip_100
+  - first:
+      213: -1491589262606346035
+    second: FrontFlip_101
+  - first:
+      213: -7312997815665152919
+    second: FrontFlip_102
+  - first:
+      213: -1537519857074652096
+    second: FrontFlip_103
+  - first:
+      213: -9090313208570353777
+    second: FrontFlip_104
+  - first:
+      213: -56122253924265546
+    second: FrontFlip_105
+  - first:
+      213: -4185897980450056481
+    second: FrontFlip_106
+  - first:
+      213: -563056820798290437
+    second: FrontFlip_107
+  - first:
+      213: -2266172647837459476
+    second: FrontFlip_108
+  - first:
+      213: 8859833835448435047
+    second: FrontFlip_109
+  - first:
+      213: -5181177882653792480
+    second: FrontFlip_110
+  - first:
+      213: -4465908663041383463
+    second: FrontFlip_111
+  - first:
+      213: -9017980659520762952
+    second: FrontFlip_112
+  - first:
+      213: 7732940897251593581
+    second: FrontFlip_113
+  - first:
+      213: 8138258105393941917
+    second: FrontFlip_114
+  - first:
+      213: -812510494920381496
+    second: FrontFlip_115
+  - first:
+      213: 5325547706189564776
+    second: FrontFlip_116
+  - first:
+      213: 367724801056974019
+    second: FrontFlip_117
+  - first:
+      213: 7482587476303537153
+    second: FrontFlip_118
+  - first:
+      213: 7691777413589550390
+    second: FrontFlip_119
+  - first:
+      213: -3193011410328818178
+    second: FrontFlip_120
+  - first:
+      213: -237537584127299235
+    second: FrontFlip_121
+  - first:
+      213: -6148182080873456737
+    second: FrontFlip_122
+  - first:
+      213: 9111446775345555413
+    second: FrontFlip_123
+  - first:
+      213: 5060327800904242991
+    second: FrontFlip_124
+  - first:
+      213: 2042303507812242355
+    second: FrontFlip_125
+  - first:
+      213: 728469981570966552
+    second: FrontFlip_126
+  - first:
+      213: -2089821349490435836
+    second: FrontFlip_127
+  - first:
+      213: -3539301879198735620
+    second: FrontFlip_128
+  - first:
+      213: 7041756184030417718
+    second: FrontFlip_129
+  - first:
+      213: -3271867513507320963
+    second: FrontFlip_130
+  - first:
+      213: 2469169306997616400
+    second: FrontFlip_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontFlip_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 465
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3708960c009570800000000000000
+      internalID: 8471284121543850762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 467
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376c0adb78b836b0800000000000000
+      internalID: -5316296518032136385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 465
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c312d936625aaf0800000000000000
+      internalID: -385859983790490490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 465
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989aa376a77192150800000000000000
+      internalID: 5848231405602646409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 466
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4873cc868e02b30800000000000000
+      internalID: 4260660784292922535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 467
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6cf9adcbec87c0800000000000000
+      internalID: -4067617094869684252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 467
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515804f2c10d75080800000000000000
+      internalID: -9198654894410529515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 467
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73684b14475585980800000000000000
+      internalID: -8549989934755969481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 480
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40118c34cb0228f0800000000000000
+      internalID: -566877665638674353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 467
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfb5f4700b75160800000000000000
+      internalID: 7014268490095524985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 467
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cf836ca2ccd4a80800000000000000
+      internalID: -8480898039182459878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 466
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e41b2c2aacb8ac0800000000000000
+      internalID: -3851762255885414818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 466
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8b63bfefb14b40800000000000000
+      internalID: 5422826462559046205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 467
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8253e8af59d00e0e0800000000000000
+      internalID: -2242777676625595096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 467
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c0d540f6392c1d0800000000000000
+      internalID: -3331938669276885945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 468
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56524fdd215907460800000000000000
+      internalID: 7237448509450102117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0eea85bb6d8cc0800000000000000
+      internalID: -3707188490791940320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 403
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936459ca4779d050800000000000000
+      internalID: 5825818756069483423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 396
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab9c77a52df38930800000000000000
+      internalID: 4144434420276566953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 396
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba78ab23ab89b22e0800000000000000
+      internalID: -2149456471656855637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 413
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e34397da03c1710800000000000000
+      internalID: 1665259483841183356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 400
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7320351125ceae620800000000000000
+      internalID: 2804313555213681207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 402
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ce05b4059c2f070800000000000000
+      internalID: 8138788823310068840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 403
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43745c61f78f040800000000000000
+      internalID: 4681631548427416750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 415
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a277f02c64f7cd0800000000000000
+      internalID: -2558248264026084765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 404
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd9767a103f8b30800000000000000
+      internalID: 4291701860122353579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_26
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 404
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe1ce81361471800800000000000000
+      internalID: 583006570643463935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 414
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a6872483920c10800000000000000
+      internalID: 2018337778823504441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 402
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd06e2e9cc30ce90800000000000000
+      internalID: -7007534182395671052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 401
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b9f158f5ab0f40800000000000000
+      internalID: 5695828639685915575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_30
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 401
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f02f033d40a304d0800000000000000
+      internalID: -3169513459309141769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_31
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 402
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4772751a6be1eb620800000000000000
+      internalID: 2791702588756010868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 404
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7c93968955cb10800000000000000
+      internalID: 2001104043973050295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_33
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 403
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d64242d30fcdc90800000000000000
+      internalID: -7143570763526410885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 337
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0de49b53e590d60800000000000000
+      internalID: 7856914609759768753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 339
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f2d2de3b89dc510800000000000000
+      internalID: 1571079743567900566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 332
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da21f46c742f680800000000000000
+      internalID: -8722830611207508695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e052a28e15f4f2a0800000000000000
+      internalID: -6704464433858326296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 334
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40fe376052729b40800000000000000
+      internalID: 5445540589099479114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 334
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5ddd6197f71d50800000000000000
+      internalID: 6708102373977185367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 339
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703509d676f56c50800000000000000
+      internalID: 6657998614444716155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_41
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 340
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c29d2d75d900ef0800000000000000
+      internalID: -143942187550692339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_42
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 352
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237cf51354d216520800000000000000
+      internalID: 2693483827348621106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 338
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92303d922e54b1040800000000000000
+      internalID: 4619362680465195817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_44
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 352
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc54bb4157d6bf0800000000000000
+      internalID: -329478465826468827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 335
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8c3caa721bb000800000000000000
+      internalID: 52656138729852430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_46
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 332
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0550ae25f159950800000000000000
+      internalID: 6455100081879470250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 332
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a21e354d6ca79f0800000000000000
+      internalID: -469844595864163748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_48
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 333
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968400f82d847e180800000000000000
+      internalID: -9086213654017193879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_49
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 332
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cf719e9606d060800000000000000
+      internalID: 6977771950772832440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 340
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2800f444f14360800000000000000
+      internalID: 7152266260163078671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 268
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb142594807ba880800000000000000
+      internalID: -8598655348793664572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 272
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ccef532f3ae9270800000000000000
+      internalID: 8259219027327372289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 267
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403862bcb21ec220800000000000000
+      internalID: 2507962644148269132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 267
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d27d06939d7850800000000000000
+      internalID: 6376414920106497707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 266
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf30d532028c32130800000000000000
+      internalID: 3540893772401148924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 266
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84225e17b04ceb580800000000000000
+      internalID: -8809388267655585208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 272
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aaf58d42fac2110800000000000000
+      internalID: 1237556570403875395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 272
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7776eaf71acd80800000000000000
+      internalID: -8229739002690307305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 283
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0e9a7f89d0a820800000000000000
+      internalID: 2927578968051552221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 271
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9155334d66d591590800000000000000
+      internalID: -7703022991412341479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_61
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 286
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248904299a03c9290800000000000000
+      internalID: -7882371742943897534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_62
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 272
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db420b9dfbeb6a710800000000000000
+      internalID: 1704259240206542013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_63
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 270
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c28b3395db51f6c0800000000000000
+      internalID: -4111404011956239674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_64
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 268
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82853e75bd702da90800000000000000
+      internalID: -7290756208105662424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_65
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 267
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dcf2110eb977be0800000000000000
+      internalID: -1479542565904593517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_66
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 267
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14dc1c1433d3a6f0800000000000000
+      internalID: -674463298412030946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_67
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 272
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb817ae3379709120800000000000000
+      internalID: 2418566535777294526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_68
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 205
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b656a6c11c6bb70800000000000000
+      internalID: 8914524840214752001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 208
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0870179bc73eba2f0800000000000000
+      internalID: -960423970686826624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafeac63e2eb18db0800000000000000
+      internalID: -4791339422848454740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68930fe568b3f8d10800000000000000
+      internalID: 2129986597073992070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 204
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe1be26e7c012a0800000000000000
+      internalID: -6768690448498037785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_73
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 204
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe93626e6e0555be0800000000000000
+      internalID: -1489195149142115857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_74
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 204
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3269bcf9d6146b20800000000000000
+      internalID: 3126649166805688892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_75
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 205
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1995059a9b56c0800000000000000
+      internalID: -4153556266484425927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_76
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 205
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636eec47a5d7e5b30800000000000000
+      internalID: 4277994523508794934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 205
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68295502566f9b60800000000000000
+      internalID: 7755029585818364014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_78
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 205
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde24b7f0f2186b0800000000000000
+      internalID: -5295899943271993904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 206
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11455791765a96ce0800000000000000
+      internalID: -1411415145976605679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_80
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 207
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13d27cb486b71c70800000000000000
+      internalID: 8941816266380989210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_81
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 210
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b580d5506313bd770800000000000000
+      internalID: 8636550818501036123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_82
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 210
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea128938d8ed1a90800000000000000
+      internalID: -7341455802168632598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_83
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 210
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96cbb7391a06200800000000000000
+      internalID: 171314440648288719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb37cf820a88670800000000000000
+      internalID: 8541252791202725516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_85
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a49093885190000800000000000000
+      internalID: 2556949607041598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7a29d99cebabcc0800000000000000
+      internalID: -3694430771162732576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8419e5d1f1cf08b0800000000000000
+      internalID: -5183711401660050290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_88
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb253b87c324bf90800000000000000
+      internalID: -6938881785930110019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 143
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b631ad9848655c10800000000000000
+      internalID: 2041652667173910201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_90
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 143
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462492878fafc2350800000000000000
+      internalID: 5993441149198090852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 144
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf675bc92cb05a2d0800000000000000
+      internalID: -3268193024106727685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_92
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 144
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f7674218a35960800000000000000
+      internalID: 7589594593510289783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_93
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 139
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a855f9bd72fa29040800000000000000
+      internalID: 4652973950750381450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_94
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 140
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b0fdcfd62e9ba0800000000000000
+      internalID: -6080379704228924034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_95
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 143
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4265c87be190f1a20800000000000000
+      internalID: 3035154701404100132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_96
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 147
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c7af5569852490800000000000000
+      internalID: -7771654513468391031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_97
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 146
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c349745b0d1c67650800000000000000
+      internalID: 6230380236652385340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_98
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 146
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fef04772e270b6e0800000000000000
+      internalID: -1823831532096127241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25234680460b3c480800000000000000
+      internalID: -8880060096560483758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 84
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb037bf150d435b20800000000000000
+      internalID: 3121923651100160190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_101
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8df8be77fcc4be0800000000000000
+      internalID: -1491589262606346035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 84
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c221a8b33038a90800000000000000
+      internalID: -7312997815665152919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_103
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 82
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb4fb06d1a9aae0800000000000000
+      internalID: -1537519857074652096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 81
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f876f12ac48b8d180800000000000000
+      internalID: -9090313208570353777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 82
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b199de7b1d983ff0800000000000000
+      internalID: -56122253924265546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 93
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6df31f6f3b8e5c0800000000000000
+      internalID: -4185897980450056481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_107
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 83
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf505fffdce9f28f0800000000000000
+      internalID: -563056820798290437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_108
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb11f5cbffec80e0800000000000000
+      internalID: -2266172647837459476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_109
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 83
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76104e29ee374fa70800000000000000
+      internalID: 8859833835448435047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_110
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 77
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276f42ba22c818b0800000000000000
+      internalID: -5181177882653792480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 80
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3241c7bb7e502c0800000000000000
+      internalID: -4465908663041383463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_112
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 85
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb0ce59e52b9d280800000000000000
+      internalID: -9017980659520762952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_113
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 85
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d85c176cce05b60800000000000000
+      internalID: 7732940897251593581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_114
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 85
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d0376e0a6e0f070800000000000000
+      internalID: 8138258105393941917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_115
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 84
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb6efd720269b4f0800000000000000
+      internalID: -812510494920381496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b43dd3c6528e940800000000000000
+      internalID: 5325547706189564776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c42a1e12cb6a1500800000000000000
+      internalID: 367724801056974019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_118
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 22
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ebdd4aad77d760800000000000000
+      internalID: 7482587476303537153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_119
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c06c0eceaeba60800000000000000
+      internalID: 7691777413589550390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde4932a0520b3d0800000000000000
+      internalID: -3193011410328818178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 18
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b94563d814bcf0800000000000000
+      internalID: -237537584127299235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9d1fc8f44daaa0800000000000000
+      internalID: -6148182080873456737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7a952519c527e70800000000000000
+      internalID: 9111446775345555413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_124
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 20
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f275eebf255e93640800000000000000
+      internalID: 5060327800904242991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_125
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 20
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3dea24838b75c10800000000000000
+      internalID: 2042303507812242355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_126
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 19
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814a211b69b0c1a00800000000000000
+      internalID: 728469981570966552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_127
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 19
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40958931e867ff2e0800000000000000
+      internalID: -2089821349490435836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_128
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 20
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ac7161bfd1eec0800000000000000
+      internalID: -3539301879198735620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_129
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 19
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6331b08c0f759b160800000000000000
+      internalID: 7041756184030417718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6141e4ddf792d0800000000000000
+      internalID: -3271867513507320963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontFlip_131
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 20
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe3e90760444220800000000000000
+      internalID: 2469169306997616400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FrontFlip_0: 8471284121543850762
+      FrontFlip_1: -5316296518032136385
+      FrontFlip_10: -8480898039182459878
+      FrontFlip_100: 3121923651100160190
+      FrontFlip_101: -1491589262606346035
+      FrontFlip_102: -7312997815665152919
+      FrontFlip_103: -1537519857074652096
+      FrontFlip_104: -9090313208570353777
+      FrontFlip_105: -56122253924265546
+      FrontFlip_106: -4185897980450056481
+      FrontFlip_107: -563056820798290437
+      FrontFlip_108: -2266172647837459476
+      FrontFlip_109: 8859833835448435047
+      FrontFlip_11: -3851762255885414818
+      FrontFlip_110: -5181177882653792480
+      FrontFlip_111: -4465908663041383463
+      FrontFlip_112: -9017980659520762952
+      FrontFlip_113: 7732940897251593581
+      FrontFlip_114: 8138258105393941917
+      FrontFlip_115: -812510494920381496
+      FrontFlip_116: 5325547706189564776
+      FrontFlip_117: 367724801056974019
+      FrontFlip_118: 7482587476303537153
+      FrontFlip_119: 7691777413589550390
+      FrontFlip_12: 5422826462559046205
+      FrontFlip_120: -3193011410328818178
+      FrontFlip_121: -237537584127299235
+      FrontFlip_122: -6148182080873456737
+      FrontFlip_123: 9111446775345555413
+      FrontFlip_124: 5060327800904242991
+      FrontFlip_125: 2042303507812242355
+      FrontFlip_126: 728469981570966552
+      FrontFlip_127: -2089821349490435836
+      FrontFlip_128: -3539301879198735620
+      FrontFlip_129: 7041756184030417718
+      FrontFlip_13: -2242777676625595096
+      FrontFlip_130: -3271867513507320963
+      FrontFlip_131: 2469169306997616400
+      FrontFlip_14: -3331938669276885945
+      FrontFlip_15: 7237448509450102117
+      FrontFlip_16: -3707188490791940320
+      FrontFlip_17: 5825818756069483423
+      FrontFlip_18: 4144434420276566953
+      FrontFlip_19: -2149456471656855637
+      FrontFlip_2: -385859983790490490
+      FrontFlip_20: 1665259483841183356
+      FrontFlip_21: 2804313555213681207
+      FrontFlip_22: 8138788823310068840
+      FrontFlip_23: 4681631548427416750
+      FrontFlip_24: -2558248264026084765
+      FrontFlip_25: 4291701860122353579
+      FrontFlip_26: 583006570643463935
+      FrontFlip_27: 2018337778823504441
+      FrontFlip_28: -7007534182395671052
+      FrontFlip_29: 5695828639685915575
+      FrontFlip_3: 5848231405602646409
+      FrontFlip_30: -3169513459309141769
+      FrontFlip_31: 2791702588756010868
+      FrontFlip_32: 2001104043973050295
+      FrontFlip_33: -7143570763526410885
+      FrontFlip_34: 7856914609759768753
+      FrontFlip_35: 1571079743567900566
+      FrontFlip_36: -8722830611207508695
+      FrontFlip_37: -6704464433858326296
+      FrontFlip_38: 5445540589099479114
+      FrontFlip_39: 6708102373977185367
+      FrontFlip_4: 4260660784292922535
+      FrontFlip_40: 6657998614444716155
+      FrontFlip_41: -143942187550692339
+      FrontFlip_42: 2693483827348621106
+      FrontFlip_43: 4619362680465195817
+      FrontFlip_44: -329478465826468827
+      FrontFlip_45: 52656138729852430
+      FrontFlip_46: 6455100081879470250
+      FrontFlip_47: -469844595864163748
+      FrontFlip_48: -9086213654017193879
+      FrontFlip_49: 6977771950772832440
+      FrontFlip_5: -4067617094869684252
+      FrontFlip_50: 7152266260163078671
+      FrontFlip_51: -8598655348793664572
+      FrontFlip_52: 8259219027327372289
+      FrontFlip_53: 2507962644148269132
+      FrontFlip_54: 6376414920106497707
+      FrontFlip_55: 3540893772401148924
+      FrontFlip_56: -8809388267655585208
+      FrontFlip_57: 1237556570403875395
+      FrontFlip_58: -8229739002690307305
+      FrontFlip_59: 2927578968051552221
+      FrontFlip_6: -9198654894410529515
+      FrontFlip_60: -7703022991412341479
+      FrontFlip_61: -7882371742943897534
+      FrontFlip_62: 1704259240206542013
+      FrontFlip_63: -4111404011956239674
+      FrontFlip_64: -7290756208105662424
+      FrontFlip_65: -1479542565904593517
+      FrontFlip_66: -674463298412030946
+      FrontFlip_67: 2418566535777294526
+      FrontFlip_68: 8914524840214752001
+      FrontFlip_69: -960423970686826624
+      FrontFlip_7: -8549989934755969481
+      FrontFlip_70: -4791339422848454740
+      FrontFlip_71: 2129986597073992070
+      FrontFlip_72: -6768690448498037785
+      FrontFlip_73: -1489195149142115857
+      FrontFlip_74: 3126649166805688892
+      FrontFlip_75: -4153556266484425927
+      FrontFlip_76: 4277994523508794934
+      FrontFlip_77: 7755029585818364014
+      FrontFlip_78: -5295899943271993904
+      FrontFlip_79: -1411415145976605679
+      FrontFlip_8: -566877665638674353
+      FrontFlip_80: 8941816266380989210
+      FrontFlip_81: 8636550818501036123
+      FrontFlip_82: -7341455802168632598
+      FrontFlip_83: 171314440648288719
+      FrontFlip_84: 8541252791202725516
+      FrontFlip_85: 2556949607041598
+      FrontFlip_86: -3694430771162732576
+      FrontFlip_87: -5183711401660050290
+      FrontFlip_88: -6938881785930110019
+      FrontFlip_89: 2041652667173910201
+      FrontFlip_9: 7014268490095524985
+      FrontFlip_90: 5993441149198090852
+      FrontFlip_91: -3268193024106727685
+      FrontFlip_92: 7589594593510289783
+      FrontFlip_93: 4652973950750381450
+      FrontFlip_94: -6080379704228924034
+      FrontFlip_95: 3035154701404100132
+      FrontFlip_96: -7771654513468391031
+      FrontFlip_97: 6230380236652385340
+      FrontFlip_98: -1823831532096127241
+      FrontFlip_99: -8880060096560483758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

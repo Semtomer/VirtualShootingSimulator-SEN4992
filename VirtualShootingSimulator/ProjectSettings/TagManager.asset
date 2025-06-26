@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - MusicSlider
+  - SFXSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Shootable
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2425651459
+    locked: 0
+  - name: Objects
+    uniqueID: 4250941897
+    locked: 0
+  - name: Chest
+    uniqueID: 3836242783
+    locked: 0
+  - name: Enemies
+    uniqueID: 2428844143
+    locked: 0
+  - name: Castle
+    uniqueID: 4189426099
+    locked: 0
+  m_RenderingLayers:
+  - Default

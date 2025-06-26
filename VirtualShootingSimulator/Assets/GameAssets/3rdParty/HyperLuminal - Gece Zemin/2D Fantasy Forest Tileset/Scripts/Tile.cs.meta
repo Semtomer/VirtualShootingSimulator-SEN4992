@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22db20d75c10b2c47b416678db57a3f4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19553
+  packageName: 2D Fantasy Forest Tileset
+  packageVersion: 1.0.3
+  assetPath: Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Tile.cs
+  uploadId: 70383

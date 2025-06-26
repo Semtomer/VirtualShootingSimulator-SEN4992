@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: afdcf6c5b8c0f4841a9bc31949390715
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8346883961221935540
+    second: MeleeRun_0
+  - first:
+      213: 5806112109927007176
+    second: MeleeRun_1
+  - first:
+      213: 8938678650404228638
+    second: MeleeRun_2
+  - first:
+      213: -9074038060802755056
+    second: MeleeRun_3
+  - first:
+      213: 522724554486893475
+    second: MeleeRun_4
+  - first:
+      213: 2796974490788874894
+    second: MeleeRun_5
+  - first:
+      213: -3505731122678018396
+    second: MeleeRun_6
+  - first:
+      213: 6398667686239515328
+    second: MeleeRun_7
+  - first:
+      213: 260608735541673131
+    second: MeleeRun_8
+  - first:
+      213: 5796731940753770444
+    second: MeleeRun_9
+  - first:
+      213: -3801371607828773390
+    second: MeleeRun_10
+  - first:
+      213: -1050515169520423597
+    second: MeleeRun_11
+  - first:
+      213: 7650316360276228246
+    second: MeleeRun_12
+  - first:
+      213: 5974430333237852860
+    second: MeleeRun_13
+  - first:
+      213: 7041436640436204229
+    second: MeleeRun_14
+  - first:
+      213: -1221085953668741996
+    second: MeleeRun_15
+  - first:
+      213: 6533771711684063422
+    second: MeleeRun_16
+  - first:
+      213: -6583066482426668007
+    second: MeleeRun_17
+  - first:
+      213: 1115309484377656215
+    second: MeleeRun_18
+  - first:
+      213: 8549083121080930303
+    second: MeleeRun_19
+  - first:
+      213: 9004794954632714826
+    second: MeleeRun_20
+  - first:
+      213: 7480207277939854162
+    second: MeleeRun_21
+  - first:
+      213: 7389117013569534729
+    second: MeleeRun_22
+  - first:
+      213: -2408212515647178847
+    second: MeleeRun_23
+  - first:
+      213: -2896251080517495877
+    second: MeleeRun_24
+  - first:
+      213: 7882291933611630164
+    second: MeleeRun_25
+  - first:
+      213: 7279781179904135035
+    second: MeleeRun_26
+  - first:
+      213: 1751898046416795250
+    second: MeleeRun_27
+  - first:
+      213: 9199759170675257112
+    second: MeleeRun_28
+  - first:
+      213: 7804212405508565413
+    second: MeleeRun_29
+  - first:
+      213: 2326542704969432441
+    second: MeleeRun_30
+  - first:
+      213: 5305777631641611740
+    second: MeleeRun_31
+  - first:
+      213: -1875546893891201054
+    second: MeleeRun_32
+  - first:
+      213: 6987528801298240049
+    second: MeleeRun_33
+  - first:
+      213: 5511176173942752384
+    second: MeleeRun_34
+  - first:
+      213: -3128253162918357428
+    second: MeleeRun_35
+  - first:
+      213: 2687885420883349153
+    second: MeleeRun_36
+  - first:
+      213: -7122320583029997562
+    second: MeleeRun_37
+  - first:
+      213: 8696564932313849048
+    second: MeleeRun_38
+  - first:
+      213: -3369011724827599664
+    second: MeleeRun_39
+  - first:
+      213: 5563897161237092334
+    second: MeleeRun_40
+  - first:
+      213: 476999083673869588
+    second: MeleeRun_41
+  - first:
+      213: 8630731124219622074
+    second: MeleeRun_42
+  - first:
+      213: 4140502512140667624
+    second: MeleeRun_43
+  - first:
+      213: -4603842385541409497
+    second: MeleeRun_44
+  - first:
+      213: 4436358206868475962
+    second: MeleeRun_45
+  - first:
+      213: 7397361780974137509
+    second: MeleeRun_46
+  - first:
+      213: 6871063469620967507
+    second: MeleeRun_47
+  - first:
+      213: -6980084685709409300
+    second: MeleeRun_48
+  - first:
+      213: -976922586463784787
+    second: MeleeRun_49
+  - first:
+      213: 977337730333238754
+    second: MeleeRun_50
+  - first:
+      213: 5934736019091501388
+    second: MeleeRun_51
+  - first:
+      213: -5707461640416169568
+    second: MeleeRun_52
+  - first:
+      213: 8120912370383443031
+    second: MeleeRun_53
+  - first:
+      213: -1662922657846640981
+    second: MeleeRun_54
+  - first:
+      213: 4963160136367269531
+    second: MeleeRun_55
+  - first:
+      213: -7707816134367934345
+    second: MeleeRun_56
+  - first:
+      213: -631495850088952780
+    second: MeleeRun_57
+  - first:
+      213: 5819358037488678739
+    second: MeleeRun_58
+  - first:
+      213: -3197634870257906552
+    second: MeleeRun_59
+  - first:
+      213: 35181595836374833
+    second: MeleeRun_60
+  - first:
+      213: 288513550988995305
+    second: MeleeRun_61
+  - first:
+      213: -5718740551484061677
+    second: MeleeRun_62
+  - first:
+      213: -5902956101332378665
+    second: MeleeRun_63
+  - first:
+      213: 6895942015339155023
+    second: MeleeRun_64
+  - first:
+      213: -3659018969273803948
+    second: MeleeRun_65
+  - first:
+      213: -3377127192829094246
+    second: MeleeRun_66
+  - first:
+      213: -7569702914620747474
+    second: MeleeRun_67
+  - first:
+      213: -3248908618839336428
+    second: MeleeRun_68
+  - first:
+      213: -1146527729578113956
+    second: MeleeRun_69
+  - first:
+      213: 1908108610337064174
+    second: MeleeRun_70
+  - first:
+      213: 9024863099820849852
+    second: MeleeRun_71
+  - first:
+      213: 7427447648082601788
+    second: MeleeRun_72
+  - first:
+      213: -4779904859507750282
+    second: MeleeRun_73
+  - first:
+      213: 6900557757199204358
+    second: MeleeRun_74
+  - first:
+      213: 4331599710162145016
+    second: MeleeRun_75
+  - first:
+      213: 1978496414205253198
+    second: MeleeRun_76
+  - first:
+      213: 6573934247926502029
+    second: MeleeRun_77
+  - first:
+      213: 4715592716153908959
+    second: MeleeRun_78
+  - first:
+      213: 7853003092770240284
+    second: MeleeRun_79
+  - first:
+      213: 5029697286551702973
+    second: MeleeRun_80
+  - first:
+      213: -3544047511381453627
+    second: MeleeRun_81
+  - first:
+      213: 6747516558129399925
+    second: MeleeRun_82
+  - first:
+      213: -4270422700180550500
+    second: MeleeRun_83
+  - first:
+      213: -6118986354268320977
+    second: MeleeRun_84
+  - first:
+      213: -4852799025128795139
+    second: MeleeRun_85
+  - first:
+      213: 4871199202627503054
+    second: MeleeRun_86
+  - first:
+      213: 2100030597881943936
+    second: MeleeRun_87
+  - first:
+      213: 7046361071647907546
+    second: MeleeRun_88
+  - first:
+      213: -6026996097836680818
+    second: MeleeRun_89
+  - first:
+      213: -6370663160985006067
+    second: MeleeRun_90
+  - first:
+      213: 1508896133793546440
+    second: MeleeRun_91
+  - first:
+      213: -942711367231424245
+    second: MeleeRun_92
+  - first:
+      213: 6043559249875239820
+    second: MeleeRun_93
+  - first:
+      213: 2364104577930152108
+    second: MeleeRun_94
+  - first:
+      213: 7187773174440744852
+    second: MeleeRun_95
+  - first:
+      213: 480448234434112751
+    second: MeleeRun_96
+  - first:
+      213: -1709200336343927856
+    second: MeleeRun_97
+  - first:
+      213: 7710923154832961328
+    second: MeleeRun_98
+  - first:
+      213: -4860324673458466569
+    second: MeleeRun_99
+  - first:
+      213: 3084530367893684344
+    second: MeleeRun_100
+  - first:
+      213: 4392515205332024363
+    second: MeleeRun_101
+  - first:
+      213: -4556609901197497572
+    second: MeleeRun_102
+  - first:
+      213: 2428975336364174144
+    second: MeleeRun_103
+  - first:
+      213: 7405542383399972260
+    second: MeleeRun_104
+  - first:
+      213: 6875444745497710464
+    second: MeleeRun_105
+  - first:
+      213: -4441852582833468745
+    second: MeleeRun_106
+  - first:
+      213: -6482424910948160772
+    second: MeleeRun_107
+  - first:
+      213: -1313809322926210591
+    second: MeleeRun_108
+  - first:
+      213: -1876105615450017228
+    second: MeleeRun_109
+  - first:
+      213: 6415244541667290309
+    second: MeleeRun_110
+  - first:
+      213: 6618531794792771581
+    second: MeleeRun_111
+  - first:
+      213: 2880992858326147268
+    second: MeleeRun_112
+  - first:
+      213: -2452454366527908101
+    second: MeleeRun_113
+  - first:
+      213: -2544760558782789634
+    second: MeleeRun_114
+  - first:
+      213: -7660121620556283727
+    second: MeleeRun_115
+  - first:
+      213: 286280873715452474
+    second: MeleeRun_116
+  - first:
+      213: -3591886473443418884
+    second: MeleeRun_117
+  - first:
+      213: 7091536927586040743
+    second: MeleeRun_118
+  - first:
+      213: 4832884781295481948
+    second: MeleeRun_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeleeRun_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f9023db616d370800000000000000
+      internalID: 8346883961221935540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 465
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c30b4ea334739050800000000000000
+      internalID: 5806112109927007176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 464
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e46b69fd09c0c70800000000000000
+      internalID: 8938678650404228638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 464
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163a73c57a821280800000000000000
+      internalID: -9074038060802755056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 461
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abc0997637114700800000000000000
+      internalID: 522724554486893475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 461
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8acc49fa79d0d620800000000000000
+      internalID: 2796974490788874894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 462
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeceba3e14295fc0800000000000000
+      internalID: -3505731122678018396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 467
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b31aeb52acc850800000000000000
+      internalID: 6398667686239515328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 466
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac3353a34edd9300800000000000000
+      internalID: 260608735541673131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 469
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc70acadcf0227050800000000000000
+      internalID: 5796731940753770444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 456
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f54c18c9a0de3bc0800000000000000
+      internalID: -3801371607828773390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 454
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6399e402db61f0800000000000000
+      internalID: -1050515169520423597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 457
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698bf9152326b2a60800000000000000
+      internalID: 7650316360276228246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 458
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaf5f3fbb079e250800000000000000
+      internalID: 5974430333237852860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 456
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2be9d315538b160800000000000000
+      internalID: 7041436640436204229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 402
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4940b537bc4dd0fe0800000000000000
+      internalID: -1221085953668741996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 401
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0bc6e11ce9caa50800000000000000
+      internalID: 6533771711684063422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 401
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9d2ea9ef34a4a0800000000000000
+      internalID: -6583066482426668007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 395
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b44fe11106a7f00800000000000000
+      internalID: 1115309484377656215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 394
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff015bbdc174a670800000000000000
+      internalID: 8549083121080930303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 397
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4adc124d4577fc70800000000000000
+      internalID: 9004794954632714826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 405
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b85ef23e80fc760800000000000000
+      internalID: 7480207277939854162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 405
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7b9d46ca6b8660800000000000000
+      internalID: 7389117013569534729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 405
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7333de97f449ed0800000000000000
+      internalID: -2408212515647178847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 401
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d96dbcf27ec7d0800000000000000
+      internalID: -2896251080517495877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 388
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e19de50c6836d60800000000000000
+      internalID: 7882291933611630164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 393
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f82c6c96af60560800000000000000
+      internalID: 7279781179904135035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 403
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276bf53cdfdff4810800000000000000
+      internalID: 1751898046416795250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_28
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 404
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fad3b293c1caf70800000000000000
+      internalID: 9199759170675257112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_29
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 399
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9e80695d12e4c60800000000000000
+      internalID: 7804212405508565413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 335
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dba7c734a894020800000000000000
+      internalID: 2326542704969432441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 333
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd263f05a8e1a940800000000000000
+      internalID: 5305777631641611740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 331
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7170e7908b8f5e0800000000000000
+      internalID: -1875546893891201054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 330
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132513b5c60b8f060800000000000000
+      internalID: 6987528801298240049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 334
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084447ed781ab7c40800000000000000
+      internalID: 5511176173942752384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 340
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4652c092563694d0800000000000000
+      internalID: -3128253162918357428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 340
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae04bc9c894d4520800000000000000
+      internalID: 2687885420883349153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 338
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004b085a2f682d90800000000000000
+      internalID: -7122320583029997562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 338
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc9fa4cab760b870800000000000000
+      internalID: 8696564932313849048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 331
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5681afadde31d0800000000000000
+      internalID: -3369011724827599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 330
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee757564dfee63d40800000000000000
+      internalID: 5563897161237092334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 339
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d519ca324ae9600800000000000000
+      internalID: 476999083673869588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_42
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 339
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b40bda3486c770800000000000000
+      internalID: 8630731124219622074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 339
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac1c3f815067930800000000000000
+      internalID: 4140502512140667624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_44
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 338
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725dae71ebddb10c0800000000000000
+      internalID: -4603842385541409497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 268
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30d8c8c84c119d30800000000000000
+      internalID: 4436358206868475962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 267
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b30ec855b8a660800000000000000
+      internalID: 7397361780974137509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 267
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bbe732dbea5f50800000000000000
+      internalID: 6871063469620967507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 273
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3852ed5f1c12f90800000000000000
+      internalID: -6980084685709409300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da035c465164172f0800000000000000
+      internalID: -976922586463784787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56912dc73309d00800000000000000
+      internalID: 977337730333238754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 275
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c413aad37fa6c5250800000000000000
+      internalID: 5934736019091501388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 273
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a173d1a0e50bc0b0800000000000000
+      internalID: -5707461640416169568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_53
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 271
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754d7c046c643b070800000000000000
+      internalID: 8120912370383443031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_54
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 261
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae3a1a37ac1ce8e0800000000000000
+      internalID: -1662922657846640981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_55
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 274
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96ec8b19dfa0e440800000000000000
+      internalID: 4963160136367269531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 273
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77889f44016580590800000000000000
+      internalID: -7707816134367934345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 272
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8052ced97c37f0800000000000000
+      internalID: -631495850088952780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 271
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b3558d4382c050800000000000000
+      internalID: 5819358037488678739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 270
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c00ecf608bf93d0800000000000000
+      internalID: -3197634870257906552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f557a997dfc7000800000000000000
+      internalID: 35181595836374833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 208
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae597cb81010400800000000000000
+      internalID: 288513550988995305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 211
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318cb2284c3f2a0b0800000000000000
+      internalID: -5718740551484061677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 214
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbdb5773bc741ea0800000000000000
+      internalID: -5902956101332378665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 214
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e4bf70abe43bf50800000000000000
+      internalID: 6895942015339155023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bd40e32ad883dc0800000000000000
+      internalID: -3659018969273803948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961c1ef5b80221d0800000000000000
+      internalID: -3377127192829094246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_67
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 207
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e219ace1e4303f690800000000000000
+      internalID: -7569702914620747474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_68
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 208
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a506a13de89e2d0800000000000000
+      internalID: -3248908618839336428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 201
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548c51ca17b610f0800000000000000
+      internalID: -1146527729578113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 208
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44108eba6fa7a10800000000000000
+      internalID: 1908108610337064174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 208
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3a5b6c21ce3d70800000000000000
+      internalID: 9024863099820849852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_72
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 208
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3726cb9848931760800000000000000
+      internalID: 7427447648082601788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_73
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 208
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a80e4fadd5aadb0800000000000000
+      internalID: -4779904859507750282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_74
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 210
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600cced28b4b3cf50800000000000000
+      internalID: 6900557757199204358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe46619cfeec1c30800000000000000
+      internalID: 4331599710162145016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_76
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 149
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4696169108057b10800000000000000
+      internalID: 1978496414205253198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 150
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d821f684e5e4b3b50800000000000000
+      internalID: 6573934247926502029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdee5cf4796217140800000000000000
+      internalID: 4715592716153908959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 149
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c173d94b4b87bfc60800000000000000
+      internalID: 7853003092770240284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_80
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 143
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd09ac98031dc540800000000000000
+      internalID: 5029697286551702973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_81
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c45009c09301dec0800000000000000
+      internalID: -3544047511381453627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 144
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788e5b4f8ef3ad50800000000000000
+      internalID: 6747516558129399925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 144
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c49fa0e296cb4c0800000000000000
+      internalID: -4270422700180550500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_84
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 145
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bcf50a45ef41ba0800000000000000
+      internalID: -6118986354268320977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_85
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 145
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df316d47ff467acb0800000000000000
+      internalID: -4852799025128795139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_86
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 145
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec347c6bdd9f99340800000000000000
+      internalID: 4871199202627503054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_87
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 146
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087543cc3bec42d10800000000000000
+      internalID: 2100030597881943936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_88
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 145
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded6babf04b9c160800000000000000
+      internalID: 7046361071647907546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_89
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 146
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8977cd3bfecb5ca0800000000000000
+      internalID: -6026996097836680818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 84
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0052d9bb9bd697a0800000000000000
+      internalID: -6370663160985006067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c089b90a0da0f410800000000000000
+      internalID: 1508896133793546440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 84
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b2769101dae2f0800000000000000
+      internalID: -942711367231424245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_93
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 84
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8307db1e190fd350800000000000000
+      internalID: 6043559249875239820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 80
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8c66b869cfec020800000000000000
+      internalID: 2364104577930152108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 79
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975f94ae9910c360800000000000000
+      internalID: 7187773174440744852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_96
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 79
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca86aaf15eaa600800000000000000
+      internalID: 480448234434112751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 77
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3fd3e8953b748e0800000000000000
+      internalID: -1709200336343927856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_98
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 77
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f272e41c3b20b60800000000000000
+      internalID: 7710923154832961328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 80
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01179e578ac8cb0800000000000000
+      internalID: -4860324673458466569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_100
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 80
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870453de6047eca20800000000000000
+      internalID: 3084530367893684344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_101
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 80
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c31548e4955fc30800000000000000
+      internalID: 4392515205332024363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_102
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 78
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b6813df6ba3c0c0800000000000000
+      internalID: -4556609901197497572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_103
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 78
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04beb2cf23475b120800000000000000
+      internalID: 2428975336364174144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_104
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 81
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada7abbf85c5c660800000000000000
+      internalID: 7405542383399972260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8730819c7a6f50800000000000000
+      internalID: 6875444745497710464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_106
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 18
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4f8f1c9e5b52c0800000000000000
+      internalID: -4441852582833468745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaaacb83ecc906a0800000000000000
+      internalID: -6482424910948160772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10364b16964cde0800000000000000
+      internalID: -1313809322926210591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4327cfdf1ebb6f5e0800000000000000
+      internalID: -1876105615450017228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 16
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cca755dbe6870950800000000000000
+      internalID: 6415244541667290309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_111
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 12
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6043d99fb9db50800000000000000
+      internalID: 6618531794792771581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_112
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 13
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a7f09db75bf720800000000000000
+      internalID: 2880992858326147268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_113
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf69f3f4fb127fdd0800000000000000
+      internalID: -2452454366527908101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_114
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 16
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c35721c13facd0800000000000000
+      internalID: -2544760558782789634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_115
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 19
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0047e98f7c1b590800000000000000
+      internalID: -7660121620556283727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_116
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 12
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a4cc710f219f300800000000000000
+      internalID: 286280873715452474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_117
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 7
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcdfd4784e072ec0800000000000000
+      internalID: -3591886473443418884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_118
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 7
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb45853433a6260800000000000000
+      internalID: 7091536927586040743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeRun_119
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 10
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5432855a1bd11340800000000000000
+      internalID: 4832884781295481948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeleeRun_0: 8346883961221935540
+      MeleeRun_1: 5806112109927007176
+      MeleeRun_10: -3801371607828773390
+      MeleeRun_100: 3084530367893684344
+      MeleeRun_101: 4392515205332024363
+      MeleeRun_102: -4556609901197497572
+      MeleeRun_103: 2428975336364174144
+      MeleeRun_104: 7405542383399972260
+      MeleeRun_105: 6875444745497710464
+      MeleeRun_106: -4441852582833468745
+      MeleeRun_107: -6482424910948160772
+      MeleeRun_108: -1313809322926210591
+      MeleeRun_109: -1876105615450017228
+      MeleeRun_11: -1050515169520423597
+      MeleeRun_110: 6415244541667290309
+      MeleeRun_111: 6618531794792771581
+      MeleeRun_112: 2880992858326147268
+      MeleeRun_113: -2452454366527908101
+      MeleeRun_114: -2544760558782789634
+      MeleeRun_115: -7660121620556283727
+      MeleeRun_116: 286280873715452474
+      MeleeRun_117: -3591886473443418884
+      MeleeRun_118: 7091536927586040743
+      MeleeRun_119: 4832884781295481948
+      MeleeRun_12: 7650316360276228246
+      MeleeRun_13: 5974430333237852860
+      MeleeRun_14: 7041436640436204229
+      MeleeRun_15: -1221085953668741996
+      MeleeRun_16: 6533771711684063422
+      MeleeRun_17: -6583066482426668007
+      MeleeRun_18: 1115309484377656215
+      MeleeRun_19: 8549083121080930303
+      MeleeRun_2: 8938678650404228638
+      MeleeRun_20: 9004794954632714826
+      MeleeRun_21: 7480207277939854162
+      MeleeRun_22: 7389117013569534729
+      MeleeRun_23: -2408212515647178847
+      MeleeRun_24: -2896251080517495877
+      MeleeRun_25: 7882291933611630164
+      MeleeRun_26: 7279781179904135035
+      MeleeRun_27: 1751898046416795250
+      MeleeRun_28: 9199759170675257112
+      MeleeRun_29: 7804212405508565413
+      MeleeRun_3: -9074038060802755056
+      MeleeRun_30: 2326542704969432441
+      MeleeRun_31: 5305777631641611740
+      MeleeRun_32: -1875546893891201054
+      MeleeRun_33: 6987528801298240049
+      MeleeRun_34: 5511176173942752384
+      MeleeRun_35: -3128253162918357428
+      MeleeRun_36: 2687885420883349153
+      MeleeRun_37: -7122320583029997562
+      MeleeRun_38: 8696564932313849048
+      MeleeRun_39: -3369011724827599664
+      MeleeRun_4: 522724554486893475
+      MeleeRun_40: 5563897161237092334
+      MeleeRun_41: 476999083673869588
+      MeleeRun_42: 8630731124219622074
+      MeleeRun_43: 4140502512140667624
+      MeleeRun_44: -4603842385541409497
+      MeleeRun_45: 4436358206868475962
+      MeleeRun_46: 7397361780974137509
+      MeleeRun_47: 6871063469620967507
+      MeleeRun_48: -6980084685709409300
+      MeleeRun_49: -976922586463784787
+      MeleeRun_5: 2796974490788874894
+      MeleeRun_50: 977337730333238754
+      MeleeRun_51: 5934736019091501388
+      MeleeRun_52: -5707461640416169568
+      MeleeRun_53: 8120912370383443031
+      MeleeRun_54: -1662922657846640981
+      MeleeRun_55: 4963160136367269531
+      MeleeRun_56: -7707816134367934345
+      MeleeRun_57: -631495850088952780
+      MeleeRun_58: 5819358037488678739
+      MeleeRun_59: -3197634870257906552
+      MeleeRun_6: -3505731122678018396
+      MeleeRun_60: 35181595836374833
+      MeleeRun_61: 288513550988995305
+      MeleeRun_62: -5718740551484061677
+      MeleeRun_63: -5902956101332378665
+      MeleeRun_64: 6895942015339155023
+      MeleeRun_65: -3659018969273803948
+      MeleeRun_66: -3377127192829094246
+      MeleeRun_67: -7569702914620747474
+      MeleeRun_68: -3248908618839336428
+      MeleeRun_69: -1146527729578113956
+      MeleeRun_7: 6398667686239515328
+      MeleeRun_70: 1908108610337064174
+      MeleeRun_71: 9024863099820849852
+      MeleeRun_72: 7427447648082601788
+      MeleeRun_73: -4779904859507750282
+      MeleeRun_74: 6900557757199204358
+      MeleeRun_75: 4331599710162145016
+      MeleeRun_76: 1978496414205253198
+      MeleeRun_77: 6573934247926502029
+      MeleeRun_78: 4715592716153908959
+      MeleeRun_79: 7853003092770240284
+      MeleeRun_8: 260608735541673131
+      MeleeRun_80: 5029697286551702973
+      MeleeRun_81: -3544047511381453627
+      MeleeRun_82: 6747516558129399925
+      MeleeRun_83: -4270422700180550500
+      MeleeRun_84: -6118986354268320977
+      MeleeRun_85: -4852799025128795139
+      MeleeRun_86: 4871199202627503054
+      MeleeRun_87: 2100030597881943936
+      MeleeRun_88: 7046361071647907546
+      MeleeRun_89: -6026996097836680818
+      MeleeRun_9: 5796731940753770444
+      MeleeRun_90: -6370663160985006067
+      MeleeRun_91: 1508896133793546440
+      MeleeRun_92: -942711367231424245
+      MeleeRun_93: 6043559249875239820
+      MeleeRun_94: 2364104577930152108
+      MeleeRun_95: 7187773174440744852
+      MeleeRun_96: 480448234434112751
+      MeleeRun_97: -1709200336343927856
+      MeleeRun_98: 7710923154832961328
+      MeleeRun_99: -4860324673458466569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

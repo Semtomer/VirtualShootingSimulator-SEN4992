@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 3ebea7a7b660ec941b26eef889e5c951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -725676847703976320
+    second: Rolling_0
+  - first:
+      213: 2804552036436801705
+    second: Rolling_1
+  - first:
+      213: 246690345009715882
+    second: Rolling_2
+  - first:
+      213: 4914790032895607488
+    second: Rolling_3
+  - first:
+      213: 8957890312988738062
+    second: Rolling_4
+  - first:
+      213: 728715001442487571
+    second: Rolling_5
+  - first:
+      213: 291541445017753677
+    second: Rolling_6
+  - first:
+      213: 1937895615618567686
+    second: Rolling_7
+  - first:
+      213: -1433437805159334051
+    second: Rolling_8
+  - first:
+      213: -3078519299960756994
+    second: Rolling_9
+  - first:
+      213: 2240636464467928315
+    second: Rolling_10
+  - first:
+      213: 8676170316349161011
+    second: Rolling_11
+  - first:
+      213: -5842034905591963187
+    second: Rolling_12
+  - first:
+      213: -3221273882454254805
+    second: Rolling_13
+  - first:
+      213: -930069001885914268
+    second: Rolling_14
+  - first:
+      213: 3648973524908400381
+    second: Rolling_15
+  - first:
+      213: -6453209052969132641
+    second: Rolling_16
+  - first:
+      213: 8746928359168288737
+    second: Rolling_17
+  - first:
+      213: -8903024850358175846
+    second: Rolling_18
+  - first:
+      213: 4998097869354579997
+    second: Rolling_19
+  - first:
+      213: 5576098853454369386
+    second: Rolling_20
+  - first:
+      213: 7510271574358332752
+    second: Rolling_21
+  - first:
+      213: 5367252971323565703
+    second: Rolling_22
+  - first:
+      213: 8307941951932666045
+    second: Rolling_23
+  - first:
+      213: -1843811864358678339
+    second: Rolling_24
+  - first:
+      213: 3931340312679867531
+    second: Rolling_25
+  - first:
+      213: -9023591139542443368
+    second: Rolling_26
+  - first:
+      213: -7369834233558674118
+    second: Rolling_27
+  - first:
+      213: -1388024727487340364
+    second: Rolling_28
+  - first:
+      213: 6788357279408995876
+    second: Rolling_29
+  - first:
+      213: 3301805793619535459
+    second: Rolling_30
+  - first:
+      213: 283780167374697800
+    second: Rolling_31
+  - first:
+      213: 420223387149958495
+    second: Rolling_32
+  - first:
+      213: -7376548653227040949
+    second: Rolling_33
+  - first:
+      213: 5136471780619550303
+    second: Rolling_34
+  - first:
+      213: -4948507302233732967
+    second: Rolling_35
+  - first:
+      213: -6575877316452283513
+    second: Rolling_36
+  - first:
+      213: -8251808528299776368
+    second: Rolling_37
+  - first:
+      213: -5172210974887443530
+    second: Rolling_38
+  - first:
+      213: 677214768927874859
+    second: Rolling_39
+  - first:
+      213: -5298264536064098923
+    second: Rolling_40
+  - first:
+      213: 1758241633736173256
+    second: Rolling_41
+  - first:
+      213: 1609814412993003376
+    second: Rolling_42
+  - first:
+      213: 3933538405451958680
+    second: Rolling_43
+  - first:
+      213: -2665057764293156699
+    second: Rolling_44
+  - first:
+      213: 5600717533600887793
+    second: Rolling_45
+  - first:
+      213: -8660378509679933936
+    second: Rolling_46
+  - first:
+      213: -9030467325143899723
+    second: Rolling_47
+  - first:
+      213: 2906412196581271604
+    second: Rolling_48
+  - first:
+      213: -7000535951860378958
+    second: Rolling_49
+  - first:
+      213: 758922236981511725
+    second: Rolling_50
+  - first:
+      213: -6516722965493692525
+    second: Rolling_51
+  - first:
+      213: -3683232598795785349
+    second: Rolling_52
+  - first:
+      213: 1181561205293985063
+    second: Rolling_53
+  - first:
+      213: 3899859757184746102
+    second: Rolling_54
+  - first:
+      213: -3648406466075014309
+    second: Rolling_55
+  - first:
+      213: 2524657013531705344
+    second: Rolling_56
+  - first:
+      213: -6776205924539865516
+    second: Rolling_57
+  - first:
+      213: -6940007566986112309
+    second: Rolling_58
+  - first:
+      213: -7653998927355830740
+    second: Rolling_59
+  - first:
+      213: 8759141229120327801
+    second: Rolling_60
+  - first:
+      213: 7740280908263215084
+    second: Rolling_61
+  - first:
+      213: -502619275545543277
+    second: Rolling_62
+  - first:
+      213: -2652226153421337652
+    second: Rolling_63
+  - first:
+      213: 5324979804886236056
+    second: Rolling_64
+  - first:
+      213: -8282358645968371408
+    second: Rolling_65
+  - first:
+      213: -1615176529134483066
+    second: Rolling_66
+  - first:
+      213: -1142959332749993926
+    second: Rolling_67
+  - first:
+      213: -1989185630189250508
+    second: Rolling_68
+  - first:
+      213: 8388172391979271229
+    second: Rolling_69
+  - first:
+      213: 1104111104649185655
+    second: Rolling_70
+  - first:
+      213: -5935708931907726445
+    second: Rolling_71
+  - first:
+      213: -1818574782003066817
+    second: Rolling_72
+  - first:
+      213: 6059992907303253009
+    second: Rolling_73
+  - first:
+      213: 1215745877261652920
+    second: Rolling_74
+  - first:
+      213: 1306555310440098318
+    second: Rolling_75
+  - first:
+      213: -8080382261389840683
+    second: Rolling_76
+  - first:
+      213: 8834927114044307074
+    second: Rolling_77
+  - first:
+      213: -2530657752476927257
+    second: Rolling_78
+  - first:
+      213: 4820238423674081485
+    second: Rolling_79
+  - first:
+      213: 5101252141168105250
+    second: Rolling_80
+  - first:
+      213: -5543374459095579176
+    second: Rolling_81
+  - first:
+      213: -541360995759847636
+    second: Rolling_82
+  - first:
+      213: 8239716202594262453
+    second: Rolling_83
+  - first:
+      213: -4143624310779172742
+    second: Rolling_84
+  - first:
+      213: -7867713624070767478
+    second: Rolling_85
+  - first:
+      213: 6387915715801867788
+    second: Rolling_86
+  - first:
+      213: -5330922761748585737
+    second: Rolling_87
+  - first:
+      213: 5350355241731927647
+    second: Rolling_88
+  - first:
+      213: 7799904081071900481
+    second: Rolling_89
+  - first:
+      213: -7057504848332350123
+    second: Rolling_90
+  - first:
+      213: 8642428194618562127
+    second: Rolling_91
+  - first:
+      213: 217461914065587976
+    second: Rolling_92
+  - first:
+      213: 1942358655905831159
+    second: Rolling_93
+  - first:
+      213: 800906846467984021
+    second: Rolling_94
+  - first:
+      213: 7011214622729940093
+    second: Rolling_95
+  - first:
+      213: -1179619683738072532
+    second: Rolling_96
+  - first:
+      213: 5428623152436685557
+    second: Rolling_97
+  - first:
+      213: 3022395684332593104
+    second: Rolling_98
+  - first:
+      213: -6580051962387241302
+    second: Rolling_99
+  - first:
+      213: -6717398282796336041
+    second: Rolling_100
+  - first:
+      213: -2134463861404550528
+    second: Rolling_101
+  - first:
+      213: 3265794442235679397
+    second: Rolling_102
+  - first:
+      213: 7155218699708251466
+    second: Rolling_103
+  - first:
+      213: -234608420421255723
+    second: Rolling_104
+  - first:
+      213: -4266399415098719853
+    second: Rolling_105
+  - first:
+      213: -4064906606422547877
+    second: Rolling_106
+  - first:
+      213: -6251070981651638093
+    second: Rolling_107
+  - first:
+      213: 7810001014307648902
+    second: Rolling_108
+  - first:
+      213: -5080246318246228374
+    second: Rolling_109
+  - first:
+      213: -2772406596738334965
+    second: Rolling_110
+  - first:
+      213: -75963156327593409
+    second: Rolling_111
+  - first:
+      213: 4884283696255492735
+    second: Rolling_112
+  - first:
+      213: -8066745679144756604
+    second: Rolling_113
+  - first:
+      213: -357188709779742987
+    second: Rolling_114
+  - first:
+      213: -2420273323575882769
+    second: Rolling_115
+  - first:
+      213: -8374413112000904862
+    second: Rolling_116
+  - first:
+      213: -4112330819281989046
+    second: Rolling_117
+  - first:
+      213: -6225487169514623766
+    second: Rolling_118
+  - first:
+      213: 4327560353326864228
+    second: Rolling_119
+  - first:
+      213: -6135347243759313710
+    second: Rolling_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rolling_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 469
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08611e670c0ede5f0800000000000000
+      internalID: -725676847703976320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 469
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f9edc735cbe620800000000000000
+      internalID: 2804552036436801705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 468
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa92dfcf8b6c6300800000000000000
+      internalID: 246690345009715882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 469
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28f58ce77d43440800000000000000
+      internalID: 4914790032895607488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 470
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e024b9a57c1d05c70800000000000000
+      internalID: 8957890312988738062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 470
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d4a73de6aec1a00800000000000000
+      internalID: 728715001442487571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 470
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48569b4663cb0400800000000000000
+      internalID: 291541445017753677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 470
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4bb48bc9c4ea10800000000000000
+      internalID: 1937895615618567686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 470
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fbcdf29e76b1ce0800000000000000
+      internalID: -1433437805159334051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 467
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a7a3e107e645d0800000000000000
+      internalID: -3078519299960756994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 466
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e5673ef6581f10800000000000000
+      internalID: 2240636464467928315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 466
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb7c43fe2f76870800000000000000
+      internalID: 8676170316349161011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 464
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc122cea43ceceea0800000000000000
+      internalID: -5842034905591963187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 465
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1210987cbb43d0800000000000000
+      internalID: -3221273882454254805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 468
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46becf5ab2bb713f0800000000000000
+      internalID: -930069001885914268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 401
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe58fa7612c3a230800000000000000
+      internalID: 3648973524908400381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 400
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d90709e889176a0800000000000000
+      internalID: -6453209052969132641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 399
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7240cdff4536970800000000000000
+      internalID: 8746928359168288737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97fcef911a127480800000000000000
+      internalID: -8903024850358175846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 398
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183487f78fcc5540800000000000000
+      internalID: 4998097869354579997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 399
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625c902d58426d40800000000000000
+      internalID: 5576098853454369386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 401
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055975ca438d93860800000000000000
+      internalID: 7510271574358332752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 401
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a667f3205c7a40800000000000000
+      internalID: 5367252971323565703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 401
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0138b103dbb4370800000000000000
+      internalID: 8307941951932666045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 398
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db01048d0e67966e0800000000000000
+      internalID: -1843811864358678339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 398
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e47c6f2dee8630800000000000000
+      internalID: 3931340312679867531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 399
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ad539eaa3c5c280800000000000000
+      internalID: -9023591139542443368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 401
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d837cfc619b990800000000000000
+      internalID: -7369834233558674118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 400
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a8aa4ddebcbce0800000000000000
+      internalID: -1388024727487340364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_29
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 401
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3c97baf6153e50800000000000000
+      internalID: 6788357279408995876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 336
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366e40620ee52dd20800000000000000
+      internalID: 3301805793619535459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457ba60f8030f300800000000000000
+      internalID: 283780167374697800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 335
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d7265b1fee4d500800000000000000
+      internalID: 420223387149958495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 332
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1400251c31a990800000000000000
+      internalID: -7376548653227040949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 331
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e75aaced9684740800000000000000
+      internalID: 5136471780619550303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 330
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988ee1b3de535bb0800000000000000
+      internalID: -4948507302233732967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_36
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 331
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b0052db6acdb4a0800000000000000
+      internalID: -6575877316452283513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 333
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096272c0ddfab7d80800000000000000
+      internalID: -8251808528299776368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_38
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 330
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3057a958d9838b0800000000000000
+      internalID: -5172210974887443530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 334
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f189a8e33f56900800000000000000
+      internalID: 677214768927874859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_40
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 330
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d79d1d978c876b0800000000000000
+      internalID: -5298264536064098923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 332
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a5284377866810800000000000000
+      internalID: 1758241633736173256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_42
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 334
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f70c0fda5375610800000000000000
+      internalID: 1609814412993003376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_43
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 334
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8990257c65cb69630800000000000000
+      internalID: 3933538405451958680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_44
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 336
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e86d5510d30bd0800000000000000
+      internalID: -2665057764293156699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_45
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 337
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f335954ceeb9bd40800000000000000
+      internalID: 5600717533600887793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 274
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016c91e41a720d780800000000000000
+      internalID: -8660378509679933936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 270
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a60130d55da280800000000000000
+      internalID: -9030467325143899723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 266
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e6147e76a55820800000000000000
+      internalID: 2906412196581271604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 267
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d20864a919de90800000000000000
+      internalID: -7000535951860378958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 269
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268d6be0cb388a00800000000000000
+      internalID: 758922236981511725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 268
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974e1e6df2ff85a0800000000000000
+      internalID: -6516722965493692525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 269
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b63ab477782ecc0800000000000000
+      internalID: -3683232598795785349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d2ee1f7afb56010800000000000000
+      internalID: 1181561205293985063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_54
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67286dc69c51f1630800000000000000
+      internalID: 3899859757184746102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 266
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4c5136a14e5dc0800000000000000
+      internalID: -3648406466075014309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_56
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00081477d22690320800000000000000
+      internalID: 2524657013531705344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_57
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 266
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45667ee0d9416f1a0800000000000000
+      internalID: -6776205924539865516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_58
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 268
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2154733e320bf90800000000000000
+      internalID: -6940007566986112309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_59
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 268
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e1cb7378887c590800000000000000
+      internalID: -7653998927355830740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_60
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 274
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970123b3a88be8970800000000000000
+      internalID: 8759141229120327801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef44cee9700b6b60800000000000000
+      internalID: 7740280908263215084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 206
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df7df8e665609f0800000000000000
+      internalID: -502619275545543277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 204
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb02559d56613bd0800000000000000
+      internalID: -2652226153421337652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b7f5a6be026e940800000000000000
+      internalID: 5324979804886236056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 205
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0318bac71b62f0d80800000000000000
+      internalID: -8282358645968371408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 203
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689046b118db599e0800000000000000
+      internalID: -1615176529134483066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3818b2ea846320f0800000000000000
+      internalID: -1142959332749993926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 205
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381240653ef464e0800000000000000
+      internalID: -1989185630189250508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 202
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c9aa1956c86470800000000000000
+      internalID: 8388172391979271229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_70
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 203
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779cd292337925f00800000000000000
+      internalID: 1104111104649185655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_71
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 204
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d687dc2020ada0800000000000000
+      internalID: -5935708931907726445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 206
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f384939fedf13c6e0800000000000000
+      internalID: -1818574782003066817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_73
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 209
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147235217b691450800000000000000
+      internalID: 6059992907303253009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_74
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 206
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3935f1f623fd010800000000000000
+      internalID: 1215745877261652920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_75
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 209
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aae26e121d12210800000000000000
+      internalID: 1306555310440098318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dead7c1527bcdf80800000000000000
+      internalID: -8080382261389840683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f3199667fb9a70800000000000000
+      internalID: 8834927114044307074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 146
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea368f9e2c41ecd0800000000000000
+      internalID: -2530657752476927257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc058cfbe4de4e240800000000000000
+      internalID: 4820238423674081485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22796087bc94bc640800000000000000
+      internalID: 5101252141168105250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_81
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 145
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d582acac4af113b0800000000000000
+      internalID: -5543374459095579176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c278b78ea03bc78f0800000000000000
+      internalID: -541360995759847636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 150
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd59a9fa3a595270800000000000000
+      internalID: 8239716202594262453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_84
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 146
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a559a4a3ee76c0800000000000000
+      internalID: -4143624310779172742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_85
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 148
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb2c2d42440d290800000000000000
+      internalID: -7867713624070767478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_86
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066187bf7f66a850800000000000000
+      internalID: 6387915715801867788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_87
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 147
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26eec1ef1c406b0800000000000000
+      internalID: -5330922761748585737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_88
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea495beb7404a40800000000000000
+      internalID: 5350355241731927647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_89
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 145
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1470962af63de3c60800000000000000
+      internalID: 7799904081071900481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_90
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 144
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9d829bb4be0e90800000000000000
+      internalID: -7057504848332350123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465f0947a210f770800000000000000
+      internalID: 8642428194618562127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f4e0c6574940300800000000000000
+      internalID: 217461914065587976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 84
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f81caf08e4a4fa10800000000000000
+      internalID: 1942358655905831159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 83
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a07e198846d1b00800000000000000
+      internalID: 800906846467984021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_95
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 84
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca7d76d86dc4160800000000000000
+      internalID: 7011214622729940093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_96
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 84
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2acbb4c52621afe0800000000000000
+      internalID: -1179619683738072532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_97
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 84
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa237cbef7565b40800000000000000
+      internalID: 5428623152436685557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_98
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 88
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df515f8cd4b1f920800000000000000
+      internalID: 3022395684332593104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_99
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 89
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6eb425a95fea4a0800000000000000
+      internalID: -6580051962387241302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_100
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 89
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cfa132ad107c2a0800000000000000
+      internalID: -6717398282796336041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_101
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 87
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab21b4d6cd062e0800000000000000
+      internalID: -2134463861404550528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_102
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 86
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a217e60ebe625d20800000000000000
+      internalID: 3265794442235679397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_103
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 82
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4db7565f717c4360800000000000000
+      internalID: 7155218699708251466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_104
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 83
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb97772e08ebcf0800000000000000
+      internalID: -234608420421255723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_105
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 84
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3914b191654bac4c0800000000000000
+      internalID: -4266399415098719853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_106
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ab0f6afc8697c0800000000000000
+      internalID: -4064906606422547877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d6e0df0cbf39a0800000000000000
+      internalID: -6251070981651638093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_108
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6857f391b82b26c60800000000000000
+      internalID: 7810001014307648902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_109
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 21
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e827dc3e65f79b0800000000000000
+      internalID: -5080246318246228374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f367c93ee6689d0800000000000000
+      internalID: -2772406596738334965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a831b69ef12fef0800000000000000
+      internalID: -75963156327593409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 22
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726a89c42678c340800000000000000
+      internalID: 4884283696255492735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_113
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 24
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad8255b892d0090800000000000000
+      internalID: -8066745679144756604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_114
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 24
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5ccbc2c20b0bf0800000000000000
+      internalID: -357188709779742987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_115
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 23
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febc7e04c36796ed0800000000000000
+      internalID: -2420273323575882769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 24
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26100d8e4ab18cb80800000000000000
+      internalID: -8374413112000904862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_117
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 24
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a425ecd68e01ee6c0800000000000000
+      internalID: -4112330819281989046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_118
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec24534760aa99a0800000000000000
+      internalID: -6225487169514623766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_119
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 21
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4679c1486359e0c30800000000000000
+      internalID: 4327560353326864228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_120
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 22
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcdd02303edadaa0800000000000000
+      internalID: -6135347243759313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rolling_0: -725676847703976320
+      Rolling_1: 2804552036436801705
+      Rolling_10: 2240636464467928315
+      Rolling_100: -6717398282796336041
+      Rolling_101: -2134463861404550528
+      Rolling_102: 3265794442235679397
+      Rolling_103: 7155218699708251466
+      Rolling_104: -234608420421255723
+      Rolling_105: -4266399415098719853
+      Rolling_106: -4064906606422547877
+      Rolling_107: -6251070981651638093
+      Rolling_108: 7810001014307648902
+      Rolling_109: -5080246318246228374
+      Rolling_11: 8676170316349161011
+      Rolling_110: -2772406596738334965
+      Rolling_111: -75963156327593409
+      Rolling_112: 4884283696255492735
+      Rolling_113: -8066745679144756604
+      Rolling_114: -357188709779742987
+      Rolling_115: -2420273323575882769
+      Rolling_116: -8374413112000904862
+      Rolling_117: -4112330819281989046
+      Rolling_118: -6225487169514623766
+      Rolling_119: 4327560353326864228
+      Rolling_12: -5842034905591963187
+      Rolling_120: -6135347243759313710
+      Rolling_13: -3221273882454254805
+      Rolling_14: -930069001885914268
+      Rolling_15: 3648973524908400381
+      Rolling_16: -6453209052969132641
+      Rolling_17: 8746928359168288737
+      Rolling_18: -8903024850358175846
+      Rolling_19: 4998097869354579997
+      Rolling_2: 246690345009715882
+      Rolling_20: 5576098853454369386
+      Rolling_21: 7510271574358332752
+      Rolling_22: 5367252971323565703
+      Rolling_23: 8307941951932666045
+      Rolling_24: -1843811864358678339
+      Rolling_25: 3931340312679867531
+      Rolling_26: -9023591139542443368
+      Rolling_27: -7369834233558674118
+      Rolling_28: -1388024727487340364
+      Rolling_29: 6788357279408995876
+      Rolling_3: 4914790032895607488
+      Rolling_30: 3301805793619535459
+      Rolling_31: 283780167374697800
+      Rolling_32: 420223387149958495
+      Rolling_33: -7376548653227040949
+      Rolling_34: 5136471780619550303
+      Rolling_35: -4948507302233732967
+      Rolling_36: -6575877316452283513
+      Rolling_37: -8251808528299776368
+      Rolling_38: -5172210974887443530
+      Rolling_39: 677214768927874859
+      Rolling_4: 8957890312988738062
+      Rolling_40: -5298264536064098923
+      Rolling_41: 1758241633736173256
+      Rolling_42: 1609814412993003376
+      Rolling_43: 3933538405451958680
+      Rolling_44: -2665057764293156699
+      Rolling_45: 5600717533600887793
+      Rolling_46: -8660378509679933936
+      Rolling_47: -9030467325143899723
+      Rolling_48: 2906412196581271604
+      Rolling_49: -7000535951860378958
+      Rolling_5: 728715001442487571
+      Rolling_50: 758922236981511725
+      Rolling_51: -6516722965493692525
+      Rolling_52: -3683232598795785349
+      Rolling_53: 1181561205293985063
+      Rolling_54: 3899859757184746102
+      Rolling_55: -3648406466075014309
+      Rolling_56: 2524657013531705344
+      Rolling_57: -6776205924539865516
+      Rolling_58: -6940007566986112309
+      Rolling_59: -7653998927355830740
+      Rolling_6: 291541445017753677
+      Rolling_60: 8759141229120327801
+      Rolling_61: 7740280908263215084
+      Rolling_62: -502619275545543277
+      Rolling_63: -2652226153421337652
+      Rolling_64: 5324979804886236056
+      Rolling_65: -8282358645968371408
+      Rolling_66: -1615176529134483066
+      Rolling_67: -1142959332749993926
+      Rolling_68: -1989185630189250508
+      Rolling_69: 8388172391979271229
+      Rolling_7: 1937895615618567686
+      Rolling_70: 1104111104649185655
+      Rolling_71: -5935708931907726445
+      Rolling_72: -1818574782003066817
+      Rolling_73: 6059992907303253009
+      Rolling_74: 1215745877261652920
+      Rolling_75: 1306555310440098318
+      Rolling_76: -8080382261389840683
+      Rolling_77: 8834927114044307074
+      Rolling_78: -2530657752476927257
+      Rolling_79: 4820238423674081485
+      Rolling_8: -1433437805159334051
+      Rolling_80: 5101252141168105250
+      Rolling_81: -5543374459095579176
+      Rolling_82: -541360995759847636
+      Rolling_83: 8239716202594262453
+      Rolling_84: -4143624310779172742
+      Rolling_85: -7867713624070767478
+      Rolling_86: 6387915715801867788
+      Rolling_87: -5330922761748585737
+      Rolling_88: 5350355241731927647
+      Rolling_89: 7799904081071900481
+      Rolling_9: -3078519299960756994
+      Rolling_90: -7057504848332350123
+      Rolling_91: 8642428194618562127
+      Rolling_92: 217461914065587976
+      Rolling_93: 1942358655905831159
+      Rolling_94: 800906846467984021
+      Rolling_95: 7011214622729940093
+      Rolling_96: -1179619683738072532
+      Rolling_97: 5428623152436685557
+      Rolling_98: 3022395684332593104
+      Rolling_99: -6580051962387241302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

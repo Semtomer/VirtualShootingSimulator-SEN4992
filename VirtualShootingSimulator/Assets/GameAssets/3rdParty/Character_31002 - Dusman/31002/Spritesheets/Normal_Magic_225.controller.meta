@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b15b49190d27e174d9bbf46aa1108e2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198083
+  packageName: 'Fantasy monster: Cat Knight'
+  packageVersion: 1.0
+  assetPath: Assets/Character_31002/31002/Spritesheets/Normal_Magic_225.controller
+  uploadId: 440378

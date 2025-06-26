@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea7482c5152d2b047a8bae941737c486
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167274
+  packageName: RPG Worlds Caves
+  packageVersion: 2.0
+  assetPath: Assets/RPGW_Caves/Animated/LedB_24.controller
+  uploadId: 435856

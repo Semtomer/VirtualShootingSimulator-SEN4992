@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 619223e0d35de68478addcd6145757e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5047479007128083830
+    second: Slide_Shadowless_0
+  - first:
+      213: -1590822238163709616
+    second: Slide_Shadowless_1
+  - first:
+      213: 8462263346375413143
+    second: Slide_Shadowless_2
+  - first:
+      213: -4308568659004830477
+    second: Slide_Shadowless_3
+  - first:
+      213: -7644463673821855856
+    second: Slide_Shadowless_4
+  - first:
+      213: -5498392323747214602
+    second: Slide_Shadowless_5
+  - first:
+      213: -4139333381199294546
+    second: Slide_Shadowless_6
+  - first:
+      213: -3288285451827099135
+    second: Slide_Shadowless_7
+  - first:
+      213: 773871837535602762
+    second: Slide_Shadowless_8
+  - first:
+      213: 8949126649763965447
+    second: Slide_Shadowless_9
+  - first:
+      213: -5709960070835662767
+    second: Slide_Shadowless_10
+  - first:
+      213: 7161203422142713109
+    second: Slide_Shadowless_11
+  - first:
+      213: -9185411648266026934
+    second: Slide_Shadowless_12
+  - first:
+      213: -7074474748897486595
+    second: Slide_Shadowless_13
+  - first:
+      213: -3499630999959390014
+    second: Slide_Shadowless_14
+  - first:
+      213: 3224216400607092153
+    second: Slide_Shadowless_15
+  - first:
+      213: 5420731586409672746
+    second: Slide_Shadowless_16
+  - first:
+      213: 3396827025621118469
+    second: Slide_Shadowless_17
+  - first:
+      213: 3967681439464277351
+    second: Slide_Shadowless_18
+  - first:
+      213: 4412285010325066340
+    second: Slide_Shadowless_19
+  - first:
+      213: -6912930707064654369
+    second: Slide_Shadowless_20
+  - first:
+      213: 4709046816862795070
+    second: Slide_Shadowless_21
+  - first:
+      213: 4897193590529820529
+    second: Slide_Shadowless_22
+  - first:
+      213: 5522075659585594319
+    second: Slide_Shadowless_23
+  - first:
+      213: 1369078653197035790
+    second: Slide_Shadowless_24
+  - first:
+      213: 4867705181752113539
+    second: Slide_Shadowless_25
+  - first:
+      213: -3991822155942194220
+    second: Slide_Shadowless_26
+  - first:
+      213: -1503544701316402041
+    second: Slide_Shadowless_27
+  - first:
+      213: 7367684850315767613
+    second: Slide_Shadowless_28
+  - first:
+      213: -1443417421513579379
+    second: Slide_Shadowless_29
+  - first:
+      213: -5269261471780838362
+    second: Slide_Shadowless_30
+  - first:
+      213: -1322167999814975725
+    second: Slide_Shadowless_31
+  - first:
+      213: -4189919949616715074
+    second: Slide_Shadowless_32
+  - first:
+      213: -7132333270173220702
+    second: Slide_Shadowless_33
+  - first:
+      213: 9128993968408120585
+    second: Slide_Shadowless_34
+  - first:
+      213: -138952859915727221
+    second: Slide_Shadowless_35
+  - first:
+      213: -4586189737511083973
+    second: Slide_Shadowless_36
+  - first:
+      213: 3140325870004885237
+    second: Slide_Shadowless_37
+  - first:
+      213: -974700052010970035
+    second: Slide_Shadowless_38
+  - first:
+      213: -6773606340038825697
+    second: Slide_Shadowless_39
+  - first:
+      213: 3849367365094064488
+    second: Slide_Shadowless_40
+  - first:
+      213: -3460316988814523693
+    second: Slide_Shadowless_41
+  - first:
+      213: 2785258499547266743
+    second: Slide_Shadowless_42
+  - first:
+      213: -4334313046792147376
+    second: Slide_Shadowless_43
+  - first:
+      213: 7468340174981451386
+    second: Slide_Shadowless_44
+  - first:
+      213: 6159234807955049421
+    second: Slide_Shadowless_45
+  - first:
+      213: -4416965254242577173
+    second: Slide_Shadowless_46
+  - first:
+      213: -5671461025860013602
+    second: Slide_Shadowless_47
+  - first:
+      213: 6816273927587676370
+    second: Slide_Shadowless_48
+  - first:
+      213: 5066236326745784573
+    second: Slide_Shadowless_49
+  - first:
+      213: 5046916292113123086
+    second: Slide_Shadowless_50
+  - first:
+      213: -1725054172918730447
+    second: Slide_Shadowless_51
+  - first:
+      213: -496832288156265020
+    second: Slide_Shadowless_52
+  - first:
+      213: -252556750109940127
+    second: Slide_Shadowless_53
+  - first:
+      213: -2259352632479653582
+    second: Slide_Shadowless_54
+  - first:
+      213: 8324721375996154654
+    second: Slide_Shadowless_55
+  - first:
+      213: -3266277872389354425
+    second: Slide_Shadowless_56
+  - first:
+      213: 3463364259662342986
+    second: Slide_Shadowless_57
+  - first:
+      213: -4849879193973098659
+    second: Slide_Shadowless_58
+  - first:
+      213: 1851214646543053845
+    second: Slide_Shadowless_59
+  - first:
+      213: 5365794465853993538
+    second: Slide_Shadowless_60
+  - first:
+      213: 6107039643464970757
+    second: Slide_Shadowless_61
+  - first:
+      213: 4269370444773296673
+    second: Slide_Shadowless_62
+  - first:
+      213: 9108991917913670342
+    second: Slide_Shadowless_63
+  - first:
+      213: -3217671269939354761
+    second: Slide_Shadowless_64
+  - first:
+      213: 6015478459795224120
+    second: Slide_Shadowless_65
+  - first:
+      213: -2389267761659510967
+    second: Slide_Shadowless_66
+  - first:
+      213: -3933543460730188183
+    second: Slide_Shadowless_67
+  - first:
+      213: 8740464602240656671
+    second: Slide_Shadowless_68
+  - first:
+      213: -8640884172327500220
+    second: Slide_Shadowless_69
+  - first:
+      213: 403848504324666591
+    second: Slide_Shadowless_70
+  - first:
+      213: 1091902090636052376
+    second: Slide_Shadowless_71
+  - first:
+      213: -7575150072703643049
+    second: Slide_Shadowless_72
+  - first:
+      213: -7588844251419711167
+    second: Slide_Shadowless_73
+  - first:
+      213: -5348173865204694261
+    second: Slide_Shadowless_74
+  - first:
+      213: 4510395057888729309
+    second: Slide_Shadowless_75
+  - first:
+      213: -2323996955467410533
+    second: Slide_Shadowless_76
+  - first:
+      213: -4232938334870186140
+    second: Slide_Shadowless_77
+  - first:
+      213: 6465826739745588413
+    second: Slide_Shadowless_78
+  - first:
+      213: 8741096095743610130
+    second: Slide_Shadowless_79
+  - first:
+      213: -2823037309128421321
+    second: Slide_Shadowless_80
+  - first:
+      213: -6997204994060648870
+    second: Slide_Shadowless_81
+  - first:
+      213: -4146416069451803289
+    second: Slide_Shadowless_82
+  - first:
+      213: 7689404845401810260
+    second: Slide_Shadowless_83
+  - first:
+      213: 8191997076698800432
+    second: Slide_Shadowless_84
+  - first:
+      213: 5840934269288299672
+    second: Slide_Shadowless_85
+  - first:
+      213: 8906100170197459241
+    second: Slide_Shadowless_86
+  - first:
+      213: -4192888973782434252
+    second: Slide_Shadowless_87
+  - first:
+      213: -6328304809743693147
+    second: Slide_Shadowless_88
+  - first:
+      213: 7381724167672806233
+    second: Slide_Shadowless_89
+  - first:
+      213: 2373849758755129453
+    second: Slide_Shadowless_90
+  - first:
+      213: -7579328108719474942
+    second: Slide_Shadowless_91
+  - first:
+      213: -1845839753384661470
+    second: Slide_Shadowless_92
+  - first:
+      213: -1576068557593222982
+    second: Slide_Shadowless_93
+  - first:
+      213: 8392732227455966953
+    second: Slide_Shadowless_94
+  - first:
+      213: -7479975122334639295
+    second: Slide_Shadowless_95
+  - first:
+      213: 5514670663576656544
+    second: Slide_Shadowless_96
+  - first:
+      213: 352066082825516526
+    second: Slide_Shadowless_97
+  - first:
+      213: -3337886288508631213
+    second: Slide_Shadowless_98
+  - first:
+      213: 5218053298965256894
+    second: Slide_Shadowless_99
+  - first:
+      213: -2468878626219270487
+    second: Slide_Shadowless_100
+  - first:
+      213: 5336440584516404393
+    second: Slide_Shadowless_101
+  - first:
+      213: 3515726997992958600
+    second: Slide_Shadowless_102
+  - first:
+      213: -1715387276442110805
+    second: Slide_Shadowless_103
+  - first:
+      213: 5337235027415137749
+    second: Slide_Shadowless_104
+  - first:
+      213: -4476049156754839404
+    second: Slide_Shadowless_105
+  - first:
+      213: -9046579277509202785
+    second: Slide_Shadowless_106
+  - first:
+      213: -2603728865902496808
+    second: Slide_Shadowless_107
+  - first:
+      213: -2570959964192953737
+    second: Slide_Shadowless_108
+  - first:
+      213: -3190474976176009599
+    second: Slide_Shadowless_109
+  - first:
+      213: 2137789979624463119
+    second: Slide_Shadowless_110
+  - first:
+      213: -5210212921775476695
+    second: Slide_Shadowless_111
+  - first:
+      213: -3877643381710920954
+    second: Slide_Shadowless_112
+  - first:
+      213: -1557978407408665825
+    second: Slide_Shadowless_113
+  - first:
+      213: 7763901331501639320
+    second: Slide_Shadowless_114
+  - first:
+      213: -7609429139635379698
+    second: Slide_Shadowless_115
+  - first:
+      213: 3713507112881197316
+    second: Slide_Shadowless_116
+  - first:
+      213: -6157892133467073859
+    second: Slide_Shadowless_117
+  - first:
+      213: -10335782667698930
+    second: Slide_Shadowless_118
+  - first:
+      213: -1029844528303105139
+    second: Slide_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slide_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 463
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82a3e0f590c3f9b0800000000000000
+      internalID: -5047479007128083830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 463
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051d5795a934ce9e0800000000000000
+      internalID: -1590822238163709616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 462
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dc384bdafff6570800000000000000
+      internalID: 8462263346375413143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 462
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcc2a5e1a3e434c0800000000000000
+      internalID: -4308568659004830477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 461
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f787f6ac869e590800000000000000
+      internalID: -7644463673821855856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 461
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa00533059c1b3b0800000000000000
+      internalID: -5498392323747214602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 459
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf03be88322e86c0800000000000000
+      internalID: -4139333381199294546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 457
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ac2cbbdc9ad52d0800000000000000
+      internalID: -3288285451827099135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 457
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a480df906585dba00800000000000000
+      internalID: 773871837535602762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 460
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa921064fa13c70800000000000000
+      internalID: 8949126649763965447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 461
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501d28719522c0b0800000000000000
+      internalID: -5709960070835662767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 462
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc02d1294b16360800000000000000
+      internalID: 7161203422142713109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 462
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a404e55b5ccd68080800000000000000
+      internalID: -9185411648266026934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 462
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89e73b2ba62dd90800000000000000
+      internalID: -7074474748897486595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 463
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b97ab520de6fc0800000000000000
+      internalID: -3499630999959390014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 397
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9c25dbb7bebc20800000000000000
+      internalID: 3224216400607092153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 398
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2030b658ae4a3b40800000000000000
+      internalID: 5420731586409672746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 399
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee791ce24f32f20800000000000000
+      internalID: 3396827025621118469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765cd2d5f39001730800000000000000
+      internalID: 3967681439464277351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 399
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d430f6d59b3d30800000000000000
+      internalID: 4412285010325066340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 399
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57580f5265010a0800000000000000
+      internalID: -6912930707064654369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 399
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357acd5125e95140800000000000000
+      internalID: 4709046816862795070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 398
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17789d7cf9356f340800000000000000
+      internalID: 4897193590529820529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 399
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc32e602e8a52ac40800000000000000
+      internalID: 5522075659585594319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 399
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09216908c1fff210800000000000000
+      internalID: 1369078653197035790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 399
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389b9a592109d8340800000000000000
+      internalID: 4867705181752113539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 399
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3188416e23a98c0800000000000000
+      internalID: -3991822155942194220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 399
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7847d1e6f06522be0800000000000000
+      internalID: -1503544701316402041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 399
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f2910f5564f3660800000000000000
+      internalID: 7367684850315767613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 398
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84a210b083f7fbe0800000000000000
+      internalID: -1443417421513579379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e9d1fb92dfd6b0800000000000000
+      internalID: -5269261471780838362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb3a59537b6ade0800000000000000
+      internalID: -1322167999814975725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebae5c5410a6ad5c0800000000000000
+      internalID: -4189919949616715074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a000a3fdacd40d90800000000000000
+      internalID: -7132333270173220702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 335
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d46a395a3b0be70800000000000000
+      internalID: 9128993968408120585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 335
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec2303c17521ef0800000000000000
+      internalID: -138952859915727221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302c1f7bb49a50c0800000000000000
+      internalID: -4586189737511083973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 336
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f65c989dbda49b20800000000000000
+      internalID: 3140325870004885237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 336
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d455877b2972f0800000000000000
+      internalID: -974700052010970035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 335
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e6adfbe05ff1a0800000000000000
+      internalID: -6773606340038825697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 335
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c9664933bb6530800000000000000
+      internalID: 3849367365094064488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 335
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2067f380c7affc0800000000000000
+      internalID: -3460316988814523693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bef62139d937a620800000000000000
+      internalID: 2785258499547266743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 335
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eec948f3d69d3c0800000000000000
+      internalID: -4334313046792147376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 335
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e4c87f1dfd4a760800000000000000
+      internalID: 7468340174981451386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc160cc6ff97550800000000000000
+      internalID: 6159234807955049421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 273
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d0abd089c3b2c0800000000000000
+      internalID: -4416965254242577173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed13424ee3cea41b0800000000000000
+      internalID: -5671461025860013602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ce91e505489e50800000000000000
+      internalID: 6816273927587676370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 273
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ccdbd813ee4640800000000000000
+      internalID: 5066236326745784573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 273
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c882c0af3a0640800000000000000
+      internalID: 5046916292113123086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131bfd49e506f08e0800000000000000
+      internalID: -1725054172918730447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 273
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5508f8aa5ea19f0800000000000000
+      internalID: -496832288156265020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166e11059fcbe7cf0800000000000000
+      internalID: -252556750109940127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 273
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e4b650ca25a0e0800000000000000
+      internalID: -2259352632479653582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131a563cf9578370800000000000000
+      internalID: 8324721375996154654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 273
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c838e9499dba2d0800000000000000
+      internalID: -3266277872389354425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b25f8c177501030800000000000000
+      internalID: 3463364259662342986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 273
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57fcaf9194c1bcb0800000000000000
+      internalID: -4849879193973098659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 273
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f232b9e5d0b910800000000000000
+      internalID: 1851214646543053845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242fbf233a1277a40800000000000000
+      internalID: 5365794465853993538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50235f1033090c450800000000000000
+      internalID: 6107039643464970757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a8347acc9df3b30800000000000000
+      internalID: 4269370444773296673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2062943e3a96e70800000000000000
+      internalID: 9108991917913670342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 214
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e84727098853d0800000000000000
+      internalID: -3217671269939354761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 213
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836bb1ea9c54b7350800000000000000
+      internalID: 6015478459795224120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 213
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ffdf031ad97ded0800000000000000
+      internalID: -2389267761659510967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 213
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ecd92301f3969c0800000000000000
+      internalID: -3933543460730188183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 213
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f152e6c2f3e5c4970800000000000000
+      internalID: 8740464602240656671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 213
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446cf1b60a9651880800000000000000
+      internalID: -8640884172327500220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 214
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd438533312ca9500800000000000000
+      internalID: 403848504324666591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 214
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8974ed19a27372f00800000000000000
+      internalID: 1091902090636052376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 212
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752993cc429afd690800000000000000
+      internalID: -7575150072703643049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 214
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149ec5a5c520fa690800000000000000
+      internalID: -7588844251419711167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 214
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b034277943877c5b0800000000000000
+      internalID: -5348173865204694261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 148
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd892267864289e30800000000000000
+      internalID: 4510395057888729309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 148
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93964205118fbfd0800000000000000
+      internalID: -2323996955467410533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467dde1f2059145c0800000000000000
+      internalID: -4232938334870186140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 149
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db402c1992b3bb950800000000000000
+      internalID: 6465826739745588413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d0a56369c9e4970800000000000000
+      internalID: 8741096095743610130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d9b1468e82d8d0800000000000000
+      internalID: -2823037309128421321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 148
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5efc64712fe4ee90800000000000000
+      internalID: -6997204994060648870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 148
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659a51bd88f476c0800000000000000
+      internalID: -4146416069451803289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 148
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455a75877f046ba60800000000000000
+      internalID: 7689404845401810260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 147
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031abad20f1dfa170800000000000000
+      internalID: 8191997076698800432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 147
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cb55575ca2f0150800000000000000
+      internalID: 5840934269288299672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 147
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216aa21be2d89b70800000000000000
+      internalID: 8906100170197459241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 149
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ebb0771bddfc5c0800000000000000
+      internalID: -4192888973782434252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 148
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac4d8ed485d28a0800000000000000
+      internalID: -6328304809743693147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbd0c3507217660800000000000000
+      internalID: 7381724167672806233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680fb447cb91f020800000000000000
+      internalID: 2373849758755129453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 81
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20774abfd31d0d690800000000000000
+      internalID: -7579328108719474942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e663326824266e0800000000000000
+      internalID: -1845839753384661470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 80
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab06efa4ffda02ae0800000000000000
+      internalID: -1576068557593222982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 80
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee5c788e79f87470800000000000000
+      internalID: 8392732227455966953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 81
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b1c70c14ac13890800000000000000
+      internalID: -7479975122334639295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 81
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa11c320cb088c40800000000000000
+      internalID: 5514670663576656544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 81
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5374cac3ac2e400800000000000000
+      internalID: 352066082825516526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 82
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357cbc00b127da1d0800000000000000
+      internalID: -3337886288508631213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 81
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba11e734df3a6840800000000000000
+      internalID: 5218053298965256894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 80
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae55aa58f7ccbdd0800000000000000
+      internalID: -2468878626219270487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 81
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4041d1078de0a40800000000000000
+      internalID: 5336440584516404393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 80
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aee9ad31f5ac030800000000000000
+      internalID: 3515726997992958600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 81
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4717f4c58b138e0800000000000000
+      internalID: -1715387276442110805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 81
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf9d3cafaa11a40800000000000000
+      internalID: 5337235027415137749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e07ec101e1e1c0800000000000000
+      internalID: -4476049156754839404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c67a3f318147280800000000000000
+      internalID: -9046579277509202785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d373704462bddbd0800000000000000
+      internalID: -2603728865902496808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a278ab88d125cd0800000000000000
+      internalID: -2570959964192953737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e814cb9e729b3d0800000000000000
+      internalID: -3190474976176009599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd7e3f8a4faad10800000000000000
+      internalID: 2137789979624463119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 14
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9203c69d3fa91b7b0800000000000000
+      internalID: -5210212921775476695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 11
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603e97393e7df2ac0800000000000000
+      internalID: -3877643381710920954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 13
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7daa94e2f06ae0800000000000000
+      internalID: -1557978407408665825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 16
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966657402beebb60800000000000000
+      internalID: 7763901331501639320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 18
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e6849380e56690800000000000000
+      internalID: -7609429139635379698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4019b2e4b07098330800000000000000
+      internalID: 3713507112881197316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d5830bb5ca8aa0800000000000000
+      internalID: -6157892133467073859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dbd9119a74bdff0800000000000000
+      internalID: -10335782667698930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slide_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 18
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1d9c9bd145b1f0800000000000000
+      internalID: -1029844528303105139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slide_Shadowless_0: -5047479007128083830
+      Slide_Shadowless_1: -1590822238163709616
+      Slide_Shadowless_10: -5709960070835662767
+      Slide_Shadowless_100: -2468878626219270487
+      Slide_Shadowless_101: 5336440584516404393
+      Slide_Shadowless_102: 3515726997992958600
+      Slide_Shadowless_103: -1715387276442110805
+      Slide_Shadowless_104: 5337235027415137749
+      Slide_Shadowless_105: -4476049156754839404
+      Slide_Shadowless_106: -9046579277509202785
+      Slide_Shadowless_107: -2603728865902496808
+      Slide_Shadowless_108: -2570959964192953737
+      Slide_Shadowless_109: -3190474976176009599
+      Slide_Shadowless_11: 7161203422142713109
+      Slide_Shadowless_110: 2137789979624463119
+      Slide_Shadowless_111: -5210212921775476695
+      Slide_Shadowless_112: -3877643381710920954
+      Slide_Shadowless_113: -1557978407408665825
+      Slide_Shadowless_114: 7763901331501639320
+      Slide_Shadowless_115: -7609429139635379698
+      Slide_Shadowless_116: 3713507112881197316
+      Slide_Shadowless_117: -6157892133467073859
+      Slide_Shadowless_118: -10335782667698930
+      Slide_Shadowless_119: -1029844528303105139
+      Slide_Shadowless_12: -9185411648266026934
+      Slide_Shadowless_13: -7074474748897486595
+      Slide_Shadowless_14: -3499630999959390014
+      Slide_Shadowless_15: 3224216400607092153
+      Slide_Shadowless_16: 5420731586409672746
+      Slide_Shadowless_17: 3396827025621118469
+      Slide_Shadowless_18: 3967681439464277351
+      Slide_Shadowless_19: 4412285010325066340
+      Slide_Shadowless_2: 8462263346375413143
+      Slide_Shadowless_20: -6912930707064654369
+      Slide_Shadowless_21: 4709046816862795070
+      Slide_Shadowless_22: 4897193590529820529
+      Slide_Shadowless_23: 5522075659585594319
+      Slide_Shadowless_24: 1369078653197035790
+      Slide_Shadowless_25: 4867705181752113539
+      Slide_Shadowless_26: -3991822155942194220
+      Slide_Shadowless_27: -1503544701316402041
+      Slide_Shadowless_28: 7367684850315767613
+      Slide_Shadowless_29: -1443417421513579379
+      Slide_Shadowless_3: -4308568659004830477
+      Slide_Shadowless_30: -5269261471780838362
+      Slide_Shadowless_31: -1322167999814975725
+      Slide_Shadowless_32: -4189919949616715074
+      Slide_Shadowless_33: -7132333270173220702
+      Slide_Shadowless_34: 9128993968408120585
+      Slide_Shadowless_35: -138952859915727221
+      Slide_Shadowless_36: -4586189737511083973
+      Slide_Shadowless_37: 3140325870004885237
+      Slide_Shadowless_38: -974700052010970035
+      Slide_Shadowless_39: -6773606340038825697
+      Slide_Shadowless_4: -7644463673821855856
+      Slide_Shadowless_40: 3849367365094064488
+      Slide_Shadowless_41: -3460316988814523693
+      Slide_Shadowless_42: 2785258499547266743
+      Slide_Shadowless_43: -4334313046792147376
+      Slide_Shadowless_44: 7468340174981451386
+      Slide_Shadowless_45: 6159234807955049421
+      Slide_Shadowless_46: -4416965254242577173
+      Slide_Shadowless_47: -5671461025860013602
+      Slide_Shadowless_48: 6816273927587676370
+      Slide_Shadowless_49: 5066236326745784573
+      Slide_Shadowless_5: -5498392323747214602
+      Slide_Shadowless_50: 5046916292113123086
+      Slide_Shadowless_51: -1725054172918730447
+      Slide_Shadowless_52: -496832288156265020
+      Slide_Shadowless_53: -252556750109940127
+      Slide_Shadowless_54: -2259352632479653582
+      Slide_Shadowless_55: 8324721375996154654
+      Slide_Shadowless_56: -3266277872389354425
+      Slide_Shadowless_57: 3463364259662342986
+      Slide_Shadowless_58: -4849879193973098659
+      Slide_Shadowless_59: 1851214646543053845
+      Slide_Shadowless_6: -4139333381199294546
+      Slide_Shadowless_60: 5365794465853993538
+      Slide_Shadowless_61: 6107039643464970757
+      Slide_Shadowless_62: 4269370444773296673
+      Slide_Shadowless_63: 9108991917913670342
+      Slide_Shadowless_64: -3217671269939354761
+      Slide_Shadowless_65: 6015478459795224120
+      Slide_Shadowless_66: -2389267761659510967
+      Slide_Shadowless_67: -3933543460730188183
+      Slide_Shadowless_68: 8740464602240656671
+      Slide_Shadowless_69: -8640884172327500220
+      Slide_Shadowless_7: -3288285451827099135
+      Slide_Shadowless_70: 403848504324666591
+      Slide_Shadowless_71: 1091902090636052376
+      Slide_Shadowless_72: -7575150072703643049
+      Slide_Shadowless_73: -7588844251419711167
+      Slide_Shadowless_74: -5348173865204694261
+      Slide_Shadowless_75: 4510395057888729309
+      Slide_Shadowless_76: -2323996955467410533
+      Slide_Shadowless_77: -4232938334870186140
+      Slide_Shadowless_78: 6465826739745588413
+      Slide_Shadowless_79: 8741096095743610130
+      Slide_Shadowless_8: 773871837535602762
+      Slide_Shadowless_80: -2823037309128421321
+      Slide_Shadowless_81: -6997204994060648870
+      Slide_Shadowless_82: -4146416069451803289
+      Slide_Shadowless_83: 7689404845401810260
+      Slide_Shadowless_84: 8191997076698800432
+      Slide_Shadowless_85: 5840934269288299672
+      Slide_Shadowless_86: 8906100170197459241
+      Slide_Shadowless_87: -4192888973782434252
+      Slide_Shadowless_88: -6328304809743693147
+      Slide_Shadowless_89: 7381724167672806233
+      Slide_Shadowless_9: 8949126649763965447
+      Slide_Shadowless_90: 2373849758755129453
+      Slide_Shadowless_91: -7579328108719474942
+      Slide_Shadowless_92: -1845839753384661470
+      Slide_Shadowless_93: -1576068557593222982
+      Slide_Shadowless_94: 8392732227455966953
+      Slide_Shadowless_95: -7479975122334639295
+      Slide_Shadowless_96: 5514670663576656544
+      Slide_Shadowless_97: 352066082825516526
+      Slide_Shadowless_98: -3337886288508631213
+      Slide_Shadowless_99: 5218053298965256894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

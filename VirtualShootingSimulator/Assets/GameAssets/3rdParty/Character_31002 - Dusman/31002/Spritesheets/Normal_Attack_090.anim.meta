@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cff5e42ca42675247b05cae7c2ae78fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198083
+  packageName: 'Fantasy monster: Cat Knight'
+  packageVersion: 1.0
+  assetPath: Assets/Character_31002/31002/Spritesheets/Normal_Attack_090.anim
+  uploadId: 440378

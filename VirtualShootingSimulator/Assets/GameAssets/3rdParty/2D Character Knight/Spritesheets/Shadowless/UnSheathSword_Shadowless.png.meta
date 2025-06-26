@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: cb6966d14b4b5ca4eb75ce19130dd519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1089638118575638213
+    second: UnSheathSword_Shadowless_0
+  - first:
+      213: -7006497922006858283
+    second: UnSheathSword_Shadowless_1
+  - first:
+      213: -6581644762412932568
+    second: UnSheathSword_Shadowless_2
+  - first:
+      213: 7898088652935477509
+    second: UnSheathSword_Shadowless_3
+  - first:
+      213: -5625242030363517852
+    second: UnSheathSword_Shadowless_4
+  - first:
+      213: 2838593473113979850
+    second: UnSheathSword_Shadowless_5
+  - first:
+      213: 4917739760973968695
+    second: UnSheathSword_Shadowless_6
+  - first:
+      213: 56504670452204061
+    second: UnSheathSword_Shadowless_7
+  - first:
+      213: -2383657040930106306
+    second: UnSheathSword_Shadowless_8
+  - first:
+      213: 4943209825020275941
+    second: UnSheathSword_Shadowless_9
+  - first:
+      213: -767942923983950385
+    second: UnSheathSword_Shadowless_10
+  - first:
+      213: -8027494837875016965
+    second: UnSheathSword_Shadowless_11
+  - first:
+      213: 7600142703905725181
+    second: UnSheathSword_Shadowless_12
+  - first:
+      213: 1667167751527091975
+    second: UnSheathSword_Shadowless_13
+  - first:
+      213: -4825688372236180075
+    second: UnSheathSword_Shadowless_14
+  - first:
+      213: 2668827339872446770
+    second: UnSheathSword_Shadowless_15
+  - first:
+      213: -549528275974133063
+    second: UnSheathSword_Shadowless_16
+  - first:
+      213: -6451824954002840579
+    second: UnSheathSword_Shadowless_17
+  - first:
+      213: 906126257310907091
+    second: UnSheathSword_Shadowless_18
+  - first:
+      213: 3357447644516778814
+    second: UnSheathSword_Shadowless_19
+  - first:
+      213: 5676643777636001987
+    second: UnSheathSword_Shadowless_20
+  - first:
+      213: 6948870104822970972
+    second: UnSheathSword_Shadowless_21
+  - first:
+      213: -6401710349168217336
+    second: UnSheathSword_Shadowless_22
+  - first:
+      213: 8642399928826459352
+    second: UnSheathSword_Shadowless_23
+  - first:
+      213: 7999475075453816223
+    second: UnSheathSword_Shadowless_24
+  - first:
+      213: -2355953017517084829
+    second: UnSheathSword_Shadowless_25
+  - first:
+      213: 2776934451054452340
+    second: UnSheathSword_Shadowless_26
+  - first:
+      213: 6177242240806075981
+    second: UnSheathSword_Shadowless_27
+  - first:
+      213: 5550018923510144409
+    second: UnSheathSword_Shadowless_28
+  - first:
+      213: 2124556384205760791
+    second: UnSheathSword_Shadowless_29
+  - first:
+      213: 8043637699019960299
+    second: UnSheathSword_Shadowless_30
+  - first:
+      213: -7783927500561297323
+    second: UnSheathSword_Shadowless_31
+  - first:
+      213: 1610933632415441863
+    second: UnSheathSword_Shadowless_32
+  - first:
+      213: -16346392251728101
+    second: UnSheathSword_Shadowless_33
+  - first:
+      213: 81504951330470395
+    second: UnSheathSword_Shadowless_34
+  - first:
+      213: 6419771067304647622
+    second: UnSheathSword_Shadowless_35
+  - first:
+      213: 4123555470671683008
+    second: UnSheathSword_Shadowless_36
+  - first:
+      213: 5271954353877052608
+    second: UnSheathSword_Shadowless_37
+  - first:
+      213: -589345143840111728
+    second: UnSheathSword_Shadowless_38
+  - first:
+      213: 2408832844594501340
+    second: UnSheathSword_Shadowless_39
+  - first:
+      213: 4578174421173699380
+    second: UnSheathSword_Shadowless_40
+  - first:
+      213: -4273134976710544513
+    second: UnSheathSword_Shadowless_41
+  - first:
+      213: 5856322996941337321
+    second: UnSheathSword_Shadowless_42
+  - first:
+      213: -3234055411753349678
+    second: UnSheathSword_Shadowless_43
+  - first:
+      213: -4028636569181477775
+    second: UnSheathSword_Shadowless_44
+  - first:
+      213: -472272727085512241
+    second: UnSheathSword_Shadowless_45
+  - first:
+      213: -2113412488435765397
+    second: UnSheathSword_Shadowless_46
+  - first:
+      213: -4010720771379587504
+    second: UnSheathSword_Shadowless_47
+  - first:
+      213: 8688533831863292805
+    second: UnSheathSword_Shadowless_48
+  - first:
+      213: 8290665514933729029
+    second: UnSheathSword_Shadowless_49
+  - first:
+      213: 4890055007105070809
+    second: UnSheathSword_Shadowless_50
+  - first:
+      213: -8029245824540992287
+    second: UnSheathSword_Shadowless_51
+  - first:
+      213: -5255965486037373464
+    second: UnSheathSword_Shadowless_52
+  - first:
+      213: -1501812783296052165
+    second: UnSheathSword_Shadowless_53
+  - first:
+      213: -6333911204711469538
+    second: UnSheathSword_Shadowless_54
+  - first:
+      213: -45714340685207677
+    second: UnSheathSword_Shadowless_55
+  - first:
+      213: 7853844066990104654
+    second: UnSheathSword_Shadowless_56
+  - first:
+      213: -468984704844393595
+    second: UnSheathSword_Shadowless_57
+  - first:
+      213: 496300912072823363
+    second: UnSheathSword_Shadowless_58
+  - first:
+      213: 3469436656789068700
+    second: UnSheathSword_Shadowless_59
+  - first:
+      213: -1715257737551015426
+    second: UnSheathSword_Shadowless_60
+  - first:
+      213: 268062651834975966
+    second: UnSheathSword_Shadowless_61
+  - first:
+      213: -2393054697972935596
+    second: UnSheathSword_Shadowless_62
+  - first:
+      213: 1136941667922422274
+    second: UnSheathSword_Shadowless_63
+  - first:
+      213: 2374396481556304586
+    second: UnSheathSword_Shadowless_64
+  - first:
+      213: 8629691959691901518
+    second: UnSheathSword_Shadowless_65
+  - first:
+      213: 3668765920167607492
+    second: UnSheathSword_Shadowless_66
+  - first:
+      213: 1375918150282074844
+    second: UnSheathSword_Shadowless_67
+  - first:
+      213: -1350448820151352192
+    second: UnSheathSword_Shadowless_68
+  - first:
+      213: -2182908519919024967
+    second: UnSheathSword_Shadowless_69
+  - first:
+      213: 7404719908215833710
+    second: UnSheathSword_Shadowless_70
+  - first:
+      213: -8934136752843385592
+    second: UnSheathSword_Shadowless_71
+  - first:
+      213: 4270726015416764521
+    second: UnSheathSword_Shadowless_72
+  - first:
+      213: -3700869025515184812
+    second: UnSheathSword_Shadowless_73
+  - first:
+      213: -8833769571904140949
+    second: UnSheathSword_Shadowless_74
+  - first:
+      213: -2509715928604302784
+    second: UnSheathSword_Shadowless_75
+  - first:
+      213: -4364378726023685632
+    second: UnSheathSword_Shadowless_76
+  - first:
+      213: 3979987360900967313
+    second: UnSheathSword_Shadowless_77
+  - first:
+      213: 5475867605068035922
+    second: UnSheathSword_Shadowless_78
+  - first:
+      213: -8370012532775685075
+    second: UnSheathSword_Shadowless_79
+  - first:
+      213: -8902409808933504383
+    second: UnSheathSword_Shadowless_80
+  - first:
+      213: 7978920340498453223
+    second: UnSheathSword_Shadowless_81
+  - first:
+      213: 1726077887744182869
+    second: UnSheathSword_Shadowless_82
+  - first:
+      213: -574478643229418897
+    second: UnSheathSword_Shadowless_83
+  - first:
+      213: -5851051740512904852
+    second: UnSheathSword_Shadowless_84
+  - first:
+      213: -5027770002207485521
+    second: UnSheathSword_Shadowless_85
+  - first:
+      213: 6173735250324334385
+    second: UnSheathSword_Shadowless_86
+  - first:
+      213: -7470978090788063878
+    second: UnSheathSword_Shadowless_87
+  - first:
+      213: -3775153134331723438
+    second: UnSheathSword_Shadowless_88
+  - first:
+      213: 7290191895767255062
+    second: UnSheathSword_Shadowless_89
+  - first:
+      213: 2912234534953125332
+    second: UnSheathSword_Shadowless_90
+  - first:
+      213: -390145458438080482
+    second: UnSheathSword_Shadowless_91
+  - first:
+      213: -3123356843105194686
+    second: UnSheathSword_Shadowless_92
+  - first:
+      213: 1032781837076175848
+    second: UnSheathSword_Shadowless_93
+  - first:
+      213: 862092729668624436
+    second: UnSheathSword_Shadowless_94
+  - first:
+      213: -1601471837592644068
+    second: UnSheathSword_Shadowless_95
+  - first:
+      213: 7091169219221088072
+    second: UnSheathSword_Shadowless_96
+  - first:
+      213: -7453531666695900414
+    second: UnSheathSword_Shadowless_97
+  - first:
+      213: -837766949001993675
+    second: UnSheathSword_Shadowless_98
+  - first:
+      213: 1697201264110226879
+    second: UnSheathSword_Shadowless_99
+  - first:
+      213: -3726058727350953813
+    second: UnSheathSword_Shadowless_100
+  - first:
+      213: -4610609632835621317
+    second: UnSheathSword_Shadowless_101
+  - first:
+      213: -1883327538111770325
+    second: UnSheathSword_Shadowless_102
+  - first:
+      213: 2669084433845974807
+    second: UnSheathSword_Shadowless_103
+  - first:
+      213: 5125143559096345188
+    second: UnSheathSword_Shadowless_104
+  - first:
+      213: -3342017931651625097
+    second: UnSheathSword_Shadowless_105
+  - first:
+      213: -2148658963830388022
+    second: UnSheathSword_Shadowless_106
+  - first:
+      213: 5636220505294696627
+    second: UnSheathSword_Shadowless_107
+  - first:
+      213: 7145004680646529560
+    second: UnSheathSword_Shadowless_108
+  - first:
+      213: 2801401322450752073
+    second: UnSheathSword_Shadowless_109
+  - first:
+      213: -24070931410595577
+    second: UnSheathSword_Shadowless_110
+  - first:
+      213: -4873606369516819712
+    second: UnSheathSword_Shadowless_111
+  - first:
+      213: 3542866363455033888
+    second: UnSheathSword_Shadowless_112
+  - first:
+      213: 6511533098489041244
+    second: UnSheathSword_Shadowless_113
+  - first:
+      213: 6709868118959898347
+    second: UnSheathSword_Shadowless_114
+  - first:
+      213: 9174182664450680210
+    second: UnSheathSword_Shadowless_115
+  - first:
+      213: -8936633457943801429
+    second: UnSheathSword_Shadowless_116
+  - first:
+      213: 5996531292853792924
+    second: UnSheathSword_Shadowless_117
+  - first:
+      213: 3657555521815377338
+    second: UnSheathSword_Shadowless_118
+  - first:
+      213: -1680545279749389204
+    second: UnSheathSword_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 469
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f29087e3d0e0f0800000000000000
+      internalID: -1089638118575638213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 469
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c44f034be3ce90800000000000000
+      internalID: -7006497922006858283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 469
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822219aa5fc49a4a0800000000000000
+      internalID: -6581644762412932568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 469
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50933c2b8c5ab9d60800000000000000
+      internalID: 7898088652935477509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 469
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cd59c5d202fe1b0800000000000000
+      internalID: -5625242030363517852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 469
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb73ba69b5b46720800000000000000
+      internalID: 2838593473113979850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 469
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735faaed1425f3440800000000000000
+      internalID: 4917739760973968695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 469
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12447ac2beb8c000800000000000000
+      internalID: 56504670452204061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 469
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349009ec8c8beed0800000000000000
+      internalID: -2383657040930106306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 469
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eced86452fc99440800000000000000
+      internalID: 4943209825020275941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 469
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6928baf7b755f0800000000000000
+      internalID: -767942923983950385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 469
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7d28f9fb989090800000000000000
+      internalID: -8027494837875016965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 469
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad39c9581297960800000000000000
+      internalID: 7600142703905725181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 467
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f42caac38f22710800000000000000
+      internalID: 1667167751527091975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 465
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59521283ef5b70db0800000000000000
+      internalID: -4825688372236180075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a2f75354990520800000000000000
+      internalID: 2668827339872446770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 406
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba678cc1feaf58f0800000000000000
+      internalID: -549528275974133063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3e8a733638676a0800000000000000
+      internalID: -6451824954002840579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 406
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dabba8b705339c00800000000000000
+      internalID: 906126257310907091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 406
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33056b18dc089e20800000000000000
+      internalID: 3357447644516778814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 406
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ec6a807d77ce40800000000000000
+      internalID: 5676643777636001987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 406
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5afd4c2b885f6060800000000000000
+      internalID: 6948870104822970972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 406
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803f2eaea5e8827a0800000000000000
+      internalID: -6401710349168217336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 406
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4ff8422f8ffe770800000000000000
+      internalID: 8642399928826459352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 406
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0406b238d30f60800000000000000
+      internalID: 7999475075453816223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 406
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f62638639fd4fd0800000000000000
+      internalID: -2355953017517084829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 406
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e15af9b27a98620800000000000000
+      internalID: 2776934451054452340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 406
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb8cee619f9b550800000000000000
+      internalID: 6177242240806075981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 406
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d94804ec0a50d40800000000000000
+      internalID: 5550018923510144409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 406
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7196fd966c0fb7d10800000000000000
+      internalID: 2124556384205760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 340
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef6608ceddb0af60800000000000000
+      internalID: 8043637699019960299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 340
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55056a3ed2fe9f390800000000000000
+      internalID: -7783927500561297323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 340
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c32ad48a9f2b5610800000000000000
+      internalID: 1610933632415441863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 340
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff978fa0de5cff0800000000000000
+      internalID: -16346392251728101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fc774250912100800000000000000
+      internalID: 81504951330470395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 340
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1606b5cb971950800000000000000
+      internalID: 6419771067304647622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 340
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd11016adfc93930800000000000000
+      internalID: 4123555470671683008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 340
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6ae68d8eb92940800000000000000
+      internalID: 5271954353877052608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 340
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930f43d6b932d7f0800000000000000
+      internalID: -589345143840111728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 340
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd65959a5b4ed6120800000000000000
+      internalID: 2408832844594501340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 340
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43386dd3161f88f30800000000000000
+      internalID: 4578174421173699380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 340
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73fed3f066c2b4c0800000000000000
+      internalID: -4273134976710544513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 340
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b3a2dcb6d54150800000000000000
+      internalID: 5856322996941337321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 340
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd038edcb35e13d0800000000000000
+      internalID: -3234055411753349678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 340
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742acc82686718c0800000000000000
+      internalID: -4028636569181477775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc986f8f4762279f0800000000000000
+      internalID: -472272727085512241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f69e20a86aba2e0800000000000000
+      internalID: -2113412488435765397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05693a845be0758c0800000000000000
+      internalID: -4010720771379587504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583dc2b7c7fd39870800000000000000
+      internalID: 8688533831863292805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b4392c5c5e0370800000000000000
+      internalID: 8290665514933729029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 276
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63e9ece17fcd340800000000000000
+      internalID: 4890055007105070809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 276
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec12fd9673629090800000000000000
+      internalID: -8029245824540992287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 276
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed670ddc3f0f07b0800000000000000
+      internalID: -5255965486037373464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 276
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b348f740b3d782be0800000000000000
+      internalID: -1501812783296052165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 276
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e6e4c515d6918a0800000000000000
+      internalID: -6333911204711469538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 276
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3872152ac079d5ff0800000000000000
+      internalID: -45714340685207677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 276
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40214641957efc60800000000000000
+      internalID: 7853844066990104654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 276
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58398ae45e4dd79f0800000000000000
+      internalID: -468984704844393595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 276
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3429dcdcc0733e600800000000000000
+      internalID: 496300912072823363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 276
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b91aae14ae52030800000000000000
+      internalID: 3469436656789068700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 214
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1180fec2e2238e0800000000000000
+      internalID: -1715257737551015426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 214
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64c24cf8958b300800000000000000
+      internalID: 268062651834975966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 214
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4545e3f5e692aced0800000000000000
+      internalID: -2393054697972935596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 214
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a2bd65c6a37cf00800000000000000
+      internalID: 1136941667922422274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d917150d83f020800000000000000
+      internalID: 2374396481556304586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4afa728d13d2c770800000000000000
+      internalID: 8629691959691901518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 214
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc36ab9a231ae230800000000000000
+      internalID: 3668765920167607492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 214
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda539b844e381310800000000000000
+      internalID: 1375918150282074844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 214
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084888bf3fd324de0800000000000000
+      internalID: -1350448820151352192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 214
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b48d054440c4b1e0800000000000000
+      internalID: -2182908519919024967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 214
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c77e4689d2c660800000000000000
+      internalID: 7404719908215833710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 214
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805120855f1930480800000000000000
+      internalID: -8934136752843385592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 214
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688fe90faaa44b30800000000000000
+      internalID: 4270726015416764521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 214
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ddbe5ba3fd3acc0800000000000000
+      internalID: -3700869025515184812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 214
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69cffea065286580800000000000000
+      internalID: -8833769571904140949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 150
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a664f8a2bb2dd0800000000000000
+      internalID: -2509715928604302784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a16121cac9e63c0800000000000000
+      internalID: -4364378726023685632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19beb09fa61cb3730800000000000000
+      internalID: 3979987360900967313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 150
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257362d03903efb40800000000000000
+      internalID: 5475867605068035922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 151
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24765a92fdb7db80800000000000000
+      internalID: -8370012532775685075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab09d1279447480800000000000000
+      internalID: -8902409808933504383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 151
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29c8a86c1dabe60800000000000000
+      internalID: 7978920340498453223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 151
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a06a991b244f710800000000000000
+      internalID: 1726077887744182869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 151
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a134bb7ba0708f0800000000000000
+      internalID: -574478643229418897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 151
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c691c443173eccea0800000000000000
+      internalID: -5851051740512904852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 151
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1de0e32d5c93ab0800000000000000
+      internalID: -5027770002207485521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 151
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a3e410838da550800000000000000
+      internalID: 6173735250324334385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 151
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75f9d56201c15890800000000000000
+      internalID: -7470978090788063878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 151
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518477d936fb9bc0800000000000000
+      internalID: -3775153134331723438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 151
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61883a377e6fb2560800000000000000
+      internalID: 7290191895767255062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5818e31e55a6820800000000000000
+      internalID: 2912234534953125332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f01bc5cce59af0800000000000000
+      internalID: -390145458438080482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dedebdf7b97a4d0800000000000000
+      internalID: -3123356843105194686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9661eb9d255e00800000000000000
+      internalID: 1032781837076175848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 85
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430685325c4c6fb00800000000000000
+      internalID: 862092729668624436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 85
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169f7249dd66c9e0800000000000000
+      internalID: -1601471837592644068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 85
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476bd195d4e86260800000000000000
+      internalID: 7091169219221088072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 85
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203377c807cbf8890800000000000000
+      internalID: -7453531666695900414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 85
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326c280667af54f0800000000000000
+      internalID: -837766949001993675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 85
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd42abbe8bad8710800000000000000
+      internalID: 1697201264110226879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 85
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8900834516a4cc0800000000000000
+      internalID: -3726058727350953813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 85
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea6dc87f2d300c0800000000000000
+      internalID: -4610609632835621317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 85
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21132715931dd5e0800000000000000
+      internalID: -1883327538111770325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 85
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f9e2b62e7a0520800000000000000
+      internalID: 2669084433845974807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 85
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a1dea9ea202740800000000000000
+      internalID: 5125143559096345188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4beed564ce91d0800000000000000
+      internalID: -3342017931651625097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4e657e0e6e22e0800000000000000
+      internalID: -2148658963830388022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0fcd500b0e73e40800000000000000
+      internalID: 5636220505294696627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 20
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129074b6e7282360800000000000000
+      internalID: 7145004680646529560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9429cf909a390e620800000000000000
+      internalID: 2801401322450752073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 20
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701dbdb8d9b7aaff0800000000000000
+      internalID: -24070931410595577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 20
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b6ed114d87d5cb0800000000000000
+      internalID: -4873606369516819712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 20
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022da68cf2aca2130800000000000000
+      internalID: 3542866363455033888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5153ae7adc9d5a50800000000000000
+      internalID: 6511533098489041244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 20
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb258f08d3e1d50800000000000000
+      internalID: 6709868118959898347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 20
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2952123c68e315f70800000000000000
+      internalID: 9174182664450680210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 20
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19363e733baf380800000000000000
+      internalID: -8936633457943801429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 20
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90701b9075f73350800000000000000
+      internalID: 5996531292853792924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f2185e5f32c230800000000000000
+      internalID: 3657555521815377338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnSheathSword_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 19
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c640493d8f08da8e0800000000000000
+      internalID: -1680545279749389204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UnSheathSword_Shadowless_0: -1089638118575638213
+      UnSheathSword_Shadowless_1: -7006497922006858283
+      UnSheathSword_Shadowless_10: -767942923983950385
+      UnSheathSword_Shadowless_100: -3726058727350953813
+      UnSheathSword_Shadowless_101: -4610609632835621317
+      UnSheathSword_Shadowless_102: -1883327538111770325
+      UnSheathSword_Shadowless_103: 2669084433845974807
+      UnSheathSword_Shadowless_104: 5125143559096345188
+      UnSheathSword_Shadowless_105: -3342017931651625097
+      UnSheathSword_Shadowless_106: -2148658963830388022
+      UnSheathSword_Shadowless_107: 5636220505294696627
+      UnSheathSword_Shadowless_108: 7145004680646529560
+      UnSheathSword_Shadowless_109: 2801401322450752073
+      UnSheathSword_Shadowless_11: -8027494837875016965
+      UnSheathSword_Shadowless_110: -24070931410595577
+      UnSheathSword_Shadowless_111: -4873606369516819712
+      UnSheathSword_Shadowless_112: 3542866363455033888
+      UnSheathSword_Shadowless_113: 6511533098489041244
+      UnSheathSword_Shadowless_114: 6709868118959898347
+      UnSheathSword_Shadowless_115: 9174182664450680210
+      UnSheathSword_Shadowless_116: -8936633457943801429
+      UnSheathSword_Shadowless_117: 5996531292853792924
+      UnSheathSword_Shadowless_118: 3657555521815377338
+      UnSheathSword_Shadowless_119: -1680545279749389204
+      UnSheathSword_Shadowless_12: 7600142703905725181
+      UnSheathSword_Shadowless_13: 1667167751527091975
+      UnSheathSword_Shadowless_14: -4825688372236180075
+      UnSheathSword_Shadowless_15: 2668827339872446770
+      UnSheathSword_Shadowless_16: -549528275974133063
+      UnSheathSword_Shadowless_17: -6451824954002840579
+      UnSheathSword_Shadowless_18: 906126257310907091
+      UnSheathSword_Shadowless_19: 3357447644516778814
+      UnSheathSword_Shadowless_2: -6581644762412932568
+      UnSheathSword_Shadowless_20: 5676643777636001987
+      UnSheathSword_Shadowless_21: 6948870104822970972
+      UnSheathSword_Shadowless_22: -6401710349168217336
+      UnSheathSword_Shadowless_23: 8642399928826459352
+      UnSheathSword_Shadowless_24: 7999475075453816223
+      UnSheathSword_Shadowless_25: -2355953017517084829
+      UnSheathSword_Shadowless_26: 2776934451054452340
+      UnSheathSword_Shadowless_27: 6177242240806075981
+      UnSheathSword_Shadowless_28: 5550018923510144409
+      UnSheathSword_Shadowless_29: 2124556384205760791
+      UnSheathSword_Shadowless_3: 7898088652935477509
+      UnSheathSword_Shadowless_30: 8043637699019960299
+      UnSheathSword_Shadowless_31: -7783927500561297323
+      UnSheathSword_Shadowless_32: 1610933632415441863
+      UnSheathSword_Shadowless_33: -16346392251728101
+      UnSheathSword_Shadowless_34: 81504951330470395
+      UnSheathSword_Shadowless_35: 6419771067304647622
+      UnSheathSword_Shadowless_36: 4123555470671683008
+      UnSheathSword_Shadowless_37: 5271954353877052608
+      UnSheathSword_Shadowless_38: -589345143840111728
+      UnSheathSword_Shadowless_39: 2408832844594501340
+      UnSheathSword_Shadowless_4: -5625242030363517852
+      UnSheathSword_Shadowless_40: 4578174421173699380
+      UnSheathSword_Shadowless_41: -4273134976710544513
+      UnSheathSword_Shadowless_42: 5856322996941337321
+      UnSheathSword_Shadowless_43: -3234055411753349678
+      UnSheathSword_Shadowless_44: -4028636569181477775
+      UnSheathSword_Shadowless_45: -472272727085512241
+      UnSheathSword_Shadowless_46: -2113412488435765397
+      UnSheathSword_Shadowless_47: -4010720771379587504
+      UnSheathSword_Shadowless_48: 8688533831863292805
+      UnSheathSword_Shadowless_49: 8290665514933729029
+      UnSheathSword_Shadowless_5: 2838593473113979850
+      UnSheathSword_Shadowless_50: 4890055007105070809
+      UnSheathSword_Shadowless_51: -8029245824540992287
+      UnSheathSword_Shadowless_52: -5255965486037373464
+      UnSheathSword_Shadowless_53: -1501812783296052165
+      UnSheathSword_Shadowless_54: -6333911204711469538
+      UnSheathSword_Shadowless_55: -45714340685207677
+      UnSheathSword_Shadowless_56: 7853844066990104654
+      UnSheathSword_Shadowless_57: -468984704844393595
+      UnSheathSword_Shadowless_58: 496300912072823363
+      UnSheathSword_Shadowless_59: 3469436656789068700
+      UnSheathSword_Shadowless_6: 4917739760973968695
+      UnSheathSword_Shadowless_60: -1715257737551015426
+      UnSheathSword_Shadowless_61: 268062651834975966
+      UnSheathSword_Shadowless_62: -2393054697972935596
+      UnSheathSword_Shadowless_63: 1136941667922422274
+      UnSheathSword_Shadowless_64: 2374396481556304586
+      UnSheathSword_Shadowless_65: 8629691959691901518
+      UnSheathSword_Shadowless_66: 3668765920167607492
+      UnSheathSword_Shadowless_67: 1375918150282074844
+      UnSheathSword_Shadowless_68: -1350448820151352192
+      UnSheathSword_Shadowless_69: -2182908519919024967
+      UnSheathSword_Shadowless_7: 56504670452204061
+      UnSheathSword_Shadowless_70: 7404719908215833710
+      UnSheathSword_Shadowless_71: -8934136752843385592
+      UnSheathSword_Shadowless_72: 4270726015416764521
+      UnSheathSword_Shadowless_73: -3700869025515184812
+      UnSheathSword_Shadowless_74: -8833769571904140949
+      UnSheathSword_Shadowless_75: -2509715928604302784
+      UnSheathSword_Shadowless_76: -4364378726023685632
+      UnSheathSword_Shadowless_77: 3979987360900967313
+      UnSheathSword_Shadowless_78: 5475867605068035922
+      UnSheathSword_Shadowless_79: -8370012532775685075
+      UnSheathSword_Shadowless_8: -2383657040930106306
+      UnSheathSword_Shadowless_80: -8902409808933504383
+      UnSheathSword_Shadowless_81: 7978920340498453223
+      UnSheathSword_Shadowless_82: 1726077887744182869
+      UnSheathSword_Shadowless_83: -574478643229418897
+      UnSheathSword_Shadowless_84: -5851051740512904852
+      UnSheathSword_Shadowless_85: -5027770002207485521
+      UnSheathSword_Shadowless_86: 6173735250324334385
+      UnSheathSword_Shadowless_87: -7470978090788063878
+      UnSheathSword_Shadowless_88: -3775153134331723438
+      UnSheathSword_Shadowless_89: 7290191895767255062
+      UnSheathSword_Shadowless_9: 4943209825020275941
+      UnSheathSword_Shadowless_90: 2912234534953125332
+      UnSheathSword_Shadowless_91: -390145458438080482
+      UnSheathSword_Shadowless_92: -3123356843105194686
+      UnSheathSword_Shadowless_93: 1032781837076175848
+      UnSheathSword_Shadowless_94: 862092729668624436
+      UnSheathSword_Shadowless_95: -1601471837592644068
+      UnSheathSword_Shadowless_96: 7091169219221088072
+      UnSheathSword_Shadowless_97: -7453531666695900414
+      UnSheathSword_Shadowless_98: -837766949001993675
+      UnSheathSword_Shadowless_99: 1697201264110226879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

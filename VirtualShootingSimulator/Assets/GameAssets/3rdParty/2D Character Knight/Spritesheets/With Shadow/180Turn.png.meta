@@ -1,0 +1,3458 @@
+fileFormatVersion: 2
+guid: ed790971caa098643ba235c27973955a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5925299285860502411
+    second: 180Turn_0
+  - first:
+      213: 7245790738011557122
+    second: 180Turn_1
+  - first:
+      213: 4272223399744451081
+    second: 180Turn_2
+  - first:
+      213: -1522576268752419706
+    second: 180Turn_3
+  - first:
+      213: -4413496848152000430
+    second: 180Turn_4
+  - first:
+      213: 6142321838613229725
+    second: 180Turn_5
+  - first:
+      213: -4634631086469444229
+    second: 180Turn_6
+  - first:
+      213: 3286639941624013192
+    second: 180Turn_7
+  - first:
+      213: 1357963704582748622
+    second: 180Turn_8
+  - first:
+      213: -3838097579770138504
+    second: 180Turn_9
+  - first:
+      213: 384427230497695529
+    second: 180Turn_10
+  - first:
+      213: 3023098128099358862
+    second: 180Turn_11
+  - first:
+      213: -1130328666856421441
+    second: 180Turn_12
+  - first:
+      213: 5471295872543225456
+    second: 180Turn_13
+  - first:
+      213: -1351007365254413890
+    second: 180Turn_14
+  - first:
+      213: -9146290324651313912
+    second: 180Turn_15
+  - first:
+      213: -3513570615274782205
+    second: 180Turn_16
+  - first:
+      213: 5381544803135403835
+    second: 180Turn_17
+  - first:
+      213: 5319267305943260306
+    second: 180Turn_18
+  - first:
+      213: 4529247082197099980
+    second: 180Turn_19
+  - first:
+      213: -5914111051832009444
+    second: 180Turn_20
+  - first:
+      213: 1762214395789179385
+    second: 180Turn_21
+  - first:
+      213: 2238432567623111888
+    second: 180Turn_22
+  - first:
+      213: 6544549726997928998
+    second: 180Turn_23
+  - first:
+      213: 5558317031054744801
+    second: 180Turn_24
+  - first:
+      213: 3733802101448604105
+    second: 180Turn_25
+  - first:
+      213: -3959402250653785973
+    second: 180Turn_26
+  - first:
+      213: -6038023759750155462
+    second: 180Turn_27
+  - first:
+      213: -3314609356208102536
+    second: 180Turn_28
+  - first:
+      213: 9141693737110060337
+    second: 180Turn_29
+  - first:
+      213: -7526874939272047628
+    second: 180Turn_30
+  - first:
+      213: 3422797985868745510
+    second: 180Turn_31
+  - first:
+      213: -9054571733918045424
+    second: 180Turn_32
+  - first:
+      213: 6520730464550986708
+    second: 180Turn_33
+  - first:
+      213: -7520584569539030576
+    second: 180Turn_34
+  - first:
+      213: -8166474992435165242
+    second: 180Turn_35
+  - first:
+      213: -5804004408519866912
+    second: 180Turn_36
+  - first:
+      213: 8431596361448639364
+    second: 180Turn_37
+  - first:
+      213: 8486854917672555273
+    second: 180Turn_38
+  - first:
+      213: 8727204588336992752
+    second: 180Turn_39
+  - first:
+      213: -4810970266328641274
+    second: 180Turn_40
+  - first:
+      213: 2789846916304019029
+    second: 180Turn_41
+  - first:
+      213: 2524242030264348147
+    second: 180Turn_42
+  - first:
+      213: -199488392274312501
+    second: 180Turn_43
+  - first:
+      213: 7244236554245102082
+    second: 180Turn_44
+  - first:
+      213: 5524135344864217430
+    second: 180Turn_45
+  - first:
+      213: 80503133806748843
+    second: 180Turn_46
+  - first:
+      213: -1650200478471336802
+    second: 180Turn_47
+  - first:
+      213: -8979486174031044585
+    second: 180Turn_48
+  - first:
+      213: 7726346510186121736
+    second: 180Turn_49
+  - first:
+      213: 4819987727435991078
+    second: 180Turn_50
+  - first:
+      213: 5543324300451610620
+    second: 180Turn_51
+  - first:
+      213: 5263133590783258918
+    second: 180Turn_52
+  - first:
+      213: -6080593922785260033
+    second: 180Turn_53
+  - first:
+      213: -3627767110648498223
+    second: 180Turn_54
+  - first:
+      213: 7810004080372714828
+    second: 180Turn_55
+  - first:
+      213: -1260308027561878548
+    second: 180Turn_56
+  - first:
+      213: -4652024219773433466
+    second: 180Turn_57
+  - first:
+      213: 4774191085063685225
+    second: 180Turn_58
+  - first:
+      213: 2855129470220019384
+    second: 180Turn_59
+  - first:
+      213: 9213089130356881993
+    second: 180Turn_60
+  - first:
+      213: -1779222719666819664
+    second: 180Turn_61
+  - first:
+      213: -6144255432565572877
+    second: 180Turn_62
+  - first:
+      213: 2766218047649342960
+    second: 180Turn_63
+  - first:
+      213: -2170206810999280173
+    second: 180Turn_64
+  - first:
+      213: 2189344554179894872
+    second: 180Turn_65
+  - first:
+      213: -8759441161225621702
+    second: 180Turn_66
+  - first:
+      213: 8666468182074252709
+    second: 180Turn_67
+  - first:
+      213: -448926937659236519
+    second: 180Turn_68
+  - first:
+      213: 7318396580526966610
+    second: 180Turn_69
+  - first:
+      213: -3271475148133530777
+    second: 180Turn_70
+  - first:
+      213: -254110057277556171
+    second: 180Turn_71
+  - first:
+      213: -1618654777541210883
+    second: 180Turn_72
+  - first:
+      213: 6874802099597294035
+    second: 180Turn_73
+  - first:
+      213: 8085213907139543242
+    second: 180Turn_74
+  - first:
+      213: 3078118338045494957
+    second: 180Turn_75
+  - first:
+      213: -4192042781459170483
+    second: 180Turn_76
+  - first:
+      213: -2528276027259856884
+    second: 180Turn_77
+  - first:
+      213: -7152512019996877120
+    second: 180Turn_78
+  - first:
+      213: -5970923455205066174
+    second: 180Turn_79
+  - first:
+      213: -2732028158752062693
+    second: 180Turn_80
+  - first:
+      213: 1107487596170409147
+    second: 180Turn_81
+  - first:
+      213: 2485831677480891707
+    second: 180Turn_82
+  - first:
+      213: 4242566654194265199
+    second: 180Turn_83
+  - first:
+      213: -6113719463216586780
+    second: 180Turn_84
+  - first:
+      213: -9027282325057305795
+    second: 180Turn_85
+  - first:
+      213: 1018422133508714357
+    second: 180Turn_86
+  - first:
+      213: 1579472779314365822
+    second: 180Turn_87
+  - first:
+      213: 5539001553305864363
+    second: 180Turn_88
+  - first:
+      213: -3751698648035061044
+    second: 180Turn_89
+  - first:
+      213: -6720814658811043297
+    second: 180Turn_90
+  - first:
+      213: -6963113769752942477
+    second: 180Turn_91
+  - first:
+      213: 4328261865492854765
+    second: 180Turn_92
+  - first:
+      213: 7375389471186022379
+    second: 180Turn_93
+  - first:
+      213: 3574827141675906203
+    second: 180Turn_94
+  - first:
+      213: 2382952602663226410
+    second: 180Turn_95
+  - first:
+      213: 7693889208199692947
+    second: 180Turn_96
+  - first:
+      213: -1083586219289273547
+    second: 180Turn_97
+  - first:
+      213: -3669167994514318154
+    second: 180Turn_98
+  - first:
+      213: 3072107552225081024
+    second: 180Turn_99
+  - first:
+      213: -4964193208294510650
+    second: 180Turn_100
+  - first:
+      213: 2900001118662306393
+    second: 180Turn_101
+  - first:
+      213: 3733162104716724866
+    second: 180Turn_102
+  - first:
+      213: -4512756963407449155
+    second: 180Turn_103
+  - first:
+      213: 2407527856159958487
+    second: 180Turn_104
+  - first:
+      213: 2039601659705602589
+    second: 180Turn_105
+  - first:
+      213: 1175899056894440395
+    second: 180Turn_106
+  - first:
+      213: -7430717154265025694
+    second: 180Turn_107
+  - first:
+      213: -7416162900897859507
+    second: 180Turn_108
+  - first:
+      213: -7198113824987496353
+    second: 180Turn_109
+  - first:
+      213: 8775211109524664570
+    second: 180Turn_110
+  - first:
+      213: -6033553022716499537
+    second: 180Turn_111
+  - first:
+      213: -9170038806404410523
+    second: 180Turn_112
+  - first:
+      213: 6711306264234106730
+    second: 180Turn_113
+  - first:
+      213: 5000570599452218685
+    second: 180Turn_114
+  - first:
+      213: 3374748253562032266
+    second: 180Turn_115
+  - first:
+      213: 4379532559359663766
+    second: 180Turn_116
+  - first:
+      213: 6900875223689779208
+    second: 180Turn_117
+  - first:
+      213: -1615755570047757561
+    second: 180Turn_118
+  - first:
+      213: -8176975884150394455
+    second: 180Turn_119
+  - first:
+      213: 7821303803706812380
+    second: 180Turn_120
+  - first:
+      213: 3730523689074797074
+    second: 180Turn_121
+  - first:
+      213: -3504679976481610491
+    second: 180Turn_122
+  - first:
+      213: -4393369513638200526
+    second: 180Turn_123
+  - first:
+      213: -4723639577931549347
+    second: 180Turn_124
+  - first:
+      213: 3844774897068429205
+    second: 180Turn_125
+  - first:
+      213: -8349613925698281850
+    second: 180Turn_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 180Turn_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b47919e44ea3250800000000000000
+      internalID: 5925299285860502411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 466
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d8eff49483e8460800000000000000
+      internalID: 7245790738011557122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90231eefb8cf94b30800000000000000
+      internalID: 4272223399744451081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 466
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684829553f8bedae0800000000000000
+      internalID: -1522576268752419706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 465
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580894100c10c2c0800000000000000
+      internalID: -4413496848152000430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 461
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907aa63b29ed3550800000000000000
+      internalID: 6142321838613229725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 460
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d810a059b7eafb0800000000000000
+      internalID: -4634631086469444229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 459
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8812c111d9d7c9d20800000000000000
+      internalID: 3286639941624013192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 461
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec937856bc478d210800000000000000
+      internalID: 1357963704582748622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 462
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b38816965cbac0800000000000000
+      internalID: -3838097579770138504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 463
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9276dc38782c55500800000000000000
+      internalID: 384427230497695529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 463
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b28efab334f920800000000000000
+      internalID: 3023098128099358862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 464
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb70594f0144050f0800000000000000
+      internalID: -1130328666856421441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 464
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076ffff9b92fdeb40800000000000000
+      internalID: 5471295872543225456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 466
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1031195f1404de0800000000000000
+      internalID: -1351007365254413890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 401
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805f09aa869d11180800000000000000
+      internalID: -9146290324651313912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 398
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302cb4f142a4d3fc0800000000000000
+      internalID: -3513570615274782205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 397
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373cbd5c761faa40800000000000000
+      internalID: 5381544803135403835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 396
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd81c9e65d1d940800000000000000
+      internalID: 5319267305943260306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 396
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5255a693e1bde30800000000000000
+      internalID: 4529247082197099980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 395
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d5759255bdceda0800000000000000
+      internalID: -5914111051832009444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 396
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f71708a4a47810800000000000000
+      internalID: 1762214395789179385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 395
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d457de7f82801f10800000000000000
+      internalID: 2238432567623111888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 396
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c579c5d49e2da50800000000000000
+      internalID: 6544549726997928998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 395
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec9509f3eb132d40800000000000000
+      internalID: 5558317031054744801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 397
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9737e8a3121d330800000000000000
+      internalID: 3733802101448604105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 398
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8026ee71a06d09c0800000000000000
+      internalID: -3959402250653785973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_27
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 398
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3339be9161a43ca0800000000000000
+      internalID: -6038023759750155462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_28
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 398
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a7022a542002d0800000000000000
+      internalID: -3314609356208102536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 401
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dbbd5e402ddde70800000000000000
+      internalID: 9141693737110060337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_30
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 397
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f356ef2f1b2b8790800000000000000
+      internalID: -7526874939272047628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 332
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b01a522a8308f20800000000000000
+      internalID: 3422797985868745510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 331
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ba58e2bf2b75280800000000000000
+      internalID: -9054571733918045424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 332
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d321a72fc94e7a50800000000000000
+      internalID: 6520730464550986708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 332
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d197550e2481a790800000000000000
+      internalID: -7520584569539030576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_35
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 333
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c78ac0234adaae80800000000000000
+      internalID: -8166474992435165242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 331
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e54f5bcdb8047fa0800000000000000
+      internalID: -5804004408519866912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 331
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b4f9dd73c030570800000000000000
+      internalID: 8431596361448639364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_38
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 332
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035624159d57c570800000000000000
+      internalID: 8486854917672555273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 330
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f15cf995524d1970800000000000000
+      internalID: 8727204588336992752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_40
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 332
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d38a48000c3db0800000000000000
+      internalID: -4810970266328641274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 332
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e15083df687b620800000000000000
+      internalID: 2789846916304019029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_42
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 332
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd6405a0c8e70320800000000000000
+      internalID: 2524242030264348147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_43
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 333
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20da93d564b3df0800000000000000
+      internalID: -199488392274312501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_44
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 335
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20adda4b3c2b88460800000000000000
+      internalID: 7244236554245102082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_45
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 334
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659cfc9f3dba9ac40800000000000000
+      internalID: 5524135344864217430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 269
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba46bd57c210e1100800000000000000
+      internalID: 80503133806748843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 271
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c4980786f4919e0800000000000000
+      internalID: -1650200478471336802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710295b66e4726380800000000000000
+      internalID: -8979486174031044585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 270
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a093f073f793b60800000000000000
+      internalID: 7726346510186121736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 270
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628809bfc4904e240800000000000000
+      internalID: 4819987727435991078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 270
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff753bd418ddec40800000000000000
+      internalID: 5543324300451610620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 271
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621ff049d186a0940800000000000000
+      internalID: 5263133590783258918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_53
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 270
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4cf82b046d9ba0800000000000000
+      internalID: -6080593922785260033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 272
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d773f9980597adc0800000000000000
+      internalID: -3627767110648498223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 271
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d87f8f455b26c60800000000000000
+      internalID: 7810004080372714828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_56
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 271
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebd99db68c728ee0800000000000000
+      internalID: -1260308027561878548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_57
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 271
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68904ed9e90b07fb0800000000000000
+      internalID: -4652024219773433466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 272
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ce034f75514240800000000000000
+      internalID: 4774191085063685225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_59
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 274
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a63440257f9720800000000000000
+      internalID: 2855129470220019384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_60
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 274
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a3fe240c77bdf70800000000000000
+      internalID: 9213089130356881993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd64f9fc5eee47e0800000000000000
+      internalID: -1779222719666819664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3aacdc383bbaa0800000000000000
+      internalID: -6144255432565572877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e96588a4936620800000000000000
+      internalID: 2766218047649342960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd21455760e1e1e0800000000000000
+      internalID: -2170206810999280173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 210
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e14dab54d126e10800000000000000
+      internalID: 2189344554179894872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 210
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f26326ca6307680800000000000000
+      internalID: -8759441161225621702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 210
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add2c905ea754870800000000000000
+      internalID: 8666468182074252709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 212
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f97b6245715c9f0800000000000000
+      internalID: -448926937659236519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2574ebb5aea209560800000000000000
+      internalID: 7318396580526966610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_70
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 210
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638bff8fa26992d0800000000000000
+      internalID: -3271475148133530777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_71
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 210
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afd1ecf38397cf0800000000000000
+      internalID: -254110057277556171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_72
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 214
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfccaaa4e026989e0800000000000000
+      internalID: -1618654777541210883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_73
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 211
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93b97d514386f50800000000000000
+      internalID: 6874802099597294035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_74
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 211
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c9141633743070800000000000000
+      internalID: 8085213907139543242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_75
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 212
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da641d3e15ca7ba20800000000000000
+      internalID: 3078118338045494957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_76
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 213
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb2e7fc4fd2d5c0800000000000000
+      internalID: -4192042781459170483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085a0d3952c9ecd0800000000000000
+      internalID: -2528276027259856884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cedf54a63c2dbc90800000000000000
+      internalID: -7152512019996877120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a3477b0c4032da0800000000000000
+      internalID: -5970923455205066174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1308315dd2e51ad0800000000000000
+      internalID: -2732028158752062693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 148
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb473ead9169e5f00800000000000000
+      internalID: 1107487596170409147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_82
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3579ab7db27f7220800000000000000
+      internalID: 2485831677480891707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_83
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 150
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6caa27d4ef90ea30800000000000000
+      internalID: 4242566654194265199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_84
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 152
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef55924a84b72ba0800000000000000
+      internalID: -6113719463216586780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_85
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 150
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d330ccfcd86a8b280800000000000000
+      internalID: -9027282325057305795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fae2bd889222e00800000000000000
+      internalID: 1018422133508714357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_87
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 150
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e758e67df1a6be510800000000000000
+      internalID: 1579472779314365822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_88
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 150
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8022bd09c7edc40800000000000000
+      internalID: 5539001553305864363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_89
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 151
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc29e8bf4f94febc0800000000000000
+      internalID: -3751698648035061044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_90
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 152
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12645c1daedab2a0800000000000000
+      internalID: -6720814658811043297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_91
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 152
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ae372bec0e5f90800000000000000
+      internalID: -6963113769752942477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_92
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 151
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7329b0c33111c30800000000000000
+      internalID: 4328261865492854765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_93
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 150
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe236c5a5aa5660800000000000000
+      internalID: 7375389471186022379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94740958565c9130800000000000000
+      internalID: 3574827141675906203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c855644c2f11120800000000000000
+      internalID: 2382952602663226410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_96
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39244fb887f26ca60800000000000000
+      internalID: 7693889208199692947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 86
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b11cb131456f0f0800000000000000
+      internalID: -1083586219289273547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_98
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 86
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcddb9262f741dc0800000000000000
+      internalID: -3669167994514318154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_99
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 86
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6bb22ca8152aa20800000000000000
+      internalID: 3072107552225081024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_100
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 86
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe2371494ab1bb0800000000000000
+      internalID: -4964193208294510650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 86
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2a1e07afde3820800000000000000
+      internalID: 2900001118662306393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_102
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 84
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a0794b72bdec330800000000000000
+      internalID: 3733162104716724866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 83
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3bd6e83777f51c0800000000000000
+      internalID: -4512756963407449155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_104
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 83
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a54d54d1496120800000000000000
+      internalID: 2407527856159958487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_105
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 82
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12bc0a37ee1e4c10800000000000000
+      internalID: 2039601659705602589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_106
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 86
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f8e946f1a15010800000000000000
+      internalID: 1175899056894440395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_107
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b1a92e1ac0e890800000000000000
+      internalID: -7430717154265025694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_108
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 86
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487d87522f741990800000000000000
+      internalID: -7416162900897859507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_109
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cac80d992b1c90800000000000000
+      internalID: -7198113824987496353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_110
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 82
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af07744d200d7c970800000000000000
+      internalID: 8775211109524664570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9af733e73844ca0800000000000000
+      internalID: -6033553022716499537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_112
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d7bf5a4a7db080800000000000000
+      internalID: -9170038806404410523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 20
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f17824d79532d50800000000000000
+      internalID: 6711306264234106730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_114
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 20
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359c9e4778956540800000000000000
+      internalID: 5000570599452218685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_115
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 23
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a805feb08a385de20800000000000000
+      internalID: 3374748253562032266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ed3e2b8a937cc30800000000000000
+      internalID: 4379532559359663766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_117
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 21
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d25b1475d4cf50800000000000000
+      internalID: 6900875223689779208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_118
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 18
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d173aedea399e0800000000000000
+      internalID: -1615755570047757561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_119
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 13
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1b740c1cb858e80800000000000000
+      internalID: -8176975884150394455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_120
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 13
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72b54de5ada8c60800000000000000
+      internalID: 7821303803706812380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_121
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 14
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aab71b78b75c330800000000000000
+      internalID: 3730523689074797074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 14
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a3664120ec5fc0800000000000000
+      internalID: -3504679976481610491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_123
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b709454bd9703c0800000000000000
+      internalID: -4393369513638200526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_124
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 15
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55f96ea4d2427eb0800000000000000
+      internalID: -4723639577931549347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_125
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 14
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4a1df5626b5530800000000000000
+      internalID: 3844774897068429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 180Turn_126
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 17
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e591b6f56302c80800000000000000
+      internalID: -8349613925698281850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      180Turn_0: 5925299285860502411
+      180Turn_1: 7245790738011557122
+      180Turn_10: 384427230497695529
+      180Turn_100: -4964193208294510650
+      180Turn_101: 2900001118662306393
+      180Turn_102: 3733162104716724866
+      180Turn_103: -4512756963407449155
+      180Turn_104: 2407527856159958487
+      180Turn_105: 2039601659705602589
+      180Turn_106: 1175899056894440395
+      180Turn_107: -7430717154265025694
+      180Turn_108: -7416162900897859507
+      180Turn_109: -7198113824987496353
+      180Turn_11: 3023098128099358862
+      180Turn_110: 8775211109524664570
+      180Turn_111: -6033553022716499537
+      180Turn_112: -9170038806404410523
+      180Turn_113: 6711306264234106730
+      180Turn_114: 5000570599452218685
+      180Turn_115: 3374748253562032266
+      180Turn_116: 4379532559359663766
+      180Turn_117: 6900875223689779208
+      180Turn_118: -1615755570047757561
+      180Turn_119: -8176975884150394455
+      180Turn_12: -1130328666856421441
+      180Turn_120: 7821303803706812380
+      180Turn_121: 3730523689074797074
+      180Turn_122: -3504679976481610491
+      180Turn_123: -4393369513638200526
+      180Turn_124: -4723639577931549347
+      180Turn_125: 3844774897068429205
+      180Turn_126: -8349613925698281850
+      180Turn_13: 5471295872543225456
+      180Turn_14: -1351007365254413890
+      180Turn_15: -9146290324651313912
+      180Turn_16: -3513570615274782205
+      180Turn_17: 5381544803135403835
+      180Turn_18: 5319267305943260306
+      180Turn_19: 4529247082197099980
+      180Turn_2: 4272223399744451081
+      180Turn_20: -5914111051832009444
+      180Turn_21: 1762214395789179385
+      180Turn_22: 2238432567623111888
+      180Turn_23: 6544549726997928998
+      180Turn_24: 5558317031054744801
+      180Turn_25: 3733802101448604105
+      180Turn_26: -3959402250653785973
+      180Turn_27: -6038023759750155462
+      180Turn_28: -3314609356208102536
+      180Turn_29: 9141693737110060337
+      180Turn_3: -1522576268752419706
+      180Turn_30: -7526874939272047628
+      180Turn_31: 3422797985868745510
+      180Turn_32: -9054571733918045424
+      180Turn_33: 6520730464550986708
+      180Turn_34: -7520584569539030576
+      180Turn_35: -8166474992435165242
+      180Turn_36: -5804004408519866912
+      180Turn_37: 8431596361448639364
+      180Turn_38: 8486854917672555273
+      180Turn_39: 8727204588336992752
+      180Turn_4: -4413496848152000430
+      180Turn_40: -4810970266328641274
+      180Turn_41: 2789846916304019029
+      180Turn_42: 2524242030264348147
+      180Turn_43: -199488392274312501
+      180Turn_44: 7244236554245102082
+      180Turn_45: 5524135344864217430
+      180Turn_46: 80503133806748843
+      180Turn_47: -1650200478471336802
+      180Turn_48: -8979486174031044585
+      180Turn_49: 7726346510186121736
+      180Turn_5: 6142321838613229725
+      180Turn_50: 4819987727435991078
+      180Turn_51: 5543324300451610620
+      180Turn_52: 5263133590783258918
+      180Turn_53: -6080593922785260033
+      180Turn_54: -3627767110648498223
+      180Turn_55: 7810004080372714828
+      180Turn_56: -1260308027561878548
+      180Turn_57: -4652024219773433466
+      180Turn_58: 4774191085063685225
+      180Turn_59: 2855129470220019384
+      180Turn_6: -4634631086469444229
+      180Turn_60: 9213089130356881993
+      180Turn_61: -1779222719666819664
+      180Turn_62: -6144255432565572877
+      180Turn_63: 2766218047649342960
+      180Turn_64: -2170206810999280173
+      180Turn_65: 2189344554179894872
+      180Turn_66: -8759441161225621702
+      180Turn_67: 8666468182074252709
+      180Turn_68: -448926937659236519
+      180Turn_69: 7318396580526966610
+      180Turn_7: 3286639941624013192
+      180Turn_70: -3271475148133530777
+      180Turn_71: -254110057277556171
+      180Turn_72: -1618654777541210883
+      180Turn_73: 6874802099597294035
+      180Turn_74: 8085213907139543242
+      180Turn_75: 3078118338045494957
+      180Turn_76: -4192042781459170483
+      180Turn_77: -2528276027259856884
+      180Turn_78: -7152512019996877120
+      180Turn_79: -5970923455205066174
+      180Turn_8: 1357963704582748622
+      180Turn_80: -2732028158752062693
+      180Turn_81: 1107487596170409147
+      180Turn_82: 2485831677480891707
+      180Turn_83: 4242566654194265199
+      180Turn_84: -6113719463216586780
+      180Turn_85: -9027282325057305795
+      180Turn_86: 1018422133508714357
+      180Turn_87: 1579472779314365822
+      180Turn_88: 5539001553305864363
+      180Turn_89: -3751698648035061044
+      180Turn_9: -3838097579770138504
+      180Turn_90: -6720814658811043297
+      180Turn_91: -6963113769752942477
+      180Turn_92: 4328261865492854765
+      180Turn_93: 7375389471186022379
+      180Turn_94: 3574827141675906203
+      180Turn_95: 2382952602663226410
+      180Turn_96: 7693889208199692947
+      180Turn_97: -1083586219289273547
+      180Turn_98: -3669167994514318154
+      180Turn_99: 3072107552225081024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

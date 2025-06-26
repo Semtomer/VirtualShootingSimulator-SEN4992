@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f99bbef1c54c5e34781f4c5bd2d83d95
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19553
+  packageName: 2D Fantasy Forest Tileset
+  packageVersion: 1.0.3
+  assetPath: Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CollectableBounce.cs
+  uploadId: 70383

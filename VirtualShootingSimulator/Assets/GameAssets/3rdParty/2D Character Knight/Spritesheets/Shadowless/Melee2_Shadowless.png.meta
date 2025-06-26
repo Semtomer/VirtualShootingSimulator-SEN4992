@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: 98fcd8adafecb59478838da5b4b0134c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2522934613357912954
+    second: Melee2_Shadowless_0
+  - first:
+      213: -3476270841324915325
+    second: Melee2_Shadowless_1
+  - first:
+      213: -6864581729745620427
+    second: Melee2_Shadowless_2
+  - first:
+      213: 2532839547764339285
+    second: Melee2_Shadowless_3
+  - first:
+      213: 9007691410321822873
+    second: Melee2_Shadowless_4
+  - first:
+      213: 236869753302306878
+    second: Melee2_Shadowless_5
+  - first:
+      213: 699242648784609134
+    second: Melee2_Shadowless_6
+  - first:
+      213: -7145539671634275393
+    second: Melee2_Shadowless_7
+  - first:
+      213: -8542326119637212762
+    second: Melee2_Shadowless_8
+  - first:
+      213: -6315646328243896225
+    second: Melee2_Shadowless_9
+  - first:
+      213: -6121635900149896742
+    second: Melee2_Shadowless_10
+  - first:
+      213: -3901495381959999233
+    second: Melee2_Shadowless_11
+  - first:
+      213: -3324226092106420735
+    second: Melee2_Shadowless_12
+  - first:
+      213: -2925668232121641302
+    second: Melee2_Shadowless_13
+  - first:
+      213: 3051334650175748984
+    second: Melee2_Shadowless_14
+  - first:
+      213: -2035558705755094147
+    second: Melee2_Shadowless_15
+  - first:
+      213: -2200348525086155864
+    second: Melee2_Shadowless_16
+  - first:
+      213: -8037365637032554699
+    second: Melee2_Shadowless_17
+  - first:
+      213: -2202629527017807866
+    second: Melee2_Shadowless_18
+  - first:
+      213: -468425303406410983
+    second: Melee2_Shadowless_19
+  - first:
+      213: 8599720176005083906
+    second: Melee2_Shadowless_20
+  - first:
+      213: 4530805600549896826
+    second: Melee2_Shadowless_21
+  - first:
+      213: -864342329130268944
+    second: Melee2_Shadowless_22
+  - first:
+      213: -8671798982941663066
+    second: Melee2_Shadowless_23
+  - first:
+      213: 9042035840436127990
+    second: Melee2_Shadowless_24
+  - first:
+      213: -2103491539632087991
+    second: Melee2_Shadowless_25
+  - first:
+      213: -1447199482284304364
+    second: Melee2_Shadowless_26
+  - first:
+      213: -6118110407804399840
+    second: Melee2_Shadowless_27
+  - first:
+      213: 7219307727083453098
+    second: Melee2_Shadowless_28
+  - first:
+      213: -3447340875379611477
+    second: Melee2_Shadowless_29
+  - first:
+      213: 758275311442576562
+    second: Melee2_Shadowless_30
+  - first:
+      213: -6444931591734442311
+    second: Melee2_Shadowless_31
+  - first:
+      213: -7004610408834737957
+    second: Melee2_Shadowless_32
+  - first:
+      213: -3026882075604267554
+    second: Melee2_Shadowless_33
+  - first:
+      213: 2860834608007521772
+    second: Melee2_Shadowless_34
+  - first:
+      213: -1368668617508566610
+    second: Melee2_Shadowless_35
+  - first:
+      213: -3494909529623378101
+    second: Melee2_Shadowless_36
+  - first:
+      213: 5233099037391628786
+    second: Melee2_Shadowless_37
+  - first:
+      213: 4041758010256199843
+    second: Melee2_Shadowless_38
+  - first:
+      213: 8615447918683617355
+    second: Melee2_Shadowless_39
+  - first:
+      213: -2633484271875238171
+    second: Melee2_Shadowless_40
+  - first:
+      213: 108054170432743541
+    second: Melee2_Shadowless_41
+  - first:
+      213: -5953779082377524086
+    second: Melee2_Shadowless_42
+  - first:
+      213: 2959661847106950821
+    second: Melee2_Shadowless_43
+  - first:
+      213: -8572272005816445005
+    second: Melee2_Shadowless_44
+  - first:
+      213: -8475872893980911165
+    second: Melee2_Shadowless_45
+  - first:
+      213: -4190150149561311788
+    second: Melee2_Shadowless_46
+  - first:
+      213: 3398363973790099765
+    second: Melee2_Shadowless_47
+  - first:
+      213: 6136382178858717914
+    second: Melee2_Shadowless_48
+  - first:
+      213: 4133488184651228769
+    second: Melee2_Shadowless_49
+  - first:
+      213: 5085352334570615345
+    second: Melee2_Shadowless_50
+  - first:
+      213: -5071789471667918950
+    second: Melee2_Shadowless_51
+  - first:
+      213: 2365836915434105721
+    second: Melee2_Shadowless_52
+  - first:
+      213: -8930215996378917258
+    second: Melee2_Shadowless_53
+  - first:
+      213: 7783690385011391885
+    second: Melee2_Shadowless_54
+  - first:
+      213: -4007852908583893685
+    second: Melee2_Shadowless_55
+  - first:
+      213: -746771716985935756
+    second: Melee2_Shadowless_56
+  - first:
+      213: 1002977246821144123
+    second: Melee2_Shadowless_57
+  - first:
+      213: 4355425369020473485
+    second: Melee2_Shadowless_58
+  - first:
+      213: -2114707614603331791
+    second: Melee2_Shadowless_59
+  - first:
+      213: -5723919983192563757
+    second: Melee2_Shadowless_60
+  - first:
+      213: 596804090306369527
+    second: Melee2_Shadowless_61
+  - first:
+      213: -4278169956390105533
+    second: Melee2_Shadowless_62
+  - first:
+      213: -6940842943833992916
+    second: Melee2_Shadowless_63
+  - first:
+      213: 7208823705596699987
+    second: Melee2_Shadowless_64
+  - first:
+      213: 7658425604001098290
+    second: Melee2_Shadowless_65
+  - first:
+      213: -5117063968382232707
+    second: Melee2_Shadowless_66
+  - first:
+      213: -3168338055569652995
+    second: Melee2_Shadowless_67
+  - first:
+      213: 2523998753150211630
+    second: Melee2_Shadowless_68
+  - first:
+      213: -6125421947754443033
+    second: Melee2_Shadowless_69
+  - first:
+      213: -5351893986274141129
+    second: Melee2_Shadowless_70
+  - first:
+      213: -4961901177937748711
+    second: Melee2_Shadowless_71
+  - first:
+      213: -9059607465920627030
+    second: Melee2_Shadowless_72
+  - first:
+      213: -319973175892070509
+    second: Melee2_Shadowless_73
+  - first:
+      213: -2878261199696534600
+    second: Melee2_Shadowless_74
+  - first:
+      213: -876148524594200549
+    second: Melee2_Shadowless_75
+  - first:
+      213: 2867266776042668126
+    second: Melee2_Shadowless_76
+  - first:
+      213: 8603372994840109205
+    second: Melee2_Shadowless_77
+  - first:
+      213: -6989784582898340467
+    second: Melee2_Shadowless_78
+  - first:
+      213: 5813163726678759039
+    second: Melee2_Shadowless_79
+  - first:
+      213: -6106934296961408653
+    second: Melee2_Shadowless_80
+  - first:
+      213: -3907157717675100722
+    second: Melee2_Shadowless_81
+  - first:
+      213: 3201915355916535514
+    second: Melee2_Shadowless_82
+  - first:
+      213: 233715354787960287
+    second: Melee2_Shadowless_83
+  - first:
+      213: 8640853572229061636
+    second: Melee2_Shadowless_84
+  - first:
+      213: -6545554243902322632
+    second: Melee2_Shadowless_85
+  - first:
+      213: 543189569570505643
+    second: Melee2_Shadowless_86
+  - first:
+      213: 4513414313610456434
+    second: Melee2_Shadowless_87
+  - first:
+      213: 3063894576544470545
+    second: Melee2_Shadowless_88
+  - first:
+      213: 4354165249436077751
+    second: Melee2_Shadowless_89
+  - first:
+      213: 3511758310566044372
+    second: Melee2_Shadowless_90
+  - first:
+      213: -4046997154262249004
+    second: Melee2_Shadowless_91
+  - first:
+      213: 5851133066518328302
+    second: Melee2_Shadowless_92
+  - first:
+      213: 1242460792983267325
+    second: Melee2_Shadowless_93
+  - first:
+      213: -5898895927704045939
+    second: Melee2_Shadowless_94
+  - first:
+      213: -4113525500638037800
+    second: Melee2_Shadowless_95
+  - first:
+      213: -488964215778243152
+    second: Melee2_Shadowless_96
+  - first:
+      213: -2207932358758389708
+    second: Melee2_Shadowless_97
+  - first:
+      213: 2969346246769418462
+    second: Melee2_Shadowless_98
+  - first:
+      213: -4851686085912681373
+    second: Melee2_Shadowless_99
+  - first:
+      213: 1080449650021296707
+    second: Melee2_Shadowless_100
+  - first:
+      213: 3735738901748774953
+    second: Melee2_Shadowless_101
+  - first:
+      213: -2038364846462630649
+    second: Melee2_Shadowless_102
+  - first:
+      213: -1769804442309472409
+    second: Melee2_Shadowless_103
+  - first:
+      213: 7680925405805397024
+    second: Melee2_Shadowless_104
+  - first:
+      213: 6568757253735282541
+    second: Melee2_Shadowless_105
+  - first:
+      213: 4351546265833283488
+    second: Melee2_Shadowless_106
+  - first:
+      213: 8045647361581811426
+    second: Melee2_Shadowless_107
+  - first:
+      213: 2891608097396848964
+    second: Melee2_Shadowless_108
+  - first:
+      213: 7274602597214678553
+    second: Melee2_Shadowless_109
+  - first:
+      213: -2780972999788528741
+    second: Melee2_Shadowless_110
+  - first:
+      213: -34357509834390
+    second: Melee2_Shadowless_111
+  - first:
+      213: 1431863074362212194
+    second: Melee2_Shadowless_112
+  - first:
+      213: 3773073151344125700
+    second: Melee2_Shadowless_113
+  - first:
+      213: -1357233363791522846
+    second: Melee2_Shadowless_114
+  - first:
+      213: -1535364299543609508
+    second: Melee2_Shadowless_115
+  - first:
+      213: 766611781635336588
+    second: Melee2_Shadowless_116
+  - first:
+      213: -1779608032059539921
+    second: Melee2_Shadowless_117
+  - first:
+      213: 6163840613841303398
+    second: Melee2_Shadowless_118
+  - first:
+      213: -2451691510282963658
+    second: Melee2_Shadowless_119
+  - first:
+      213: 590873069111461040
+    second: Melee2_Shadowless_120
+  - first:
+      213: 3651739137011031770
+    second: Melee2_Shadowless_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Melee2_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9343165cbcfcd0800000000000000
+      internalID: -2522934613357912954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 469
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b7cf761ec1cfc0800000000000000
+      internalID: -3476270841324915325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 469
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53230e2794b1cb0a0800000000000000
+      internalID: -6864581729745620427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 470
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fd8d2624762320800000000000000
+      internalID: 2532839547764339285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 470
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d196ec9fb10d70800000000000000
+      internalID: 9007691410321822873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e305e9f19c7894300800000000000000
+      internalID: 236869753302306878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 469
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f1c9cfb7534b900800000000000000
+      internalID: 699242648784609134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 469
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb317cff681f5dc90800000000000000
+      internalID: -7145539671634275393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 469
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1ab7347af837980800000000000000
+      internalID: -8542326119637212762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 469
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c50e40215a58a0800000000000000
+      internalID: -6315646328243896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 469
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9694725949b0ba0800000000000000
+      internalID: -6121635900149896742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 469
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff082710f9a1bd9c0800000000000000
+      internalID: -3901495381959999233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 469
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e69e25bf9fdd1d0800000000000000
+      internalID: -3324226092106420735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 469
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa69eb56e30f567d0800000000000000
+      internalID: -2925668232121641302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 469
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf09a92b4885a20800000000000000
+      internalID: 3051334650175748984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d738308542e30c3e0800000000000000
+      internalID: -2035558705755094147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 405
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab5f24acaac671e0800000000000000
+      internalID: -2200348525086155864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f4eb2798a857090800000000000000
+      internalID: -8037365637032554699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 405
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600215e7d10be61e0800000000000000
+      internalID: -2202629527017807866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 403
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91308aa1ba1df79f0800000000000000
+      internalID: -468425303406410983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 401
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203fa82dfe7585770800000000000000
+      internalID: 8599720176005083906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 401
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72802f30b7a0ee30800000000000000
+      internalID: 4530805600549896826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 401
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f64bdb2b3d3104f0800000000000000
+      internalID: -864342329130268944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 401
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02b2a25c497a780800000000000000
+      internalID: -8671798982941663066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 402
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8cb8ba0b3cb7d70800000000000000
+      internalID: 9042035840436127990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 405
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9038e695eec2e0800000000000000
+      internalID: -2103491539632087991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 404
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418905b0db38aebe0800000000000000
+      internalID: -1447199482284304364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc23ecffa181ba0800000000000000
+      internalID: -6118110407804399840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaba05d022203460800000000000000
+      internalID: 7219307727083453098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba860571db59820d0800000000000000
+      internalID: -3447340875379611477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4cb74d06fe58a00800000000000000
+      internalID: 758275311442576562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 339
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c9f03dd00f86a0800000000000000
+      internalID: -6444931591734442311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 339
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d667f1ff9ace90800000000000000
+      internalID: -7004610408834737957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 339
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4c921aca5ef5d0800000000000000
+      internalID: -3026882075604267554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 339
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ae6b2be9b3b720800000000000000
+      internalID: 2860834608007521772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea94d26d423810de0800000000000000
+      internalID: -1368668617508566610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 336
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47cba4bc469f7fc0800000000000000
+      internalID: -3494909529623378101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 328
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9aa2e29d3bf9840800000000000000
+      internalID: 5233099037391628786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 336
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a019650f75371830800000000000000
+      internalID: 4041758010256199843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 338
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f3064c38309770800000000000000
+      internalID: 8615447918683617355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 339
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e65c4de10cf37bd0800000000000000
+      internalID: -2633484271875238171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 339
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578a42d02b2ef7100800000000000000
+      internalID: 108054170432743541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c8cb3187def5da0800000000000000
+      internalID: -5953779082377524086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 339
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6161cd4c4d21920800000000000000
+      internalID: 2959661847106950821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7194f470c290980800000000000000
+      internalID: -8572272005816445005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d7e09286af5a80800000000000000
+      internalID: -8475872893980911165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 275
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd19dba3a899d5c0800000000000000
+      internalID: -4190150149561311788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 275
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396e33670a692f20800000000000000
+      internalID: 3398363973790099765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad259e8641fc82550800000000000000
+      internalID: 6136382178858717914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 275
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16629619a991d5930800000000000000
+      internalID: 4133488184651228769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 275
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132f8c3410dc29640800000000000000
+      internalID: 5085352334570615345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 274
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97eaa5d8526d99b0800000000000000
+      internalID: -5071789471667918950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 275
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ba4fcc32425d020800000000000000
+      internalID: 2365836915434105721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 276
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d2589ddf711480800000000000000
+      internalID: -8930215996378917258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 276
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d3a385a29350c60800000000000000
+      internalID: 7783690385011391885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 295
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4547df930f3168c0800000000000000
+      internalID: -4007852908583893685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 276
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478aeb8741fe2a5f0800000000000000
+      internalID: -746771716985935756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 276
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d292fd7a4bed00800000000000000
+      internalID: 1002977246821144123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 276
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a03e0c44917c30800000000000000
+      internalID: 4355425369020473485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 275
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13731c3f0ac07a2e0800000000000000
+      internalID: -2114707614603331791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df1c071a1d8090b0800000000000000
+      internalID: -5723919983192563757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7163b7826484800800000000000000
+      internalID: 596804090306369527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 214
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8e946713e0a4c0800000000000000
+      internalID: -4278169956390105533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c219ff2ed1c2daf90800000000000000
+      internalID: -6940842943833992916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 214
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a18c57f2ea0460800000000000000
+      internalID: 7208823705596699987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 214
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aed31c281384a60800000000000000
+      internalID: 7658425604001098290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 214
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7750af9e698cf8b0800000000000000
+      internalID: -5117063968382232707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 214
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df24b65335dc704d0800000000000000
+      internalID: -3168338055569652995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 209
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261c074e7b070320800000000000000
+      internalID: 2523998753150211630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 215
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee07b041312efaa0800000000000000
+      internalID: -6125421947754443033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 214
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c949866c04ab5b0800000000000000
+      internalID: -5351893986274141129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 214
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d9d6efa29c32bb0800000000000000
+      internalID: -4961901177937748711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 214
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaef255720fc54280800000000000000
+      internalID: -9059607465920627030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 214
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fac41871a3f8bf0800000000000000
+      internalID: -319973175892070509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 214
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b36c4540bc5e08d0800000000000000
+      internalID: -2878261199696534600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 214
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1084151f8b47d3f0800000000000000
+      internalID: -876148524594200549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 214
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e508d4ef0f39ac720800000000000000
+      internalID: 2867266776042668126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59022abf722556770800000000000000
+      internalID: 8603372994840109205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 149
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8da7df84fb4ffe90800000000000000
+      internalID: -6989784582898340467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 150
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769fd52c918ca050800000000000000
+      internalID: 5813163726678759039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37127f2ec9fcf3ba0800000000000000
+      internalID: -6106934296961408653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 153
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5bc8cb1ccf6c9c0800000000000000
+      internalID: -3907157717675100722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 153
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6064e3d0d7f6c20800000000000000
+      internalID: 3201915355916535514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5d0bc70e25e3300800000000000000
+      internalID: 233715354787960287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 146
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd0e0fa8a7ae770800000000000000
+      internalID: 8640853572229061636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 146
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c62258158925a0800000000000000
+      internalID: -6545554243902322632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 153
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba382fb190cc98700800000000000000
+      internalID: 543189569570505643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 153
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2ae6b76ed2ae30800000000000000
+      internalID: 4513414313610456434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 151
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116dd2852e3258a20800000000000000
+      internalID: 3063894576544470545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 149
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beccf9993a1d6c30800000000000000
+      internalID: 4354165249436077751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 149
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a05ec3954cb030800000000000000
+      internalID: 3511758310566044372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 149
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d19e25b78d26d7c0800000000000000
+      internalID: -4046997154262249004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3fd5bf586633150800000000000000
+      internalID: 5851133066518328302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72e15228b1e3110800000000000000
+      internalID: 1242460792983267325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 84
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b33e4869e22ea0800000000000000
+      internalID: -5898895927704045939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d875fff952d9e6c0800000000000000
+      internalID: -4113525500638037800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 91
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd09aae2a9d639f0800000000000000
+      internalID: -488964215778243152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 91
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438ad14c739db51e0800000000000000
+      internalID: -2207932358758389708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 89
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a4ddddac353920800000000000000
+      internalID: 2969346246769418462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 82
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364287fc5395bacb0800000000000000
+      internalID: -4851686085912681373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 82
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ae6337b378efe00800000000000000
+      internalID: 1080449650021296707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 91
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f7540db208d330800000000000000
+      internalID: 3735738901748774953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 88
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70583fbc8f546b3e0800000000000000
+      internalID: -2038364846462630649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 85
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4c3e8c346077e0800000000000000
+      internalID: -1769804442309472409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 84
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024cd4716f0289a60800000000000000
+      internalID: 7680925405805397024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6779a46be9e82b50800000000000000
+      internalID: 6568757253735282541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 84
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af9ba6f54cc36c30800000000000000
+      internalID: 4351546265833283488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6842fc5a1e7af60800000000000000
+      internalID: 8045647361581811426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4497bf28e3e012820800000000000000
+      internalID: 2891608097396848964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e6d19058494f460800000000000000
+      internalID: 7274602597214678553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 22
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bf6a97acff769d0800000000000000
+      internalID: -2780972999788528741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69b4d480c0effff0800000000000000
+      internalID: -34357509834390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 25
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbb5a31effed310800000000000000
+      internalID: 1431863074362212194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 25
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4072e616a06ac5430800000000000000
+      internalID: 3773073151344125700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 25
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d5e152732a2de0800000000000000
+      internalID: -1357233363791522846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 26
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ff2e4ed4a41bae0800000000000000
+      internalID: -1535364299543609508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 25
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e00d8a5d83aa00800000000000000
+      internalID: 766611781635336588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 22
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eb8a17cef8d47e0800000000000000
+      internalID: -1779608032059539921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 20
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667f220816c5a8550800000000000000
+      internalID: 6163840613841303398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 19
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6353ebe9f87d9fdd0800000000000000
+      internalID: -2451691510282963658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4cbbffce3333800800000000000000
+      internalID: 590873069111461040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Melee2_Shadowless_121
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 19
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade1fe9b5659da230800000000000000
+      internalID: 3651739137011031770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Melee2_Shadowless_0: -2522934613357912954
+      Melee2_Shadowless_1: -3476270841324915325
+      Melee2_Shadowless_10: -6121635900149896742
+      Melee2_Shadowless_100: 1080449650021296707
+      Melee2_Shadowless_101: 3735738901748774953
+      Melee2_Shadowless_102: -2038364846462630649
+      Melee2_Shadowless_103: -1769804442309472409
+      Melee2_Shadowless_104: 7680925405805397024
+      Melee2_Shadowless_105: 6568757253735282541
+      Melee2_Shadowless_106: 4351546265833283488
+      Melee2_Shadowless_107: 8045647361581811426
+      Melee2_Shadowless_108: 2891608097396848964
+      Melee2_Shadowless_109: 7274602597214678553
+      Melee2_Shadowless_11: -3901495381959999233
+      Melee2_Shadowless_110: -2780972999788528741
+      Melee2_Shadowless_111: -34357509834390
+      Melee2_Shadowless_112: 1431863074362212194
+      Melee2_Shadowless_113: 3773073151344125700
+      Melee2_Shadowless_114: -1357233363791522846
+      Melee2_Shadowless_115: -1535364299543609508
+      Melee2_Shadowless_116: 766611781635336588
+      Melee2_Shadowless_117: -1779608032059539921
+      Melee2_Shadowless_118: 6163840613841303398
+      Melee2_Shadowless_119: -2451691510282963658
+      Melee2_Shadowless_12: -3324226092106420735
+      Melee2_Shadowless_120: 590873069111461040
+      Melee2_Shadowless_121: 3651739137011031770
+      Melee2_Shadowless_13: -2925668232121641302
+      Melee2_Shadowless_14: 3051334650175748984
+      Melee2_Shadowless_15: -2035558705755094147
+      Melee2_Shadowless_16: -2200348525086155864
+      Melee2_Shadowless_17: -8037365637032554699
+      Melee2_Shadowless_18: -2202629527017807866
+      Melee2_Shadowless_19: -468425303406410983
+      Melee2_Shadowless_2: -6864581729745620427
+      Melee2_Shadowless_20: 8599720176005083906
+      Melee2_Shadowless_21: 4530805600549896826
+      Melee2_Shadowless_22: -864342329130268944
+      Melee2_Shadowless_23: -8671798982941663066
+      Melee2_Shadowless_24: 9042035840436127990
+      Melee2_Shadowless_25: -2103491539632087991
+      Melee2_Shadowless_26: -1447199482284304364
+      Melee2_Shadowless_27: -6118110407804399840
+      Melee2_Shadowless_28: 7219307727083453098
+      Melee2_Shadowless_29: -3447340875379611477
+      Melee2_Shadowless_3: 2532839547764339285
+      Melee2_Shadowless_30: 758275311442576562
+      Melee2_Shadowless_31: -6444931591734442311
+      Melee2_Shadowless_32: -7004610408834737957
+      Melee2_Shadowless_33: -3026882075604267554
+      Melee2_Shadowless_34: 2860834608007521772
+      Melee2_Shadowless_35: -1368668617508566610
+      Melee2_Shadowless_36: -3494909529623378101
+      Melee2_Shadowless_37: 5233099037391628786
+      Melee2_Shadowless_38: 4041758010256199843
+      Melee2_Shadowless_39: 8615447918683617355
+      Melee2_Shadowless_4: 9007691410321822873
+      Melee2_Shadowless_40: -2633484271875238171
+      Melee2_Shadowless_41: 108054170432743541
+      Melee2_Shadowless_42: -5953779082377524086
+      Melee2_Shadowless_43: 2959661847106950821
+      Melee2_Shadowless_44: -8572272005816445005
+      Melee2_Shadowless_45: -8475872893980911165
+      Melee2_Shadowless_46: -4190150149561311788
+      Melee2_Shadowless_47: 3398363973790099765
+      Melee2_Shadowless_48: 6136382178858717914
+      Melee2_Shadowless_49: 4133488184651228769
+      Melee2_Shadowless_5: 236869753302306878
+      Melee2_Shadowless_50: 5085352334570615345
+      Melee2_Shadowless_51: -5071789471667918950
+      Melee2_Shadowless_52: 2365836915434105721
+      Melee2_Shadowless_53: -8930215996378917258
+      Melee2_Shadowless_54: 7783690385011391885
+      Melee2_Shadowless_55: -4007852908583893685
+      Melee2_Shadowless_56: -746771716985935756
+      Melee2_Shadowless_57: 1002977246821144123
+      Melee2_Shadowless_58: 4355425369020473485
+      Melee2_Shadowless_59: -2114707614603331791
+      Melee2_Shadowless_6: 699242648784609134
+      Melee2_Shadowless_60: -5723919983192563757
+      Melee2_Shadowless_61: 596804090306369527
+      Melee2_Shadowless_62: -4278169956390105533
+      Melee2_Shadowless_63: -6940842943833992916
+      Melee2_Shadowless_64: 7208823705596699987
+      Melee2_Shadowless_65: 7658425604001098290
+      Melee2_Shadowless_66: -5117063968382232707
+      Melee2_Shadowless_67: -3168338055569652995
+      Melee2_Shadowless_68: 2523998753150211630
+      Melee2_Shadowless_69: -6125421947754443033
+      Melee2_Shadowless_7: -7145539671634275393
+      Melee2_Shadowless_70: -5351893986274141129
+      Melee2_Shadowless_71: -4961901177937748711
+      Melee2_Shadowless_72: -9059607465920627030
+      Melee2_Shadowless_73: -319973175892070509
+      Melee2_Shadowless_74: -2878261199696534600
+      Melee2_Shadowless_75: -876148524594200549
+      Melee2_Shadowless_76: 2867266776042668126
+      Melee2_Shadowless_77: 8603372994840109205
+      Melee2_Shadowless_78: -6989784582898340467
+      Melee2_Shadowless_79: 5813163726678759039
+      Melee2_Shadowless_8: -8542326119637212762
+      Melee2_Shadowless_80: -6106934296961408653
+      Melee2_Shadowless_81: -3907157717675100722
+      Melee2_Shadowless_82: 3201915355916535514
+      Melee2_Shadowless_83: 233715354787960287
+      Melee2_Shadowless_84: 8640853572229061636
+      Melee2_Shadowless_85: -6545554243902322632
+      Melee2_Shadowless_86: 543189569570505643
+      Melee2_Shadowless_87: 4513414313610456434
+      Melee2_Shadowless_88: 3063894576544470545
+      Melee2_Shadowless_89: 4354165249436077751
+      Melee2_Shadowless_9: -6315646328243896225
+      Melee2_Shadowless_90: 3511758310566044372
+      Melee2_Shadowless_91: -4046997154262249004
+      Melee2_Shadowless_92: 5851133066518328302
+      Melee2_Shadowless_93: 1242460792983267325
+      Melee2_Shadowless_94: -5898895927704045939
+      Melee2_Shadowless_95: -4113525500638037800
+      Melee2_Shadowless_96: -488964215778243152
+      Melee2_Shadowless_97: -2207932358758389708
+      Melee2_Shadowless_98: 2969346246769418462
+      Melee2_Shadowless_99: -4851686085912681373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

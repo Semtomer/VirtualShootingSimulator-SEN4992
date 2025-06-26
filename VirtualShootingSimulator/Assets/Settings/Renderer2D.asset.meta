@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 424799608f7334c24bf367e4bbfa7f9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 256585
+  packageName: 2D Sugar World Asset Pack | URP
+  packageVersion: 1.0
+  assetPath: Assets/Settings/Renderer2D.asset
+  uploadId: 589733

@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 8d92bb3ac47dba24181308305b347dee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2862812682215527030
+    second: SlideEnd_Shadowless_0
+  - first:
+      213: -6971405278709109695
+    second: SlideEnd_Shadowless_1
+  - first:
+      213: -1429225703676641382
+    second: SlideEnd_Shadowless_2
+  - first:
+      213: 1035237118735104142
+    second: SlideEnd_Shadowless_3
+  - first:
+      213: -5009022498735711128
+    second: SlideEnd_Shadowless_4
+  - first:
+      213: 339198498910535115
+    second: SlideEnd_Shadowless_5
+  - first:
+      213: -1910704886894844544
+    second: SlideEnd_Shadowless_6
+  - first:
+      213: 1081459599439404285
+    second: SlideEnd_Shadowless_7
+  - first:
+      213: -4244477811485041533
+    second: SlideEnd_Shadowless_8
+  - first:
+      213: 5676029048271623649
+    second: SlideEnd_Shadowless_9
+  - first:
+      213: 7256616066200828826
+    second: SlideEnd_Shadowless_10
+  - first:
+      213: -572109171275205268
+    second: SlideEnd_Shadowless_11
+  - first:
+      213: -5910064503916576060
+    second: SlideEnd_Shadowless_12
+  - first:
+      213: 1677464169854245806
+    second: SlideEnd_Shadowless_13
+  - first:
+      213: -4970224472732063124
+    second: SlideEnd_Shadowless_14
+  - first:
+      213: 7783403361654624551
+    second: SlideEnd_Shadowless_15
+  - first:
+      213: -7907733255385970475
+    second: SlideEnd_Shadowless_16
+  - first:
+      213: 6920295736677975869
+    second: SlideEnd_Shadowless_17
+  - first:
+      213: -4078210169516001439
+    second: SlideEnd_Shadowless_18
+  - first:
+      213: 3033595645254902796
+    second: SlideEnd_Shadowless_19
+  - first:
+      213: -7487396861954101711
+    second: SlideEnd_Shadowless_20
+  - first:
+      213: 7776767433038043517
+    second: SlideEnd_Shadowless_21
+  - first:
+      213: 5507388563090620261
+    second: SlideEnd_Shadowless_22
+  - first:
+      213: 6542912820231299253
+    second: SlideEnd_Shadowless_23
+  - first:
+      213: 3145735918126555350
+    second: SlideEnd_Shadowless_24
+  - first:
+      213: 1516038772741554419
+    second: SlideEnd_Shadowless_25
+  - first:
+      213: -7524962237021337334
+    second: SlideEnd_Shadowless_26
+  - first:
+      213: 4113213037201307424
+    second: SlideEnd_Shadowless_27
+  - first:
+      213: -7714707079142845804
+    second: SlideEnd_Shadowless_28
+  - first:
+      213: -7858019579134935700
+    second: SlideEnd_Shadowless_29
+  - first:
+      213: -191654256624469654
+    second: SlideEnd_Shadowless_30
+  - first:
+      213: 5493519750155484599
+    second: SlideEnd_Shadowless_31
+  - first:
+      213: -1301410647942041417
+    second: SlideEnd_Shadowless_32
+  - first:
+      213: -4688893731892096741
+    second: SlideEnd_Shadowless_33
+  - first:
+      213: 2593847825658047176
+    second: SlideEnd_Shadowless_34
+  - first:
+      213: 6014740663396948151
+    second: SlideEnd_Shadowless_35
+  - first:
+      213: 1554633032771950184
+    second: SlideEnd_Shadowless_36
+  - first:
+      213: -1183136678874261343
+    second: SlideEnd_Shadowless_37
+  - first:
+      213: 2622757370022718251
+    second: SlideEnd_Shadowless_38
+  - first:
+      213: -8150524146597154973
+    second: SlideEnd_Shadowless_39
+  - first:
+      213: -161287810515065895
+    second: SlideEnd_Shadowless_40
+  - first:
+      213: -7583553587571180650
+    second: SlideEnd_Shadowless_41
+  - first:
+      213: 6703537430590944251
+    second: SlideEnd_Shadowless_42
+  - first:
+      213: -8133034463059605379
+    second: SlideEnd_Shadowless_43
+  - first:
+      213: 5547975455982998106
+    second: SlideEnd_Shadowless_44
+  - first:
+      213: 4828637699754632523
+    second: SlideEnd_Shadowless_45
+  - first:
+      213: 6565518442983276117
+    second: SlideEnd_Shadowless_46
+  - first:
+      213: 1023148558122057797
+    second: SlideEnd_Shadowless_47
+  - first:
+      213: 1041045572519227096
+    second: SlideEnd_Shadowless_48
+  - first:
+      213: -2040201176721065792
+    second: SlideEnd_Shadowless_49
+  - first:
+      213: 1861916363707325910
+    second: SlideEnd_Shadowless_50
+  - first:
+      213: -5517750949074067559
+    second: SlideEnd_Shadowless_51
+  - first:
+      213: 7215428009722636708
+    second: SlideEnd_Shadowless_52
+  - first:
+      213: 3325655148961752424
+    second: SlideEnd_Shadowless_53
+  - first:
+      213: 3138428598801216711
+    second: SlideEnd_Shadowless_54
+  - first:
+      213: -2427152192486839122
+    second: SlideEnd_Shadowless_55
+  - first:
+      213: 5997551511913283352
+    second: SlideEnd_Shadowless_56
+  - first:
+      213: -7514084544744035189
+    second: SlideEnd_Shadowless_57
+  - first:
+      213: -8585794142392029636
+    second: SlideEnd_Shadowless_58
+  - first:
+      213: -5853789136098316564
+    second: SlideEnd_Shadowless_59
+  - first:
+      213: -6471204176772850909
+    second: SlideEnd_Shadowless_60
+  - first:
+      213: -7041223292333531000
+    second: SlideEnd_Shadowless_61
+  - first:
+      213: 8879837071167921471
+    second: SlideEnd_Shadowless_62
+  - first:
+      213: 7544139449774756701
+    second: SlideEnd_Shadowless_63
+  - first:
+      213: -7569393855839485771
+    second: SlideEnd_Shadowless_64
+  - first:
+      213: 4728456623570143554
+    second: SlideEnd_Shadowless_65
+  - first:
+      213: -3827228741469263971
+    second: SlideEnd_Shadowless_66
+  - first:
+      213: -5267719023347370973
+    second: SlideEnd_Shadowless_67
+  - first:
+      213: 6166892961149977500
+    second: SlideEnd_Shadowless_68
+  - first:
+      213: 4848690288274192282
+    second: SlideEnd_Shadowless_69
+  - first:
+      213: -7502273907192614197
+    second: SlideEnd_Shadowless_70
+  - first:
+      213: -8642921529439825652
+    second: SlideEnd_Shadowless_71
+  - first:
+      213: -5745291684319544920
+    second: SlideEnd_Shadowless_72
+  - first:
+      213: -8321439252339757229
+    second: SlideEnd_Shadowless_73
+  - first:
+      213: 3499986349667343623
+    second: SlideEnd_Shadowless_74
+  - first:
+      213: -895226946735672349
+    second: SlideEnd_Shadowless_75
+  - first:
+      213: -3032450381324950914
+    second: SlideEnd_Shadowless_76
+  - first:
+      213: 2702734559084869746
+    second: SlideEnd_Shadowless_77
+  - first:
+      213: 746407960954342562
+    second: SlideEnd_Shadowless_78
+  - first:
+      213: -453530840692134397
+    second: SlideEnd_Shadowless_79
+  - first:
+      213: -279615996230568124
+    second: SlideEnd_Shadowless_80
+  - first:
+      213: -3196573225566446873
+    second: SlideEnd_Shadowless_81
+  - first:
+      213: -2580668230786830895
+    second: SlideEnd_Shadowless_82
+  - first:
+      213: -512225145546781317
+    second: SlideEnd_Shadowless_83
+  - first:
+      213: 3403966163063387589
+    second: SlideEnd_Shadowless_84
+  - first:
+      213: -8217407491994839960
+    second: SlideEnd_Shadowless_85
+  - first:
+      213: 8254700432081284895
+    second: SlideEnd_Shadowless_86
+  - first:
+      213: -5985198421174877517
+    second: SlideEnd_Shadowless_87
+  - first:
+      213: -5857960696023713469
+    second: SlideEnd_Shadowless_88
+  - first:
+      213: -2728955249949703158
+    second: SlideEnd_Shadowless_89
+  - first:
+      213: -1042361460265956938
+    second: SlideEnd_Shadowless_90
+  - first:
+      213: -8964931063136886115
+    second: SlideEnd_Shadowless_91
+  - first:
+      213: 408403746863992475
+    second: SlideEnd_Shadowless_92
+  - first:
+      213: -2325385033764658195
+    second: SlideEnd_Shadowless_93
+  - first:
+      213: 7057810650611179699
+    second: SlideEnd_Shadowless_94
+  - first:
+      213: -1884936310893568461
+    second: SlideEnd_Shadowless_95
+  - first:
+      213: 5388332351642371271
+    second: SlideEnd_Shadowless_96
+  - first:
+      213: 7785267897827430650
+    second: SlideEnd_Shadowless_97
+  - first:
+      213: 2923415057945770386
+    second: SlideEnd_Shadowless_98
+  - first:
+      213: 4680386663284998829
+    second: SlideEnd_Shadowless_99
+  - first:
+      213: 1886001955138315206
+    second: SlideEnd_Shadowless_100
+  - first:
+      213: 6140633303071764794
+    second: SlideEnd_Shadowless_101
+  - first:
+      213: 7587508656646170597
+    second: SlideEnd_Shadowless_102
+  - first:
+      213: 1101701883836634988
+    second: SlideEnd_Shadowless_103
+  - first:
+      213: 2335613603104140738
+    second: SlideEnd_Shadowless_104
+  - first:
+      213: -3670948515134012159
+    second: SlideEnd_Shadowless_105
+  - first:
+      213: 6885351709704901701
+    second: SlideEnd_Shadowless_106
+  - first:
+      213: 7438585453320584577
+    second: SlideEnd_Shadowless_107
+  - first:
+      213: 7362210006744002442
+    second: SlideEnd_Shadowless_108
+  - first:
+      213: 2272623652096496409
+    second: SlideEnd_Shadowless_109
+  - first:
+      213: 859275745650549780
+    second: SlideEnd_Shadowless_110
+  - first:
+      213: -6659515688849435023
+    second: SlideEnd_Shadowless_111
+  - first:
+      213: 1461592301736232462
+    second: SlideEnd_Shadowless_112
+  - first:
+      213: 4657050332938741202
+    second: SlideEnd_Shadowless_113
+  - first:
+      213: 3635130371107835506
+    second: SlideEnd_Shadowless_114
+  - first:
+      213: -6307829560873580100
+    second: SlideEnd_Shadowless_115
+  - first:
+      213: 2593836879086913439
+    second: SlideEnd_Shadowless_116
+  - first:
+      213: 5027459327891863482
+    second: SlideEnd_Shadowless_117
+  - first:
+      213: 1766119099849456686
+    second: SlideEnd_Shadowless_118
+  - first:
+      213: -603833574063180151
+    second: SlideEnd_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 457
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6f0a880f3548d0800000000000000
+      internalID: -2862812682215527030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 459
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca249c5d7904f90800000000000000
+      internalID: -6971405278709109695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 461
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffe7c7bce5a2ce0800000000000000
+      internalID: -1429225703676641382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 462
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e883180bca6ed5e00800000000000000
+      internalID: 1035237118735104142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 466
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1bea83906c7ab0800000000000000
+      internalID: -5009022498735711128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 470
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd78e3dc3315b400800000000000000
+      internalID: 339198498910535115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 471
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a70a5700db75e0800000000000000
+      internalID: -1910704886894844544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 471
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc958f96cd120f00800000000000000
+      internalID: 1081459599439404285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 471
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c186d2be59815c0800000000000000
+      internalID: -4244477811485041533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 471
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55705b85e45ce40800000000000000
+      internalID: 5676029048271623649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 471
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfa417ddda4b460800000000000000
+      internalID: 7256616066200828826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 471
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f5696db57f08f0800000000000000
+      internalID: -572109171275205268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 471
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2486485ab3bfda0800000000000000
+      internalID: -5910064503916576060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 471
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9b9f56cc874710800000000000000
+      internalID: 1677464169854245806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 471
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a2ad8ec27360bb0800000000000000
+      internalID: -4970224472732063124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72151038e14340c60800000000000000
+      internalID: 7783403361654624551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 403
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80d2e4086124290800000000000000
+      internalID: -7907733255385970475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 403
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d374755ae44d90060800000000000000
+      internalID: 6920295736677975869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 402
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fc9645794767c0800000000000000
+      internalID: -4078210169516001439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 403
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04279baa2f791a20800000000000000
+      internalID: 3033595645254902796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 404
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ee9d6593c671890800000000000000
+      internalID: -7487396861954101711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 405
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791f0bf6c0aceb60800000000000000
+      internalID: 7776767433038043517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 405
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb01ff7bc2e6c40800000000000000
+      internalID: 5507388563090620261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b06c3e4b881dca50800000000000000
+      internalID: 6542912820231299253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 405
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ee159626e7ab20800000000000000
+      internalID: 3145735918126555350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 406
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0caf24b3d0a0510800000000000000
+      internalID: 1516038772741554419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 405
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a094d12e6b6f19790800000000000000
+      internalID: -7524962237021337334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 405
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027b3efe671151930800000000000000
+      internalID: 4113213037201307424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 405
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492df7929cadfe490800000000000000
+      internalID: -7714707079142845804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 405
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df89b83d4b2f290800000000000000
+      internalID: -7858019579134935700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69f432187b175df0800000000000000
+      internalID: -191654256624469654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 336
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3c9a5b17ec3c40800000000000000
+      internalID: 5493519750155484599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f08e29e570fde0800000000000000
+      internalID: -1301410647942041417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 338
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1114016ef3bdeeb0800000000000000
+      internalID: -4688893731892096741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 338
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca64c9cad23ff320800000000000000
+      internalID: 2593847825658047176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85fd114c6a87350800000000000000
+      internalID: 6014740663396948151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 339
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866d57aa18a239510800000000000000
+      internalID: 1554633032771950184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 339
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d6f68577a49fe0800000000000000
+      internalID: -1183136678874261343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 339
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bed3c9ee7e56420800000000000000
+      internalID: 2622757370022718251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 341
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f25d4d87583ee80800000000000000
+      internalID: -8150524146597154973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 340
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d326a3479df2cdf0800000000000000
+      internalID: -161287810515065895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 340
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3ea5013ec1c690800000000000000
+      internalID: -7583553587571180650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 340
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf378e8b6cfb70d50800000000000000
+      internalID: 6703537430590944251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 341
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78825b1f38a12f80800000000000000
+      internalID: -8133034463059605379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 341
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d374684e5efc40800000000000000
+      internalID: 5547975455982998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 273
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b452fea9764c20340800000000000000
+      internalID: 4828637699754632523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 274
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e3b400d386d1b50800000000000000
+      internalID: 6565518442983276117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 275
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54081575134f23e00800000000000000
+      internalID: 1023148558122057797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6009be69827e00800000000000000
+      internalID: 1041045572519227096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 276
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f437d6dfbfa3e0800000000000000
+      internalID: -2040201176721065792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 275
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1344611bd6d910800000000000000
+      internalID: 1861916363707325910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 275
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f9d510fb20d63b0800000000000000
+      internalID: -5517750949074067559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 276
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ebedbb89522460800000000000000
+      internalID: 7215428009722636708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 276
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656057ecb9172e20800000000000000
+      internalID: 3325655148961752424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43978be20fd8b20800000000000000
+      internalID: 3138428598801216711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 276
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace207c0f5015ed0800000000000000
+      internalID: -2427152192486839122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fb2bdd2559b3350800000000000000
+      internalID: 5997551511913283352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 279
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c674afaeb98b790800000000000000
+      internalID: -7514084544744035189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 280
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ee71c87b129d880800000000000000
+      internalID: -8585794142392029636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 280
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea1d0abc923cea0800000000000000
+      internalID: -5853789136098316564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1e6e461aa136a0800000000000000
+      internalID: -6471204176772850909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e04cb8bc884e90800000000000000
+      internalID: -7041223292333531000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d1f42d4c48b3b70800000000000000
+      internalID: 8879837071167921471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 212
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53d5d7ebda22b860800000000000000
+      internalID: 7544139449774756701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c9a9746c14f690800000000000000
+      internalID: -7569393855839485771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249cdb72f3ade9140800000000000000
+      internalID: 4728456623570143554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 212
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d972f86bcb3f2eac0800000000000000
+      internalID: -3827228741469263971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 212
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ffc4357d45e6b0800000000000000
+      internalID: -5267719023347370973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 212
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93833d7974359550800000000000000
+      internalID: 6166892961149977500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 213
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973872b0220a4340800000000000000
+      internalID: 4848690288274192282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 214
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc23a1251a192e790800000000000000
+      internalID: -7502273907192614197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 215
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d92049ac2e0880800000000000000
+      internalID: -8642921529439825652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b02927af9440b0800000000000000
+      internalID: -5745291684319544920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 215
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35feb40c61f448c80800000000000000
+      internalID: -8321439252339757229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 215
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d53a29a03729030800000000000000
+      internalID: 3499986349667343623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 149
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37676c5d38393f0800000000000000
+      internalID: -895226946735672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e02ed1729ae5d0800000000000000
+      internalID: -3032450381324950914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278fc6403ca028520800000000000000
+      internalID: 2702734559084869746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac053af516cb5a00800000000000000
+      internalID: 746407960954342562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 149
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e6cd17a1cb4b9f0800000000000000
+      internalID: -453530840692134397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 148
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f82f9bba9e1cf0800000000000000
+      internalID: -279615996230568124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 148
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5697669d73a3d0800000000000000
+      internalID: -3196573225566446873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda0d4caef9f2cd0800000000000000
+      internalID: -2580668230786830895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d49aaa1f534e8f0800000000000000
+      internalID: -512225145546781317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 147
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b7d8b0315d3f20800000000000000
+      internalID: 3403966163063387589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 148
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86493097c67e5fd80800000000000000
+      internalID: -8217407491994839960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 148
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe775ce469e8270800000000000000
+      internalID: 8254700432081284895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 149
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b284a33fbd40fca0800000000000000
+      internalID: -5985198421174877517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 150
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497e45a8c754bea0800000000000000
+      internalID: -5857960696023713469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 149
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048fc6a8adc02ad0800000000000000
+      internalID: -2728955249949703158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b94a4946c9c881f0800000000000000
+      internalID: -1042361460265956938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926cd142ba269380800000000000000
+      internalID: -8964931063136886115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e44c04b01faa500800000000000000
+      internalID: 408403746863992475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 86
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a278d1a29abfd0800000000000000
+      internalID: -2325385033764658195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 86
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0e5a1946162f160800000000000000
+      internalID: 7057810650611179699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 86
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e14fc796c57d5e0800000000000000
+      internalID: -1884936310893568461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48367a9b337ca40800000000000000
+      internalID: 5388332351642371271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 85
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0914ba7e3da0c60800000000000000
+      internalID: 7785267897827430650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 84
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b2eb918e029820800000000000000
+      internalID: 2923415057945770386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 84
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2049c5fd214f040800000000000000
+      internalID: 4680386663284998829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 83
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c326b529cc6c2a10800000000000000
+      internalID: 1886001955138315206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 84
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31b6856479e73550800000000000000
+      internalID: 6140633303071764794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 84
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7a8914cee3c4960800000000000000
+      internalID: 7587508656646170597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 85
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67167ab6080a4f00800000000000000
+      internalID: 1101701883836634988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 85
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda7998234c96020800000000000000
+      internalID: 2335613603104140738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10580b666cb2e0dc0800000000000000
+      internalID: -3670948515134012159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 12
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d69a56eead8f50800000000000000
+      internalID: 6885351709704901701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 14
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dbf88fe0a2b3760800000000000000
+      internalID: 7438585453320584577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 19
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f6dc59ef2db2660800000000000000
+      internalID: 7362210006744002442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913dc53bb2bf98f10800000000000000
+      internalID: 2272623652096496409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4142c9fecb2cceb00800000000000000
+      internalID: 859275745650549780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 22
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761dfdb3c5a493a0800000000000000
+      internalID: -6659515688849435023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e060f6f547e984410800000000000000
+      internalID: 1461592301736232462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 23
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5adeb8a9a21a040800000000000000
+      internalID: 4657050332938741202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 23
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ecd1210d3927230800000000000000
+      internalID: 3635130371107835506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 22
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb90c684f661678a0800000000000000
+      internalID: -6307829560873580100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 21
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97884716e82ff320800000000000000
+      internalID: 2593836879086913439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 22
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7f7b14f9f15c540800000000000000
+      internalID: 5027459327891863482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 22
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3f89c6f3828810800000000000000
+      internalID: 1766119099849456686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlideEnd_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 22
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986728a4090ce97f0800000000000000
+      internalID: -603833574063180151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlideEnd_Shadowless_0: -2862812682215527030
+      SlideEnd_Shadowless_1: -6971405278709109695
+      SlideEnd_Shadowless_10: 7256616066200828826
+      SlideEnd_Shadowless_100: 1886001955138315206
+      SlideEnd_Shadowless_101: 6140633303071764794
+      SlideEnd_Shadowless_102: 7587508656646170597
+      SlideEnd_Shadowless_103: 1101701883836634988
+      SlideEnd_Shadowless_104: 2335613603104140738
+      SlideEnd_Shadowless_105: -3670948515134012159
+      SlideEnd_Shadowless_106: 6885351709704901701
+      SlideEnd_Shadowless_107: 7438585453320584577
+      SlideEnd_Shadowless_108: 7362210006744002442
+      SlideEnd_Shadowless_109: 2272623652096496409
+      SlideEnd_Shadowless_11: -572109171275205268
+      SlideEnd_Shadowless_110: 859275745650549780
+      SlideEnd_Shadowless_111: -6659515688849435023
+      SlideEnd_Shadowless_112: 1461592301736232462
+      SlideEnd_Shadowless_113: 4657050332938741202
+      SlideEnd_Shadowless_114: 3635130371107835506
+      SlideEnd_Shadowless_115: -6307829560873580100
+      SlideEnd_Shadowless_116: 2593836879086913439
+      SlideEnd_Shadowless_117: 5027459327891863482
+      SlideEnd_Shadowless_118: 1766119099849456686
+      SlideEnd_Shadowless_119: -603833574063180151
+      SlideEnd_Shadowless_12: -5910064503916576060
+      SlideEnd_Shadowless_13: 1677464169854245806
+      SlideEnd_Shadowless_14: -4970224472732063124
+      SlideEnd_Shadowless_15: 7783403361654624551
+      SlideEnd_Shadowless_16: -7907733255385970475
+      SlideEnd_Shadowless_17: 6920295736677975869
+      SlideEnd_Shadowless_18: -4078210169516001439
+      SlideEnd_Shadowless_19: 3033595645254902796
+      SlideEnd_Shadowless_2: -1429225703676641382
+      SlideEnd_Shadowless_20: -7487396861954101711
+      SlideEnd_Shadowless_21: 7776767433038043517
+      SlideEnd_Shadowless_22: 5507388563090620261
+      SlideEnd_Shadowless_23: 6542912820231299253
+      SlideEnd_Shadowless_24: 3145735918126555350
+      SlideEnd_Shadowless_25: 1516038772741554419
+      SlideEnd_Shadowless_26: -7524962237021337334
+      SlideEnd_Shadowless_27: 4113213037201307424
+      SlideEnd_Shadowless_28: -7714707079142845804
+      SlideEnd_Shadowless_29: -7858019579134935700
+      SlideEnd_Shadowless_3: 1035237118735104142
+      SlideEnd_Shadowless_30: -191654256624469654
+      SlideEnd_Shadowless_31: 5493519750155484599
+      SlideEnd_Shadowless_32: -1301410647942041417
+      SlideEnd_Shadowless_33: -4688893731892096741
+      SlideEnd_Shadowless_34: 2593847825658047176
+      SlideEnd_Shadowless_35: 6014740663396948151
+      SlideEnd_Shadowless_36: 1554633032771950184
+      SlideEnd_Shadowless_37: -1183136678874261343
+      SlideEnd_Shadowless_38: 2622757370022718251
+      SlideEnd_Shadowless_39: -8150524146597154973
+      SlideEnd_Shadowless_4: -5009022498735711128
+      SlideEnd_Shadowless_40: -161287810515065895
+      SlideEnd_Shadowless_41: -7583553587571180650
+      SlideEnd_Shadowless_42: 6703537430590944251
+      SlideEnd_Shadowless_43: -8133034463059605379
+      SlideEnd_Shadowless_44: 5547975455982998106
+      SlideEnd_Shadowless_45: 4828637699754632523
+      SlideEnd_Shadowless_46: 6565518442983276117
+      SlideEnd_Shadowless_47: 1023148558122057797
+      SlideEnd_Shadowless_48: 1041045572519227096
+      SlideEnd_Shadowless_49: -2040201176721065792
+      SlideEnd_Shadowless_5: 339198498910535115
+      SlideEnd_Shadowless_50: 1861916363707325910
+      SlideEnd_Shadowless_51: -5517750949074067559
+      SlideEnd_Shadowless_52: 7215428009722636708
+      SlideEnd_Shadowless_53: 3325655148961752424
+      SlideEnd_Shadowless_54: 3138428598801216711
+      SlideEnd_Shadowless_55: -2427152192486839122
+      SlideEnd_Shadowless_56: 5997551511913283352
+      SlideEnd_Shadowless_57: -7514084544744035189
+      SlideEnd_Shadowless_58: -8585794142392029636
+      SlideEnd_Shadowless_59: -5853789136098316564
+      SlideEnd_Shadowless_6: -1910704886894844544
+      SlideEnd_Shadowless_60: -6471204176772850909
+      SlideEnd_Shadowless_61: -7041223292333531000
+      SlideEnd_Shadowless_62: 8879837071167921471
+      SlideEnd_Shadowless_63: 7544139449774756701
+      SlideEnd_Shadowless_64: -7569393855839485771
+      SlideEnd_Shadowless_65: 4728456623570143554
+      SlideEnd_Shadowless_66: -3827228741469263971
+      SlideEnd_Shadowless_67: -5267719023347370973
+      SlideEnd_Shadowless_68: 6166892961149977500
+      SlideEnd_Shadowless_69: 4848690288274192282
+      SlideEnd_Shadowless_7: 1081459599439404285
+      SlideEnd_Shadowless_70: -7502273907192614197
+      SlideEnd_Shadowless_71: -8642921529439825652
+      SlideEnd_Shadowless_72: -5745291684319544920
+      SlideEnd_Shadowless_73: -8321439252339757229
+      SlideEnd_Shadowless_74: 3499986349667343623
+      SlideEnd_Shadowless_75: -895226946735672349
+      SlideEnd_Shadowless_76: -3032450381324950914
+      SlideEnd_Shadowless_77: 2702734559084869746
+      SlideEnd_Shadowless_78: 746407960954342562
+      SlideEnd_Shadowless_79: -453530840692134397
+      SlideEnd_Shadowless_8: -4244477811485041533
+      SlideEnd_Shadowless_80: -279615996230568124
+      SlideEnd_Shadowless_81: -3196573225566446873
+      SlideEnd_Shadowless_82: -2580668230786830895
+      SlideEnd_Shadowless_83: -512225145546781317
+      SlideEnd_Shadowless_84: 3403966163063387589
+      SlideEnd_Shadowless_85: -8217407491994839960
+      SlideEnd_Shadowless_86: 8254700432081284895
+      SlideEnd_Shadowless_87: -5985198421174877517
+      SlideEnd_Shadowless_88: -5857960696023713469
+      SlideEnd_Shadowless_89: -2728955249949703158
+      SlideEnd_Shadowless_9: 5676029048271623649
+      SlideEnd_Shadowless_90: -1042361460265956938
+      SlideEnd_Shadowless_91: -8964931063136886115
+      SlideEnd_Shadowless_92: 408403746863992475
+      SlideEnd_Shadowless_93: -2325385033764658195
+      SlideEnd_Shadowless_94: 7057810650611179699
+      SlideEnd_Shadowless_95: -1884936310893568461
+      SlideEnd_Shadowless_96: 5388332351642371271
+      SlideEnd_Shadowless_97: 7785267897827430650
+      SlideEnd_Shadowless_98: 2923415057945770386
+      SlideEnd_Shadowless_99: 4680386663284998829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

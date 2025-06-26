@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 32975cf88c9b9494988b5fb5fc8e22a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4430445073689380473
+    second: CastSpell_0
+  - first:
+      213: -1496870750197369609
+    second: CastSpell_1
+  - first:
+      213: 7860479553790254437
+    second: CastSpell_2
+  - first:
+      213: -4184847840885135570
+    second: CastSpell_3
+  - first:
+      213: 5020622124524353694
+    second: CastSpell_4
+  - first:
+      213: -6090202915850343476
+    second: CastSpell_5
+  - first:
+      213: 6217087291552271847
+    second: CastSpell_6
+  - first:
+      213: 4246766685176152449
+    second: CastSpell_7
+  - first:
+      213: 5142379202093216895
+    second: CastSpell_8
+  - first:
+      213: 3174971830672478235
+    second: CastSpell_9
+  - first:
+      213: 5524082141662374233
+    second: CastSpell_10
+  - first:
+      213: -6001844110990071357
+    second: CastSpell_11
+  - first:
+      213: -2877418444883565580
+    second: CastSpell_12
+  - first:
+      213: -3215984484746870218
+    second: CastSpell_13
+  - first:
+      213: -4421084093124869540
+    second: CastSpell_14
+  - first:
+      213: -8655055686778429218
+    second: CastSpell_15
+  - first:
+      213: 5651655164261916344
+    second: CastSpell_16
+  - first:
+      213: -3407778788483672671
+    second: CastSpell_17
+  - first:
+      213: 1758626775853311574
+    second: CastSpell_18
+  - first:
+      213: 5209104607194864693
+    second: CastSpell_19
+  - first:
+      213: 9143046127814173006
+    second: CastSpell_20
+  - first:
+      213: -6521715590747801992
+    second: CastSpell_21
+  - first:
+      213: -8109983187118122763
+    second: CastSpell_22
+  - first:
+      213: -2151019919596946946
+    second: CastSpell_23
+  - first:
+      213: 907596621326493091
+    second: CastSpell_24
+  - first:
+      213: -3270397777867580931
+    second: CastSpell_25
+  - first:
+      213: 557551228595189093
+    second: CastSpell_26
+  - first:
+      213: -7620852514259519891
+    second: CastSpell_27
+  - first:
+      213: -190881252943807139
+    second: CastSpell_28
+  - first:
+      213: 3209514353647049904
+    second: CastSpell_29
+  - first:
+      213: -4945619783462845251
+    second: CastSpell_30
+  - first:
+      213: -6261196651555646705
+    second: CastSpell_31
+  - first:
+      213: 1433643766802851067
+    second: CastSpell_32
+  - first:
+      213: 5576817694515994769
+    second: CastSpell_33
+  - first:
+      213: 1518663099529993549
+    second: CastSpell_34
+  - first:
+      213: -4275026779739792310
+    second: CastSpell_35
+  - first:
+      213: -4161567922934470305
+    second: CastSpell_36
+  - first:
+      213: 6588610139402799297
+    second: CastSpell_37
+  - first:
+      213: -6253923227982607576
+    second: CastSpell_38
+  - first:
+      213: 266552143613170513
+    second: CastSpell_39
+  - first:
+      213: -8445854626912108854
+    second: CastSpell_40
+  - first:
+      213: 3516462452266201156
+    second: CastSpell_41
+  - first:
+      213: -7022274926340798800
+    second: CastSpell_42
+  - first:
+      213: 3764951654115923265
+    second: CastSpell_43
+  - first:
+      213: 2272734221061503651
+    second: CastSpell_44
+  - first:
+      213: -1147840215541236628
+    second: CastSpell_45
+  - first:
+      213: 7584572612231549189
+    second: CastSpell_46
+  - first:
+      213: -1178794697210193132
+    second: CastSpell_47
+  - first:
+      213: -4404670541093925824
+    second: CastSpell_48
+  - first:
+      213: 2268436387597932983
+    second: CastSpell_49
+  - first:
+      213: 365722845275078099
+    second: CastSpell_50
+  - first:
+      213: -1145201384217804205
+    second: CastSpell_51
+  - first:
+      213: 8731174187650627806
+    second: CastSpell_52
+  - first:
+      213: -2893946239125469683
+    second: CastSpell_53
+  - first:
+      213: -7375996381934820970
+    second: CastSpell_54
+  - first:
+      213: -5378506610482500727
+    second: CastSpell_55
+  - first:
+      213: 5545397156222870707
+    second: CastSpell_56
+  - first:
+      213: -2147909769715041644
+    second: CastSpell_57
+  - first:
+      213: 3072233972772450474
+    second: CastSpell_58
+  - first:
+      213: 7311085016922799649
+    second: CastSpell_59
+  - first:
+      213: 6877164152541434897
+    second: CastSpell_60
+  - first:
+      213: 2552880226806218717
+    second: CastSpell_61
+  - first:
+      213: 5452610604352104960
+    second: CastSpell_62
+  - first:
+      213: -403615481372353217
+    second: CastSpell_63
+  - first:
+      213: -8094822758523204446
+    second: CastSpell_64
+  - first:
+      213: -2645297170668812070
+    second: CastSpell_65
+  - first:
+      213: -6501898891049500449
+    second: CastSpell_66
+  - first:
+      213: 2206078527078534893
+    second: CastSpell_67
+  - first:
+      213: 6579325781911508044
+    second: CastSpell_68
+  - first:
+      213: 5876163323007489648
+    second: CastSpell_69
+  - first:
+      213: 4462804359347146721
+    second: CastSpell_70
+  - first:
+      213: 2047022365777746549
+    second: CastSpell_71
+  - first:
+      213: -8472032763488414255
+    second: CastSpell_72
+  - first:
+      213: 7458090369242168176
+    second: CastSpell_73
+  - first:
+      213: 7135085129744206097
+    second: CastSpell_74
+  - first:
+      213: 1459256158923711819
+    second: CastSpell_75
+  - first:
+      213: -4671878741868060022
+    second: CastSpell_76
+  - first:
+      213: -5787269597207379267
+    second: CastSpell_77
+  - first:
+      213: -1554984106286279974
+    second: CastSpell_78
+  - first:
+      213: -3211373215595852612
+    second: CastSpell_79
+  - first:
+      213: 1967660870452784617
+    second: CastSpell_80
+  - first:
+      213: 7946051129310223792
+    second: CastSpell_81
+  - first:
+      213: -2780549314450805862
+    second: CastSpell_82
+  - first:
+      213: -1059550675381481138
+    second: CastSpell_83
+  - first:
+      213: -4405586442092350361
+    second: CastSpell_84
+  - first:
+      213: -3396753267942095276
+    second: CastSpell_85
+  - first:
+      213: 5521114164404442401
+    second: CastSpell_86
+  - first:
+      213: -3677469383051565539
+    second: CastSpell_87
+  - first:
+      213: 5538954490456348841
+    second: CastSpell_88
+  - first:
+      213: 3701697468785860440
+    second: CastSpell_89
+  - first:
+      213: -7260134559824602927
+    second: CastSpell_90
+  - first:
+      213: 912558016243651486
+    second: CastSpell_91
+  - first:
+      213: 5076177225166102969
+    second: CastSpell_92
+  - first:
+      213: -7196579136556311674
+    second: CastSpell_93
+  - first:
+      213: -2049929083909107295
+    second: CastSpell_94
+  - first:
+      213: 4851199149290373778
+    second: CastSpell_95
+  - first:
+      213: 7173160407391806581
+    second: CastSpell_96
+  - first:
+      213: 19689418090722800
+    second: CastSpell_97
+  - first:
+      213: 6381810642867045077
+    second: CastSpell_98
+  - first:
+      213: -3967684128734488305
+    second: CastSpell_99
+  - first:
+      213: -1577653989723532531
+    second: CastSpell_100
+  - first:
+      213: 4109630284411573614
+    second: CastSpell_101
+  - first:
+      213: -1169627294449494350
+    second: CastSpell_102
+  - first:
+      213: 3603199748243041508
+    second: CastSpell_103
+  - first:
+      213: -1639730856515918348
+    second: CastSpell_104
+  - first:
+      213: -782924337174655142
+    second: CastSpell_105
+  - first:
+      213: -5437466676362404967
+    second: CastSpell_106
+  - first:
+      213: -1877634253025530951
+    second: CastSpell_107
+  - first:
+      213: -2304864351362369141
+    second: CastSpell_108
+  - first:
+      213: 4838223485987780840
+    second: CastSpell_109
+  - first:
+      213: -7960576031265960158
+    second: CastSpell_110
+  - first:
+      213: -992197427100435158
+    second: CastSpell_111
+  - first:
+      213: 347879769489797022
+    second: CastSpell_112
+  - first:
+      213: 152346119888914205
+    second: CastSpell_113
+  - first:
+      213: -1027327030649614506
+    second: CastSpell_114
+  - first:
+      213: -8242729000740395076
+    second: CastSpell_115
+  - first:
+      213: 7310444752282708848
+    second: CastSpell_116
+  - first:
+      213: 3350034072947577809
+    second: CastSpell_117
+  - first:
+      213: -8506871324464039419
+    second: CastSpell_118
+  - first:
+      213: -5194940192452382216
+    second: CastSpell_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastSpell_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 467
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976822e225a1c7d30800000000000000
+      internalID: 4430445073689380473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 466
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f430d3cbfb0a3be0800000000000000
+      internalID: -1496870750197369609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 466
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d93efe188061d60800000000000000
+      internalID: 7860479553790254437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 467
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272bfc9f0f6ce5c0800000000000000
+      internalID: -4184847840885135570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 468
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98bdbbc835dca540800000000000000
+      internalID: 5020622124524353694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 467
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb21be17b04b7ba0800000000000000
+      internalID: -6090202915850343476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 467
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed819eb3f7874650800000000000000
+      internalID: 6217087291552271847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 467
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18143e1cccb8fea30800000000000000
+      internalID: 4246766685176152449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 466
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747f1983a66d5740800000000000000
+      internalID: 5142379202093216895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 466
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10da1bee04cf0c20800000000000000
+      internalID: 3174971830672478235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 466
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9596dd3a07b79ac40800000000000000
+      internalID: 5524082141662374233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 466
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9aa27849a25bca0800000000000000
+      internalID: -6001844110990071357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 467
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ee8a6b2b5118d0800000000000000
+      internalID: -2877418444883565580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 468
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632ce7f66278e53d0800000000000000
+      internalID: -3215984484746870218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 467
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528923f07725a2c0800000000000000
+      internalID: -4421084093124869540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 400
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e85695b013e780800000000000000
+      internalID: -8655055686778429218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be55da9d66be6e40800000000000000
+      internalID: 5651655164261916344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5d15f3f3325b0d0800000000000000
+      internalID: -3407778788483672671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 398
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6562a3b2cb5e76810800000000000000
+      internalID: 1758626775853311574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 397
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c53bd8a057a4840800000000000000
+      internalID: 5209104607194864693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 397
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ef55e200a2ee70800000000000000
+      internalID: 9143046127814173006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 397
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876b95749363e75a0800000000000000
+      internalID: -6521715590747801992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 397
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81f65824d837f80800000000000000
+      internalID: -8109983187118122763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 396
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef972ab97ca0622e0800000000000000
+      internalID: -2151019919596946946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 396
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a285815e689c00800000000000000
+      internalID: 907596621326493091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 396
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d9ff5c863d92d0800000000000000
+      internalID: -3270397777867580931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 397
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bf7c63e1dcb700800000000000000
+      internalID: 557551228595189093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 398
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d663be9e30b4d3690800000000000000
+      internalID: -7620852514259519891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 399
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db004038ad95df0800000000000000
+      internalID: -190881252943807139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 399
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc56a6cc4c7a8c20800000000000000
+      internalID: 3209514353647049904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 334
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48d8c8201ad5bb0800000000000000
+      internalID: -4945619783462845251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 333
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03192391d2cb19a0800000000000000
+      internalID: -6261196651555646705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 332
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4acbef86355e310800000000000000
+      internalID: 1433643766802851067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 332
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902dba5526d46d40800000000000000
+      internalID: 5576817694515994769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 333
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d9af4fa00631510800000000000000
+      internalID: 1518663099529993549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 333
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd35c3bcd0ca4c0800000000000000
+      internalID: -4275026779739792310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 333
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a4d4e5042f36c0800000000000000
+      internalID: -4161567922934470305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 333
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c804aa83027f6b50800000000000000
+      internalID: 6588610139402799297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 333
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b488775f99539a0800000000000000
+      internalID: -6253923227982607576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 333
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1539e2a23cbf2b300800000000000000
+      internalID: 266552143613170513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 333
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace705207fb4aca80800000000000000
+      internalID: -8445854626912108854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 333
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440735528fbfcc030800000000000000
+      internalID: 3516462452266201156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 333
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6035cf82edb8e90800000000000000
+      internalID: -7022274926340798800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 334
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1455914f49bcf3430800000000000000
+      internalID: 3764951654115923265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 335
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aabe3b8bbf5a8f10800000000000000
+      internalID: 2272734221061503651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb1cdc76d0210f0800000000000000
+      internalID: -1147840215541236628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d7352b90d14960800000000000000
+      internalID: 7584572612231549189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 270
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b1ca9e77414afe0800000000000000
+      internalID: -1178794697210193132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 268
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0875da777fd2c0800000000000000
+      internalID: -4404670541093925824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9585630ea1b7f10800000000000000
+      internalID: 2268436387597932983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddbdd67dfe431500800000000000000
+      internalID: 365722845275078099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3528969986d6b10f0800000000000000
+      internalID: -1145201384217804205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b9f6f9ac5b2970800000000000000
+      internalID: 8731174187650627806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0649d17a33a6d7d0800000000000000
+      internalID: -2893946239125469683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_54
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691653ece5233a990800000000000000
+      internalID: -7375996381934820970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_55
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 268
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba91cfbb4bb55b0800000000000000
+      internalID: -5378506610482500727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 269
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42023355535fc40800000000000000
+      internalID: 5545397156222870707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_57
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 270
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3b8ec1771132e0800000000000000
+      internalID: -2147909769715041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_58
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 270
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa03df55584c2aa20800000000000000
+      internalID: 3072233972772450474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_59
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 272
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3d5c4611367560800000000000000
+      internalID: 7311085016922799649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 210
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11458462c58907f50800000000000000
+      internalID: 6877164152541434897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 212
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf37e06a07ad6320800000000000000
+      internalID: 2552880226806218717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a6fea94709bab40800000000000000
+      internalID: 5452610604352104960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd3feabd1166af0800000000000000
+      internalID: -403615481372353217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac0a7ed69969af80800000000000000
+      internalID: -8094822758523204446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad880f81d340a4bd0800000000000000
+      internalID: -2645297170668812070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00d79386d94c5a0800000000000000
+      internalID: -6501898891049500449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee02296bb09d9e10800000000000000
+      internalID: 2206078527078534893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44976c90f57e4b50800000000000000
+      internalID: 6579325781911508044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_69
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 208
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765a06b8635c8150800000000000000
+      internalID: 5876163323007489648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_70
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 208
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef83fc7be01fed30800000000000000
+      internalID: 4462804359347146721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_71
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 208
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a567ffefb786c10800000000000000
+      internalID: 2047022365777746549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_72
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 210
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55dce961b4d6a80800000000000000
+      internalID: -8472032763488414255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_73
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 211
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bf0791da5708760800000000000000
+      internalID: 7458090369242168176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_74
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 212
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11943984f1ae40360800000000000000
+      internalID: 7135085129744206097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 150
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e2fcbeb1504410800000000000000
+      internalID: 1459256158923711819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82614579072a2fb0800000000000000
+      internalID: -4671878741868060022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 150
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2490fa6fc7fafa0800000000000000
+      internalID: -5787269597207379267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad29d69a1369b6ae0800000000000000
+      internalID: -1554984106286279974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 149
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc84333319ee63d0800000000000000
+      internalID: -3211373215595852612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_80
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 148
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed26c5f2298e4b10800000000000000
+      internalID: 1967660870452784617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 148
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd90a1f66b064e60800000000000000
+      internalID: 7946051129310223792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_82
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 148
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b24b761218969d0800000000000000
+      internalID: -2780549314450805862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 148
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e419c544648bb41f0800000000000000
+      internalID: -1059550675381481138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_84
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 149
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764fec309763cd2c0800000000000000
+      internalID: -4405586442092350361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_85
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4560aaa46ee4cd0d0800000000000000
+      internalID: -3396753267942095276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 149
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12554b59410fe9c40800000000000000
+      internalID: 5521114164404442401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_87
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 149
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1626d6841107fcc0800000000000000
+      internalID: -3677469383051565539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_88
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 150
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a894be23c15edc40800000000000000
+      internalID: 5538954490456348841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_89
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 150
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f91f44c321f5330800000000000000
+      internalID: 3701697468785860440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81e1c6512de3b90800000000000000
+      internalID: -7260134559824602927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93532b4eae0aac00800000000000000
+      internalID: 912558016243651486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b124f2aa44327640800000000000000
+      internalID: 5076177225166102969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_93
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 81
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bd297876d902c90800000000000000
+      internalID: -7196579136556311674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 81
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11bd2fb503d83e0800000000000000
+      internalID: -2049929083909107295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 81
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292412c6cebe25340800000000000000
+      internalID: 4851199149290373778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 82
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742c7fa26f2c8360800000000000000
+      internalID: 7173160407391806581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_97
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 82
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5b123eb63f54000800000000000000
+      internalID: 19689418090722800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_98
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 82
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c5e7a7feb09850800000000000000
+      internalID: 6381810642867045077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 82
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0953dd7e44ffe8c0800000000000000
+      internalID: -3967684128734488305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_100
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 83
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d031d0c1e0c0b1ae0800000000000000
+      internalID: -1577653989723532531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_101
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 82
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e651a8c48f6580930800000000000000
+      internalID: 4109630284411573614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 83
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69cb23c26a4cfe0800000000000000
+      internalID: -1169627294449494350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_103
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 84
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecadc89413210230800000000000000
+      internalID: 3603199748243041508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_104
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 84
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f52f1249718e39e0800000000000000
+      internalID: -1639730856515918348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_105
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f42b4a67e7225f0800000000000000
+      internalID: -782924337174655142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_106
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 17
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b1565eddc3a84b0800000000000000
+      internalID: -5437466676362404967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_107
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 16
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbae42589d41f5e0800000000000000
+      internalID: -1877634253025530951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b599851a7300e0800000000000000
+      internalID: -2304864351362369141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 18
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8f04260a2d42340800000000000000
+      internalID: 4838223485987780840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_110
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 18
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f47e8c64a568190800000000000000
+      internalID: -7960576031265960158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_111
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3f9a62b10b32f0800000000000000
+      internalID: -992197427100435158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_112
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 18
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9febf4aecae3d400800000000000000
+      internalID: 347879769489797022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 18
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1743e62dfd3d1200800000000000000
+      internalID: 152346119888914205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_114
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f09f532833eb1f0800000000000000
+      internalID: -1027327030649614506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_115
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 18
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ee0b45a1fb9d80800000000000000
+      internalID: -8242729000740395076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_116
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 18
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bede115cae37560800000000000000
+      internalID: 7310444752282708848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 18
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3de777d36bd7e20800000000000000
+      internalID: 3350034072947577809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 18
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3d5b0a9581f980800000000000000
+      internalID: -8506871324464039419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastSpell_119
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 18
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f97f3b6dd7e7b0800000000000000
+      internalID: -5194940192452382216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastSpell_0: 4430445073689380473
+      CastSpell_1: -1496870750197369609
+      CastSpell_10: 5524082141662374233
+      CastSpell_100: -1577653989723532531
+      CastSpell_101: 4109630284411573614
+      CastSpell_102: -1169627294449494350
+      CastSpell_103: 3603199748243041508
+      CastSpell_104: -1639730856515918348
+      CastSpell_105: -782924337174655142
+      CastSpell_106: -5437466676362404967
+      CastSpell_107: -1877634253025530951
+      CastSpell_108: -2304864351362369141
+      CastSpell_109: 4838223485987780840
+      CastSpell_11: -6001844110990071357
+      CastSpell_110: -7960576031265960158
+      CastSpell_111: -992197427100435158
+      CastSpell_112: 347879769489797022
+      CastSpell_113: 152346119888914205
+      CastSpell_114: -1027327030649614506
+      CastSpell_115: -8242729000740395076
+      CastSpell_116: 7310444752282708848
+      CastSpell_117: 3350034072947577809
+      CastSpell_118: -8506871324464039419
+      CastSpell_119: -5194940192452382216
+      CastSpell_12: -2877418444883565580
+      CastSpell_13: -3215984484746870218
+      CastSpell_14: -4421084093124869540
+      CastSpell_15: -8655055686778429218
+      CastSpell_16: 5651655164261916344
+      CastSpell_17: -3407778788483672671
+      CastSpell_18: 1758626775853311574
+      CastSpell_19: 5209104607194864693
+      CastSpell_2: 7860479553790254437
+      CastSpell_20: 9143046127814173006
+      CastSpell_21: -6521715590747801992
+      CastSpell_22: -8109983187118122763
+      CastSpell_23: -2151019919596946946
+      CastSpell_24: 907596621326493091
+      CastSpell_25: -3270397777867580931
+      CastSpell_26: 557551228595189093
+      CastSpell_27: -7620852514259519891
+      CastSpell_28: -190881252943807139
+      CastSpell_29: 3209514353647049904
+      CastSpell_3: -4184847840885135570
+      CastSpell_30: -4945619783462845251
+      CastSpell_31: -6261196651555646705
+      CastSpell_32: 1433643766802851067
+      CastSpell_33: 5576817694515994769
+      CastSpell_34: 1518663099529993549
+      CastSpell_35: -4275026779739792310
+      CastSpell_36: -4161567922934470305
+      CastSpell_37: 6588610139402799297
+      CastSpell_38: -6253923227982607576
+      CastSpell_39: 266552143613170513
+      CastSpell_4: 5020622124524353694
+      CastSpell_40: -8445854626912108854
+      CastSpell_41: 3516462452266201156
+      CastSpell_42: -7022274926340798800
+      CastSpell_43: 3764951654115923265
+      CastSpell_44: 2272734221061503651
+      CastSpell_45: -1147840215541236628
+      CastSpell_46: 7584572612231549189
+      CastSpell_47: -1178794697210193132
+      CastSpell_48: -4404670541093925824
+      CastSpell_49: 2268436387597932983
+      CastSpell_5: -6090202915850343476
+      CastSpell_50: 365722845275078099
+      CastSpell_51: -1145201384217804205
+      CastSpell_52: 8731174187650627806
+      CastSpell_53: -2893946239125469683
+      CastSpell_54: -7375996381934820970
+      CastSpell_55: -5378506610482500727
+      CastSpell_56: 5545397156222870707
+      CastSpell_57: -2147909769715041644
+      CastSpell_58: 3072233972772450474
+      CastSpell_59: 7311085016922799649
+      CastSpell_6: 6217087291552271847
+      CastSpell_60: 6877164152541434897
+      CastSpell_61: 2552880226806218717
+      CastSpell_62: 5452610604352104960
+      CastSpell_63: -403615481372353217
+      CastSpell_64: -8094822758523204446
+      CastSpell_65: -2645297170668812070
+      CastSpell_66: -6501898891049500449
+      CastSpell_67: 2206078527078534893
+      CastSpell_68: 6579325781911508044
+      CastSpell_69: 5876163323007489648
+      CastSpell_7: 4246766685176152449
+      CastSpell_70: 4462804359347146721
+      CastSpell_71: 2047022365777746549
+      CastSpell_72: -8472032763488414255
+      CastSpell_73: 7458090369242168176
+      CastSpell_74: 7135085129744206097
+      CastSpell_75: 1459256158923711819
+      CastSpell_76: -4671878741868060022
+      CastSpell_77: -5787269597207379267
+      CastSpell_78: -1554984106286279974
+      CastSpell_79: -3211373215595852612
+      CastSpell_8: 5142379202093216895
+      CastSpell_80: 1967660870452784617
+      CastSpell_81: 7946051129310223792
+      CastSpell_82: -2780549314450805862
+      CastSpell_83: -1059550675381481138
+      CastSpell_84: -4405586442092350361
+      CastSpell_85: -3396753267942095276
+      CastSpell_86: 5521114164404442401
+      CastSpell_87: -3677469383051565539
+      CastSpell_88: 5538954490456348841
+      CastSpell_89: 3701697468785860440
+      CastSpell_9: 3174971830672478235
+      CastSpell_90: -7260134559824602927
+      CastSpell_91: 912558016243651486
+      CastSpell_92: 5076177225166102969
+      CastSpell_93: -7196579136556311674
+      CastSpell_94: -2049929083909107295
+      CastSpell_95: 4851199149290373778
+      CastSpell_96: 7173160407391806581
+      CastSpell_97: 19689418090722800
+      CastSpell_98: 6381810642867045077
+      CastSpell_99: -3967684128734488305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90d062039342e48418b248bcc69c63c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198083
+  packageName: 'Fantasy monster: Cat Knight'
+  packageVersion: 1.0
+  assetPath: Assets/Character_31002/31002/Spritesheets/Normal_Stand_045.controller
+  uploadId: 440378

@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 676cf0f4e64ad5740ae045dba0d5e601
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1614015058690298730
+    second: Kick_Shadowless_0
+  - first:
+      213: 8343460858983184175
+    second: Kick_Shadowless_1
+  - first:
+      213: 6067352313787488002
+    second: Kick_Shadowless_2
+  - first:
+      213: -4039888810531889972
+    second: Kick_Shadowless_3
+  - first:
+      213: 3349356446077693988
+    second: Kick_Shadowless_4
+  - first:
+      213: 7848661093351849694
+    second: Kick_Shadowless_5
+  - first:
+      213: -4734922403085587369
+    second: Kick_Shadowless_6
+  - first:
+      213: -7924561650433305493
+    second: Kick_Shadowless_7
+  - first:
+      213: -7621554282731890080
+    second: Kick_Shadowless_8
+  - first:
+      213: -6574249962706619070
+    second: Kick_Shadowless_9
+  - first:
+      213: 4275926195344114208
+    second: Kick_Shadowless_10
+  - first:
+      213: 1049648619386551491
+    second: Kick_Shadowless_11
+  - first:
+      213: 6818823569230083614
+    second: Kick_Shadowless_12
+  - first:
+      213: -4755601975055162596
+    second: Kick_Shadowless_13
+  - first:
+      213: -1278343026228054426
+    second: Kick_Shadowless_14
+  - first:
+      213: -6848878673335555602
+    second: Kick_Shadowless_15
+  - first:
+      213: 1839574752766413099
+    second: Kick_Shadowless_16
+  - first:
+      213: -3341387972570380334
+    second: Kick_Shadowless_17
+  - first:
+      213: 2198852634700075896
+    second: Kick_Shadowless_18
+  - first:
+      213: -2128152098515969385
+    second: Kick_Shadowless_19
+  - first:
+      213: -6710283478759210367
+    second: Kick_Shadowless_20
+  - first:
+      213: -3446043638412142730
+    second: Kick_Shadowless_21
+  - first:
+      213: -766515313731768560
+    second: Kick_Shadowless_22
+  - first:
+      213: 8628034240807698035
+    second: Kick_Shadowless_23
+  - first:
+      213: -4947850937774968545
+    second: Kick_Shadowless_24
+  - first:
+      213: 7624640691930005558
+    second: Kick_Shadowless_25
+  - first:
+      213: 1114384310801137839
+    second: Kick_Shadowless_26
+  - first:
+      213: -2623415278744359210
+    second: Kick_Shadowless_27
+  - first:
+      213: -6722014429050656705
+    second: Kick_Shadowless_28
+  - first:
+      213: -1021554609880855605
+    second: Kick_Shadowless_29
+  - first:
+      213: 8813294499172159112
+    second: Kick_Shadowless_30
+  - first:
+      213: -6907053069584888584
+    second: Kick_Shadowless_31
+  - first:
+      213: 8628443693174206190
+    second: Kick_Shadowless_32
+  - first:
+      213: -7143755707738763924
+    second: Kick_Shadowless_33
+  - first:
+      213: 8835347425276107289
+    second: Kick_Shadowless_34
+  - first:
+      213: -5713666062776092517
+    second: Kick_Shadowless_35
+  - first:
+      213: 8123234631884023893
+    second: Kick_Shadowless_36
+  - first:
+      213: -7828569048206098912
+    second: Kick_Shadowless_37
+  - first:
+      213: -2792784714518151870
+    second: Kick_Shadowless_38
+  - first:
+      213: 8394710272914564145
+    second: Kick_Shadowless_39
+  - first:
+      213: -4655381040596257286
+    second: Kick_Shadowless_40
+  - first:
+      213: -8918583017897878941
+    second: Kick_Shadowless_41
+  - first:
+      213: 1801552631422048459
+    second: Kick_Shadowless_42
+  - first:
+      213: -6757980435907881521
+    second: Kick_Shadowless_43
+  - first:
+      213: -3721236835142358063
+    second: Kick_Shadowless_44
+  - first:
+      213: -8627790136402025578
+    second: Kick_Shadowless_45
+  - first:
+      213: 8144804605994599285
+    second: Kick_Shadowless_46
+  - first:
+      213: 5973158018088056440
+    second: Kick_Shadowless_47
+  - first:
+      213: -5228249706421607688
+    second: Kick_Shadowless_48
+  - first:
+      213: 500132548090372106
+    second: Kick_Shadowless_49
+  - first:
+      213: -6695863981169736968
+    second: Kick_Shadowless_50
+  - first:
+      213: 479536527051686711
+    second: Kick_Shadowless_51
+  - first:
+      213: -3280911457111853619
+    second: Kick_Shadowless_52
+  - first:
+      213: 6835810431104754164
+    second: Kick_Shadowless_53
+  - first:
+      213: 8034838927009289244
+    second: Kick_Shadowless_54
+  - first:
+      213: -3409133622046374539
+    second: Kick_Shadowless_55
+  - first:
+      213: 254975446469813449
+    second: Kick_Shadowless_56
+  - first:
+      213: 7185681631932202295
+    second: Kick_Shadowless_57
+  - first:
+      213: -8321135037582946415
+    second: Kick_Shadowless_58
+  - first:
+      213: -5516419876306199932
+    second: Kick_Shadowless_59
+  - first:
+      213: 8770685799363479785
+    second: Kick_Shadowless_60
+  - first:
+      213: -7244238237902847886
+    second: Kick_Shadowless_61
+  - first:
+      213: 2026134821787505091
+    second: Kick_Shadowless_62
+  - first:
+      213: -4991034170731720972
+    second: Kick_Shadowless_63
+  - first:
+      213: -981430506707824969
+    second: Kick_Shadowless_64
+  - first:
+      213: 9136447711381343057
+    second: Kick_Shadowless_65
+  - first:
+      213: 1787337101896772732
+    second: Kick_Shadowless_66
+  - first:
+      213: 807558133468814602
+    second: Kick_Shadowless_67
+  - first:
+      213: 5696130299850834295
+    second: Kick_Shadowless_68
+  - first:
+      213: -6047645725092051874
+    second: Kick_Shadowless_69
+  - first:
+      213: 9185480991223291647
+    second: Kick_Shadowless_70
+  - first:
+      213: -2790711582386069145
+    second: Kick_Shadowless_71
+  - first:
+      213: 5369944124370476185
+    second: Kick_Shadowless_72
+  - first:
+      213: 1215499174034331134
+    second: Kick_Shadowless_73
+  - first:
+      213: -6218638135768742306
+    second: Kick_Shadowless_74
+  - first:
+      213: 577623828738587073
+    second: Kick_Shadowless_75
+  - first:
+      213: 5342790699429832803
+    second: Kick_Shadowless_76
+  - first:
+      213: -1745991677017303582
+    second: Kick_Shadowless_77
+  - first:
+      213: 5541669527798922645
+    second: Kick_Shadowless_78
+  - first:
+      213: -5170814339129298627
+    second: Kick_Shadowless_79
+  - first:
+      213: 4712240475239290499
+    second: Kick_Shadowless_80
+  - first:
+      213: -2190112113465354938
+    second: Kick_Shadowless_81
+  - first:
+      213: 4710106167973829863
+    second: Kick_Shadowless_82
+  - first:
+      213: -7485475559070389562
+    second: Kick_Shadowless_83
+  - first:
+      213: -1677260803185532825
+    second: Kick_Shadowless_84
+  - first:
+      213: -8238734749414085680
+    second: Kick_Shadowless_85
+  - first:
+      213: -192868522972393267
+    second: Kick_Shadowless_86
+  - first:
+      213: 674898953718327583
+    second: Kick_Shadowless_87
+  - first:
+      213: 2978542580294365438
+    second: Kick_Shadowless_88
+  - first:
+      213: -8108559956916491844
+    second: Kick_Shadowless_89
+  - first:
+      213: 3618728712336395907
+    second: Kick_Shadowless_90
+  - first:
+      213: -977000796226586991
+    second: Kick_Shadowless_91
+  - first:
+      213: 2231160856349083010
+    second: Kick_Shadowless_92
+  - first:
+      213: -1284443028453981953
+    second: Kick_Shadowless_93
+  - first:
+      213: -3762472676880937017
+    second: Kick_Shadowless_94
+  - first:
+      213: -2799743971337422707
+    second: Kick_Shadowless_95
+  - first:
+      213: -2881313717785416269
+    second: Kick_Shadowless_96
+  - first:
+      213: 6525323815569543601
+    second: Kick_Shadowless_97
+  - first:
+      213: 5950944378145222847
+    second: Kick_Shadowless_98
+  - first:
+      213: -6125627330573786193
+    second: Kick_Shadowless_99
+  - first:
+      213: -8337461858265640267
+    second: Kick_Shadowless_100
+  - first:
+      213: 1593194207905563358
+    second: Kick_Shadowless_101
+  - first:
+      213: 4391615955758414984
+    second: Kick_Shadowless_102
+  - first:
+      213: -8792094772434137627
+    second: Kick_Shadowless_103
+  - first:
+      213: -1459870666136901686
+    second: Kick_Shadowless_104
+  - first:
+      213: -5091678724327975710
+    second: Kick_Shadowless_105
+  - first:
+      213: 7059426733310525413
+    second: Kick_Shadowless_106
+  - first:
+      213: 5371712381137193537
+    second: Kick_Shadowless_107
+  - first:
+      213: 4065859037376775288
+    second: Kick_Shadowless_108
+  - first:
+      213: -6685304520089888873
+    second: Kick_Shadowless_109
+  - first:
+      213: -796054715125109995
+    second: Kick_Shadowless_110
+  - first:
+      213: 576696989006323694
+    second: Kick_Shadowless_111
+  - first:
+      213: -2546191315315850613
+    second: Kick_Shadowless_112
+  - first:
+      213: -6891249234657896385
+    second: Kick_Shadowless_113
+  - first:
+      213: 2289084721939072418
+    second: Kick_Shadowless_114
+  - first:
+      213: 4723698993370931604
+    second: Kick_Shadowless_115
+  - first:
+      213: -1765625027463806314
+    second: Kick_Shadowless_116
+  - first:
+      213: -4607905421855188806
+    second: Kick_Shadowless_117
+  - first:
+      213: 3152536448632180327
+    second: Kick_Shadowless_118
+  - first:
+      213: 190416532368098100
+    second: Kick_Shadowless_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kick_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 469
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63dd5bf422266610800000000000000
+      internalID: 1614015058690298730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 469
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277119127de9c370800000000000000
+      internalID: 8343460858983184175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 469
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207927e78c0933450800000000000000
+      internalID: 6067352313787488002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 470
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccdb24f78e6fe7c0800000000000000
+      internalID: -4039888810531889972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 472
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42030aa21fd4b7e20800000000000000
+      internalID: 3349356446077693988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 472
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede7aaf2eab0cec60800000000000000
+      internalID: 7848661093351849694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 472
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c6b0d392d2a4eb0800000000000000
+      internalID: -4734922403085587369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 472
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645d314a2d460290800000000000000
+      internalID: -7924561650433305493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 472
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a9865b2ccca3690800000000000000
+      internalID: -7621554282731890080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 472
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453f34ad7293c4a0800000000000000
+      internalID: -6574249962706619070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 471
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02206474834275b30800000000000000
+      internalID: 4275926195344114208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 469
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb389abd9119e00800000000000000
+      internalID: 1049648619386551491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 469
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16350698e351ae50800000000000000
+      internalID: 6818823569230083614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 469
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e0bf2335b00eb0800000000000000
+      internalID: -4755601975055162596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 469
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66634946ac9624ee0800000000000000
+      internalID: -1278343026228054426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9e51e2225e3f0a0800000000000000
+      internalID: -6848878673335555602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 404
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294b6cbd7b778910800000000000000
+      internalID: 1839574752766413099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d70e26a75101a1d0800000000000000
+      internalID: -3341387972570380334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 405
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873dabc32d4e38e10800000000000000
+      internalID: 2198852634700075896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 405
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a14fb11f84772e0800000000000000
+      internalID: -2128152098515969385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 405
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182826a8ab840e2a0800000000000000
+      internalID: -6710283478759210367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 405
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67713fb91913d20d0800000000000000
+      internalID: -3446043638412142730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 404
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fee12226acc55f0800000000000000
+      internalID: -766515313731768560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 405
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eff31cd6fecb770800000000000000
+      internalID: 8628034240807698035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 404
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f65479c3b55bb0800000000000000
+      internalID: -4947850937774968545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 404
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6300a7eef4a20d960800000000000000
+      internalID: 7624640691930005558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 404
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0029c50a6177f00800000000000000
+      internalID: 1114384310801137839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 404
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de2c1414b1c79bd0800000000000000
+      internalID: -2623415278744359210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 404
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a265dd7b96b2a0800000000000000
+      internalID: -6722014429050656705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 404
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8367ae75b2d1f0800000000000000
+      internalID: -1021554609880855605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 339
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e8f04f6ac1f4a70800000000000000
+      internalID: 8813294499172159112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 339
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc0f9e04d73520a0800000000000000
+      internalID: -6907053069584888584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 339
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeab10d2d36eb770800000000000000
+      internalID: 8628443693174206190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 339
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcf0678084cdc90800000000000000
+      internalID: -7143755707738763924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 339
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9ebeeba57d9a70800000000000000
+      internalID: 8835347425276107289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 339
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b60bfcfaf4b0b0800000000000000
+      internalID: -5713666062776092517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 339
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582994ebd68bb070800000000000000
+      internalID: 8123234631884023893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 339
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ebe0e9de55b5390800000000000000
+      internalID: -7828569048206098912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 338
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d310559190e39d0800000000000000
+      internalID: -2792784714518151870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 339
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13425612480008470800000000000000
+      internalID: 8394710272914564145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 339
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5fb2ddb93c46fb0800000000000000
+      internalID: -4655381040596257286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 339
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9d567ff3da3480800000000000000
+      internalID: -8918583017897878941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 339
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d410c296600910800000000000000
+      internalID: 1801552631422048459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 339
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5dbae4994d632a0800000000000000
+      internalID: -6757980435907881521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 339
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbad3c70d28b5cc0800000000000000
+      internalID: -3721236835142358063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693632b359ee34880800000000000000
+      internalID: -8627790136402025578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730649d2a8280170800000000000000
+      internalID: 8144804605994599285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 276
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763a6ff19be4e250800000000000000
+      internalID: 5973158018088056440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 276
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f223bba7968177b0800000000000000
+      internalID: -5228249706421607688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a98517e3d0f600800000000000000
+      internalID: 500132548090372106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28b027f238313a0800000000000000
+      internalID: -6695863981169736968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 276
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7338dbf3ee7a7a600800000000000000
+      internalID: 479536527051686711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 276
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b65ba96cd772d0800000000000000
+      internalID: -3280911457111853619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 276
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a8e19e5dadde50800000000000000
+      internalID: 6835810431104754164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 276
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149ed70f6b718f60800000000000000
+      internalID: 8034838927009289244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 276
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575c51a780350b0d0800000000000000
+      internalID: -3409133622046374539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 276
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4a74151dad98300800000000000000
+      internalID: 254975446469813449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 276
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3e547f5ba8b360800000000000000
+      internalID: 7185681631932202295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 276
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fcfc445c3658c80800000000000000
+      internalID: -8321135037582946415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 276
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5dd8895db173b0800000000000000
+      internalID: -5516419876306199932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88f93f34cb7b970800000000000000
+      internalID: 8770685799363479785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cf7944bb477b90800000000000000
+      internalID: -7244238237902847886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c191bfa2e64e1c10800000000000000
+      internalID: 2026134821787505091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe03b78dd84cbab0800000000000000
+      internalID: -4991034170731720972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec2fb67224162f0800000000000000
+      internalID: -981430506707824969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 215
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc0d959ce2bce70800000000000000
+      internalID: 9136447711381343057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 215
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cee6cdf95edc810800000000000000
+      internalID: 1787337101896772732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 215
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd2e008d5053b00800000000000000
+      internalID: 807558133468814602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 215
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c2fc0458bc0f40800000000000000
+      internalID: 5696130299850834295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 215
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548a7c3142721ca0800000000000000
+      internalID: -6047645725092051874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 215
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe97f47b42697f70800000000000000
+      internalID: 9185480991223291647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 215
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7616f450a966549d0800000000000000
+      internalID: -2790711582386069145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 214
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c5cccdabfd58a40800000000000000
+      internalID: 5369944124370476185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 214
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d81d0f025ed010800000000000000
+      internalID: 1215499174034331134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 214
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568ec23095f2b9a0800000000000000
+      internalID: -6218638135768742306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b3c5dfc1240800800000000000000
+      internalID: 577623828738587073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 149
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368a6c475d7652a40800000000000000
+      internalID: 5342790699429832803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 150
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5589602ddf4c7e0800000000000000
+      internalID: -1745991677017303582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 151
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbf031317f7ec40800000000000000
+      internalID: 5541669527798922645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b3b431c39d38b0800000000000000
+      internalID: -5170814339129298627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 153
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3861bd6eebd356140800000000000000
+      internalID: 4712240475239290499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 153
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451e92f2a82b91e0800000000000000
+      internalID: -2190112113465354938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 153
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd474ca98ad5140800000000000000
+      internalID: 4710106167973829863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 153
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caadb683af3e1890800000000000000
+      internalID: -7485475559070389562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 153
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a07e9f2c29b8e0800000000000000
+      internalID: -1677260803185532825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 153
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba18665622aad80800000000000000
+      internalID: -8238734749414085680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 152
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc050e7a91bc25df0800000000000000
+      internalID: -192868522972393267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 150
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e9abc509bd5900800000000000000
+      internalID: 674898953718327583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 149
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef032de12b8e55920800000000000000
+      internalID: 2978542580294365438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 149
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb929002eab987f80800000000000000
+      internalID: -8108559956916491844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e415d479e483230800000000000000
+      internalID: 3618728712336395907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196f3a3c3fef072f0800000000000000
+      internalID: -977000796226586991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 84
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28581774afca6fe10800000000000000
+      internalID: 2231160856349083010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff006c2feddbc2ee0800000000000000
+      internalID: -1284443028453981953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 90
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0669e80309cbc0800000000000000
+      internalID: -3762472676880937017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 91
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88346611bf4529d0800000000000000
+      internalID: -2799743971337422707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 91
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda0f480748308d0800000000000000
+      internalID: -2881313717785416269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 91
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b15b67007b9e8a50800000000000000
+      internalID: 6525323815569543601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 91
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb03479e160069250800000000000000
+      internalID: 5950944378145222847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 91
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a9b6d5666dfaa0800000000000000
+      internalID: -6125627330573786193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 90
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b255b91d926b4c80800000000000000
+      internalID: -8337461858265640267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 86
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2cb64e0b92c1610800000000000000
+      internalID: 1593194207905563358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 84
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cfae8a17722fc30800000000000000
+      internalID: 4391615955758414984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed8e7113643cf580800000000000000
+      internalID: -8792094772434137627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 84
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a5e62d5f7dbbe0800000000000000
+      internalID: -1459870666136901686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e454065d29b659b0800000000000000
+      internalID: -5091678724327975710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbed4263f18f160800000000000000
+      internalID: 7059426733310525413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a004933f72c8a40800000000000000
+      internalID: 5371712381137193537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 20
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87487ada045dc6830800000000000000
+      internalID: 4065859037376775288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979ab095f60933a0800000000000000
+      internalID: -6685304520089888873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 26
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b613b4478d3f4f0800000000000000
+      internalID: -796054715125109995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 26
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef52c42bd6d00800800000000000000
+      internalID: 576696989006323694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820a603d7c1aacd0800000000000000
+      internalID: -2546191315315850613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 26
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38988d155d5d50a0800000000000000
+      internalID: -6891249234657896385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 26
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c3ff2d6674cf10800000000000000
+      internalID: 2289084721939072418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 25
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491aebd0533fd8140800000000000000
+      internalID: 4723698993370931604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 21
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920b77646d3f77e0800000000000000
+      internalID: -1765625027463806314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 19
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab899bbbe6e6d00c0800000000000000
+      internalID: -4607905421855188806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 19
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e413a723f00cb20800000000000000
+      internalID: 3152536448632180327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433892bc3de74a200800000000000000
+      internalID: 190416532368098100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kick_Shadowless_0: 1614015058690298730
+      Kick_Shadowless_1: 8343460858983184175
+      Kick_Shadowless_10: 4275926195344114208
+      Kick_Shadowless_100: -8337461858265640267
+      Kick_Shadowless_101: 1593194207905563358
+      Kick_Shadowless_102: 4391615955758414984
+      Kick_Shadowless_103: -8792094772434137627
+      Kick_Shadowless_104: -1459870666136901686
+      Kick_Shadowless_105: -5091678724327975710
+      Kick_Shadowless_106: 7059426733310525413
+      Kick_Shadowless_107: 5371712381137193537
+      Kick_Shadowless_108: 4065859037376775288
+      Kick_Shadowless_109: -6685304520089888873
+      Kick_Shadowless_11: 1049648619386551491
+      Kick_Shadowless_110: -796054715125109995
+      Kick_Shadowless_111: 576696989006323694
+      Kick_Shadowless_112: -2546191315315850613
+      Kick_Shadowless_113: -6891249234657896385
+      Kick_Shadowless_114: 2289084721939072418
+      Kick_Shadowless_115: 4723698993370931604
+      Kick_Shadowless_116: -1765625027463806314
+      Kick_Shadowless_117: -4607905421855188806
+      Kick_Shadowless_118: 3152536448632180327
+      Kick_Shadowless_119: 190416532368098100
+      Kick_Shadowless_12: 6818823569230083614
+      Kick_Shadowless_13: -4755601975055162596
+      Kick_Shadowless_14: -1278343026228054426
+      Kick_Shadowless_15: -6848878673335555602
+      Kick_Shadowless_16: 1839574752766413099
+      Kick_Shadowless_17: -3341387972570380334
+      Kick_Shadowless_18: 2198852634700075896
+      Kick_Shadowless_19: -2128152098515969385
+      Kick_Shadowless_2: 6067352313787488002
+      Kick_Shadowless_20: -6710283478759210367
+      Kick_Shadowless_21: -3446043638412142730
+      Kick_Shadowless_22: -766515313731768560
+      Kick_Shadowless_23: 8628034240807698035
+      Kick_Shadowless_24: -4947850937774968545
+      Kick_Shadowless_25: 7624640691930005558
+      Kick_Shadowless_26: 1114384310801137839
+      Kick_Shadowless_27: -2623415278744359210
+      Kick_Shadowless_28: -6722014429050656705
+      Kick_Shadowless_29: -1021554609880855605
+      Kick_Shadowless_3: -4039888810531889972
+      Kick_Shadowless_30: 8813294499172159112
+      Kick_Shadowless_31: -6907053069584888584
+      Kick_Shadowless_32: 8628443693174206190
+      Kick_Shadowless_33: -7143755707738763924
+      Kick_Shadowless_34: 8835347425276107289
+      Kick_Shadowless_35: -5713666062776092517
+      Kick_Shadowless_36: 8123234631884023893
+      Kick_Shadowless_37: -7828569048206098912
+      Kick_Shadowless_38: -2792784714518151870
+      Kick_Shadowless_39: 8394710272914564145
+      Kick_Shadowless_4: 3349356446077693988
+      Kick_Shadowless_40: -4655381040596257286
+      Kick_Shadowless_41: -8918583017897878941
+      Kick_Shadowless_42: 1801552631422048459
+      Kick_Shadowless_43: -6757980435907881521
+      Kick_Shadowless_44: -3721236835142358063
+      Kick_Shadowless_45: -8627790136402025578
+      Kick_Shadowless_46: 8144804605994599285
+      Kick_Shadowless_47: 5973158018088056440
+      Kick_Shadowless_48: -5228249706421607688
+      Kick_Shadowless_49: 500132548090372106
+      Kick_Shadowless_5: 7848661093351849694
+      Kick_Shadowless_50: -6695863981169736968
+      Kick_Shadowless_51: 479536527051686711
+      Kick_Shadowless_52: -3280911457111853619
+      Kick_Shadowless_53: 6835810431104754164
+      Kick_Shadowless_54: 8034838927009289244
+      Kick_Shadowless_55: -3409133622046374539
+      Kick_Shadowless_56: 254975446469813449
+      Kick_Shadowless_57: 7185681631932202295
+      Kick_Shadowless_58: -8321135037582946415
+      Kick_Shadowless_59: -5516419876306199932
+      Kick_Shadowless_6: -4734922403085587369
+      Kick_Shadowless_60: 8770685799363479785
+      Kick_Shadowless_61: -7244238237902847886
+      Kick_Shadowless_62: 2026134821787505091
+      Kick_Shadowless_63: -4991034170731720972
+      Kick_Shadowless_64: -981430506707824969
+      Kick_Shadowless_65: 9136447711381343057
+      Kick_Shadowless_66: 1787337101896772732
+      Kick_Shadowless_67: 807558133468814602
+      Kick_Shadowless_68: 5696130299850834295
+      Kick_Shadowless_69: -6047645725092051874
+      Kick_Shadowless_7: -7924561650433305493
+      Kick_Shadowless_70: 9185480991223291647
+      Kick_Shadowless_71: -2790711582386069145
+      Kick_Shadowless_72: 5369944124370476185
+      Kick_Shadowless_73: 1215499174034331134
+      Kick_Shadowless_74: -6218638135768742306
+      Kick_Shadowless_75: 577623828738587073
+      Kick_Shadowless_76: 5342790699429832803
+      Kick_Shadowless_77: -1745991677017303582
+      Kick_Shadowless_78: 5541669527798922645
+      Kick_Shadowless_79: -5170814339129298627
+      Kick_Shadowless_8: -7621554282731890080
+      Kick_Shadowless_80: 4712240475239290499
+      Kick_Shadowless_81: -2190112113465354938
+      Kick_Shadowless_82: 4710106167973829863
+      Kick_Shadowless_83: -7485475559070389562
+      Kick_Shadowless_84: -1677260803185532825
+      Kick_Shadowless_85: -8238734749414085680
+      Kick_Shadowless_86: -192868522972393267
+      Kick_Shadowless_87: 674898953718327583
+      Kick_Shadowless_88: 2978542580294365438
+      Kick_Shadowless_89: -8108559956916491844
+      Kick_Shadowless_9: -6574249962706619070
+      Kick_Shadowless_90: 3618728712336395907
+      Kick_Shadowless_91: -977000796226586991
+      Kick_Shadowless_92: 2231160856349083010
+      Kick_Shadowless_93: -1284443028453981953
+      Kick_Shadowless_94: -3762472676880937017
+      Kick_Shadowless_95: -2799743971337422707
+      Kick_Shadowless_96: -2881313717785416269
+      Kick_Shadowless_97: 6525323815569543601
+      Kick_Shadowless_98: 5950944378145222847
+      Kick_Shadowless_99: -6125627330573786193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

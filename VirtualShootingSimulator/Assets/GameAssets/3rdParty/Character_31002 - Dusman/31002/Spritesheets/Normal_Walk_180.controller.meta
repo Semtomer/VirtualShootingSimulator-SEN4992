@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 544aa075e121d4b44a1689b9b0961318
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198083
+  packageName: 'Fantasy monster: Cat Knight'
+  packageVersion: 1.0
+  assetPath: Assets/Character_31002/31002/Spritesheets/Normal_Walk_180.controller
+  uploadId: 440378

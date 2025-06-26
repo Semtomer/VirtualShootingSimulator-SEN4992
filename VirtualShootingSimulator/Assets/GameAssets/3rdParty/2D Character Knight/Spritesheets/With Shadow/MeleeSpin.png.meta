@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 2757e9415a7576f4eb036e901a7995bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7258487276414520575
+    second: MeleeSpin_0
+  - first:
+      213: -607542591369125174
+    second: MeleeSpin_1
+  - first:
+      213: -8351334981433154002
+    second: MeleeSpin_2
+  - first:
+      213: -8903867747309675080
+    second: MeleeSpin_3
+  - first:
+      213: -3033951434128071256
+    second: MeleeSpin_4
+  - first:
+      213: -3912199340006043671
+    second: MeleeSpin_5
+  - first:
+      213: 4992345515910431426
+    second: MeleeSpin_6
+  - first:
+      213: -8221297721332400757
+    second: MeleeSpin_7
+  - first:
+      213: 5156094351560704148
+    second: MeleeSpin_8
+  - first:
+      213: 7747869686639679721
+    second: MeleeSpin_9
+  - first:
+      213: -6829117859020886958
+    second: MeleeSpin_10
+  - first:
+      213: -2957681086030681012
+    second: MeleeSpin_11
+  - first:
+      213: 8095527708239623007
+    second: MeleeSpin_12
+  - first:
+      213: -3399384556870595499
+    second: MeleeSpin_13
+  - first:
+      213: -929842837164593134
+    second: MeleeSpin_14
+  - first:
+      213: 1371882629663705941
+    second: MeleeSpin_15
+  - first:
+      213: 6921337550486686582
+    second: MeleeSpin_16
+  - first:
+      213: 2073990762136009507
+    second: MeleeSpin_17
+  - first:
+      213: -984286631352461640
+    second: MeleeSpin_18
+  - first:
+      213: -1362512906057269725
+    second: MeleeSpin_19
+  - first:
+      213: 5282545416855406620
+    second: MeleeSpin_20
+  - first:
+      213: -182674327772555574
+    second: MeleeSpin_21
+  - first:
+      213: 2540762086522248820
+    second: MeleeSpin_22
+  - first:
+      213: -3774021262390142426
+    second: MeleeSpin_23
+  - first:
+      213: -1095359343587608552
+    second: MeleeSpin_24
+  - first:
+      213: -8287248518774458488
+    second: MeleeSpin_25
+  - first:
+      213: 2840765854898900662
+    second: MeleeSpin_26
+  - first:
+      213: -6966411167701180720
+    second: MeleeSpin_27
+  - first:
+      213: 7675191110724882161
+    second: MeleeSpin_28
+  - first:
+      213: -2469003782296277921
+    second: MeleeSpin_29
+  - first:
+      213: 7115903074403582957
+    second: MeleeSpin_30
+  - first:
+      213: -1215827319786130191
+    second: MeleeSpin_31
+  - first:
+      213: -3986516473638703524
+    second: MeleeSpin_32
+  - first:
+      213: 2050932531462249410
+    second: MeleeSpin_33
+  - first:
+      213: -3836751387434154295
+    second: MeleeSpin_34
+  - first:
+      213: -4483828646571269819
+    second: MeleeSpin_35
+  - first:
+      213: -412024171636948459
+    second: MeleeSpin_36
+  - first:
+      213: -5554019100308381451
+    second: MeleeSpin_37
+  - first:
+      213: 7917022561471585745
+    second: MeleeSpin_38
+  - first:
+      213: 3632067410301457037
+    second: MeleeSpin_39
+  - first:
+      213: 8458137143382488298
+    second: MeleeSpin_40
+  - first:
+      213: -5290396973246317733
+    second: MeleeSpin_41
+  - first:
+      213: -5476151079261522975
+    second: MeleeSpin_42
+  - first:
+      213: -7799336535393101582
+    second: MeleeSpin_43
+  - first:
+      213: 136112304021203016
+    second: MeleeSpin_44
+  - first:
+      213: 8863962849418977996
+    second: MeleeSpin_45
+  - first:
+      213: 566046066879233927
+    second: MeleeSpin_46
+  - first:
+      213: 122660252516746694
+    second: MeleeSpin_47
+  - first:
+      213: 7465891873517200036
+    second: MeleeSpin_48
+  - first:
+      213: 5082631514685838583
+    second: MeleeSpin_49
+  - first:
+      213: -2611536707959104452
+    second: MeleeSpin_50
+  - first:
+      213: 5637384583755551883
+    second: MeleeSpin_51
+  - first:
+      213: 6250400106858305995
+    second: MeleeSpin_52
+  - first:
+      213: -4985019183769245562
+    second: MeleeSpin_53
+  - first:
+      213: 7963415022626649971
+    second: MeleeSpin_54
+  - first:
+      213: -8599425406347343646
+    second: MeleeSpin_55
+  - first:
+      213: -1821273749002392404
+    second: MeleeSpin_56
+  - first:
+      213: -1612557868993779927
+    second: MeleeSpin_57
+  - first:
+      213: 4575757331026462461
+    second: MeleeSpin_58
+  - first:
+      213: -3990273902091894732
+    second: MeleeSpin_59
+  - first:
+      213: 7393990685099880637
+    second: MeleeSpin_60
+  - first:
+      213: -5340587771585054007
+    second: MeleeSpin_61
+  - first:
+      213: 8703666091802388579
+    second: MeleeSpin_62
+  - first:
+      213: -7381117691165254118
+    second: MeleeSpin_63
+  - first:
+      213: -8163353876306382606
+    second: MeleeSpin_64
+  - first:
+      213: -6795283902912092766
+    second: MeleeSpin_65
+  - first:
+      213: 8578559142135432725
+    second: MeleeSpin_66
+  - first:
+      213: 97096838588709641
+    second: MeleeSpin_67
+  - first:
+      213: 2417289805880949741
+    second: MeleeSpin_68
+  - first:
+      213: -3698895978828743689
+    second: MeleeSpin_69
+  - first:
+      213: 6915870243389401618
+    second: MeleeSpin_70
+  - first:
+      213: -7571490921804292051
+    second: MeleeSpin_71
+  - first:
+      213: 7538242059518681599
+    second: MeleeSpin_72
+  - first:
+      213: -7755179835578726364
+    second: MeleeSpin_73
+  - first:
+      213: 1606529947178348420
+    second: MeleeSpin_74
+  - first:
+      213: -8398453563938384693
+    second: MeleeSpin_75
+  - first:
+      213: 412947266664849671
+    second: MeleeSpin_76
+  - first:
+      213: -690408080324258780
+    second: MeleeSpin_77
+  - first:
+      213: 583911739915883444
+    second: MeleeSpin_78
+  - first:
+      213: 6566189752984953617
+    second: MeleeSpin_79
+  - first:
+      213: -5787691235565387443
+    second: MeleeSpin_80
+  - first:
+      213: 5961977640653161795
+    second: MeleeSpin_81
+  - first:
+      213: 7993844680958771199
+    second: MeleeSpin_82
+  - first:
+      213: 4230968943883390074
+    second: MeleeSpin_83
+  - first:
+      213: 4813310868123744973
+    second: MeleeSpin_84
+  - first:
+      213: -121490113641962147
+    second: MeleeSpin_85
+  - first:
+      213: 4832313555566322090
+    second: MeleeSpin_86
+  - first:
+      213: 618206121958282814
+    second: MeleeSpin_87
+  - first:
+      213: 9066721074447357969
+    second: MeleeSpin_88
+  - first:
+      213: -3702402220352177620
+    second: MeleeSpin_89
+  - first:
+      213: -6508315779397634970
+    second: MeleeSpin_90
+  - first:
+      213: 7768670894492951060
+    second: MeleeSpin_91
+  - first:
+      213: -6728765554493478739
+    second: MeleeSpin_92
+  - first:
+      213: 6876728367114972674
+    second: MeleeSpin_93
+  - first:
+      213: 84113098757623507
+    second: MeleeSpin_94
+  - first:
+      213: 6123709696531907781
+    second: MeleeSpin_95
+  - first:
+      213: 3880648358311799893
+    second: MeleeSpin_96
+  - first:
+      213: -213828230427326043
+    second: MeleeSpin_97
+  - first:
+      213: -1214014109080500324
+    second: MeleeSpin_98
+  - first:
+      213: 7340984593334194930
+    second: MeleeSpin_99
+  - first:
+      213: 3469542070215719711
+    second: MeleeSpin_100
+  - first:
+      213: 2267223448413990995
+    second: MeleeSpin_101
+  - first:
+      213: -3169025262176011551
+    second: MeleeSpin_102
+  - first:
+      213: 8316744991278311779
+    second: MeleeSpin_103
+  - first:
+      213: -5881213611180467859
+    second: MeleeSpin_104
+  - first:
+      213: 8709038304921907179
+    second: MeleeSpin_105
+  - first:
+      213: 5750380689195275822
+    second: MeleeSpin_106
+  - first:
+      213: 7727342617848826691
+    second: MeleeSpin_107
+  - first:
+      213: 2828625931167221534
+    second: MeleeSpin_108
+  - first:
+      213: 7166851662428198487
+    second: MeleeSpin_109
+  - first:
+      213: 2623474530219339935
+    second: MeleeSpin_110
+  - first:
+      213: -2676747779345993735
+    second: MeleeSpin_111
+  - first:
+      213: -1011669773804443786
+    second: MeleeSpin_112
+  - first:
+      213: 4140362988636568453
+    second: MeleeSpin_113
+  - first:
+      213: -8327906881981742431
+    second: MeleeSpin_114
+  - first:
+      213: 9016048386316659785
+    second: MeleeSpin_115
+  - first:
+      213: 8503620789764306730
+    second: MeleeSpin_116
+  - first:
+      213: 6927169864256728061
+    second: MeleeSpin_117
+  - first:
+      213: -2472629030859227481
+    second: MeleeSpin_118
+  - first:
+      213: 2576333395064388495
+    second: MeleeSpin_119
+  - first:
+      213: -6604246734691847838
+    second: MeleeSpin_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeleeSpin_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 467
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc416588b35bb460800000000000000
+      internalID: 7258487276414520575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 465
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e5876b339197f0800000000000000
+      internalID: -607542591369125174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 465
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262267e4191a1c80800000000000000
+      internalID: -8351334981433154002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 467
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9c82657b1f6480800000000000000
+      internalID: -8903867747309675080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 461
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56207ce3d35e5d0800000000000000
+      internalID: -3033951434128071256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 459
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef0c609d6315b9c0800000000000000
+      internalID: -3912199340006043671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c20bdfcbcf584540800000000000000
+      internalID: 4992345515910431426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 464
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df04fd74518ed80800000000000000
+      internalID: -8221297721332400757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 464
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4908c2d9e702e8740800000000000000
+      internalID: 5156094351560704148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 468
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8dc261e66f58b60800000000000000
+      internalID: 7747869686639679721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 469
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ca8cb4d791a31a0800000000000000
+      internalID: -6829117859020886958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 467
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cef3409b434f6d0800000000000000
+      internalID: -2957681086030681012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 467
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5374f60f87195070800000000000000
+      internalID: 8095527708239623007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 467
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c87c891c5f2d0d0800000000000000
+      internalID: -3399384556870595499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 467
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210fcd9bdd88813f0800000000000000
+      internalID: -929842837164593134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 399
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b42aeabf7e90310800000000000000
+      internalID: 1371882629663705941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 402
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc453d4d78d0060800000000000000
+      internalID: 6921337550486686582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 401
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bfe841c9b48cc10800000000000000
+      internalID: 2073990762136009507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 396
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b61215168c1752f0800000000000000
+      internalID: -984286631352461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 394
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e32981bb1671de0800000000000000
+      internalID: -1362512906057269725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 392
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c889811f5f4940800000000000000
+      internalID: 5282545416855406620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 396
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6988faaa2077df0800000000000000
+      internalID: -182674327772555574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 408
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e50f9f7a9924320800000000000000
+      internalID: 2540762086522248820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 400
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ad67058abff9bc0800000000000000
+      internalID: -3774021262390142426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 400
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8183e000b708cc0f0800000000000000
+      internalID: -1095359343587608552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_25
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 397
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f0114167cdfc80800000000000000
+      internalID: -8287248518774458488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 397
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bece477e7d6c6720800000000000000
+      internalID: 2840765854898900662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_27
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 399
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5bddd3f5525f90800000000000000
+      internalID: -6966411167701180720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_28
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 399
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0ef976a1c38a60800000000000000
+      internalID: 7675191110724882161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 397
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c622f24265cbdd0800000000000000
+      internalID: -2469003782296277921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 399
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de38fedf424c0c260800000000000000
+      internalID: 7115903074403582957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 334
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4beef8e73802fe0800000000000000
+      internalID: -1215827319786130191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 332
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea581836c0da8c0800000000000000
+      internalID: -3986516473638703524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 333
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb99146540667c10800000000000000
+      internalID: 2050932531462249410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 329
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6008ce0fe11cac0800000000000000
+      internalID: -3836751387434154295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 330
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541266f2a9d36c1c0800000000000000
+      internalID: -4483828646571269819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 333
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51284bae232384af0800000000000000
+      internalID: -412024171636948459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f062620e092ce2b0800000000000000
+      internalID: -5554019100308381451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_38
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 339
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd544fc21aeedd60800000000000000
+      internalID: 7917022561471585745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 336
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829a4fe012b76230800000000000000
+      internalID: 3632067410301457037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 330
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b9d43be6516570800000000000000
+      internalID: 8458137143382488298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_41
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 330
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf9d88bfbb496b0800000000000000
+      internalID: -5290396973246317733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 329
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3be387b9dc004b0800000000000000
+      internalID: -5476151079261522975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_43
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 332
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f81b246eb033c390800000000000000
+      internalID: -7799336535393101582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 330
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8486eba5b6193e100800000000000000
+      internalID: 136112304021203016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_45
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 334
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a0ed8f3f130b70800000000000000
+      internalID: 8863962849418977996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 273
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff7d616effad700800000000000000
+      internalID: 566046066879233927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 270
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5025b89d6c3b100800000000000000
+      internalID: 122660252516746694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 268
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2e77c5a1d2c9760800000000000000
+      internalID: 7465891873517200036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 269
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f41e050f62298640800000000000000
+      internalID: 5082631514685838583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 271
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c543c5335f1cbd0800000000000000
+      internalID: -2611536707959104452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 269
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84530929630c3e40800000000000000
+      internalID: 5637384583755551883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95a59f7c1edb650800000000000000
+      internalID: 6250400106858305995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 274
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6882de0d677a1dab0800000000000000
+      internalID: -4985019183769245562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_54
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 270
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bba665cbb38e60800000000000000
+      internalID: 7963415022626649971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 269
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e882369724b8a880800000000000000
+      internalID: -8599425406347343646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_56
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 269
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace7ffbc2989b6e0800000000000000
+      internalID: -1821273749002392404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_57
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 269
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9276dde692b0f99e0800000000000000
+      internalID: -1612557868993779927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_58
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 270
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c8369c0b508f30800000000000000
+      internalID: 4575757331026462461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_59
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 271
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300d450703bf98c0800000000000000
+      internalID: -3990273902091894732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_60
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 273
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0fce16a5bbc9660800000000000000
+      internalID: 7393990685099880637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab0e6a7bb62e5b0800000000000000
+      internalID: -5340587771585054007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686e7d4232a9c870800000000000000
+      internalID: 8703666091802388579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e5eb41190019990800000000000000
+      internalID: -7381117691165254118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f033fa96e0f5be80800000000000000
+      internalID: -8163353876306382606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 210
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5aef21b4d42b1a0800000000000000
+      internalID: -6795283902912092766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 205
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51689afa61a2d0770800000000000000
+      internalID: 8578559142135432725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 211
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb4ec6f05f85100800000000000000
+      internalID: 97096838588709641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_68
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 208
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf4b66540fb8120800000000000000
+      internalID: 2417289805880949741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 206
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbbac074b1eaacc0800000000000000
+      internalID: -3698895978828743689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_70
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 206
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6be1385b1aff50800000000000000
+      internalID: 6915870243389401618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_71
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 209
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a2c14f19ace690800000000000000
+      internalID: -7571490921804292051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_72
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 209
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1258cb6373d9860800000000000000
+      internalID: 7538242059518681599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_73
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ce0b3701106490800000000000000
+      internalID: -7755179835578726364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_74
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 211
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa796a97a8b4610800000000000000
+      internalID: 1606529947178348420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_75
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 211
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d6d20bf2b27b80800000000000000
+      internalID: -8398453563938384693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 150
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e684e9551bb500800000000000000
+      internalID: 412947266664849671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249636428d2b66f0800000000000000
+      internalID: -690408080324258780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 147
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3dddd32a87a1800800000000000000
+      internalID: 583911739915883444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1136a7a8acacf1b50800000000000000
+      internalID: 6566189752984953617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_80
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 146
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41cb7a5c7dfdafa0800000000000000
+      internalID: -5787691235565387443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 147
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34504f583133db250800000000000000
+      internalID: 5961977640653161795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff71365267dfee60800000000000000
+      internalID: 7993844680958771199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c01eb76db67ba30800000000000000
+      internalID: 4230968943883390074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_84
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 143
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcafa088bb05cc240800000000000000
+      internalID: 4813310868123744973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_85
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 148
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5526a4a261605ef0800000000000000
+      internalID: -121490113641962147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_86
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 148
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1e5da7393df0340800000000000000
+      internalID: 4832313555566322090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_87
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 148
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369b49413f449800800000000000000
+      internalID: 618206121958282814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_88
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 148
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1189bf797c673dd70800000000000000
+      internalID: 9066721074447357969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_89
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 150
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a7a48fbcc6e9cc0800000000000000
+      internalID: -3702402220352177620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_90
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643feaf741dda5a0800000000000000
+      internalID: -6508315779397634970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4122b23b40ddfcb60800000000000000
+      internalID: 7768670894492951060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da82883f06f9e92a0800000000000000
+      internalID: -6728765554493478739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 87
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6db2f30c0f6f50800000000000000
+      internalID: 6876728367114972674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_94
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec76cea64da2100800000000000000
+      internalID: 84113098757623507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c446613689cbf450800000000000000
+      internalID: 6123709696531907781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_96
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 84
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca06f0f15dad530800000000000000
+      internalID: 3880648358311799893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_97
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 83
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9cd6a7b54580df0800000000000000
+      internalID: -213828230427326043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 77
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c1f39994f62fe0800000000000000
+      internalID: -1214014109080500324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_99
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 81
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2dc4be79a60e560800000000000000
+      internalID: 7340984593334194930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_100
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 86
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b3b74612a462030800000000000000
+      internalID: 3469542070215719711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_101
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 86
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f62dc6bbc67f10800000000000000
+      internalID: 2267223448413990995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_102
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 85
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea72c3705c5504d0800000000000000
+      internalID: -3169025262176011551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_103
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 85
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36927ac61830b6370800000000000000
+      internalID: 8316744991278311779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_104
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695561716bb16ea0800000000000000
+      internalID: -5881213611180467859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_105
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 84
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe3242238bcd870800000000000000
+      internalID: 8709038304921907179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_106
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2610ce15c47dcf40800000000000000
+      internalID: 5750380689195275822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 18
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcd927b290d3b60800000000000000
+      internalID: 7727342617848826691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_108
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e174ea53c4c414720800000000000000
+      internalID: 2828625931167221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75653f88d95c57360800000000000000
+      internalID: 7166851662428198487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90320b7f24786420800000000000000
+      internalID: 2623474530219339935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_111
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff24c2a3184adad0800000000000000
+      internalID: -2676747779345993735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_112
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677e26663b3d5f1f0800000000000000
+      internalID: -1011669773804443786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_113
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 13
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b7bda9336857930800000000000000
+      internalID: 4140362988636568453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_114
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 22
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a282f060d45d6c80800000000000000
+      internalID: -8327906881981742431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_115
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 21
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c63200d307f1d70800000000000000
+      internalID: 9016048386316659785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 21
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27378edd0ee20670800000000000000
+      internalID: 8503620789764306730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb20d13a40422060800000000000000
+      internalID: 6927169864256728061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_118
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 20
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae315a3ff47fadd0800000000000000
+      internalID: -2472629030859227481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 18
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf9c3a299f0c320800000000000000
+      internalID: 2576333395064388495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_120
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 18
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261b8a9e5900954a0800000000000000
+      internalID: -6604246734691847838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeleeSpin_0: 7258487276414520575
+      MeleeSpin_1: -607542591369125174
+      MeleeSpin_10: -6829117859020886958
+      MeleeSpin_100: 3469542070215719711
+      MeleeSpin_101: 2267223448413990995
+      MeleeSpin_102: -3169025262176011551
+      MeleeSpin_103: 8316744991278311779
+      MeleeSpin_104: -5881213611180467859
+      MeleeSpin_105: 8709038304921907179
+      MeleeSpin_106: 5750380689195275822
+      MeleeSpin_107: 7727342617848826691
+      MeleeSpin_108: 2828625931167221534
+      MeleeSpin_109: 7166851662428198487
+      MeleeSpin_11: -2957681086030681012
+      MeleeSpin_110: 2623474530219339935
+      MeleeSpin_111: -2676747779345993735
+      MeleeSpin_112: -1011669773804443786
+      MeleeSpin_113: 4140362988636568453
+      MeleeSpin_114: -8327906881981742431
+      MeleeSpin_115: 9016048386316659785
+      MeleeSpin_116: 8503620789764306730
+      MeleeSpin_117: 6927169864256728061
+      MeleeSpin_118: -2472629030859227481
+      MeleeSpin_119: 2576333395064388495
+      MeleeSpin_12: 8095527708239623007
+      MeleeSpin_120: -6604246734691847838
+      MeleeSpin_13: -3399384556870595499
+      MeleeSpin_14: -929842837164593134
+      MeleeSpin_15: 1371882629663705941
+      MeleeSpin_16: 6921337550486686582
+      MeleeSpin_17: 2073990762136009507
+      MeleeSpin_18: -984286631352461640
+      MeleeSpin_19: -1362512906057269725
+      MeleeSpin_2: -8351334981433154002
+      MeleeSpin_20: 5282545416855406620
+      MeleeSpin_21: -182674327772555574
+      MeleeSpin_22: 2540762086522248820
+      MeleeSpin_23: -3774021262390142426
+      MeleeSpin_24: -1095359343587608552
+      MeleeSpin_25: -8287248518774458488
+      MeleeSpin_26: 2840765854898900662
+      MeleeSpin_27: -6966411167701180720
+      MeleeSpin_28: 7675191110724882161
+      MeleeSpin_29: -2469003782296277921
+      MeleeSpin_3: -8903867747309675080
+      MeleeSpin_30: 7115903074403582957
+      MeleeSpin_31: -1215827319786130191
+      MeleeSpin_32: -3986516473638703524
+      MeleeSpin_33: 2050932531462249410
+      MeleeSpin_34: -3836751387434154295
+      MeleeSpin_35: -4483828646571269819
+      MeleeSpin_36: -412024171636948459
+      MeleeSpin_37: -5554019100308381451
+      MeleeSpin_38: 7917022561471585745
+      MeleeSpin_39: 3632067410301457037
+      MeleeSpin_4: -3033951434128071256
+      MeleeSpin_40: 8458137143382488298
+      MeleeSpin_41: -5290396973246317733
+      MeleeSpin_42: -5476151079261522975
+      MeleeSpin_43: -7799336535393101582
+      MeleeSpin_44: 136112304021203016
+      MeleeSpin_45: 8863962849418977996
+      MeleeSpin_46: 566046066879233927
+      MeleeSpin_47: 122660252516746694
+      MeleeSpin_48: 7465891873517200036
+      MeleeSpin_49: 5082631514685838583
+      MeleeSpin_5: -3912199340006043671
+      MeleeSpin_50: -2611536707959104452
+      MeleeSpin_51: 5637384583755551883
+      MeleeSpin_52: 6250400106858305995
+      MeleeSpin_53: -4985019183769245562
+      MeleeSpin_54: 7963415022626649971
+      MeleeSpin_55: -8599425406347343646
+      MeleeSpin_56: -1821273749002392404
+      MeleeSpin_57: -1612557868993779927
+      MeleeSpin_58: 4575757331026462461
+      MeleeSpin_59: -3990273902091894732
+      MeleeSpin_6: 4992345515910431426
+      MeleeSpin_60: 7393990685099880637
+      MeleeSpin_61: -5340587771585054007
+      MeleeSpin_62: 8703666091802388579
+      MeleeSpin_63: -7381117691165254118
+      MeleeSpin_64: -8163353876306382606
+      MeleeSpin_65: -6795283902912092766
+      MeleeSpin_66: 8578559142135432725
+      MeleeSpin_67: 97096838588709641
+      MeleeSpin_68: 2417289805880949741
+      MeleeSpin_69: -3698895978828743689
+      MeleeSpin_7: -8221297721332400757
+      MeleeSpin_70: 6915870243389401618
+      MeleeSpin_71: -7571490921804292051
+      MeleeSpin_72: 7538242059518681599
+      MeleeSpin_73: -7755179835578726364
+      MeleeSpin_74: 1606529947178348420
+      MeleeSpin_75: -8398453563938384693
+      MeleeSpin_76: 412947266664849671
+      MeleeSpin_77: -690408080324258780
+      MeleeSpin_78: 583911739915883444
+      MeleeSpin_79: 6566189752984953617
+      MeleeSpin_8: 5156094351560704148
+      MeleeSpin_80: -5787691235565387443
+      MeleeSpin_81: 5961977640653161795
+      MeleeSpin_82: 7993844680958771199
+      MeleeSpin_83: 4230968943883390074
+      MeleeSpin_84: 4813310868123744973
+      MeleeSpin_85: -121490113641962147
+      MeleeSpin_86: 4832313555566322090
+      MeleeSpin_87: 618206121958282814
+      MeleeSpin_88: 9066721074447357969
+      MeleeSpin_89: -3702402220352177620
+      MeleeSpin_9: 7747869686639679721
+      MeleeSpin_90: -6508315779397634970
+      MeleeSpin_91: 7768670894492951060
+      MeleeSpin_92: -6728765554493478739
+      MeleeSpin_93: 6876728367114972674
+      MeleeSpin_94: 84113098757623507
+      MeleeSpin_95: 6123709696531907781
+      MeleeSpin_96: 3880648358311799893
+      MeleeSpin_97: -213828230427326043
+      MeleeSpin_98: -1214014109080500324
+      MeleeSpin_99: 7340984593334194930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

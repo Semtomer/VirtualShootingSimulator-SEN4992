@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/MainMenu.unity
+    guid: b3de8781945c2a84dab5f935c7c07e00
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/SinglePlayer Game Scenes/SinglePlayer_Normal.unity
+    guid: 01b8314cad96caf4e9f111479eea9160
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/SinglePlayer Game Scenes/SinglePlayer_Easy.unity
+    guid: 619306112e4519a46b64a33996ba7307
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/SinglePlayer Game Scenes/SinglePlayer_Hard.unity
+    guid: d685baf17a9c00f4982437e0e9d445eb
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/Multiplayer Game Scenes/Multiplayer_Normal.unity
+    guid: fee7ac7db95b59d40b5de92a7f2537b9
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/Multiplayer Game Scenes/Multiplayer_Easy.unity
+    guid: b4f1df5ac0fdca842af1156528bde861
+  - enabled: 1
+    path: Assets/GameAssets/Scenes/Multiplayer Game Scenes/Multiplayer_Hard.unity
+    guid: d524c40fb80c21d47a8cd77ade0e7d3b
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: 4309c411ecc882e42aa7fe8cd26033b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5140155914414316768
+    second: MeleeSpin_Shadowless_0
+  - first:
+      213: -4167063999564218306
+    second: MeleeSpin_Shadowless_1
+  - first:
+      213: -7498941984198380483
+    second: MeleeSpin_Shadowless_2
+  - first:
+      213: 6613157166618740111
+    second: MeleeSpin_Shadowless_3
+  - first:
+      213: 8837191406227510123
+    second: MeleeSpin_Shadowless_4
+  - first:
+      213: -8340685941362097217
+    second: MeleeSpin_Shadowless_5
+  - first:
+      213: -6993302833271148285
+    second: MeleeSpin_Shadowless_6
+  - first:
+      213: -2286919984474437810
+    second: MeleeSpin_Shadowless_7
+  - first:
+      213: -1157987732960882353
+    second: MeleeSpin_Shadowless_8
+  - first:
+      213: -2519679449187083805
+    second: MeleeSpin_Shadowless_9
+  - first:
+      213: 1555480282546908441
+    second: MeleeSpin_Shadowless_10
+  - first:
+      213: -7265260403536977582
+    second: MeleeSpin_Shadowless_11
+  - first:
+      213: -4246167131447540489
+    second: MeleeSpin_Shadowless_12
+  - first:
+      213: -5262649676425742512
+    second: MeleeSpin_Shadowless_13
+  - first:
+      213: 5965816600395920902
+    second: MeleeSpin_Shadowless_14
+  - first:
+      213: 5888938067619760210
+    second: MeleeSpin_Shadowless_15
+  - first:
+      213: 4151398187777450546
+    second: MeleeSpin_Shadowless_16
+  - first:
+      213: 2064767977070905701
+    second: MeleeSpin_Shadowless_17
+  - first:
+      213: -4343070757741481351
+    second: MeleeSpin_Shadowless_18
+  - first:
+      213: 7782656061255054975
+    second: MeleeSpin_Shadowless_19
+  - first:
+      213: -3699724634359679683
+    second: MeleeSpin_Shadowless_20
+  - first:
+      213: -3068028879121155753
+    second: MeleeSpin_Shadowless_21
+  - first:
+      213: -1897207215766908425
+    second: MeleeSpin_Shadowless_22
+  - first:
+      213: 8571371993791750134
+    second: MeleeSpin_Shadowless_23
+  - first:
+      213: 1946557079016281144
+    second: MeleeSpin_Shadowless_24
+  - first:
+      213: 3928824484634299687
+    second: MeleeSpin_Shadowless_25
+  - first:
+      213: -888657750056051974
+    second: MeleeSpin_Shadowless_26
+  - first:
+      213: -7595745458199697882
+    second: MeleeSpin_Shadowless_27
+  - first:
+      213: 5038964559414396773
+    second: MeleeSpin_Shadowless_28
+  - first:
+      213: 1857750269829895541
+    second: MeleeSpin_Shadowless_29
+  - first:
+      213: 5013120240514310042
+    second: MeleeSpin_Shadowless_30
+  - first:
+      213: 6652470497416664761
+    second: MeleeSpin_Shadowless_31
+  - first:
+      213: -9223263173293954803
+    second: MeleeSpin_Shadowless_32
+  - first:
+      213: 6747113761277666314
+    second: MeleeSpin_Shadowless_33
+  - first:
+      213: -70838559293817734
+    second: MeleeSpin_Shadowless_34
+  - first:
+      213: 8200370911318144658
+    second: MeleeSpin_Shadowless_35
+  - first:
+      213: 2615458739100223230
+    second: MeleeSpin_Shadowless_36
+  - first:
+      213: -297048285783862449
+    second: MeleeSpin_Shadowless_37
+  - first:
+      213: -7751543780168715365
+    second: MeleeSpin_Shadowless_38
+  - first:
+      213: -2313307115439493734
+    second: MeleeSpin_Shadowless_39
+  - first:
+      213: 7910200384963192340
+    second: MeleeSpin_Shadowless_40
+  - first:
+      213: -514630454064626305
+    second: MeleeSpin_Shadowless_41
+  - first:
+      213: -2521350209751875245
+    second: MeleeSpin_Shadowless_42
+  - first:
+      213: -7149684845091073731
+    second: MeleeSpin_Shadowless_43
+  - first:
+      213: 2681484931912550224
+    second: MeleeSpin_Shadowless_44
+  - first:
+      213: -2645751328301974406
+    second: MeleeSpin_Shadowless_45
+  - first:
+      213: 1224693440728764629
+    second: MeleeSpin_Shadowless_46
+  - first:
+      213: -1493024382740173759
+    second: MeleeSpin_Shadowless_47
+  - first:
+      213: -2401365483569881332
+    second: MeleeSpin_Shadowless_48
+  - first:
+      213: -6898037357187460547
+    second: MeleeSpin_Shadowless_49
+  - first:
+      213: 4289325382392811636
+    second: MeleeSpin_Shadowless_50
+  - first:
+      213: -7845528002856913158
+    second: MeleeSpin_Shadowless_51
+  - first:
+      213: -6672345618201250916
+    second: MeleeSpin_Shadowless_52
+  - first:
+      213: -3608982026817982815
+    second: MeleeSpin_Shadowless_53
+  - first:
+      213: -94559891019110039
+    second: MeleeSpin_Shadowless_54
+  - first:
+      213: 6353198764848514923
+    second: MeleeSpin_Shadowless_55
+  - first:
+      213: 6885828865109884554
+    second: MeleeSpin_Shadowless_56
+  - first:
+      213: -5577193254632188222
+    second: MeleeSpin_Shadowless_57
+  - first:
+      213: 5293946008949751305
+    second: MeleeSpin_Shadowless_58
+  - first:
+      213: -4068218851586412462
+    second: MeleeSpin_Shadowless_59
+  - first:
+      213: 5770009170384652099
+    second: MeleeSpin_Shadowless_60
+  - first:
+      213: -3616864928142217353
+    second: MeleeSpin_Shadowless_61
+  - first:
+      213: -437843869226080021
+    second: MeleeSpin_Shadowless_62
+  - first:
+      213: 4608965340782840024
+    second: MeleeSpin_Shadowless_63
+  - first:
+      213: -7163263061044965462
+    second: MeleeSpin_Shadowless_64
+  - first:
+      213: 3543804460121829928
+    second: MeleeSpin_Shadowless_65
+  - first:
+      213: -7481713131436313801
+    second: MeleeSpin_Shadowless_66
+  - first:
+      213: 5807023966336849907
+    second: MeleeSpin_Shadowless_67
+  - first:
+      213: -2334498263300103311
+    second: MeleeSpin_Shadowless_68
+  - first:
+      213: -446233093382292722
+    second: MeleeSpin_Shadowless_69
+  - first:
+      213: 6802093352421348004
+    second: MeleeSpin_Shadowless_70
+  - first:
+      213: 5462009366406035887
+    second: MeleeSpin_Shadowless_71
+  - first:
+      213: 8062239865320198924
+    second: MeleeSpin_Shadowless_72
+  - first:
+      213: -8693915398845722771
+    second: MeleeSpin_Shadowless_73
+  - first:
+      213: 4246727832791582372
+    second: MeleeSpin_Shadowless_74
+  - first:
+      213: 2108958249317986424
+    second: MeleeSpin_Shadowless_75
+  - first:
+      213: 592754907033598533
+    second: MeleeSpin_Shadowless_76
+  - first:
+      213: 8206355821496877014
+    second: MeleeSpin_Shadowless_77
+  - first:
+      213: -4092043914508126125
+    second: MeleeSpin_Shadowless_78
+  - first:
+      213: 4911345517059669117
+    second: MeleeSpin_Shadowless_79
+  - first:
+      213: 8505833478825522825
+    second: MeleeSpin_Shadowless_80
+  - first:
+      213: 7927498321789576310
+    second: MeleeSpin_Shadowless_81
+  - first:
+      213: -2538995111785849717
+    second: MeleeSpin_Shadowless_82
+  - first:
+      213: -3219373937587569969
+    second: MeleeSpin_Shadowless_83
+  - first:
+      213: -7836067786814858389
+    second: MeleeSpin_Shadowless_84
+  - first:
+      213: -6421587603672677206
+    second: MeleeSpin_Shadowless_85
+  - first:
+      213: 7531495200746625588
+    second: MeleeSpin_Shadowless_86
+  - first:
+      213: -5237416853510751565
+    second: MeleeSpin_Shadowless_87
+  - first:
+      213: 8739794246733766261
+    second: MeleeSpin_Shadowless_88
+  - first:
+      213: 8178097202253037686
+    second: MeleeSpin_Shadowless_89
+  - first:
+      213: -7138701758761553219
+    second: MeleeSpin_Shadowless_90
+  - first:
+      213: -7664002083050347109
+    second: MeleeSpin_Shadowless_91
+  - first:
+      213: 2245083895016948162
+    second: MeleeSpin_Shadowless_92
+  - first:
+      213: -1473483123313969957
+    second: MeleeSpin_Shadowless_93
+  - first:
+      213: -6304588876953459424
+    second: MeleeSpin_Shadowless_94
+  - first:
+      213: 7654584047677375749
+    second: MeleeSpin_Shadowless_95
+  - first:
+      213: 4517885482473443771
+    second: MeleeSpin_Shadowless_96
+  - first:
+      213: -2310616244563327264
+    second: MeleeSpin_Shadowless_97
+  - first:
+      213: -6882901753124658673
+    second: MeleeSpin_Shadowless_98
+  - first:
+      213: -7214213838470903721
+    second: MeleeSpin_Shadowless_99
+  - first:
+      213: 547100392236044865
+    second: MeleeSpin_Shadowless_100
+  - first:
+      213: 1126542720093426303
+    second: MeleeSpin_Shadowless_101
+  - first:
+      213: 9051241408075520525
+    second: MeleeSpin_Shadowless_102
+  - first:
+      213: 3516566867932177607
+    second: MeleeSpin_Shadowless_103
+  - first:
+      213: 4379136594845906236
+    second: MeleeSpin_Shadowless_104
+  - first:
+      213: 5224968757647441937
+    second: MeleeSpin_Shadowless_105
+  - first:
+      213: 505402124585309610
+    second: MeleeSpin_Shadowless_106
+  - first:
+      213: -6803105672645218964
+    second: MeleeSpin_Shadowless_107
+  - first:
+      213: 8431007116877518817
+    second: MeleeSpin_Shadowless_108
+  - first:
+      213: -4574101346284213281
+    second: MeleeSpin_Shadowless_109
+  - first:
+      213: 2094268563407807877
+    second: MeleeSpin_Shadowless_110
+  - first:
+      213: 3197589522320160373
+    second: MeleeSpin_Shadowless_111
+  - first:
+      213: -1285233330539398202
+    second: MeleeSpin_Shadowless_112
+  - first:
+      213: -5283160350354166156
+    second: MeleeSpin_Shadowless_113
+  - first:
+      213: 6760988115355690425
+    second: MeleeSpin_Shadowless_114
+  - first:
+      213: 5688484779809924018
+    second: MeleeSpin_Shadowless_115
+  - first:
+      213: 3357291864941778600
+    second: MeleeSpin_Shadowless_116
+  - first:
+      213: -5587172468312180364
+    second: MeleeSpin_Shadowless_117
+  - first:
+      213: -8132854177484113468
+    second: MeleeSpin_Shadowless_118
+  - first:
+      213: 3248946429963315526
+    second: MeleeSpin_Shadowless_119
+  - first:
+      213: 7399815602422860224
+    second: MeleeSpin_Shadowless_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 469
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0232637fd6f7aa8b0800000000000000
+      internalID: -5140155914414316768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 469
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3008a5de5d9b26c0800000000000000
+      internalID: -4167063999564218306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 470
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b7981ff76ee790800000000000000
+      internalID: -7498941984198380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 470
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f858320b767a6cb50800000000000000
+      internalID: 6613157166618740111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63535433c204aa70800000000000000
+      internalID: 8837191406227510123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 472
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38402c35eef3c80800000000000000
+      internalID: -8340685941362097217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 473
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f320102cc2fe90800000000000000
+      internalID: -6993302833271148285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 465
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c8a7046a3340e0800000000000000
+      internalID: -2286919984474437810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 465
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f415b9aca400eefe0800000000000000
+      internalID: -1157987732960882353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 469
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e91a5b04ec480dd0800000000000000
+      internalID: -2519679449187083805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 469
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d2550631d269510800000000000000
+      internalID: 1555480282546908441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 469
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a77ee72c9c2b90800000000000000
+      internalID: -7265260403536977582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 469
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44129bd759215c0800000000000000
+      internalID: -4246167131447540489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 469
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b153800057f6b0800000000000000
+      internalID: -5262649676425742512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 469
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6063abdf696dac250800000000000000
+      internalID: 5965816600395920902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 405
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25840c8b8f5b9b150800000000000000
+      internalID: 5888938067619760210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 405
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ecaf18aabc9930800000000000000
+      internalID: 4151398187777450546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 405
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c9e8198787ac10800000000000000
+      internalID: 2064767977070905701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 404
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972be6a08205ab3c0800000000000000
+      internalID: -4343070757741481351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 402
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f524147c810c60800000000000000
+      internalID: 7782656061255054975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 408
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ba3a0c00f7acc0800000000000000
+      internalID: -3699724634359679683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 408
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f7535dfb2c65d0800000000000000
+      internalID: -3068028879121155753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 402
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d7eec614cba5e0800000000000000
+      internalID: -1897207215766908425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 401
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff50bf4a61a3f670800000000000000
+      internalID: 8571371993791750134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 397
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83499cd995f830b10800000000000000
+      internalID: 1946557079016281144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 397
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0c7f8d0df58630800000000000000
+      internalID: 3928824484634299687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 399
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad2011c7adaa3f0800000000000000
+      internalID: -888657750056051974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 403
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62668bfefbd769690800000000000000
+      internalID: -7595745458199697882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_28
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 406
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5678da7b19ffde540800000000000000
+      internalID: 5038964559414396773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 405
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d892170e08c910800000000000000
+      internalID: 1857750269829895541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1d205c4e229540800000000000000
+      internalID: 5013120240514310042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 339
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6594dcba2525c50800000000000000
+      internalID: 6652470497416664761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d092fd5c203600080800000000000000
+      internalID: -9223263173293954803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 339
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04ea18d73092ad50800000000000000
+      internalID: 6747113761277666314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 338
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c34e4a4b4540ff0800000000000000
+      internalID: -70838559293817734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 343
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296709b75e19dc170800000000000000
+      internalID: 8200370911318144658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 341
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef682ccadd9fb4420800000000000000
+      internalID: 2615458739100223230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 342
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43d6bc682ca0ebf0800000000000000
+      internalID: -297048285783862449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 341
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93b72a500cfc6490800000000000000
+      internalID: -7751543780168715365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 330
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d68d75f6b75efd0800000000000000
+      internalID: -2313307115439493734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_40
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 330
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416a3ef075da6cd60800000000000000
+      internalID: 7910200384963192340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 329
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7541e2245aabd8f0800000000000000
+      internalID: -514630454064626305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 335
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3510269c75d520dd0800000000000000
+      internalID: -2521350209751875245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_43
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315a58938737cc90800000000000000
+      internalID: -7149684845091073731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 339
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c535a65c863520800000000000000
+      internalID: 2681484931912550224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 275
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfa884f27684bd0800000000000000
+      internalID: -2645751328301974406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 275
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d09365123cfef010800000000000000
+      internalID: 1224693440728764629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 276
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c66c9fb36b74be0800000000000000
+      internalID: -1493024382740173759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 277
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fdeefc0d2acaed0800000000000000
+      internalID: -2401365483569881332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32977d229f3540a0800000000000000
+      internalID: -6898037357187460547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 279
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470179f95beb68b30800000000000000
+      internalID: 4289325382392811636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 277
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6755a49d51f1390800000000000000
+      internalID: -7845528002856913158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_52
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 279
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93fa7803011763a0800000000000000
+      internalID: -6672345618201250916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 293
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeaeb2c7f15aedc0800000000000000
+      internalID: -3608982026817982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_54
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 273
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696ec5b74e00bef0800000000000000
+      internalID: -94559891019110039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_55
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 273
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b670f3ead981b2850800000000000000
+      internalID: 6353198764848514923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_56
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 275
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7101ced06f8f50800000000000000
+      internalID: 6885828865109884554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_57
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 275
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c691fdb844d992b0800000000000000
+      internalID: -5577193254632188222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_58
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 269
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90efb8bb8dfd77940800000000000000
+      internalID: 5293946008949751305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_59
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 269
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250f4a24288ca87c0800000000000000
+      internalID: -4068218851586412462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_60
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 269
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347068705c0331050800000000000000
+      internalID: 5770009170384652099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa385c2805ecdc0800000000000000
+      internalID: -3616864928142217353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be862bb12577ce9f0800000000000000
+      internalID: -437843869226080021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 215
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c27fde8556ff30800000000000000
+      internalID: 4608965340782840024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 216
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafccb5d23af69c90800000000000000
+      internalID: -7163263061044965462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 215
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822b10f616f1e2130800000000000000
+      internalID: 3543804460121829928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 216
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733fc59fb8d9b2890800000000000000
+      internalID: -7481713131436313801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 215
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f710bbc781b69050800000000000000
+      internalID: 5807023966336849907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_68
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 211
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1732b3fb2323a9fd0800000000000000
+      internalID: -2334498263300103311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_69
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 209
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbce5ad59aec9f0800000000000000
+      internalID: -446233093382292722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_70
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 209
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2de107dd3e56e50800000000000000
+      internalID: 6802093352421348004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_71
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 209
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9fc7c6494fccb40800000000000000
+      internalID: 5462009366406035887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_72
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 209
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0357622174d2ef60800000000000000
+      internalID: 8062239865320198924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_73
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8080d102095780800000000000000
+      internalID: -8693915398845722771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_74
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 213
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68e4bb6786fea30800000000000000
+      internalID: 4246727832791582372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_75
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 214
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707ab0aa56844d10800000000000000
+      internalID: 2108958249317986424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 150
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7b988273e93800800000000000000
+      internalID: 592754907033598533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 151
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfb7c8f325d2e170800000000000000
+      internalID: 8206355821496877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b1768db32637c0800000000000000
+      internalID: -4092043914508126125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 152
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7c81f9ba982440800000000000000
+      internalID: 4911345517059669117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863500bb7aca0670800000000000000
+      internalID: 8505833478825522825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e5c3d8b1240e60800000000000000
+      internalID: 7927498321789576310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c1d83e56da3ccd0800000000000000
+      internalID: -2538995111785849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_83
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 148
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca31f2f57c7253d0800000000000000
+      internalID: -3219373937587569969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_84
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 148
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd40b7dd1b04390800000000000000
+      internalID: -7836067786814858389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_85
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 148
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c905f810f1e6a0800000000000000
+      internalID: -6421587603672677206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_86
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 148
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43adf044bfe358860800000000000000
+      internalID: 7531495200746625588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_87
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 148
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baf8d9ee15f057b0800000000000000
+      internalID: -5237416853510751565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_88
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 149
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e919edf8cf94970800000000000000
+      internalID: 8739794246733766261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_89
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 150
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67088e673107e7170800000000000000
+      internalID: 8178097202253037686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_90
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 150
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2bf87a29c3eec90800000000000000
+      internalID: -7138701758761553219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b952ee906bef3a590800000000000000
+      internalID: -7664002083050347109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c18f6558e3282f10800000000000000
+      internalID: 2245083895016948162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 87
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4765cf7e22d8be0800000000000000
+      internalID: -1473483123313969957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_94
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256f4ec1d99188a0800000000000000
+      internalID: -6304588876953459424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5058e29b2ab8a3a60800000000000000
+      internalID: 7654584047677375749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_96
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 91
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb159b6d8e0c2be30800000000000000
+      internalID: 4517885482473443771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_97
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 89
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64e8a84ca0fefd0800000000000000
+      internalID: -2310616244563327264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 82
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02671d92550b70a0800000000000000
+      internalID: -6882901753124658673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 87
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7580c388cb6f1eb90800000000000000
+      internalID: -7214213838470903721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_100
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 87
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d4b778e0b79700800000000000000
+      internalID: 547100392236044865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_101
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 86
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72987f92a842af00800000000000000
+      internalID: 1126542720093426303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_102
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 86
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ad5a8ea187c9d70800000000000000
+      internalID: 9051241408075520525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_103
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 86
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c461005fea5dc030800000000000000
+      internalID: 3516566867932177607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_104
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 84
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3534b60881d5cc30800000000000000
+      internalID: 4379136594845906236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_105
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 84
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110071ae661d28840800000000000000
+      internalID: 5224968757647441937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_106
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa592a8fd8c830700800000000000000
+      internalID: 505402124585309610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d69846f638691a0800000000000000
+      internalID: -6803105672645218964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_108
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 22
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7564cad44f00570800000000000000
+      internalID: 8431007116877518817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe7186f078580c0800000000000000
+      internalID: -4574101346284213281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 26
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585a03a9926501d10800000000000000
+      internalID: 2094268563407807877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_111
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 26
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576776f9abe106c20800000000000000
+      internalID: 3197589522320160373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_112
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 28
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf4b7681fe92ee0800000000000000
+      internalID: -1285233330539398202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_113
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e26b917a17ea6b0800000000000000
+      internalID: -5283160350354166156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_114
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 22
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e962aedad3dd50800000000000000
+      internalID: 6760988115355690425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_115
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 22
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b369c2b4ce81fe40800000000000000
+      internalID: 5688484779809924018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 21
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6d929d92f779e20800000000000000
+      internalID: 3357291864941778600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479f86ffd306672b0800000000000000
+      internalID: -5587172468312180364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_118
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 21
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f10d173c422f80800000000000000
+      internalID: -8132854177484113468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 19
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ac3c7093961d20800000000000000
+      internalID: 3248946429963315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSpin_Shadowless_120
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 19
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9cec1a51d61b660800000000000000
+      internalID: 7399815602422860224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeleeSpin_Shadowless_0: -5140155914414316768
+      MeleeSpin_Shadowless_1: -4167063999564218306
+      MeleeSpin_Shadowless_10: 1555480282546908441
+      MeleeSpin_Shadowless_100: 547100392236044865
+      MeleeSpin_Shadowless_101: 1126542720093426303
+      MeleeSpin_Shadowless_102: 9051241408075520525
+      MeleeSpin_Shadowless_103: 3516566867932177607
+      MeleeSpin_Shadowless_104: 4379136594845906236
+      MeleeSpin_Shadowless_105: 5224968757647441937
+      MeleeSpin_Shadowless_106: 505402124585309610
+      MeleeSpin_Shadowless_107: -6803105672645218964
+      MeleeSpin_Shadowless_108: 8431007116877518817
+      MeleeSpin_Shadowless_109: -4574101346284213281
+      MeleeSpin_Shadowless_11: -7265260403536977582
+      MeleeSpin_Shadowless_110: 2094268563407807877
+      MeleeSpin_Shadowless_111: 3197589522320160373
+      MeleeSpin_Shadowless_112: -1285233330539398202
+      MeleeSpin_Shadowless_113: -5283160350354166156
+      MeleeSpin_Shadowless_114: 6760988115355690425
+      MeleeSpin_Shadowless_115: 5688484779809924018
+      MeleeSpin_Shadowless_116: 3357291864941778600
+      MeleeSpin_Shadowless_117: -5587172468312180364
+      MeleeSpin_Shadowless_118: -8132854177484113468
+      MeleeSpin_Shadowless_119: 3248946429963315526
+      MeleeSpin_Shadowless_12: -4246167131447540489
+      MeleeSpin_Shadowless_120: 7399815602422860224
+      MeleeSpin_Shadowless_13: -5262649676425742512
+      MeleeSpin_Shadowless_14: 5965816600395920902
+      MeleeSpin_Shadowless_15: 5888938067619760210
+      MeleeSpin_Shadowless_16: 4151398187777450546
+      MeleeSpin_Shadowless_17: 2064767977070905701
+      MeleeSpin_Shadowless_18: -4343070757741481351
+      MeleeSpin_Shadowless_19: 7782656061255054975
+      MeleeSpin_Shadowless_2: -7498941984198380483
+      MeleeSpin_Shadowless_20: -3699724634359679683
+      MeleeSpin_Shadowless_21: -3068028879121155753
+      MeleeSpin_Shadowless_22: -1897207215766908425
+      MeleeSpin_Shadowless_23: 8571371993791750134
+      MeleeSpin_Shadowless_24: 1946557079016281144
+      MeleeSpin_Shadowless_25: 3928824484634299687
+      MeleeSpin_Shadowless_26: -888657750056051974
+      MeleeSpin_Shadowless_27: -7595745458199697882
+      MeleeSpin_Shadowless_28: 5038964559414396773
+      MeleeSpin_Shadowless_29: 1857750269829895541
+      MeleeSpin_Shadowless_3: 6613157166618740111
+      MeleeSpin_Shadowless_30: 5013120240514310042
+      MeleeSpin_Shadowless_31: 6652470497416664761
+      MeleeSpin_Shadowless_32: -9223263173293954803
+      MeleeSpin_Shadowless_33: 6747113761277666314
+      MeleeSpin_Shadowless_34: -70838559293817734
+      MeleeSpin_Shadowless_35: 8200370911318144658
+      MeleeSpin_Shadowless_36: 2615458739100223230
+      MeleeSpin_Shadowless_37: -297048285783862449
+      MeleeSpin_Shadowless_38: -7751543780168715365
+      MeleeSpin_Shadowless_39: -2313307115439493734
+      MeleeSpin_Shadowless_4: 8837191406227510123
+      MeleeSpin_Shadowless_40: 7910200384963192340
+      MeleeSpin_Shadowless_41: -514630454064626305
+      MeleeSpin_Shadowless_42: -2521350209751875245
+      MeleeSpin_Shadowless_43: -7149684845091073731
+      MeleeSpin_Shadowless_44: 2681484931912550224
+      MeleeSpin_Shadowless_45: -2645751328301974406
+      MeleeSpin_Shadowless_46: 1224693440728764629
+      MeleeSpin_Shadowless_47: -1493024382740173759
+      MeleeSpin_Shadowless_48: -2401365483569881332
+      MeleeSpin_Shadowless_49: -6898037357187460547
+      MeleeSpin_Shadowless_5: -8340685941362097217
+      MeleeSpin_Shadowless_50: 4289325382392811636
+      MeleeSpin_Shadowless_51: -7845528002856913158
+      MeleeSpin_Shadowless_52: -6672345618201250916
+      MeleeSpin_Shadowless_53: -3608982026817982815
+      MeleeSpin_Shadowless_54: -94559891019110039
+      MeleeSpin_Shadowless_55: 6353198764848514923
+      MeleeSpin_Shadowless_56: 6885828865109884554
+      MeleeSpin_Shadowless_57: -5577193254632188222
+      MeleeSpin_Shadowless_58: 5293946008949751305
+      MeleeSpin_Shadowless_59: -4068218851586412462
+      MeleeSpin_Shadowless_6: -6993302833271148285
+      MeleeSpin_Shadowless_60: 5770009170384652099
+      MeleeSpin_Shadowless_61: -3616864928142217353
+      MeleeSpin_Shadowless_62: -437843869226080021
+      MeleeSpin_Shadowless_63: 4608965340782840024
+      MeleeSpin_Shadowless_64: -7163263061044965462
+      MeleeSpin_Shadowless_65: 3543804460121829928
+      MeleeSpin_Shadowless_66: -7481713131436313801
+      MeleeSpin_Shadowless_67: 5807023966336849907
+      MeleeSpin_Shadowless_68: -2334498263300103311
+      MeleeSpin_Shadowless_69: -446233093382292722
+      MeleeSpin_Shadowless_7: -2286919984474437810
+      MeleeSpin_Shadowless_70: 6802093352421348004
+      MeleeSpin_Shadowless_71: 5462009366406035887
+      MeleeSpin_Shadowless_72: 8062239865320198924
+      MeleeSpin_Shadowless_73: -8693915398845722771
+      MeleeSpin_Shadowless_74: 4246727832791582372
+      MeleeSpin_Shadowless_75: 2108958249317986424
+      MeleeSpin_Shadowless_76: 592754907033598533
+      MeleeSpin_Shadowless_77: 8206355821496877014
+      MeleeSpin_Shadowless_78: -4092043914508126125
+      MeleeSpin_Shadowless_79: 4911345517059669117
+      MeleeSpin_Shadowless_8: -1157987732960882353
+      MeleeSpin_Shadowless_80: 8505833478825522825
+      MeleeSpin_Shadowless_81: 7927498321789576310
+      MeleeSpin_Shadowless_82: -2538995111785849717
+      MeleeSpin_Shadowless_83: -3219373937587569969
+      MeleeSpin_Shadowless_84: -7836067786814858389
+      MeleeSpin_Shadowless_85: -6421587603672677206
+      MeleeSpin_Shadowless_86: 7531495200746625588
+      MeleeSpin_Shadowless_87: -5237416853510751565
+      MeleeSpin_Shadowless_88: 8739794246733766261
+      MeleeSpin_Shadowless_89: 8178097202253037686
+      MeleeSpin_Shadowless_9: -2519679449187083805
+      MeleeSpin_Shadowless_90: -7138701758761553219
+      MeleeSpin_Shadowless_91: -7664002083050347109
+      MeleeSpin_Shadowless_92: 2245083895016948162
+      MeleeSpin_Shadowless_93: -1473483123313969957
+      MeleeSpin_Shadowless_94: -6304588876953459424
+      MeleeSpin_Shadowless_95: 7654584047677375749
+      MeleeSpin_Shadowless_96: 4517885482473443771
+      MeleeSpin_Shadowless_97: -2310616244563327264
+      MeleeSpin_Shadowless_98: -6882901753124658673
+      MeleeSpin_Shadowless_99: -7214213838470903721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
